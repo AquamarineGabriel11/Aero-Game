@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Aqua Invaders</title>
+  <meta name="description" content="Minijuego arcade ASMR con estética Frutiger Aero / Y2K onírica.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- ===== Mundo onírico de fondo ===== -->
+  <div class="world" aria-hidden="true">
+    <div class="sun"></div>
+    <div class="clouds">
+      <div class="cloud c1"></div>
+      <div class="cloud c2"></div>
+      <div class="cloud c3"></div>
+      <div class="cloud c4"></div>
+      <div class="cloud c5"></div>
+    </div>
+    <div class="glass-orb o1"></div>
+    <div class="glass-orb o2"></div>
+    <div class="glass-orb o3"></div>
+    <div class="hill hill-back"></div>
+    <div class="hill hill-front"></div>
+    <div class="water"></div>
+    <div class="floaters" id="floaters"></div>
+  </div>
+
+  <!-- ===== Celular de concha translúcido ===== -->
+  <main class="stage">
+    <div class="phone" id="phone">
+      <!-- Mitad superior: pantalla -->
+      <section class="phone-top">
+        <div class="speaker"></div>
+        <div class="screen-bezel">
+          <div class="screen">
+            <div class="status-bar">
+              <span class="signal"><i></i><i></i><i></i><i></i></span>
+              <span class="status-title">AQUA INVADERS</span>
+              <span class="battery"><i></i></span>
+            </div>
+            <canvas id="game" width="240" height="300"></canvas>
+            <div class="hud">
+              <span>PTS <b id="score">0</b></span>
+              <span>OLA <b id="wave">1</b></span>
+              <span id="lives">💧💧💧</span>
+            </div>
+            <div class="overlay" id="overlay">
+              <h1>Aqua<br>Invaders</h1>
+              <p id="overlayText">Revienta las burbujas que descienden<br>del cielo de cristal.</p>
+              <button class="aqua-btn" id="startBtn">▶ Jugar</button>
+              <p class="hint">← → mover · Espacio disparar · P pausa</p>
+            </div>
+            <div class="screen-gloss"></div>
+          </div>
+        </div>
+        <div class="phone-logo">aero<span>mobile</span></div>
+      </section>
+
+      <!-- Bisagra -->
+      <div class="hinge"><span></span></div>
+
+      <!-- Mitad inferior: teclado -->
+      <section class="phone-bottom">
+        <div class="bubbles-inside" aria-hidden="true">
+          <i></i><i></i><i></i><i></i><i></i><i></i>
+        </div>
+        <div class="soft-keys">
+          <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">🔊</button>
+          <button class="key soft" id="pauseBtn" aria-label="Pausa">❚❚</button>
+        </div>
+        <div class="dpad">
+          <button class="key dir left" data-dir="-1" aria-label="Izquierda">◀</button>
+          <button class="key fire" id="fireBtn" aria-label="Disparar">●</button>
+          <button class="key dir right" data-dir="1" aria-label="Derecha">▶</button>
+        </div>
+        <div class="numpad" aria-hidden="true">
+          <span>1</span><span>2</span><span>3</span>
+          <span>4</span><span>5</span><span>6</span>
+          <span>7</span><span>8</span><span>9</span>
+          <span>✱</span><span>0</span><span>#</span>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>
