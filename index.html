@@ -4,184 +4,112 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>AeroGame</title>
-  <meta name="description" content="AeroGame: arcade ASMR con estética Y2K cyber-futurista / Frutiger Aero.">
+  <meta name="description" content="AeroGame: un departamento Y2K / Frutiger Aero en 3D con un smartphone lleno de minijuegos ASMR.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,600;0,800;1,700;1,800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,600;0,800;1,600;1,800&display=swap">
   <link rel="stylesheet" href="styles.css">
+  <script type="importmap">
+    { "imports": { "three": "./vendor/three/three.module.js", "three/addons/": "./vendor/three/addons/" } }
+  </script>
 </head>
 <body>
-  <!-- ===== Mundo onírico (renderizado en canvas) ===== -->
-  <div class="world" aria-hidden="true">
-    <canvas id="sky"></canvas>
-    <div class="glass-orb o1"><i></i></div>
-    <div class="glass-orb o2"><i></i></div>
-    <div class="glass-orb o3"><i></i></div>
-    <div class="floaters" id="floaters"></div>
+  <!-- Filtro SVG de refracción para el cristal líquido (Chrome / Edge) -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <filter id="liquid" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.008 0.012" numOctaves="2" seed="7" result="noise"/>
+      <feGaussianBlur in="noise" stdDeviation="2" result="soft"/>
+      <feDisplacementMap in="SourceGraphic" in2="soft" scale="38" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </svg>
+
+  <!-- Departamento 3D -->
+  <div class="room" id="room"></div>
+
+  <!-- Pista flotante al pasar sobre objetos -->
+  <div class="hover-tip lg" id="hoverTip" hidden></div>
+  <div class="room-hint lg" id="roomHint" hidden>
+    <span><b>Arrastra</b> para mirar alrededor</span>
+    <span><b>Toca tu teléfono</b> en el escritorio para jugar</span>
   </div>
 
-  <!-- ===== Pantalla de entrada ===== -->
-  <div class="intro" id="intro" role="dialog" aria-label="AeroGame">
-    <div class="intro-card">
+  <!-- Carga y entrada -->
+  <div class="intro" id="intro">
+    <div class="intro-card lg">
       <div class="brand brand-xl"><span class="b-aero">AERO</span><span class="b-game">GAME</span></div>
       <p class="intro-tag">Y2K · Frutiger Aero · ASMR</p>
-      <button class="aqua-btn intro-btn" id="enterBtn">Entrar</button>
+      <div class="loader" id="loader"><i></i><span id="loadText">Construyendo tu departamento…</span></div>
+      <button class="lg-btn primary intro-btn" id="enterBtn" hidden>Entrar</button>
       <p class="intro-hint">Mejor con auriculares</p>
     </div>
   </div>
 
-  <!-- ===== Celular de concha translúcido ===== -->
-  <main class="stage">
-    <div class="phone" id="phone">
-      <div class="phone-shadow" id="phoneShadow"></div>
-      <div class="phone-tilt" id="phoneTilt">
-
-        <!-- Tapa (mitad superior) -->
-        <div class="lid">
-          <div class="antenna"><span></span></div>
-          <section class="phone-top">
-            <i class="rim"></i>
-            <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-              <g fill="none" stroke="currentColor" stroke-width="1.4">
-                <path d="M150 400 V360 H130 V330"/><path d="M160 400 V365 H180 V330"/>
-                <path d="M140 400 V372 H100 V340"/><path d="M170 400 V372 H205 V340"/>
-                <path d="M262 30 l8 6 l-8 6 l8 6 l-8 6 l8 6 l-8 6 l8 6"/>
-                <circle cx="150" cy="16" r="9"/><circle cx="150" cy="16" r="4"/>
-              </g>
-              <g fill="currentColor"><rect x="118" y="370" width="64" height="18" rx="2" opacity=".5"/></g>
-            </svg>
-            <div class="speaker"></div>
-            <div class="screen-bezel">
-              <div class="screen">
-                <div class="status-bar">
-                  <span class="signal"><i></i><i></i><i></i><i></i></span>
-                  <span class="clock" id="clock">12:00</span>
-                  <span class="battery"><i></i></span>
-                </div>
-                <canvas id="game" width="240" height="300"></canvas>
-                <div class="hud">
-                  <span><small>PTS</small> <b id="score">0</b></span>
-                  <span><small>OLA</small> <b id="wave">1</b></span>
-                  <span class="lives" id="lives" aria-label="Vidas"><i></i><i></i><i></i></span>
-                </div>
-
-                <div class="panels" id="panels">
-                  <section class="panel" id="p-menu">
-                    <div class="brand"><span class="b-aero">AERO</span><span class="b-game">GAME</span></div>
-                    <p class="kicker">Juego 01 · Aqua Invaders</p>
-                    <nav class="opts">
-                      <button class="opt" data-action="play"><span>Jugar</span><em id="bestLabel">Récord 0</em></button>
-                      <button class="opt" data-action="scores"><span>Récords</span></button>
-                      <button class="opt" data-action="settings"><span>Ajustes</span></button>
-                    </nav>
-                    <p class="hint">◀ ▶ elegir · ● aceptar</p>
-                  </section>
-
-                  <section class="panel" id="p-scores" data-back="menu">
-                    <h2>Récords</h2>
-                    <ol class="scores" id="scoreList"></ol>
-                    <nav class="opts"><button class="opt" data-action="menu"><span>Volver</span></button></nav>
-                  </section>
-
-                  <section class="panel" id="p-settings" data-back="menu">
-                    <h2>Ajustes</h2>
-                    <nav class="opts">
-                      <button class="opt" data-action="toggle-sound"><span>Sonido</span><em id="setSound">Sí</em></button>
-                      <button class="opt" data-action="toggle-vibe"><span>Vibración</span><em id="setVibe">Sí</em></button>
-                      <button class="opt" data-action="toggle-quality"><span>Gráficos</span><em id="setQuality">Alta</em></button>
-                      <button class="opt" data-action="menu"><span>Volver</span></button>
-                    </nav>
-                  </section>
-
-                  <section class="panel" id="p-pause" data-back="resume">
-                    <h2>Pausa</h2>
-                    <p class="sub">Respira hondo. Las burbujas esperan.</p>
-                    <nav class="opts">
-                      <button class="opt" data-action="resume"><span>Continuar</span></button>
-                      <button class="opt" data-action="menu"><span>Salir al menú</span></button>
-                    </nav>
-                  </section>
-
-                  <section class="panel" id="p-over" data-back="menu">
-                    <h2>Fin del sueño</h2>
-                    <p class="badge" id="newRecord" hidden>Nuevo récord</p>
-                    <div class="result">
-                      <div><small>Puntos</small><b id="finalScore">0</b></div>
-                      <div><small>Ola</small><b id="finalWave">1</b></div>
-                    </div>
-                    <nav class="opts">
-                      <button class="opt" data-action="play"><span>Otra vez</span></button>
-                      <button class="opt" data-action="menu"><span>Menú</span></button>
-                    </nav>
-                  </section>
-                </div>
-
-                <div class="sweep" id="sweep"></div>
-                <div class="lcd"></div>
-                <div class="screen-gloss"></div>
-              </div>
-            </div>
-            <div class="phone-logo">aero<span>mobile</span></div>
-          </section>
+  <!-- AeroOS: el smartphone -->
+  <div class="phone-ui" id="phoneUI" hidden>
+    <button class="lg-btn put-down" id="putDown">← Dejar el teléfono</button>
+    <div class="device" id="device">
+      <div class="device-rim"></div>
+      <div class="screen" id="screen">
+        <canvas class="wallpaper" id="wallpaper"></canvas>
+        <div class="status">
+          <span id="osClock">12:00</span>
+          <span class="island"></span>
+          <span class="sys"><i class="sig"></i><i class="bat"></i></span>
         </div>
 
-        <!-- Bisagra -->
-        <div class="hinge"><span></span></div>
-
-        <!-- Mitad inferior: teclado -->
-        <section class="phone-bottom">
-          <i class="rim"></i>
-          <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-            <g fill="none" stroke="currentColor" stroke-width="1.3">
-              <path d="M150 0 V40 H60 V120"/><path d="M160 0 V48 H240 V110"/>
-              <path d="M30 60 H90 V160 H40"/><path d="M270 70 H210 V170 H260"/>
-              <path d="M150 140 V180"/><path d="M60 300 H120 V360"/><path d="M240 300 H180 V360"/>
-              <rect x="62" y="190" width="176" height="96" rx="10" stroke-dasharray="4 3"/>
-            </g>
-            <g fill="currentColor">
-              <rect x="120" y="96" width="60" height="40" rx="3" opacity=".55"/>
-              <rect x="38" y="128" width="22" height="22" rx="2" opacity=".45"/>
-              <rect x="240" y="122" width="24" height="16" rx="2" opacity=".45"/>
-              <circle cx="60" cy="120" r="3"/><circle cx="240" cy="110" r="3"/><circle cx="150" cy="180" r="3"/>
-              <circle cx="120" cy="360" r="3"/><circle cx="180" cy="360" r="3"/>
-              <text x="150" y="234" text-anchor="middle" font-size="11" font-family="Trebuchet MS, sans-serif" letter-spacing="1">Li-ion 3.7V</text>
-              <text x="150" y="252" text-anchor="middle" font-size="9" font-family="Trebuchet MS, sans-serif">850 mAh · AERO-BL5</text>
-            </g>
-          </svg>
-          <div class="bubbles-inside" aria-hidden="true">
-            <i></i><i></i><i></i><i></i><i></i><i></i>
+        <section class="view home active" id="home">
+          <div class="widget lg">
+            <p class="w-greet" id="wGreet">Hola</p>
+            <p class="w-time" id="wTime">12:00</p>
+            <p class="w-date" id="wDate"></p>
           </div>
-          <div class="soft-keys">
-            <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">♪</button>
-            <button class="key soft" id="pauseBtn" aria-label="Pausa o volver">❚❚</button>
+          <p class="section-label">Minijuegos</p>
+          <div class="apps">
+            <button class="app" data-app="aqua"><span class="icon"><canvas width="160" height="160"></canvas></span><span class="label">Aqua Invaders</span></button>
+            <button class="app" data-app="glide"><span class="icon"><canvas width="160" height="160"></canvas></span><span class="label">Aero Glide</span></button>
+            <button class="app" data-app="wrap"><span class="icon"><canvas width="160" height="160"></canvas></span><span class="label">Burbujas Zen</span></button>
           </div>
-          <div class="dpad-ring">
-            <div class="dpad">
-              <button class="key dir left" data-dir="-1" aria-label="Izquierda">◀</button>
-              <button class="key fire" id="fireBtn" aria-label="Disparar">●</button>
-              <button class="key dir right" data-dir="1" aria-label="Derecha">▶</button>
-            </div>
+          <div class="dock lg">
+            <button class="app" data-app="records"><span class="icon"><canvas width="160" height="160"></canvas></span><span class="label">Récords</span></button>
+            <button class="app" data-app="settings"><span class="icon"><canvas width="160" height="160"></canvas></span><span class="label">Ajustes</span></button>
           </div>
-          <div class="numpad">
-            <span data-k="1"><b>1</b><small>∞</small></span>
-            <span data-k="2"><b>2</b><small>ABC</small></span>
-            <span data-k="3"><b>3</b><small>DEF</small></span>
-            <span data-k="4"><b>4</b><small>GHI</small></span>
-            <span data-k="5"><b>5</b><small>JKL</small></span>
-            <span data-k="6"><b>6</b><small>MNO</small></span>
-            <span data-k="7"><b>7</b><small>PQRS</small></span>
-            <span data-k="8"><b>8</b><small>TUV</small></span>
-            <span data-k="9"><b>9</b><small>WXYZ</small></span>
-            <span data-k="*"><b>✱</b><small>&nbsp;</small></span>
-            <span data-k="0"><b>0</b><small>+</small></span>
-            <span data-k="#"><b>#</b><small>&nbsp;</small></span>
-          </div>
-          <div class="mic"></div>
         </section>
+
+        <section class="view game" id="gameView">
+          <canvas id="gameCanvas"></canvas>
+          <div class="hud idle" id="hudBar">
+            <div class="pill lg"><small>PTS</small><b id="hScore">0</b></div>
+            <div class="pill lg"><small id="hLabel">OLA</small><b id="hValue">1</b></div>
+            <div class="pill lg lives" id="hLives"><i></i><i></i><i></i></div>
+            <button class="pill lg round" id="pauseBtn" aria-label="Pausa">❚❚</button>
+          </div>
+          <div class="sheet lg" id="sheet" hidden></div>
+        </section>
+
+        <section class="view list" id="recordsView">
+          <header><button class="back lg" data-home aria-label="Volver">‹</button><h2>Récords</h2></header>
+          <div class="seg lg">
+            <button data-tab="aqua">Aqua</button><button data-tab="glide">Glide</button><button data-tab="wrap">Zen</button>
+          </div>
+          <ol class="rec-list" id="recList"></ol>
+        </section>
+
+        <section class="view list" id="settingsView">
+          <header><button class="back lg" data-home aria-label="Volver">‹</button><h2>Ajustes</h2></header>
+          <div class="group lg">
+            <label class="row"><span>Sonido</span><input type="checkbox" id="tSound" class="switch"></label>
+            <label class="row"><span>Vibración</span><input type="checkbox" id="tVibe" class="switch"></label>
+            <label class="row"><span>Gráficos altos<small>Reflejos, sombras y más resolución</small></span><input type="checkbox" id="tQuality" class="switch"></label>
+          </div>
+          <p class="note" id="qualityNote" hidden>Los gráficos se aplican al recargar. <button class="link" id="reloadBtn">Recargar ahora</button></p>
+          <p class="note">Récords y ajustes se guardan solo en este navegador.</p>
+        </section>
+
+        <button class="home-bar" id="homeBar" aria-label="Ir al inicio"></button>
       </div>
     </div>
-  </main>
+  </div>
 
-  <script src="main.js"></script>
+  <script type="module" src="src/main.js"></script>
 </body>
 </html>
