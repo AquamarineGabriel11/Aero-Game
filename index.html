@@ -3,8 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Aqua Invaders</title>
-  <meta name="description" content="Minijuego arcade ASMR con estética Frutiger Aero / Y2K onírica.">
+  <title>AeroGame</title>
+  <meta name="description" content="AeroGame: arcade ASMR con estética Y2K cyber-futurista / Frutiger Aero.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,600;0,800;1,700;1,800&display=swap">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -17,6 +20,16 @@
     <div class="floaters" id="floaters"></div>
   </div>
 
+  <!-- ===== Pantalla de entrada ===== -->
+  <div class="intro" id="intro" role="dialog" aria-label="AeroGame">
+    <div class="intro-card">
+      <div class="brand brand-xl"><span class="b-aero">AERO</span><span class="b-game">GAME</span></div>
+      <p class="intro-tag">Y2K · Frutiger Aero · ASMR</p>
+      <button class="aqua-btn intro-btn" id="enterBtn">Entrar</button>
+      <p class="intro-hint">Mejor con auriculares</p>
+    </div>
+  </div>
+
   <!-- ===== Celular de concha translúcido ===== -->
   <main class="stage">
     <div class="phone" id="phone">
@@ -27,6 +40,7 @@
         <div class="lid">
           <div class="antenna"><span></span></div>
           <section class="phone-top">
+            <i class="rim"></i>
             <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
               <g fill="none" stroke="currentColor" stroke-width="1.4">
                 <path d="M150 400 V360 H130 V330"/><path d="M160 400 V365 H180 V330"/>
@@ -46,16 +60,63 @@
                 </div>
                 <canvas id="game" width="240" height="300"></canvas>
                 <div class="hud">
-                  <span>PTS <b id="score">0</b></span>
-                  <span>OLA <b id="wave">1</b></span>
-                  <span id="lives">💧💧💧</span>
+                  <span><small>PTS</small> <b id="score">0</b></span>
+                  <span><small>OLA</small> <b id="wave">1</b></span>
+                  <span class="lives" id="lives" aria-label="Vidas"><i></i><i></i><i></i></span>
                 </div>
-                <div class="overlay" id="overlay">
-                  <h1>Aqua<br>Invaders</h1>
-                  <p id="overlayText">Revienta las burbujas que descienden<br>del cielo de cristal.</p>
-                  <button class="aqua-btn" id="startBtn">▶ Jugar</button>
-                  <p class="hint">← → mover · Espacio disparar · P pausa</p>
+
+                <div class="panels" id="panels">
+                  <section class="panel" id="p-menu">
+                    <div class="brand"><span class="b-aero">AERO</span><span class="b-game">GAME</span></div>
+                    <p class="kicker">Juego 01 · Aqua Invaders</p>
+                    <nav class="opts">
+                      <button class="opt" data-action="play"><span>Jugar</span><em id="bestLabel">Récord 0</em></button>
+                      <button class="opt" data-action="scores"><span>Récords</span></button>
+                      <button class="opt" data-action="settings"><span>Ajustes</span></button>
+                    </nav>
+                    <p class="hint">◀ ▶ elegir · ● aceptar</p>
+                  </section>
+
+                  <section class="panel" id="p-scores" data-back="menu">
+                    <h2>Récords</h2>
+                    <ol class="scores" id="scoreList"></ol>
+                    <nav class="opts"><button class="opt" data-action="menu"><span>Volver</span></button></nav>
+                  </section>
+
+                  <section class="panel" id="p-settings" data-back="menu">
+                    <h2>Ajustes</h2>
+                    <nav class="opts">
+                      <button class="opt" data-action="toggle-sound"><span>Sonido</span><em id="setSound">Sí</em></button>
+                      <button class="opt" data-action="toggle-vibe"><span>Vibración</span><em id="setVibe">Sí</em></button>
+                      <button class="opt" data-action="toggle-quality"><span>Gráficos</span><em id="setQuality">Alta</em></button>
+                      <button class="opt" data-action="menu"><span>Volver</span></button>
+                    </nav>
+                  </section>
+
+                  <section class="panel" id="p-pause" data-back="resume">
+                    <h2>Pausa</h2>
+                    <p class="sub">Respira hondo. Las burbujas esperan.</p>
+                    <nav class="opts">
+                      <button class="opt" data-action="resume"><span>Continuar</span></button>
+                      <button class="opt" data-action="menu"><span>Salir al menú</span></button>
+                    </nav>
+                  </section>
+
+                  <section class="panel" id="p-over" data-back="menu">
+                    <h2>Fin del sueño</h2>
+                    <p class="badge" id="newRecord" hidden>Nuevo récord</p>
+                    <div class="result">
+                      <div><small>Puntos</small><b id="finalScore">0</b></div>
+                      <div><small>Ola</small><b id="finalWave">1</b></div>
+                    </div>
+                    <nav class="opts">
+                      <button class="opt" data-action="play"><span>Otra vez</span></button>
+                      <button class="opt" data-action="menu"><span>Menú</span></button>
+                    </nav>
+                  </section>
                 </div>
+
+                <div class="sweep" id="sweep"></div>
                 <div class="lcd"></div>
                 <div class="screen-gloss"></div>
               </div>
@@ -69,6 +130,7 @@
 
         <!-- Mitad inferior: teclado -->
         <section class="phone-bottom">
+          <i class="rim"></i>
           <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
             <g fill="none" stroke="currentColor" stroke-width="1.3">
               <path d="M150 0 V40 H60 V120"/><path d="M160 0 V48 H240 V110"/>
@@ -90,8 +152,8 @@
             <i></i><i></i><i></i><i></i><i></i><i></i>
           </div>
           <div class="soft-keys">
-            <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">🔊</button>
-            <button class="key soft" id="pauseBtn" aria-label="Pausa">❚❚</button>
+            <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">♪</button>
+            <button class="key soft" id="pauseBtn" aria-label="Pausa o volver">❚❚</button>
           </div>
           <div class="dpad-ring">
             <div class="dpad">

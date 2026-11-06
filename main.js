@@ -13,7 +13,19 @@
   const mk = (w, h) => { const c = document.createElement("canvas"); c.width = w; c.height = h; return c; };
   const reduceMotion = !!(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches);
   const PENTA = [523.25, 587.33, 659.25, 783.99, 880.0, 1046.5, 1174.66, 1318.51, 1567.98, 1760.0];
-  const buzz = ms => { try { if (navigator.vibrate) navigator.vibrate(ms); } catch (e) { /* sin vibración */ } };
+  // ---------- Preferencias y récords (solo en este navegador) ----------
+  const store = {
+    get(key, fallback) {
+      try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch (e) { return fallback; }
+    },
+    set(key, value) {
+      try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) { /* almacenamiento no disponible */ }
+    },
+  };
+  const prefs = Object.assign({ sound: true, vibe: true, quality: "alta" }, store.get("aerogame.prefs", {}));
+  const savePrefs = () => store.set("aerogame.prefs", prefs);
+
+  const buzz = ms => { if (!prefs.vibe) return; try { if (navigator.vibrate) navigator.vibrate(ms); } catch (e) { /* sin vibración */ } };
 
   function roundRect(g, x, y, w, h, r) {
     g.beginPath();
@@ -266,7 +278,7 @@
     }
 
     function resize() {
-      dpr = Math.min(window.devicePixelRatio || 1, 1.5);
+      dpr = prefs.quality === "alta" ? Math.min(window.devicePixelRatio || 1, 1.5) : 0.75;
       w = window.innerWidth;
       h = window.innerHeight;
       canvas.width = Math.ceil(w * dpr);
@@ -290,7 +302,7 @@
       ctx.fillRect(0, ly, w, lh);
 
       // Reflejo del paisaje en franjas onduladas
-      const strips = Math.ceil(lh / 3);
+      const strips = Math.ceil(lh / (prefs.quality === "alta" ? 3 : 7));
       const sh = lh / strips;
       ctx.globalAlpha = 0.62;
       for (let k = 0; k < strips; k++) {
@@ -392,7 +404,7 @@
 
     window.addEventListener("resize", resize);
     resize();
-    return { draw, setPointer };
+    return { draw, setPointer, refresh: resize };
   })();
 
   // =========================================================
@@ -559,7 +571,7 @@
   const W = 240, H = 300;
 
   const Sound = {
-    ctx: null, master: null, send: null, enabled: true, white: null, brown: null, lastPlip: 0,
+    ctx: null, master: null, send: null, enabled: prefs.sound, white: null, brown: null, lastPlip: 0,
 
     init() {
       if (this.ctx) return;
@@ -769,6 +781,30 @@
       this.noise(t, 0.006, d, { type: "bandpass", freq: 2600, q: 2, peak: 0.12 });
     },
 
+    // Interfaz: tic de cristal al moverse por el menú
+    tick() {
+      if (!this.ok()) return;
+      const t = this.ctx.currentTime, d = this.out(0, 0.35);
+      this.tone(t, rand(2900, 3100), d, { peak: 0.035, attack: 0.001, decay: 0.09 });
+      this.tone(t, 6100, d, { peak: 0.012, attack: 0.001, decay: 0.04 });
+    },
+
+    // Interfaz: confirmación en dos notas
+    confirm() {
+      if (!this.ok()) return;
+      const t = this.ctx.currentTime;
+      this.note(PENTA[4], t, 0.06, -0.2);
+      this.note(PENTA[7], t + 0.07, 0.05, 0.2);
+    },
+
+    // Transición: soplo de aire filtrado
+    whoosh(up = true) {
+      if (!this.ok()) return;
+      const t = this.ctx.currentTime, d = this.out(0, 0.4);
+      const f = this.noise(t, 0.4, d, { type: "bandpass", freq: up ? 500 : 2600, q: 1.2, peak: 0.07, attack: 0.12 });
+      f.frequency.exponentialRampToValueAtTime(up ? 2800 : 500, t + 0.45);
+    },
+
     // Tonos DTMF reales del teclado telefónico
     dtmf(k) {
       if (!this.ok()) return;
@@ -921,15 +957,24 @@
     score: document.getElementById("score"),
     wave: document.getElementById("wave"),
     lives: document.getElementById("lives"),
-    overlay: document.getElementById("overlay"),
-    overlayText: document.getElementById("overlayText"),
-    startBtn: document.getElementById("startBtn"),
+    phone: document.getElementById("phone"),
+    intro: document.getElementById("intro"),
+    enterBtn: document.getElementById("enterBtn"),
+    sweep: document.getElementById("sweep"),
+    scoreList: document.getElementById("scoreList"),
+    bestLabel: document.getElementById("bestLabel"),
+    newRecord: document.getElementById("newRecord"),
+    finalScore: document.getElementById("finalScore"),
+    finalWave: document.getElementById("finalWave"),
+    setSound: document.getElementById("setSound"),
+    setVibe: document.getElementById("setVibe"),
+    setQuality: document.getElementById("setQuality"),
     soundBtn: document.getElementById("soundBtn"),
     pauseBtn: document.getElementById("pauseBtn"),
     fireBtn: document.getElementById("fireBtn"),
   };
 
-  const state = { mode: "menu", score: 0, wave: 1, lives: 3, invuln: 0, time: 0, combo: 0, comboTimer: 0, shake: 0, opened: false };
+  const state = { mode: "intro", score: 0, wave: 1, lives: 3, invuln: 0, time: 0, combo: 0, comboTimer: 0, shake: 0 };
   const player = { x: W / 2, y: WATER - 12, vx: 0, w: 34, maxSpeed: 130, cooldown: 0, rippleT: 0 };
   let shots = [], enemies = [], drops = [], particles = [], ripples = [];
   const fleet = { dir: 1, speed: 10, drop: 0 };
@@ -968,37 +1013,141 @@
   function updateHud() {
     ui.score.textContent = state.score;
     ui.wave.textContent = state.wave;
-    ui.lives.textContent = "💧".repeat(Math.max(state.lives, 0)) || "—";
+    [...ui.lives.children].forEach((d, i) => d.classList.toggle("off", i >= state.lives));
   }
 
-  function showOverlay(title, text, btn) {
-    ui.overlay.querySelector("h1").innerHTML = title;
-    ui.overlayText.innerHTML = text;
-    ui.startBtn.textContent = btn;
-    ui.overlay.classList.remove("hidden");
+  // ---------- Récords ----------
+  let scores = store.get("aerogame.scores", []);
+  const best = () => (scores[0] ? scores[0].s : 0);
+  function addScore(s, w) {
+    const isRecord = s > 0 && s > best();
+    scores.push({ s, w, d: Date.now() });
+    scores.sort((a, b) => b.s - a.s);
+    scores = scores.slice(0, 5);
+    store.set("aerogame.scores", scores);
+    return isRecord;
   }
-
-  function startGame() {
-    Sound.init();
-    Sound.resume();
-    if (!state.opened) { state.opened = true; Sound.hinge(); }
-    if (state.mode === "paused") {
-      state.mode = "playing";
-      ui.overlay.classList.add("hidden");
+  function renderScores() {
+    ui.bestLabel.textContent = "Récord " + best();
+    ui.scoreList.innerHTML = "";
+    if (!scores.length) {
+      const li = document.createElement("li");
+      li.className = "empty";
+      li.textContent = "Aún no hay récords. Juega una partida para estrenar la tabla.";
+      ui.scoreList.appendChild(li);
       return;
     }
+    const fmt = new Intl.DateTimeFormat("es", { day: "numeric", month: "short" });
+    scores.forEach((r, i) => {
+      const li = document.createElement("li");
+      li.innerHTML = `<small>${i + 1}</small><b>${r.s}</b><small>ola ${r.w} · ${fmt.format(new Date(r.d))}</small>`;
+      ui.scoreList.appendChild(li);
+    });
+  }
+
+  function renderSettings() {
+    ui.setSound.textContent = prefs.sound ? "Sí" : "No";
+    ui.setVibe.textContent = prefs.vibe ? "Sí" : "No";
+    ui.setQuality.textContent = prefs.quality === "alta" ? "Alta" : "Ligera";
+    ui.soundBtn.textContent = prefs.sound ? "♪" : "×";
+  }
+
+  // ---------- Navegación entre pantallas ----------
+  const Nav = {
+    panel: null,
+    idx: 0,
+    show(id, sound = true) {
+      const next = id ? document.getElementById("p-" + id) : null;
+      const prev = this.panel;
+      if (prev && prev !== next) {
+        prev.classList.remove("active");
+        prev.classList.add("leaving");
+        setTimeout(() => prev.classList.remove("leaving"), 550);
+      }
+      this.panel = next;
+      this.idx = 0;
+      if (next) {
+        next.classList.remove("leaving");
+        next.classList.add("active");
+        this.focus();
+      }
+      ui.sweep.classList.remove("run");
+      void ui.sweep.offsetWidth;
+      ui.sweep.classList.add("run");
+      if (sound) Sound.whoosh(!!next);
+    },
+    opts() { return this.panel ? [...this.panel.querySelectorAll(".opt")] : []; },
+    focus() { this.opts().forEach((o, i) => o.classList.toggle("sel", i === this.idx)); },
+    move(d) {
+      const n = this.opts().length;
+      if (!n) return;
+      this.idx = (this.idx + d + n) % n;
+      this.focus();
+      Sound.tick();
+    },
+    select() { const o = this.opts()[this.idx]; if (o) o.click(); },
+    back() { if (this.panel && this.panel.dataset.back) act(this.panel.dataset.back); },
+  };
+
+  function act(action) {
+    Sound.init();
+    Sound.resume();
+    switch (action) {
+      case "play": Sound.confirm(); startGame(); break;
+      case "resume": Sound.confirm(); state.mode = "playing"; Nav.show(null); break;
+      case "menu": state.mode = "menu"; renderScores(); Nav.show("menu"); break;
+      case "scores": renderScores(); Nav.show("scores"); break;
+      case "settings": renderSettings(); Nav.show("settings"); break;
+      case "toggle-sound":
+        prefs.sound = !prefs.sound;
+        Sound.setEnabled(prefs.sound);
+        if (prefs.sound) Sound.confirm();
+        savePrefs(); renderSettings(); break;
+      case "toggle-vibe":
+        prefs.vibe = !prefs.vibe; buzz(20); Sound.tick();
+        savePrefs(); renderSettings(); break;
+      case "toggle-quality":
+        prefs.quality = prefs.quality === "alta" ? "ligera" : "alta"; Sound.tick();
+        savePrefs(); renderSettings(); World.refresh(); break;
+      default: break;
+    }
+  }
+
+  document.querySelectorAll(".opt").forEach(o => {
+    o.addEventListener("click", () => act(o.dataset.action));
+    o.addEventListener("pointerenter", e => {
+      if (e.pointerType !== "mouse") return;
+      const i = Nav.opts().indexOf(o);
+      if (i >= 0 && i !== Nav.idx) { Nav.idx = i; Nav.focus(); Sound.tick(); }
+    });
+  });
+
+  function startGame() {
     resetGame();
     state.mode = "playing";
-    ui.overlay.classList.add("hidden");
-    Sound.arpeggio(true);
+    Nav.show(null);
   }
 
   function togglePause() {
     if (state.mode === "playing") {
       state.mode = "paused";
-      showOverlay("Pausa", "Respira hondo. Las burbujas esperan.", "▶ Continuar");
-    } else if (state.mode === "paused") startGame();
+      Nav.show("pause");
+    } else if (state.mode === "paused") act("resume");
   }
+
+  // ---------- Entrada ----------
+  function enter() {
+    if (state.mode !== "intro") return;
+    state.mode = "menu";
+    Sound.init();
+    Sound.resume();
+    Sound.whoosh(true);
+    ui.intro.classList.add("gone");
+    setTimeout(() => { ui.phone.classList.add("open"); Sound.hinge(); }, 350);
+    setTimeout(() => { renderScores(); Nav.show("menu"); }, 1100);
+    setTimeout(() => ui.intro.remove(), 1200);
+  }
+  ui.intro.addEventListener("click", enter);
 
   function fire() {
     if (state.mode !== "playing" || player.cooldown > 0 || shots.length >= 3) return;
@@ -1204,8 +1353,13 @@
   function gameOver() {
     state.mode = "over";
     updateHud();
-    Sound.arpeggio(false);
-    showOverlay("Fin del<br>sueño", `Puntuación: <b>${state.score}</b><br>Ola alcanzada: ${state.wave}`, "↻ Otra vez");
+    const record = addScore(state.score, state.wave);
+    ui.finalScore.textContent = state.score;
+    ui.finalWave.textContent = state.wave;
+    ui.newRecord.hidden = !record;
+    if (record) setTimeout(() => Sound.arpeggio(true), 600);
+    else Sound.arpeggio(false);
+    Nav.show("over");
   }
 
   // ---------- Dibujo ----------
@@ -1522,10 +1676,16 @@
   // ---------- Controles ----------
   const keyMap = { ArrowLeft: "left", KeyA: "left", ArrowRight: "right", KeyD: "right", Space: "fire", ArrowUp: "fire", KeyW: "fire" };
   window.addEventListener("keydown", e => {
+    if (state.mode === "intro") { if (!e.repeat) enter(); e.preventDefault(); return; }
+    if (Nav.panel) {
+      if (["ArrowLeft", "ArrowUp", "KeyA", "KeyW"].includes(e.code)) { Nav.move(-1); e.preventDefault(); }
+      else if (["ArrowRight", "ArrowDown", "KeyD", "KeyS"].includes(e.code)) { Nav.move(1); e.preventDefault(); }
+      else if ((e.code === "Enter" || e.code === "Space") && !e.repeat) { Nav.select(); e.preventDefault(); }
+      else if ((e.code === "Escape" || e.code === "KeyP" || e.code === "Backspace") && !e.repeat) Nav.back();
+      return;
+    }
     if (keyMap[e.code]) { input[keyMap[e.code]] = true; e.preventDefault(); }
-    if (e.repeat) return;
-    if (e.code === "KeyP" || e.code === "Escape") togglePause();
-    if ((e.code === "Enter" || e.code === "Space") && state.mode !== "playing") startGame();
+    if (!e.repeat && (e.code === "KeyP" || e.code === "Escape")) togglePause();
   });
   window.addEventListener("keyup", e => { if (keyMap[e.code]) input[keyMap[e.code]] = false; });
   window.addEventListener("blur", () => {
@@ -1534,7 +1694,13 @@
   });
 
   function bindHold(el, onDown, onUp) {
-    const down = e => { e.preventDefault(); Sound.init(); Sound.resume(); Sound.click(); el.classList.add("pressed"); onDown(); };
+    const down = e => {
+      e.preventDefault();
+      if (state.mode === "intro") { enter(); return; }
+      Sound.init(); Sound.resume(); Sound.click();
+      el.classList.add("pressed");
+      onDown();
+    };
     const up = () => { el.classList.remove("pressed"); onUp(); };
     el.addEventListener("pointerdown", down);
     el.addEventListener("pointerup", up);
@@ -1543,26 +1709,31 @@
   }
   document.querySelectorAll(".key.dir").forEach(btn => {
     const side = btn.dataset.dir === "-1" ? "left" : "right";
-    bindHold(btn, () => { input[side] = true; }, () => { input[side] = false; });
+    bindHold(btn, () => {
+      if (Nav.panel) Nav.move(side === "left" ? -1 : 1);
+      else input[side] = true;
+    }, () => { input[side] = false; });
   });
   bindHold(ui.fireBtn, () => {
-    if (state.mode !== "playing" && state.mode !== "paused") startGame();
-    input.fire = true;
+    if (Nav.panel) Nav.select();
+    else input.fire = true;
   }, () => { input.fire = false; });
 
-  ui.startBtn.addEventListener("click", startGame);
-  ui.pauseBtn.addEventListener("click", () => { Sound.click(); togglePause(); });
+  ui.pauseBtn.addEventListener("click", () => {
+    if (state.mode === "intro") return;
+    Sound.click();
+    if (Nav.panel) Nav.back();
+    else togglePause();
+  });
   ui.soundBtn.addEventListener("click", () => {
-    Sound.init();
-    Sound.resume();
-    Sound.setEnabled(!Sound.enabled);
-    ui.soundBtn.textContent = Sound.enabled ? "🔊" : "🔇";
-    if (Sound.enabled) Sound.dtmf("5");
+    if (state.mode === "intro") return;
+    act("toggle-sound");
   });
 
   // Teclado numérico: tonos DTMF reales
   document.querySelectorAll(".numpad span").forEach(k => {
     k.addEventListener("pointerdown", () => {
+      if (state.mode === "intro") { enter(); return; }
       Sound.init();
       Sound.resume();
       Sound.dtmf(k.dataset.k);
@@ -1573,8 +1744,9 @@
     k.addEventListener("pointerleave", up);
   });
 
-  // Inicio
+  // Inicio: pantalla de entrada; el celular espera cerrado
   resetGame();
-  state.mode = "menu";
+  renderSettings();
+  renderScores();
   requestAnimationFrame(loop);
 })();
