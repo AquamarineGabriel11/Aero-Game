@@ -8,80 +8,115 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <!-- ===== Mundo onírico de fondo ===== -->
+  <!-- ===== Mundo onírico (renderizado en canvas) ===== -->
   <div class="world" aria-hidden="true">
-    <div class="sun"></div>
-    <div class="clouds">
-      <div class="cloud c1"></div>
-      <div class="cloud c2"></div>
-      <div class="cloud c3"></div>
-      <div class="cloud c4"></div>
-      <div class="cloud c5"></div>
-    </div>
-    <div class="glass-orb o1"></div>
-    <div class="glass-orb o2"></div>
-    <div class="glass-orb o3"></div>
-    <div class="hill hill-back"></div>
-    <div class="hill hill-front"></div>
-    <div class="water"></div>
+    <canvas id="sky"></canvas>
+    <div class="glass-orb o1"><i></i></div>
+    <div class="glass-orb o2"><i></i></div>
+    <div class="glass-orb o3"><i></i></div>
     <div class="floaters" id="floaters"></div>
   </div>
 
   <!-- ===== Celular de concha translúcido ===== -->
   <main class="stage">
     <div class="phone" id="phone">
-      <!-- Mitad superior: pantalla -->
-      <section class="phone-top">
-        <div class="speaker"></div>
-        <div class="screen-bezel">
-          <div class="screen">
-            <div class="status-bar">
-              <span class="signal"><i></i><i></i><i></i><i></i></span>
-              <span class="status-title">AQUA INVADERS</span>
-              <span class="battery"><i></i></span>
+      <div class="phone-shadow" id="phoneShadow"></div>
+      <div class="phone-tilt" id="phoneTilt">
+
+        <!-- Tapa (mitad superior) -->
+        <div class="lid">
+          <div class="antenna"><span></span></div>
+          <section class="phone-top">
+            <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+              <g fill="none" stroke="currentColor" stroke-width="1.4">
+                <path d="M150 400 V360 H130 V330"/><path d="M160 400 V365 H180 V330"/>
+                <path d="M140 400 V372 H100 V340"/><path d="M170 400 V372 H205 V340"/>
+                <path d="M262 30 l8 6 l-8 6 l8 6 l-8 6 l8 6 l-8 6 l8 6"/>
+                <circle cx="150" cy="16" r="9"/><circle cx="150" cy="16" r="4"/>
+              </g>
+              <g fill="currentColor"><rect x="118" y="370" width="64" height="18" rx="2" opacity=".5"/></g>
+            </svg>
+            <div class="speaker"></div>
+            <div class="screen-bezel">
+              <div class="screen">
+                <div class="status-bar">
+                  <span class="signal"><i></i><i></i><i></i><i></i></span>
+                  <span class="clock" id="clock">12:00</span>
+                  <span class="battery"><i></i></span>
+                </div>
+                <canvas id="game" width="240" height="300"></canvas>
+                <div class="hud">
+                  <span>PTS <b id="score">0</b></span>
+                  <span>OLA <b id="wave">1</b></span>
+                  <span id="lives">💧💧💧</span>
+                </div>
+                <div class="overlay" id="overlay">
+                  <h1>Aqua<br>Invaders</h1>
+                  <p id="overlayText">Revienta las burbujas que descienden<br>del cielo de cristal.</p>
+                  <button class="aqua-btn" id="startBtn">▶ Jugar</button>
+                  <p class="hint">← → mover · Espacio disparar · P pausa</p>
+                </div>
+                <div class="lcd"></div>
+                <div class="screen-gloss"></div>
+              </div>
             </div>
-            <canvas id="game" width="240" height="300"></canvas>
-            <div class="hud">
-              <span>PTS <b id="score">0</b></span>
-              <span>OLA <b id="wave">1</b></span>
-              <span id="lives">💧💧💧</span>
-            </div>
-            <div class="overlay" id="overlay">
-              <h1>Aqua<br>Invaders</h1>
-              <p id="overlayText">Revienta las burbujas que descienden<br>del cielo de cristal.</p>
-              <button class="aqua-btn" id="startBtn">▶ Jugar</button>
-              <p class="hint">← → mover · Espacio disparar · P pausa</p>
-            </div>
-            <div class="screen-gloss"></div>
+            <div class="phone-logo">aero<span>mobile</span></div>
+          </section>
+        </div>
+
+        <!-- Bisagra -->
+        <div class="hinge"><span></span></div>
+
+        <!-- Mitad inferior: teclado -->
+        <section class="phone-bottom">
+          <svg class="internals" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+            <g fill="none" stroke="currentColor" stroke-width="1.3">
+              <path d="M150 0 V40 H60 V120"/><path d="M160 0 V48 H240 V110"/>
+              <path d="M30 60 H90 V160 H40"/><path d="M270 70 H210 V170 H260"/>
+              <path d="M150 140 V180"/><path d="M60 300 H120 V360"/><path d="M240 300 H180 V360"/>
+              <rect x="62" y="190" width="176" height="96" rx="10" stroke-dasharray="4 3"/>
+            </g>
+            <g fill="currentColor">
+              <rect x="120" y="96" width="60" height="40" rx="3" opacity=".55"/>
+              <rect x="38" y="128" width="22" height="22" rx="2" opacity=".45"/>
+              <rect x="240" y="122" width="24" height="16" rx="2" opacity=".45"/>
+              <circle cx="60" cy="120" r="3"/><circle cx="240" cy="110" r="3"/><circle cx="150" cy="180" r="3"/>
+              <circle cx="120" cy="360" r="3"/><circle cx="180" cy="360" r="3"/>
+              <text x="150" y="234" text-anchor="middle" font-size="11" font-family="Trebuchet MS, sans-serif" letter-spacing="1">Li-ion 3.7V</text>
+              <text x="150" y="252" text-anchor="middle" font-size="9" font-family="Trebuchet MS, sans-serif">850 mAh · AERO-BL5</text>
+            </g>
+          </svg>
+          <div class="bubbles-inside" aria-hidden="true">
+            <i></i><i></i><i></i><i></i><i></i><i></i>
           </div>
-        </div>
-        <div class="phone-logo">aero<span>mobile</span></div>
-      </section>
-
-      <!-- Bisagra -->
-      <div class="hinge"><span></span></div>
-
-      <!-- Mitad inferior: teclado -->
-      <section class="phone-bottom">
-        <div class="bubbles-inside" aria-hidden="true">
-          <i></i><i></i><i></i><i></i><i></i><i></i>
-        </div>
-        <div class="soft-keys">
-          <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">🔊</button>
-          <button class="key soft" id="pauseBtn" aria-label="Pausa">❚❚</button>
-        </div>
-        <div class="dpad">
-          <button class="key dir left" data-dir="-1" aria-label="Izquierda">◀</button>
-          <button class="key fire" id="fireBtn" aria-label="Disparar">●</button>
-          <button class="key dir right" data-dir="1" aria-label="Derecha">▶</button>
-        </div>
-        <div class="numpad" aria-hidden="true">
-          <span>1</span><span>2</span><span>3</span>
-          <span>4</span><span>5</span><span>6</span>
-          <span>7</span><span>8</span><span>9</span>
-          <span>✱</span><span>0</span><span>#</span>
-        </div>
-      </section>
+          <div class="soft-keys">
+            <button class="key soft" id="soundBtn" aria-label="Activar o silenciar sonido">🔊</button>
+            <button class="key soft" id="pauseBtn" aria-label="Pausa">❚❚</button>
+          </div>
+          <div class="dpad-ring">
+            <div class="dpad">
+              <button class="key dir left" data-dir="-1" aria-label="Izquierda">◀</button>
+              <button class="key fire" id="fireBtn" aria-label="Disparar">●</button>
+              <button class="key dir right" data-dir="1" aria-label="Derecha">▶</button>
+            </div>
+          </div>
+          <div class="numpad">
+            <span data-k="1"><b>1</b><small>∞</small></span>
+            <span data-k="2"><b>2</b><small>ABC</small></span>
+            <span data-k="3"><b>3</b><small>DEF</small></span>
+            <span data-k="4"><b>4</b><small>GHI</small></span>
+            <span data-k="5"><b>5</b><small>JKL</small></span>
+            <span data-k="6"><b>6</b><small>MNO</small></span>
+            <span data-k="7"><b>7</b><small>PQRS</small></span>
+            <span data-k="8"><b>8</b><small>TUV</small></span>
+            <span data-k="9"><b>9</b><small>WXYZ</small></span>
+            <span data-k="*"><b>✱</b><small>&nbsp;</small></span>
+            <span data-k="0"><b>0</b><small>+</small></span>
+            <span data-k="#"><b>#</b><small>&nbsp;</small></span>
+          </div>
+          <div class="mic"></div>
+        </section>
+      </div>
     </div>
   </main>
 
