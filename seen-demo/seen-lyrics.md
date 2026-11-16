@@ -1,9 +1,9 @@
 # SEEN — letra final (Explicit)
 
-**TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM**
+**TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:55**
 
 Clean version changes:
-- Verse 3: "I press it to my **tits**" → "I hold it to my **chest**"
+- Pre-Final: "I press it to my **tits**" → "I hold it to my **chest**"
 - Outro: "liquor, **drugs**, three copas deep" → "liquor, **whatever they were passing**, three copas deep"
 
 ---
@@ -22,7 +22,7 @@ Clean version changes:
 | 2:47, I should be asleep by now, | 2:47, ya debería estar dormida, |
 | but my thumb keeps scrolling like it doesn't know how to stop, | pero mi pulgar sigue scrolleando como si no supiera parar, |
 | two hundred views on my story, and you're the first one there, | doscientas vistas en mi historia, y tú eres el primero ahí, |
-| you watched it in a second, didn't say a thing. | la viste en un segundo y no dijiste nada. |
+| WhatsApp says *"delivered,"* then nothing's there. | WhatsApp dice *"entregado"*, y luego nada. |
 | Then you posted Mount Fuji from the Shinkansen, | Luego subiste el Monte Fuji desde el Shinkansen, |
 | seat E, the window, two coffees on the tray — | asiento E, la ventana, dos cafés en la bandeja — |
 | funny, you told me you were going alone, | qué curioso, me dijiste que ibas solo, |
@@ -86,13 +86,11 @@ Clean version changes:
 | *"go freshen up,"* they say, like I can wash you off, | *"ve a refrescarte"*, me dicen, como si pudiera lavarte de mí, |
 | but the towel you left still won't let go of your smell. | pero la toalla que dejaste todavía no suelta tu olor. |
 | Then the mirror fogs, and there it is again — | Luego el espejo se empaña, y ahí está otra vez — |
-| the little heart you drew the morning that you stayed, | el corazoncito que dibujaste la mañana que te quedaste, |
-| red wine sliding from my collarbone down to my abs, | vino tinto resbalando desde mi clavícula hasta mi abdomen, |
-| now it's only water running where the wine once ran. | ahora solo corre agua por donde antes corrió el vino. |
-| I kept the ashtray full of every cigarette you smoked, | Guardé el cenicero lleno de cada cigarro que fumaste, |
-| I press it to my tits like it's still warm, | lo presiono contra mis senos como si todavía estuviera tibio, |
-| your hoodie's starting to forget you, so I spray your perfume, | tu hoodie se está empezando a olvidar de ti, así que le echo tu perfume, |
-| just to remind it who it belongs to — | solo para recordarle a quién pertenece — |
+| *"u up?"* in your handwriting, from the night that you stayed, | *"¿estás despierta?"* con tu letra, de la noche que te quedaste, |
+| I let the water roll my hips like it was you, | dejo que el agua me mueva la cadera como si fueras tú, |
+| slide down the tiles, low, pretending it's you, | me deslizo por los azulejos, hasta abajo, fingiendo que eres tú, |
+| red wine used to run from my collarbone down to my abs, | el vino tinto corría desde mi clavícula hasta mi abdomen, |
+| now it's only water running where the wine once ran — | ahora solo corre agua por donde antes corrió el vino — |
 | *déjà vu* of us… and it never fades. | *déjà vu* de nosotros… y nunca se borra. |
 
 ## [Bridge]
@@ -109,7 +107,9 @@ Clean version changes:
 | English | Español |
 |---|---|
 | My friends don't say *"just block 'em"* anymore, | Mis amigas ya no me dicen *"ya bloquéalo"*, |
-| they got tired of hearing *"tomorrow,"* | se cansaron de escucharme decir *"mañana"*, |
+| I kept the ashtray full of every cigarette you smoked, | guardé el cenicero lleno de cada cigarro que fumaste, |
+| I press it to my tits like it's still warm, | lo presiono contra mis senos como si todavía estuviera tibio, |
+| your hoodie's forgetting you, so I spray your perfume on it, | tu hoodie se está olvidando de ti, así que le echo tu perfume, |
 | I try to undo you like a Windsor knot, | intento desatarte como un nudo Windsor, |
 | but every loop I pull just makes it tighter… | pero cada vuelta que jalo solo lo aprieta más… |
 
