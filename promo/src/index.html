@@ -1,0 +1,235 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="fonts.css">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#070a14}
+canvas{position:absolute;inset:0}
+</style>
+<script src="d3-array.min.js"></script>
+<script src="d3-geo.min.js"></script>
+<script src="topojson-client.min.js"></script>
+<script src="land.js"></script>
+</head><body>
+<canvas id="c" width="1080" height="1920"></canvas>
+<script>
+const W = 1080, H = 1920, CX = W / 2, CY = 900;
+const ctx = document.getElementById('c').getContext('2d');
+const land = topojson.feature(LAND, LAND.objects.land);
+const graticule = d3.geoGraticule10();
+
+const SONG = {
+  seen:     { n: '01', title: 'Seen',     color: '#c9ced8' },
+  cafune:   { n: '02', title: 'Cafuné',   color: '#4fd18b' },
+  rearview: { n: '03', title: 'Rearview', color: '#ff4d57' },
+  deshielo: { n: '04', title: 'Deshielo', color: '#eef3ff' },
+  tekapo:   { n: '05', title: 'Tekapo',   color: '#3fe0d0' },
+  mangata:  { n: '06', title: 'Mångata',  color: '#6f97ff' },
+};
+const STOPS = [
+  { code: 'HND', city: 'Tokyo',        country: 'Japan',       flag: '🇯🇵', ll: [139.78, 35.55],  song: 'seen' },
+  { code: 'MAO', city: 'Manaus',       country: 'Brazil',      flag: '🇧🇷', ll: [-60.02, -3.12],  song: 'cafune' },
+  { code: 'PEK', city: 'Beijing',      country: 'China',       flag: '🇨🇳', ll: [116.58, 40.08],  song: 'rearview' },
+  { code: 'JFK', city: 'New York',     country: 'USA',         flag: '🇺🇸', ll: [-73.78, 40.64],  song: 'rearview' },
+  { code: 'FTE', city: 'El Calafate',  country: 'Argentina',   flag: '🇦🇷', ll: [-72.28, -50.34], song: 'deshielo' },
+  { code: 'YYC', city: 'Calgary',      country: 'Canada',      flag: '🇨🇦', ll: [-114.01, 51.13], song: 'deshielo' },
+  { code: 'KTM', city: 'Kathmandu',    country: 'Nepal',       flag: '🇳🇵', ll: [85.36, 27.70],   song: 'deshielo' },
+  { code: 'CHC', city: 'Christchurch', country: 'New Zealand', flag: '🇳🇿', ll: [172.53, -43.49], song: 'tekapo' },
+  { code: 'ARN', city: 'Stockholm',    country: 'Sweden',      flag: '🇸🇪', ll: [17.92, 59.65],   song: 'mangata' },
+  { code: 'CDG', city: 'Paris',        country: 'France',      flag: '🇫🇷', ll: [2.55, 49.01],    song: 'mangata' },
+];
+
+// ---------- timeline
+const HOLD_FIRST = 1.6, HOLD = 1.15, HOLD_LAST = 1.4, OUTRO = 4.8;
+const segs = []; let T = 0;
+segs.push({ type: 'hold', i: 0, t0: T, d: HOLD_FIRST }); T += HOLD_FIRST;
+for (let i = 0; i < STOPS.length - 1; i++) {
+  const a = STOPS[i].ll, b = STOPS[i + 1].ll;
+  const dist = d3.geoDistance(a, b);
+  const d = 1.0 + dist * 0.62;
+  segs.push({ type: 'leg', i, t0: T, d, dist, interp: d3.geoInterpolate(a, b) }); T += d;
+  const hd = i === STOPS.length - 2 ? HOLD_LAST : HOLD;
+  segs.push({ type: 'hold', i: i + 1, t0: T, d: hd }); T += hd;
+}
+segs.push({ type: 'outro', t0: T, d: OUTRO }); T += OUTRO;
+window.DURATION = T;
+
+const ease = p => 0.5 - 0.5 * Math.cos(Math.PI * p);
+const clamp = (x, a = 0, b = 1) => Math.max(a, Math.min(b, x));
+
+// ---------- grain
+const grain = document.createElement('canvas'); grain.width = 540; grain.height = 960;
+{ const g = grain.getContext('2d'), im = g.createImageData(540, 960);
+  for (let k = 0; k < im.data.length; k += 4) { const v = Math.random() * 255; im.data[k] = im.data[k+1] = im.data[k+2] = v; im.data[k+3] = 255; }
+  g.putImageData(im, 0, 0); }
+
+function plane(x, y, ang, s) {
+  ctx.save(); ctx.translate(x, y); ctx.rotate(ang); ctx.scale(s, s);
+  ctx.shadowColor = 'rgba(0,0,0,.55)'; ctx.shadowBlur = 18; ctx.shadowOffsetY = 10;
+  ctx.fillStyle = '#ffffff';
+  ctx.beginPath();
+  ctx.moveTo(30, 0); ctx.quadraticCurveTo(26, -4, 18, -4.5);
+  ctx.lineTo(4, -4.5); ctx.lineTo(-8, -28); ctx.lineTo(-15, -28); ctx.lineTo(-8, -4.5);
+  ctx.lineTo(-20, -4.5); ctx.lineTo(-26, -13); ctx.lineTo(-31, -13); ctx.lineTo(-28, 0);
+  ctx.lineTo(-31, 13); ctx.lineTo(-26, 13); ctx.lineTo(-20, 4.5); ctx.lineTo(-8, 4.5);
+  ctx.lineTo(-15, 28); ctx.lineTo(-8, 28); ctx.lineTo(4, 4.5); ctx.lineTo(18, 4.5);
+  ctx.quadraticCurveTo(26, 4, 30, 0); ctx.closePath(); ctx.fill();
+  ctx.restore();
+}
+
+function text(str, x, y, font, color, align = 'center', alpha = 1, spacing = 0) {
+  ctx.save(); ctx.globalAlpha = alpha; ctx.font = font; ctx.fillStyle = color; ctx.textAlign = align;
+  ctx.textBaseline = 'alphabetic';
+  if (spacing) ctx.letterSpacing = spacing + 'px';
+  ctx.fillText(str, x, y); ctx.restore();
+}
+
+let lastAng = 0;
+window.renderFrame = function (t) {
+  // locate segment
+  let seg = segs[segs.length - 1];
+  for (const s of segs) if (t >= s.t0 && t < s.t0 + s.d) { seg = s; break; }
+  const p = clamp((t - seg.t0) / seg.d);
+
+  let pos, legIdx = -1, legP = 0, visited, zoom = 1, outroP = 0, cardStop = -1, cardA = 0;
+  if (seg.type === 'hold') {
+    pos = STOPS[seg.i].ll; visited = seg.i; cardStop = seg.i;
+    cardA = Math.min(clamp(p / 0.18), clamp((1 - p) / 0.2));
+    if (seg.i === 0) cardA = Math.min(clamp((t - 0.35) / 0.4), clamp((1 - p) / 0.2));
+    if (seg.i === STOPS.length - 1) cardA = clamp(p / 0.18);
+  } else if (seg.type === 'leg') {
+    legIdx = seg.i; legP = ease(p); pos = seg.interp(legP); visited = seg.i;
+    zoom = 1 - 0.30 * Math.sin(Math.PI * legP) * clamp(seg.dist / 1.6);
+  } else {
+    outroP = p; visited = STOPS.length - 1; pos = STOPS[STOPS.length - 1].ll;
+    zoom = 1 - 0.18 * ease(clamp(p / 0.6));
+  }
+
+  // camera
+  let rot = [-pos[0], -pos[1] * 0.85];
+  if (seg.type === 'outro') rot = [-pos[0] - 150 * ease(p), -pos[1] * 0.85 * (1 - 0.6 * ease(p))];
+  const R = 455 * zoom;
+  const proj = d3.geoOrthographic().rotate(rot).translate([CX, CY]).scale(R).clipAngle(90);
+  const path = d3.geoPath(proj, ctx);
+  const center = [-rot[0], -rot[1]];
+  const visible = ll => d3.geoDistance(ll, center) < Math.PI / 2 - 0.02;
+
+  // background
+  const bg = ctx.createLinearGradient(0, 0, 0, H);
+  bg.addColorStop(0, '#0b1024'); bg.addColorStop(0.55, '#070a16'); bg.addColorStop(1, '#04050b');
+  ctx.fillStyle = bg; ctx.fillRect(0, 0, W, H);
+  // stars
+  ctx.save(); let sd = 7;
+  const rnd = () => { sd = (sd * 16807) % 2147483647; return sd / 2147483647; };
+  for (let k = 0; k < 140; k++) { const x = rnd() * W, y = rnd() * H, r = rnd() * 1.6 + 0.3;
+    ctx.globalAlpha = 0.25 + 0.5 * Math.abs(Math.sin(t * (0.6 + rnd()) + k));
+    ctx.fillStyle = '#dfe6ff'; ctx.beginPath(); ctx.arc(x, y, r, 0, 6.283); ctx.fill(); }
+  ctx.restore();
+
+  // globe glow
+  const glow = ctx.createRadialGradient(CX, CY, R * 0.9, CX, CY, R * 1.35);
+  glow.addColorStop(0, 'rgba(110,150,255,.28)'); glow.addColorStop(1, 'rgba(110,150,255,0)');
+  ctx.fillStyle = glow; ctx.beginPath(); ctx.arc(CX, CY, R * 1.35, 0, 6.283); ctx.fill();
+  // ocean
+  const oc = ctx.createRadialGradient(CX - R * 0.35, CY - R * 0.4, R * 0.1, CX, CY, R);
+  oc.addColorStop(0, '#2b4c8f'); oc.addColorStop(0.7, '#142a5c'); oc.addColorStop(1, '#0b1838');
+  ctx.fillStyle = oc; ctx.beginPath(); path({ type: 'Sphere' }); ctx.fill();
+  // graticule
+  ctx.strokeStyle = 'rgba(180,200,255,.10)'; ctx.lineWidth = 1; ctx.beginPath(); path(graticule); ctx.stroke();
+  // land
+  ctx.fillStyle = '#e9edf6'; ctx.beginPath(); path(land); ctx.fill();
+  ctx.strokeStyle = 'rgba(120,140,190,.55)'; ctx.lineWidth = 0.8; ctx.stroke();
+  // sphere shading
+  const sh = ctx.createRadialGradient(CX - R * 0.4, CY - R * 0.45, R * 0.15, CX, CY, R * 1.02);
+  sh.addColorStop(0, 'rgba(255,255,255,.10)'); sh.addColorStop(0.6, 'rgba(0,0,0,0)'); sh.addColorStop(1, 'rgba(0,0,20,.45)');
+  ctx.fillStyle = sh; ctx.beginPath(); path({ type: 'Sphere' }); ctx.fill();
+
+  // routes
+  const drawLeg = (i, upto, color, alpha = 1) => {
+    const it = d3.geoInterpolate(STOPS[i].ll, STOPS[i + 1].ll);
+    const coords = []; const N = 90;
+    for (let k = 0; k <= N; k++) { const q = (k / N) * upto; coords.push(it(q)); }
+    ctx.save(); ctx.globalAlpha = alpha; ctx.setLineDash([14, 12]); ctx.lineDashOffset = -t * 30;
+    ctx.lineWidth = 6; ctx.lineCap = 'round'; ctx.strokeStyle = color;
+    ctx.shadowColor = color; ctx.shadowBlur = 14;
+    ctx.beginPath(); path({ type: 'LineString', coordinates: coords }); ctx.stroke(); ctx.restore();
+  };
+  const legsDone = seg.type === 'leg' ? legIdx : visited;
+  for (let i = 0; i < legsDone; i++) drawLeg(i, 1, SONG[STOPS[i + 1].song].color, 0.95);
+  if (legIdx >= 0) drawLeg(legIdx, legP, SONG[STOPS[legIdx + 1].song].color, 1);
+
+  // stop markers
+  STOPS.forEach((s, i) => {
+    if (i > visited || !visible(s.ll)) return;
+    const [x, y] = proj(s.ll); const col = SONG[s.song].color;
+    const pulse = (i === visited && seg.type !== 'leg') ? 1 + 0.35 * Math.sin(t * 6) : 1;
+    ctx.save(); ctx.fillStyle = col; ctx.shadowColor = col; ctx.shadowBlur = 24;
+    ctx.beginPath(); ctx.arc(x, y, 11 * pulse, 0, 6.283); ctx.fill();
+    ctx.fillStyle = '#0b1024'; ctx.shadowBlur = 0; ctx.beginPath(); ctx.arc(x, y, 4.5, 0, 6.283); ctx.fill();
+    ctx.restore();
+    text(s.code, x, y - 24, "700 24px 'Space Mono'", '#ffffff', 'center', 0.9, 3);
+  });
+
+  // plane
+  if (seg.type !== 'outro' || outroP < 0.12) {
+    let ang = lastAng;
+    if (legIdx >= 0) {
+      const it = segs.find(s => s.type === 'leg' && s.i === legIdx).interp;
+      const a = proj(it(clamp(legP - 0.01))), b = proj(it(clamp(legP + 0.01)));
+      if (a && b && (Math.abs(b[0] - a[0]) + Math.abs(b[1] - a[1]) > 0.01)) ang = Math.atan2(b[1] - a[1], b[0] - a[0]);
+      lastAng = ang;
+    }
+    const pp = proj(pos);
+    if (pp) {
+      const lift = legIdx >= 0 ? 1 + 0.35 * Math.sin(Math.PI * legP) : 1;
+      const fade = seg.type === 'outro' ? 1 - outroP / 0.12 : 1;
+      ctx.save(); ctx.globalAlpha = fade; plane(pp[0], pp[1], ang, 1.15 * lift); ctx.restore();
+    }
+  }
+
+  // ---------- UI
+  // header
+  const headA = seg.type === 'outro' ? 1 - clamp(outroP / 0.25) : 1;
+  text('TRIP', CX, 210, "150px 'Archivo Black'", '#ffffff', 'center', 1, -2);
+  // route line with codes
+  {
+    ctx.save(); ctx.globalAlpha = headA; ctx.font = "700 21px 'Space Mono'"; ctx.letterSpacing = '1px';
+    const parts = STOPS.map(s => s.code); const sep = ' → ';
+    const full = parts.join(sep); const wTot = ctx.measureText(full).width;
+    let x = CX - wTot / 2; ctx.textAlign = 'left';
+    parts.forEach((c, i) => {
+      ctx.fillStyle = i <= visited ? SONG[STOPS[i].song].color : 'rgba(255,255,255,.28)';
+      ctx.fillText(c, x, 275); x += ctx.measureText(c).width;
+      if (i < parts.length - 1) { ctx.fillStyle = 'rgba(255,255,255,.28)'; ctx.fillText(sep, x, 275); x += ctx.measureText(sep).width; }
+    });
+    ctx.restore();
+  }
+
+  // stop card
+  if (cardStop >= 0 && cardA > 0) {
+    const s = STOPS[cardStop], so = SONG[s.song], y0 = 1490;
+    const slide = (1 - cardA) * 30;
+    text(`${so.n}  ·  ${s.code}`, CX, y0 + slide, "700 30px 'Space Mono'", so.color, 'center', cardA, 8);
+    text(`${s.flag}  ${s.city.toUpperCase()}, ${s.country.toUpperCase()}`, CX, y0 + 62 + slide, "400 30px 'Space Mono'", 'rgba(255,255,255,.75)', 'center', cardA, 5);
+    text(so.title, CX, y0 + 215 + slide, "italic 150px 'Instrument Serif'", so.color, 'center', cardA, -1);
+  }
+
+  // outro card
+  if (seg.type === 'outro') {
+    const a = clamp((outroP - 0.2) / 0.25);
+        text('6 SONGS  ·  10 COUNTRIES  ·  1 STORY', CX, 278, "700 26px 'Space Mono'", 'rgba(255,255,255,.7)', 'center', a, 4);
+    const b = clamp((outroP - 0.4) / 0.25);
+    text('seen', CX, 1640, "italic 170px 'Instrument Serif'", SONG.seen.color, 'center', b);
+    text('FIRST SINGLE  ·  DEC 18 2026', CX, 1710, "700 28px 'Space Mono'", '#ffffff', 'center', b, 6);
+  }
+
+  // grain + vignette
+  ctx.save(); ctx.globalAlpha = 0.07; ctx.globalCompositeOperation = 'overlay';
+  ctx.drawImage(grain, 0, 0, W, H); ctx.restore();
+  const vg = ctx.createRadialGradient(CX, H / 2, H * 0.3, CX, H / 2, H * 0.75);
+  vg.addColorStop(0, 'rgba(0,0,0,0)'); vg.addColorStop(1, 'rgba(0,0,0,.55)');
+  ctx.fillStyle = vg; ctx.fillRect(0, 0, W, H);
+};
+Promise.all(["150px 'Archivo Black'","700 25px 'Space Mono'","400 25px 'Space Mono'","italic 150px 'Instrument Serif'"].map(f=>document.fonts.load(f))).then(()=>document.fonts.ready).then(() => { window.READY = true; });
+</script>
+</body></html>
