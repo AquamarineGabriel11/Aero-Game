@@ -3,7 +3,6 @@
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:55**
 
 Clean version changes:
-- Pre-Final: "I press it to my **tits**" → "I hold it to my **chest**"
 - Outro: "liquor, **drugs**, three copas deep" → "liquor, **whatever they were passing**, three copas deep"
 
 ---
@@ -57,10 +56,9 @@ Clean version changes:
 | I say *"okay… tomorrow"* every day, | yo digo *"ok… mañana"* todos los días, |
 | you used to say your heart would race whenever I posted, | decías que tu corazón se aceleraba cada vez que yo publicaba, |
 | now mine's the only heart still racing when you watch. | ahora el mío es el único que se acelera cuando tú miras. |
-| I need a bigger bra so maybe you'll look back, | Necesito un brasier más grande para ver si volteas a verme, |
-| changed my hair three times this month just to catch your eye, | me cambié el pelo tres veces este mes solo para llamar tu atención, |
-| I sent a photo, view once, the one I'd never post, | te mandé una foto de ver una sola vez, la que nunca subiría, |
-| low light, the mirror, abs and all the parts I hide, | poca luz, el espejo, el abdomen y todo lo que escondo, |
+| bought the lace set that you sent me as a joke, | me compré el conjunto de encaje que me mandaste de broma, |
+| wore it to bed for nobody, then sent you one view-once, | me lo puse para dormir sin nadie, y luego te mandé una foto de ver una vez, |
+| low light, the mirror, all the parts I never show, | poca luz, el espejo, todo lo que nunca enseño, |
 | you opened it in seconds — opened, never answered, | la abriste en segundos — la abriste y nunca contestaste, |
 | like I'm something you just look at… then you're gone. | como si yo fuera algo que solo miras… y luego te vas. |
 
@@ -108,8 +106,9 @@ Clean version changes:
 |---|---|
 | My friends don't say *"just block 'em"* anymore, | Mis amigas ya no me dicen *"ya bloquéalo"*, |
 | I kept the ashtray full of every cigarette you smoked, | guardé el cenicero lleno de cada cigarro que fumaste, |
-| I press it to my tits like it's still warm, | lo presiono contra mis senos como si todavía estuviera tibio, |
-| your hoodie's forgetting you, so I spray your perfume on it, | tu hoodie se está olvidando de ti, así que le echo tu perfume, |
+| it still smells like the nights you didn't leave, | todavía huele a las noches en que no te ibas, |
+| I sleep in your hoodie with nothing underneath, | duermo con tu hoodie y nada debajo, |
+| it's forgetting you, so I spray your perfume on the sleeves, | se está olvidando de ti, así que le echo tu perfume en las mangas, |
 | I try to undo you like a Windsor knot, | intento desatarte como un nudo Windsor, |
 | but every loop I pull just makes it tighter… | pero cada vuelta que jalo solo lo aprieta más… |
 
