@@ -129,9 +129,9 @@ Clean version changes:
 
 | English | Español |
 |---|---|
-| Sake from the corner store, red wine, a little Bacardí, | Sake de la tienda de la esquina, vino tinto, un poco de Bacardí, |
+| Sake from the corner store, tequila, a little Bacardí, | Sake de la tienda de la esquina, tequila, un poco de Bacardí, |
 | liquor, drugs, three *copas* deep, and you're still all I see, | licor, drogas, tres copas encima, y tú sigues siendo lo único que veo, |
-| drunk-typed your name at 3 a.m., deleted it, typed it again… | te escribí borracha a las 3 a.m., lo borré, lo volví a escribir… |
+| drunk-typed your name, 2:47 again, deleted it, typed it again… | te escribí borracha, otra vez a las 2:47, lo borré, lo volví a escribir… |
 | *Mata ne…* | *Mata ne…* (nos vemos) |
 | see you… | nos vemos… |
 | *[battery 1% — the phone slips — the screen goes dark]* | *[batería al 1% — el celular se resbala — la pantalla se apaga]* |
