@@ -302,13 +302,13 @@ for name, nbars, prog in SECTIONS:
     if sec == "Intro":
         place(fx, vibration(), s0, -0.1)
         place(fx, vibration(), s0 + b2s(0.75), -0.1)
+        # phone typing: only here, at the very start
+        for j in range(8):
+            place(fx, click(), s0 + b2s(1.6) + int(j * .13 * SR + rng.uniform(0, 1500)), .2)
+        for j in range(5):
+            place(fx, click() * .7, s0 + b2s(3.0) + int(j * .08 * SR), .2)
         place(ld, lead(79, 1.5, .45), s0 + b2s(4))
         place(ld, lead(76, 2.0, .4), s0 + b2s(6))
-    if sec == "Verse 1":
-        for j in range(10):
-            place(fx, click(), s0 + int(j * .13 * SR + rng.uniform(0, 1500)), .2)
-        for j in range(6):
-            place(fx, click() * .7, s0 + b2s(2) + int(j * .09 * SR), .2)
     if sec == "Verse 2":
         for k in (0, 2, 5, 7):
             place(fx, tama_beep(2), s0 + b2s(k * 4 + 3.5), .45)
@@ -364,7 +364,7 @@ def convolve(x, ir, block=1 << 17):
 ep = tape_wow(ep)
 IR = reverb_ir()
 crackle = np.zeros((LENGTH, 2))
-pops = rng.integers(0, LENGTH - 50, int(LENGTH / SR * 6))
+pops = rng.integers(0, LENGTH - 50, int(LENGTH / SR * 1.5))
 for p in pops:
     crackle[p:p + 30, :] += rng.normal(0, 0.05, (30, 1)) * np.exp(-np.arange(30) / 6)[:, None]
 crackle += np.stack([lp_fast(rng.normal(0, 1, LENGTH), 0.03)] * 2, 1) * 0.004
