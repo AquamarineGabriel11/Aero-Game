@@ -3,6 +3,7 @@
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:55**
 
 Clean version changes:
+- Pre-Final: "my **tits** pressed against your back" → "my **chest** pressed against your back"
 - Outro: "liquor, **drugs**, three copas deep" → "liquor, **whatever they were passing**, three copas deep"
 
 ---
@@ -56,7 +57,7 @@ Clean version changes:
 | I say *"okay… tomorrow"* every day, | yo digo *"ok… mañana"* todos los días, |
 | you used to say your heart would race whenever I posted, | decías que tu corazón se aceleraba cada vez que yo publicaba, |
 | now mine's the only heart still racing when you watch. | ahora el mío es el único que se acelera cuando tú miras. |
-| bought the lace set that you sent me as a joke, | me compré el conjunto de encaje que me mandaste de broma, |
+| bought the lace bra that you sent me as a joke, | me compré el brasier de encaje que me mandaste de broma, |
 | wore it to bed for nobody, then sent you one view-once, | me lo puse para dormir sin nadie, y luego te mandé una foto de ver una vez, |
 | low light, the mirror, all the parts I never show, | poca luz, el espejo, todo lo que nunca enseño, |
 | you opened it in seconds — opened, never answered, | la abriste en segundos — la abriste y nunca contestaste, |
@@ -107,7 +108,8 @@ Clean version changes:
 | My friends don't say *"just block 'em"* anymore, | Mis amigas ya no me dicen *"ya bloquéalo"*, |
 | I kept the ashtray full of every cigarette you smoked, | guardé el cenicero lleno de cada cigarro que fumaste, |
 | it still smells like the nights you didn't leave, | todavía huele a las noches en que no te ibas, |
-| I sleep in your hoodie with nothing underneath, | duermo con tu hoodie y nada debajo, |
+| I used to fall asleep with my tits pressed against your back, | me quedaba dormida con mis senos pegados a tu espalda, |
+| now I sleep in your hoodie with nothing underneath, | ahora duermo con tu hoodie y nada debajo, |
 | it's forgetting you, so I spray your perfume on the sleeves, | se está olvidando de ti, así que le echo tu perfume en las mangas, |
 | I try to undo you like a Windsor knot, | intento desatarte como un nudo Windsor, |
 | but every loop I pull just makes it tighter… | pero cada vuelta que jalo solo lo aprieta más… |
