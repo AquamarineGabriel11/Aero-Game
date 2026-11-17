@@ -56,8 +56,8 @@ no signal out here, and I don't check my phone.
 [Pre-Chorus 1]
 Paddle in the water, slow, devagar,
 the trees close in above us like a roof,
-you hold the compass up — "norte ou sul?" —
-I spin it in your hand… "I'm just following you."
+your three-reais compass stuck between the N and the S —
+"it's broken," you laugh. "No… we're the middle of the world."
 
 [Chorus]
 Hyacinth macaw, hyacinth macaw, (rema, rema)
