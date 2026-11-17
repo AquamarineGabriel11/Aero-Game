@@ -22,6 +22,7 @@ Ruta: `HND·LHR → MAO → NAP·ZRH·OSL·CDG → PEK·JFK → FTE·YYC·KTM �
 
 ## Pendientes
 - Chef's Kiss: letra (ideas: ratatouille, pasta fresca, harina, fondue, waffles noruegos/brunost, pizza napolitana, 🤌).
+  - Línea de Gabriel: "Envuélveme con ese amor y deseo de mantequilla a 180 grados" → `Wrap me in your love like butter at one-eighty, / melt me slow till I turn golden — beurre noisette…`
 - Demo de Seen con la letra final; grabación de la voz de Gabriel (subir a `seen-demo/`).
 - Portada de Seen en 3000×3000 (foto original sin texto, solo SEEN + GABRIEL).
 
