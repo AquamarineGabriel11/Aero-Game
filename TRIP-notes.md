@@ -21,6 +21,7 @@ Ruta: `HND·LHR → MAO → NAP·ZRH·OSL·CDG → PEK·JFK → FTE·YYC·KTM �
 - Logos de marcas solo como inspiración, no en material oficial.
 
 ## Pendientes
+- MV de Seen — escena del pastel (idea de Gabriel): video en B/N; lo único en color es un **pastel red velvet sabor vino tinto** (betún blanco, migajas, aceitunas de detalle). Secuencia: sentada en el piso con el pastel destrozado, mano en el cachete (aburrimiento), scrolleando TikTok dando like y compartiendo → comiendo migajas del piso con tenedor → revisa el chat, nada → no contesta: aprieta el pastel con el puño y lo pisa → final: mano con migajas junto al celular al 1%. Sin cara. Conecta con la línea `wine red as velvet…`.
 - MV de Seen (idea de Gabriel): primer plano de **morderse las uñas** (uñas naturales, SIN pintar; el paso de las noches se ve en uñas cada vez más mordidas) = las ansias de que te contesten. Sin mostrar la cara (solo boca/mano, luz del celular). Momentos: Verse 1 (tres puntitos que desaparecen), Pre-Chorus ("So I'm stupid, right?"), Final Chorus (uñas mordidas, celular al 1%).
 - Tekapo (idea de Gabriel): constelaciones y signos. Nuevo Verse 2 propuesto:
   `The guide says those clouds over there aren't clouds, / they're two whole galaxies hiding in the white, / Orion's upside down down here, like everything since you, / the Southern Cross still pointing sailors home, / and there's Virgo, your sign, rising slow above the lake, / Spica burning blue like it saved a place for you, / you'd have said the stars aligned tonight — / maybe they did, and you just couldn't make it.`
