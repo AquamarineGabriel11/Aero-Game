@@ -88,7 +88,7 @@ Clean version changes:
 | *"u up?"* in your handwriting, from the night that you stayed, | *"¿estás despierta?"* con tu letra, de la noche que te quedaste, |
 | I let the water roll my hips like it was you, | dejo que el agua me mueva la cadera como si fueras tú, |
 | slide down the tiles, low, pretending it's you, | me deslizo por los azulejos, hasta abajo, fingiendo que eres tú, |
-| red wine used to run from my collarbone down to my abs, | el vino tinto corría desde mi clavícula hasta mi abdomen, |
+| wine red as velvet used to run from my collarbone down to my abs, | vino rojo como terciopelo corría desde mi clavícula hasta mi abdomen, |
 | now it's only water running where the wine once ran — | ahora solo corre agua por donde antes corrió el vino — |
 | *déjà vu* of us… and it never fades. | *déjà vu* de nosotros… y nunca se borra. |
 
