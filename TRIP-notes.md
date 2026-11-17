@@ -21,12 +21,13 @@ Ruta: `HND·LHR → MAO → NAP·ZRH·OSL·CDG → PEK·JFK → FTE·YYC·KTM �
 - Logos de marcas solo como inspiración, no en material oficial.
 
 ## Pendientes
-- MV de Seen (idea de Gabriel): primer plano de **morderse las uñas** = las ansias de que te contesten. Sin mostrar la cara (solo boca/mano, luz del celular). Momentos: Verse 1 (tres puntitos que desaparecen), Pre-Chorus ("So I'm stupid, right?"), Final Chorus (uñas mordidas, celular al 1%).
+- MV de Seen (idea de Gabriel): primer plano de **morderse las uñas** (uñas naturales, SIN pintar; el paso de las noches se ve en uñas cada vez más mordidas) = las ansias de que te contesten. Sin mostrar la cara (solo boca/mano, luz del celular). Momentos: Verse 1 (tres puntitos que desaparecen), Pre-Chorus ("So I'm stupid, right?"), Final Chorus (uñas mordidas, celular al 1%).
 - Tekapo (idea de Gabriel): constelaciones y signos. Nuevo Verse 2 propuesto:
   `The guide says those clouds over there aren't clouds, / they're two whole galaxies hiding in the white, / Orion's upside down down here, like everything since you, / the Southern Cross still pointing sailors home, / and there's Virgo, your sign, rising slow above the lake, / Spica burning blue like it saved a place for you, / you'd have said the stars aligned tonight — / maybe they did, and you just couldn't make it.`
 - Chef's Kiss: letra (ideas: ratatouille, pasta fresca, harina, fondue, waffles noruegos/brunost, pizza napolitana, 🤌).
   - Línea de Gabriel: "Envuélveme con ese amor y deseo de mantequilla a 180 grados" → `Wrap me in your love like butter at one-eighty, / melt me slow till I turn golden — beurre noisette…`
   - Escena de cocina (nalgadita juguetona): `you catch me stealing sauce right off the wooden spoon, / a buttered hand, a little slap — "not yet, it isn't done" —`
+  - Lindor (Suiza / Zúrich — Lindt es de Kilchberg, junto a Zúrich): idea `you tempered chocolate on the marble with a spatula, / rolled it into Lindors — hard shell, soft center, / "that's the Swiss way," you said, "tough outside, then it melts," / and I bit down slow… and so did you.` (confirmar con Gabriel el utensilio: espátula o tenedor para bombones)
   - Tono de Chef's Kiss: **íntimo y seductor, pero un amor lindo y bonito** (nada vulgar ni forzado).
 - Demo de Seen con la letra final; grabación de la voz de Gabriel (subir a `seen-demo/`).
 - Portada de Seen en 3000×3000 (foto original sin texto, solo SEEN + GABRIEL).
