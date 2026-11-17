@@ -56,8 +56,8 @@ no signal out here, and I don't check my phone.
 [Pre-Chorus 1]
 Paddle in the water, slow, devagar,
 the trees close in above us like a roof,
-we're getting lost on purpose, and I don't care,
-there's only room for me and you…
+you hold the compass up — "norte ou sul?" —
+I spin it in your hand… "I'm just following you."
 
 [Chorus]
 Hyacinth macaw, hyacinth macaw, (rema, rema)
