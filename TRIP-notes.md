@@ -21,6 +21,7 @@ Ruta: `HND·LHR → MAO → NAP·ZRH·OSL·CDG → PEK·JFK → FTE·YYC·KTM �
 - Logos de marcas solo como inspiración, no en material oficial.
 
 ## Pendientes
+- MV de Seen (idea de Gabriel): primer plano de **morderse las uñas** = las ansias de que te contesten. Sin mostrar la cara (solo boca/mano, luz del celular). Momentos: Verse 1 (tres puntitos que desaparecen), Pre-Chorus ("So I'm stupid, right?"), Final Chorus (uñas mordidas, celular al 1%).
 - Tekapo (idea de Gabriel): constelaciones y signos. Nuevo Verse 2 propuesto:
   `The guide says those clouds over there aren't clouds, / they're two whole galaxies hiding in the white, / Orion's upside down down here, like everything since you, / the Southern Cross still pointing sailors home, / and there's Virgo, your sign, rising slow above the lake, / Spica burning blue like it saved a place for you, / you'd have said the stars aligned tonight — / maybe they did, and you just couldn't make it.`
 - Chef's Kiss: letra (ideas: ratatouille, pasta fresca, harina, fondue, waffles noruegos/brunost, pizza napolitana, 🤌).
