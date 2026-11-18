@@ -1,6 +1,6 @@
 # CHEF'S KISS — letra (v6)
 
-**TRIP · Track 03 · Borgoña → París · Zúrich · el norte**
+**TRIP · Track 03 · Burgundy → París · Zúrich · el norte**
 **Pop romántico retro** (inspiración de vibra: *Moonlit Floor* de LISA y las canciones de amor de finales de los 90) · ~100 BPM
 Idiomas: ~70% inglés · ~30% francés e italiano (las tradiciones de Suiza y Noruega se cuentan en inglés)
 
@@ -10,7 +10,7 @@ TRIP · Track 03
 
 [Verse 1]
 (starts straight in: acoustic guitar, autumn wind, leaves)
-Burgundy in October, the leaves gone red and gold,
+Burgundy in October, the fields all brown and bare,
 you swing the sacks of wheat up on your shoulder like they're light,
 "Coopérative, 1965" faded on the burlap,
 cold air on your arms, you smell like wheat and woodsmoke,
@@ -21,7 +21,7 @@ Still watching. Always, always.
 
 [Pre-Chorus]
 "Wait till you taste what this becomes,"
-you grind the wheat to gold,
+you grind the wheat down slow,
 farine falling soft like snow,
 and something in me knows…
 
@@ -49,12 +49,14 @@ sleeves pushed up, you fold it, press it, turn it,
 and I forget to breathe, I forget to breathe,
 you catch me staring — "viens ici" —
 you step behind me, your hands over mine,
-"comme ça… doucement…" — we make them together.
+"comme ça… doucement…" — we make them together,
+then your gray cat strolls across the counter,
+knocks a two-kilo sack down — flour everywhere — and we can't stop laughing.
 
 [Pre-Chorus 2]
 Wrap me up in you like dough,
 low fire, one-eighty, melt me slow,
-let me go golden — beurre noisette,
+let me turn caramel — beurre noisette,
 I steal the sugo off your wooden spoon,
 "spank me with your floury hands" — "pas encore…"
 
@@ -112,7 +114,7 @@ then the real one after.
 [Outro]
 (sunrise, the oven door, the crack of a crust)
 Oven mitts soft like little pillows,
-you pull the rolls out, warm and gold,
+you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
 comme ça…
@@ -136,6 +138,10 @@ mwah.
 | sugo | 🇮🇹 | SÚ-go | salsa italiana de tomate |
 | scarpetta | 🇮🇹 | skar-PÉT-ta | tradición de limpiar la salsa del plato con pan |
 | mon amour | 🇫🇷 | mon a-MUR | mi amor |
+
+## Paleta de colores (de Gabriel)
+Café chocolate oscuro · caramelo · crema · terracota · gris taupe — y el **gris** del gatito. Nada de rojo ni dorado.
+Referencias visuales: pan rústico, harina y trigo, suéteres de punto color crema, un gato gris en la panadería.
 
 ## Producción (paraíso retro)
 - Base: guitarra acústica rasgueada, bajo cálido, batería suave con escobillas.
