@@ -1,142 +1,190 @@
-# SEEN — letra final (Explicit)
+# SEEN — letra FINAL (Explicit)
 
-**TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:55**
+**TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:45**
+Idioma principal: inglés (con japonés) · **Explicit**
 
-Clean version changes:
-- Pre-Final: "my **tits** pressed against your back" → "my **chest** pressed against your back"
-- Outro: "liquor, **drugs**, three copas deep" → "liquor, **whatever they were passing**, three copas deep"
+**Versión clean:** `I used to sleep with my tits pressed to your back,` → `I used to sleep with my chest pressed to your back,`
 
----
+```text
+SEEN
+TRIP · Track 01 · HND · LHR
 
-## [Intro]
+[Intro]
+Seen, seen…
+kidoku, kidoku…
 
-| English | Español |
-|---|---|
-| *Seen… seen…* | *Visto… visto…* |
-| *Kidoku…* | *Kidoku…* (visto, en japonés) |
+[Verse 1]
+It's 2:47 and I'm still up,
+refresh, refresh, refresh again,
+you watched my story first tonight,
+but my text is still on "delivered."
+You're in Japan on the bullet train,
+Mount Fuji in your window frame,
+you told me you were going alone,
+so who's the second coffee for?
 
-## [Verse 1]
+[Pre-Chorus]
+I know, I know, I'm stupid,
+notifications on for you,
+and every time my phone lights up,
+it's never, never you…
 
-| English | Español |
-|---|---|
-| 2:47, I should be asleep by now, | 2:47, ya debería estar dormida, |
-| but my thumb keeps scrolling like it doesn't know how to stop, | pero mi pulgar sigue scrolleando como si no supiera parar, |
-| two hundred views on my story, and you're the first one there, | doscientas vistas en mi historia, y tú eres el primero ahí, |
-| WhatsApp says *"delivered,"* then nothing's there. | WhatsApp dice *"entregado"*, y luego nada. |
-| Then you posted Mount Fuji from the Shinkansen, | Luego subiste el Monte Fuji desde el Shinkansen, |
-| seat E, the window, two coffees on the tray — | asiento E, la ventana, dos cafés en la bandeja — |
-| funny, you told me you were going alone, | qué curioso, me dijiste que ibas solo, |
-| funny how a photo says the things you'd never say. | qué curioso cómo una foto dice lo que tú nunca dirías. |
+[Chorus]
+Seen, seen, you left me on seen,
+seen, seen, you left me on seen,
+you watch it all, you never reply,
+seen, seen, you left me on seen.
 
-## [Pre-Chorus]
+[Post-Chorus]
+Kidoku, kidoku,
+kidoku mushi,
+read it and leave it,
+kidoku, kidoku…
 
-| English | Español |
-|---|---|
-| So I'm stupid, right? I'm stupid, | Entonces soy tonta, ¿no? Soy tonta, |
-| I keep my notifications on for you, | tengo las notificaciones prendidas solo por ti, |
-| my whole mood's a number in the corner, | todo mi ánimo es un número en la esquina, |
-| and the number's never you… | y ese número nunca eres tú… |
+[Verse 2]
+My friends all say "just block 'em, babe,"
+I tell them "tomorrow" every day,
+I bought the lace bra you sent as a joke,
+wore it for nobody, then sent you one view-once,
+you opened it in a second, then nothing,
+refresh, refresh, still nothing,
+I'm a story you skip,
+a picture you don't keep.
 
-## [Chorus]
+[Pre-Chorus]
+I know, I know, I'm stupid,
+notifications on for you,
+and every time my phone lights up,
+it's never, never you…
 
-| English | Español |
-|---|---|
-| Seen, seen, you left me on seen, | Visto, visto, me dejaste en visto, |
-| two blue ticks and nothing in between, | dos palomitas azules y nada en medio, |
-| you watch every story, you just won't reply, | ves cada historia, solo que no quieres responder, |
-| even Fuji shows its face to the sky… | hasta el Fuji le muestra la cara al cielo… |
-| *some days.* | *algunos días.* |
-| Seen, seen, you left me on seen, | Visto, visto, me dejaste en visto, |
-| *kidoku, kidoku…* what does it mean? | *kidoku, kidoku…* ¿qué significa? |
+[Chorus]
+Seen, seen, you left me on seen,
+seen, seen, you left me on seen,
+you watch it all, you never reply,
+seen, seen, you left me on seen.
 
-## [Verse 2]
+[Post-Chorus]
+Kidoku, kidoku,
+kidoku mushi,
+read it and leave it,
+kidoku, kidoku…
 
-| English | Español |
-|---|---|
-| My friends all say *"just block 'em, babe,"* | Mis amigas me dicen *"ya bloquéalo, amiga"*, |
-| I say *"okay… tomorrow"* every day, | yo digo *"ok… mañana"* todos los días, |
-| you used to say your heart would race whenever I posted, | decías que tu corazón se aceleraba cada vez que yo publicaba, |
-| now mine's the only heart still racing when you watch. | ahora el mío es el único que se acelera cuando tú miras. |
-| bought the lace bra that you sent me as a joke, | me compré el brasier de encaje que me mandaste de broma, |
-| wore it to bed for nobody, then sent you one view-once, | me lo puse para dormir sin nadie, y luego te mandé una foto de ver una vez, |
-| low light, the mirror, all the parts I never show, | poca luz, el espejo, todo lo que nunca enseño, |
-| you opened it in seconds — opened, never answered, | la abriste en segundos — la abriste y nunca contestaste, |
-| like I'm something you just look at… then you're gone. | como si yo fuera algo que solo miras… y luego te vas. |
+[Verse 3]
+I shower just to leave my phone outside,
+"go freshen up" — like I could wash you off,
+the mirror fogs, your "u up?" comes back,
+the water on my hips, I pretend it's you,
+wine red as velvet used to run down to my abs,
+now it's only water, only water,
+déjà vu, déjà vu.
 
-## [Pre-Chorus 2]
+[Bridge]
+"Mind the gap" — I'm living in it,
+the Thames is gray like the ticks before they turned blue,
+changing of the guard at Buckingham,
+that's how fast you replaced me…
+replaced me…
 
-| English | Español |
-|---|---|
-| They've got a word for it in Tokyo, | En Tokio tienen una palabra para esto, |
-| *kidoku mushi* — read it, let it go, | *kidoku mushi*: lo lees y lo dejas ir, |
-| if a whole country needed a name for this ache, | si un país entero necesitó un nombre para este dolor, |
-| then I'm not crazy… I'm just awake. | entonces no estoy loca… solo estoy despierta. |
+[Pre-Final]
+I used to sleep with my tits pressed to your back,
+now it's your hoodie, nothing underneath,
+your perfume on the sleeves, your ashtray by the bed,
+I try to undo you like a Windsor knot,
+every pull, tighter, tighter…
 
-## [Chorus]
+[Final Chorus]
+Seen, seen, I'm still on seen,
+seen, seen, I'm still on seen,
+you watch it all, you'll never reply,
+seen, seen, I'm still on seen.
 
-*(igual que el primero / same as the first)*
+[Post-Chorus]
+Kidoku, kidoku,
+kidoku mushi,
+read it and leave it,
+kidoku, kidoku…
 
-## [Verse 3]
+[Outro]
+Sake, tequila, Bacardí,
+three copas deep and still it's you,
+I typed your name, deleted it,
+2:47 again… again…
+mata ne.
+```
 
-| English | Español |
-|---|---|
-| I take a shower just to leave my phone outside, | Me meto a bañar solo para dejar el celular afuera, |
-| hot water on my face so nobody can tell, | agua caliente en la cara para que nadie se dé cuenta, |
-| *"go freshen up,"* they say, like I can wash you off, | *"ve a refrescarte"*, me dicen, como si pudiera lavarte de mí, |
-| but the towel you left still won't let go of your smell. | pero la toalla que dejaste todavía no suelta tu olor. |
-| Then the mirror fogs, and there it is again — | Luego el espejo se empaña, y ahí está otra vez — |
-| *"u up?"* in your handwriting, from the night that you stayed, | *"¿estás despierta?"* con tu letra, de la noche que te quedaste, |
-| I let the water roll my hips like it was you, | dejo que el agua me mueva la cadera como si fueras tú, |
-| slide down the tiles, low, pretending it's you, | me deslizo por los azulejos, hasta abajo, fingiendo que eres tú, |
-| wine red as velvet used to run from my collarbone down to my abs, | vino rojo como terciopelo corría desde mi clavícula hasta mi abdomen, |
-| now it's only water running where the wine once ran — | ahora solo corre agua por donde antes corrió el vino — |
-| *déjà vu* of us… and it never fades. | *déjà vu* de nosotros… y nunca se borra. |
+## Traducción al español (para entender, no para cantar)
 
-## [Bridge]
+```text
+[Intro]
+Visto, visto… / kidoku, kidoku… (visto, en japonés)
 
-| English | Español |
-|---|---|
-| *"Mind the gap,"* the Tube says — I live inside it now, | *"Cuidado con el hueco"*, dice el metro — ahora vivo dentro de él, |
-| the Thames is gray like the ticks before they turned blue, | el Támesis está gris como las palomitas antes de ponerse azules, |
-| changing of the guard outside Buckingham — | el cambio de guardia afuera de Buckingham — |
-| that's how fast you swapped me out for someone new. | así de rápido me cambiaste por alguien nuevo. |
+[Verso 1]
+Son las 2:47 y sigo despierta,
+actualizar, actualizar, actualizar otra vez,
+viste mi historia primero esta noche,
+pero mi mensaje sigue en "entregado".
+Estás en Japón en el tren bala,
+el Monte Fuji en el marco de tu ventana,
+me dijiste que ibas solo,
+¿entonces para quién es el segundo café?
 
-## [Pre-Final]
+[Pre-Coro]
+Ya sé, ya sé, soy tonta,
+notificaciones prendidas por ti,
+y cada vez que mi celular se ilumina,
+nunca, nunca eres tú…
 
-| English | Español |
-|---|---|
-| My friends don't say *"just block 'em"* anymore, | Mis amigas ya no me dicen *"ya bloquéalo"*, |
-| I kept the ashtray full of every cigarette you smoked, | guardé el cenicero lleno de cada cigarro que fumaste, |
-| it still smells like the nights you didn't leave, | todavía huele a las noches en que no te ibas, |
-| I used to fall asleep with my tits pressed against your back, | me quedaba dormida con mis senos pegados a tu espalda, |
-| now I sleep in your hoodie with nothing underneath, | ahora duermo con tu hoodie y nada debajo, |
-| it's forgetting you, so I spray your perfume on the sleeves, | se está olvidando de ti, así que le echo tu perfume en las mangas, |
-| I try to undo you like a Windsor knot, | intento desatarte como un nudo Windsor, |
-| but every loop I pull just makes it tighter… | pero cada vuelta que jalo solo lo aprieta más… |
+[Coro]
+Visto, visto, me dejaste en visto (x2),
+lo ves todo, nunca contestas,
+visto, visto, me dejaste en visto.
 
-## [Final Chorus]
+[Post-Coro]
+Kidoku, kidoku, / kidoku mushi (dejar en visto), / lo lees y lo dejas, / kidoku, kidoku…
 
-| English | Español |
-|---|---|
-| Seen, seen, I'm still on seen, | Visto, visto, sigo en visto, |
-| two blue ticks and nothing in between, | dos palomitas azules y nada en medio, |
-| you watch every story, you'll never reply, | ves cada historia, nunca vas a responder, |
-| and Fuji's hiding its face from the sky… | y el Fuji esconde su cara del cielo… |
-| *not today.* | *hoy no.* |
-| Seen, seen, you left me on seen, | Visto, visto, me dejaste en visto, |
-| *kidoku, kidoku…* I know what it means. | *kidoku, kidoku…* ya sé lo que significa. |
+[Verso 2]
+Mis amigas me dicen "ya bloquéalo, amiga",
+yo les digo "mañana" todos los días,
+me compré el brasier de encaje que me mandaste de broma,
+me lo puse para nadie y te mandé una foto de ver una vez,
+la abriste en un segundo, y luego nada,
+actualizar, actualizar, sigue sin nada,
+soy una historia que te saltas,
+una foto que no guardas.
 
-## [Outro]
+[Verso 3]
+Me baño solo para dejar el celular afuera,
+"ve a refrescarte", como si pudiera lavarte de mí,
+el espejo se empaña y tu "¿estás despierta?" regresa,
+el agua en mi cadera, finjo que eres tú,
+vino rojo como terciopelo bajaba hasta mi abdomen,
+ahora solo es agua, solo agua,
+déjà vu, déjà vu.
 
-| English | Español |
-|---|---|
-| Sake from the corner store, tequila, a little Bacardí, | Sake de la tienda de la esquina, tequila, un poco de Bacardí, |
-| liquor, drugs, three *copas* deep, and you're still all I see, | licor, drogas, tres copas encima, y tú sigues siendo lo único que veo, |
-| drunk-typed your name, 2:47 again, deleted it, typed it again… | te escribí borracha, otra vez a las 2:47, lo borré, lo volví a escribir… |
-| *Mata ne…* | *Mata ne…* (nos vemos) |
-| see you… | nos vemos… |
-| *[battery 1% — the phone slips — the screen goes dark]* | *[batería al 1% — el celular se resbala — la pantalla se apaga]* |
+[Puente]
+"Cuidado con el hueco": vivo dentro de él,
+el Támesis está gris como las palomitas antes de ponerse azules,
+el cambio de guardia en Buckingham,
+así de rápido me reemplazaste… me reemplazaste…
 
----
+[Pre-Final]
+Dormía con mis senos pegados a tu espalda,
+ahora es tu hoodie, y nada debajo,
+tu perfume en las mangas, tu cenicero junto a la cama,
+intento desatarte como un nudo Windsor,
+cada jalón, más apretado, más apretado…
 
-**Pronunciación:** *kidoku* → ki-DÓ-ku · *kidoku mushi* → ki-DÓ-ku MÚ-shi · *mata ne* → MA-ta ne · *Shinkansen* → shin-KAN-sen · *sake* → SA-ke
+[Coro Final]
+Visto, visto, sigo en visto (x2),
+lo ves todo, nunca vas a contestar,
+visto, visto, sigo en visto.
+
+[Outro]
+Sake, tequila, Bacardí,
+tres copas encima y sigues siendo tú,
+escribí tu nombre, lo borré,
+2:47 otra vez… otra vez…
+mata ne (nos vemos).
+```
+
+**Pronunciación:** kidoku → ki-DÓ-ku · kidoku mushi → ki-DÓ-ku MÚ-shi · mata ne → MA-ta ne
