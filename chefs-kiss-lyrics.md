@@ -1,4 +1,4 @@
-# CHEF'S KISS — letra (v1)
+# CHEF'S KISS — letra (v2)
 
 **TRIP · Track 03 · NAP · ZRH · OSL · CDG · pop-R&B · ~108 BPM**
 
@@ -7,81 +7,104 @@ CHEF'S KISS
 TRIP · Track 03 · NAP · ZRH · OSL · CDG
 
 [Intro]
-(oil sizzling, a knife on wood keeping time, the oven timer — ding)
-chef's kiss… mwah.
+(oil sizzling, a knife on wood keeping time, the oven — ding)
+mwah…
+chef's kiss…
 
 [Verse 1]
-Paris after midnight, flour on the counter,
-the tower in the window sparkling on the hour,
-you lay out every bowl like it's a little altar —
-mise en place, you say it's all in place when I'm around.
-Wrap me in your love like butter at one-eighty,
-melt me slow till I turn golden — beurre noisette,
-ratatouille in a spiral, every slice in order,
-you're a Virgo, so of course it's perfect.
+Flour on your shirt, both hands in the dough,
+the Eiffel blinking in the window,
+ratatouille in a spiral, every slice in line,
+such a Virgo, such a Virgo.
+Butter at one-eighty, melt me slow,
+let me go golden — beurre noisette,
+you don't rush a thing you love,
+you don't rush me, you don't rush me.
 
-[Pre-Chorus 1]
-You catch me stealing sauce right off the wooden spoon,
-a buttered hand, a little slap — "not yet, it isn't done,"
-I lick it off my finger, you pretend you're mad,
-then you taste it off my lips instead…
+[Pre-Chorus]
+I steal the sauce right off your wooden spoon,
+buttered hand, a little slap — "not yet,"
+then you kiss it off my lips
+and whisper, "now it's done"…
 
 [Chorus]
 Chef's kiss, chef's kiss,
-fingers to my lips, then the real one after,
-you cook like you love me, and you love like you cook,
-slow fire, no rush, a little salt, a little sugar,
+you cook like you love me,
 chef's kiss, chef's kiss,
-perfetto — every single bite.
+you love like you cook,
+slow fire, no rush,
+a little salt, a lot of sugar,
+chef's kiss, chef's kiss (mwah),
+perfetto.
+
+[Post-Chorus]
+Perfetto, perfetto,
+fingers to my lips (mwah),
+perfetto, perfetto,
+then the real one after.
 
 [Verse 2]
-Naples in the morning, cranking pasta through the roller,
-ribbons of tagliatelle drying on a broom,
-pizza in the wood fire, ninety seconds, blistered,
-basil on my tongue — you say I'm al dente, just the right amount of bite.
-Then Zürich, snowing, you tempered chocolate on the marble,
-rolled it into Lindors — hard shell, soft center,
-"that's the Swiss way," you said, "tough outside, then it melts,"
-and I bit down slow… and so did you.
+Naples in the morning, pasta through the roller,
+pizza in the fire, ninety seconds and it's done,
+you put basil on my tongue and call me al dente —
+"just enough bite," just enough bite.
+That winter in Zürich, chocolate on the marble,
+you smooth it with a spatula, roll it into Lindors,
+hard on the outside, melting in the middle,
+"that's the Swiss way" — I bite slow, so do you.
 
 [Pre-Chorus 2]
-One pot of fondue, two forks, and a rule:
-drop your bread into the cheese, you owe a kiss —
-I lose mine on purpose, every single time,
+One pot, two forks, and a little rule:
+drop your bread in the cheese, you owe a kiss,
+so I drop it, drop it, drop it,
 and you never make me ask…
 
 [Chorus]
 Chef's kiss, chef's kiss,
-fingers to my lips, then the real one after,
-you cook like you love me, and you love like you cook,
-slow fire, no rush, a little salt, a little sugar,
+you cook like you love me,
 chef's kiss, chef's kiss,
-perfetto — every single bite.
+you love like you cook,
+slow fire, no rush,
+a little salt, a lot of sugar,
+chef's kiss, chef's kiss (mwah),
+perfetto.
+
+[Post-Chorus]
+Perfetto, perfetto,
+fingers to my lips (mwah),
+perfetto, perfetto,
+then the real one after.
 
 [Bridge]
-(everything drops: a fiddle, the wind outside, a fork on a plate)
-Oslo, minus ten, the windows full of frost,
-heart-shaped waffles stacked like little valentines,
-brunost melting sweet like caramel on top,
-you raise your glass — "skål" — and hold my eyes,
-they say up here you never look away when you toast…
-and you never did.
+(everything drops: a fiddle, snow against the glass, a fork on a plate)
+Oslo, snow on the windows,
+waffles shaped like hearts,
+brunost melting sweet as caramel,
+you raise your glass — "skål" —
+up here you hold their eyes when you toast…
+and you never look away,
+you never look away.
 
 [Final Chorus]
-(the kitchen comes back to life: claps, pans, choirs)
+(the kitchen comes back: claps, pans, choirs)
 Chef's kiss, chef's kiss,
-fingers to my lips, then the real one after,
-you cook like you love me, and you love like you cook,
-slow fire, no rush, a little salt, a little sugar,
+you cook like you love me,
 chef's kiss, chef's kiss,
-perfetto — every single bite,
-chef's kiss, chef's kiss,
-save me the last one tonight.
+you love like you cook,
+slow fire, no rush,
+save me the last bite,
+chef's kiss, chef's kiss (mwah),
+perfetto.
+
+[Post-Chorus]
+Perfetto, perfetto,
+fingers to my lips (mwah),
+perfetto, perfetto,
+then the real one after.
 
 [Outro]
-(the oven timer — ding, laughter, plates)
-perfetto…
-chef's kiss… mwah.
+(the oven — ding, laughter, plates)
+mwah.
 ```
 
-**Pronunciación:** *mise en place* → miz-on-PLAS · *beurre noisette* → ber nua-SET · *perfetto* → per-FÉT-to · *al dente* → al DÉN-te · *tagliatelle* → ta-lya-TÉ-le · *brunost* → BRÚN-ust · *skål* → SKOL
+**Pronunciación:** beurre noisette → ber nua-SÉT · perfetto → per-FÉT-to · al dente → al DÉN-te · brunost → BRÚN-ust · skål → SKOL · Zürich → TSÚ-rij
