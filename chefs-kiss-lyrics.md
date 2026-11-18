@@ -13,7 +13,7 @@ TRIP · Track 03
 Burgundy in August, wheat up to my waist,
 you swing the sacks up on your shoulder like they're light,
 "Coopérative, 1965" faded on the burlap,
-sun along your arms, gold in every line,
+sun along your arms, you smell like wheat and summer,
 I could watch you work all day,
 I could watch you, I could watch you,
 you turn around and laugh — "tu regardes encore?"
@@ -43,20 +43,20 @@ then the real one after.
 
 [Verse 2]
 Paris, the bakery before the city wakes,
-ovens breathing, flour floating in the light,
+warm wheat in the air, it gets into my clothes,
+flour in your beard, that thin moustache, still so young,
 sleeves pushed up, you fold it, press it, turn it,
-the heel of your hand, the strength in your arms,
 and I forget to breathe, I forget to breathe,
 you catch me staring — "viens ici" —
 you step behind me, your hands over mine,
-"comme ça… doucement…" and I'm gone.
+"comme ça… doucement…" — we make them together.
 
 [Pre-Chorus 2]
 Wrap me up in you like dough,
 low fire, one-eighty, melt me slow,
 let me go golden — beurre noisette,
 I steal a taste right off your spoon,
-a buttered hand, a little slap — "pas encore…"
+"spank me with your floury hands" — "pas encore…"
 
 [Chorus]
 Chef's kiss, chef's kiss,
@@ -110,9 +110,10 @@ piano, piano,
 then the real one after.
 
 [Outro]
-(sunrise, a paper bag, the crack of a crust)
-Baguettes in a paper bag,
-you break one open, steam across my face…
+(sunrise, the oven door, the crack of a crust)
+Oven mitts soft like little pillows,
+you pull the rolls out, warm and gold,
+steam across my face, the whole room smells like you…
 comme ça…
 mwah.
 ```
