@@ -123,3 +123,9 @@ só pra frente…
 ## Próximo proyecto (si TRIP funciona): EP "Díaz"
 - Título: **Díaz**, el apellido de Gabriel → un EP personal, "regresar a casa" después del viaje de TRIP.
 - Pendiente definir: concepto, número de canciones (3–6), idioma (posible español), vibra.
+- Después de "Díaz": un **EP/álbum de verano** (pendiente: título y concepto).
+
+## Ruta de proyectos
+1. TRIP (álbum) — singles Seen (18 dic 2026) y Chef's Kiss (12 feb 2027)
+2. Díaz (EP personal)
+3. Proyecto de verano (EP o álbum)
