@@ -1,6 +1,6 @@
 # CHEF'S KISS — letra (v5, Francia al centro + tradiciones de Suiza y Noruega)
 
-**TRIP · Track 03 · Borgoña → París · Zúrich · el norte · pop-R&B · ~108 BPM**
+**TRIP · Track 03 · Borgoña → París · Zúrich · el norte · pop romántico retro (inspiración de vibra: *Moonlit Floor* de LISA y las canciones de amor de finales de los 90) · ~100 BPM**
 Idiomas: ~70% inglés · ~30% francés e italiano (sin noruego; las tradiciones de Suiza y Noruega se cuentan en inglés)
 
 ```text
