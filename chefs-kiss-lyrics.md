@@ -55,7 +55,7 @@ you step behind me, your hands over mine,
 Wrap me up in you like dough,
 low fire, one-eighty, melt me slow,
 let me go golden — beurre noisette,
-I steal a taste right off your spoon,
+I steal the sugo off your wooden spoon,
 "spank me with your floury hands" — "pas encore…"
 
 [Chorus]
@@ -113,6 +113,7 @@ then the real one after.
 (sunrise, the oven door, the crack of a crust)
 Oven mitts soft like little pillows,
 you pull the rolls out, warm and gold,
+we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
 comme ça…
 mwah.
@@ -132,6 +133,8 @@ mwah.
 | beurre noisette | 🇫🇷 | ber nua-SÉT | mantequilla dorada |
 | pas encore | 🇫🇷 | pa an-KOR | todavía no |
 | amore | 🇮🇹 | a-MÓ-re | amor |
+| sugo | 🇮🇹 | SÚ-go | salsa italiana de tomate |
+| scarpetta | 🇮🇹 | skar-PÉT-ta | tradición de limpiar la salsa del plato con pan |
 | mon amour | 🇫🇷 | mon a-MUR | mi amor |
 
 ## Producción (paraíso retro)
