@@ -52,7 +52,8 @@ you step behind me, your hands over mine,
 "comme ça… doucement…" and I'm gone.
 
 [Pre-Chorus 2]
-Butter at one-eighty, melt me slow,
+Wrap me up in you like dough,
+low fire, one-eighty, melt me slow,
 let me go golden — beurre noisette,
 I steal a taste right off your spoon,
 a buttered hand, a little slap — "pas encore…"
