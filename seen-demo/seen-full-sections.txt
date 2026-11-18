@@ -4,15 +4,14 @@ Seen - full demo map (88 BPM, C major)
 0:05  Verse 1
 0:27  Pre-Chorus 1
 0:38  Chorus
-0:59  Post-Chorus
-1:10  Verse 2
-1:32  Pre-Chorus 2
-1:43  Chorus
-2:05  Post-Chorus
-2:16  Verse 3 (shower)
-2:38  Bridge
-3:00  Pre-Final
-3:10  Final Chorus
-3:32  Post-Chorus
-3:43  Outro
-3:54  end
+0:59  Verse 2
+1:21  Pre-Chorus 2
+1:32  Chorus
+1:54  Post-Chorus
+2:05  Verse 3 (shower)
+2:27  Bridge
+2:49  Pre-Final
+3:00  Final Chorus
+3:21  Post-Chorus
+3:32  Outro
+3:43  end

@@ -23,7 +23,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 and I'm still up,
+It's 2:47 in London and I'm still up,
 refresh, refresh, refresh again,
 you watched my story first tonight,
 but my text is still on "delivered."
@@ -44,19 +44,12 @@ seen, seen, you left me on seen,
 you watch it all, you never reply,
 seen, seen, you left me on seen.
 
-[Post-Chorus]
-Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
-kidoku, kidoku…
-
 [Verse 2]
 My friends all say "just block 'em, babe,"
 I tell them "tomorrow" every day,
-I bought the lace bra you sent as a joke,
-wore it for nobody, then sent you one view-once,
-you opened it in a second, then nothing,
-refresh, refresh, still nothing,
+lace bra you sent me as a joke —
+wore it for nobody, sent it view-once,
+you opened it in a second — and that was it,
 I'm a story you skip,
 a picture you don't keep.
 
@@ -74,8 +67,9 @@ seen, seen, you left me on seen.
 
 [Post-Chorus]
 Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
+ki-do-ku mu-shi,
+read it, leave it,
+read it, leave it,
 kidoku, kidoku…
 
 [Verse 3]
@@ -102,15 +96,18 @@ I try to undo you like a Windsor knot,
 every pull, tighter, tighter…
 
 [Final Chorus]
+(just voice and piano)
 Seen, seen, I'm still on seen,
 seen, seen, I'm still on seen,
+(everything comes back)
 you watch it all, you'll never reply,
 seen, seen, I'm still on seen.
 
 [Post-Chorus]
 Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
+ki-do-ku mu-shi,
+read it, leave it,
+read it, leave it,
 kidoku, kidoku…
 
 [Outro]

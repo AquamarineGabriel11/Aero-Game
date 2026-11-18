@@ -1,7 +1,7 @@
 """Seen - full-length demo instrumental (v2, "10/10" arrangement).
 
 88 BPM, C major. Section map:
-  Intro 2 | Verse1 8 | Pre1 4 | Chorus 8 | Post 4 | Verse2 8 | Pre2 4 | Chorus 8 | Post 4 |
+  Intro 2 | Verse1 8 | Pre1 4 | Chorus 8 | Verse2 8 | Pre2 4 | Chorus 8 | Post 4 |
   Verse3 (shower) 8 | Bridge 8 | Pre-final 4 | Final chorus 8 | Post 4 | Outro 4
 
 Outputs next to this script:
@@ -38,7 +38,7 @@ BR = ["Fmaj7", "Em7", "Dm7", "Cmaj7"]
 
 SECTIONS = [  # name, bars, progression
     ("Intro", 2, ["Fmaj7", "G6"]),
-    ("Verse 1", 8, VS), ("Pre-Chorus 1", 4, PR), ("Chorus", 8, CH), ("Post-Chorus", 4, CH),
+    ("Verse 1", 8, VS), ("Pre-Chorus 1", 4, PR), ("Chorus", 8, CH),
     ("Verse 2", 8, VS), ("Pre-Chorus 2", 4, PR), ("Chorus", 8, CH), ("Post-Chorus", 4, CH),
     ("Verse 3 (shower)", 8, VS), ("Bridge", 8, BR), ("Pre-Final", 4, ["Fmaj7", "G6"]),
     ("Final Chorus", 8, CH), ("Post-Chorus", 4, CH), ("Outro", 4, ["Fmaj7", "Fmaj7"]),
@@ -265,7 +265,7 @@ for name, nbars, prog in SECTIONS:
             for i, m in enumerate(voicing):
                 place(pd, pad(m + 12 if sec == "Bridge" else m, 4.0, pv), b2s(bb), -0.5 + 0.33 * i)
         # bass
-        if sec not in ("Intro", "Bridge", "Pre-Final", "Outro"):
+        if sec not in ("Intro", "Bridge", "Pre-Final", "Outro") and not (sec == "Final Chorus" and k < 4):
             bv = 0.55 if sec.startswith("Verse 1") else 0.8
             place(bs, bass(root, 1.4, bv), b2s(bb))
             place(bs, bass(root, 0.9, bv * .85), b2s(bb + 2.5))
@@ -278,7 +278,7 @@ for name, nbars, prog in SECTIONS:
         # drums
         chorus_bar = k
         if sec in ("Chorus", "Final Chorus", "Post-Chorus"):
-            if False:
+            if sec == "Final Chorus" and chorus_bar < 4:  # voice + piano only
                 pass
             else:
                 g = 0.85 if sec == "Final Chorus" else 1.0

@@ -1,4 +1,4 @@
-# SEEN — letra FINAL (Explicit)
+# SEEN — letra FINAL v2 (Explicit)
 
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:45**
 Idioma principal: inglés (con japonés) · **Explicit**
@@ -14,7 +14,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 and I'm still up,
+It's 2:47 in London and I'm still up,
 refresh, refresh, refresh again,
 you watched my story first tonight,
 but my text is still on "delivered."
@@ -35,19 +35,12 @@ seen, seen, you left me on seen,
 you watch it all, you never reply,
 seen, seen, you left me on seen.
 
-[Post-Chorus]
-Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
-kidoku, kidoku…
-
 [Verse 2]
 My friends all say "just block 'em, babe,"
 I tell them "tomorrow" every day,
-I bought the lace bra you sent as a joke,
-wore it for nobody, then sent you one view-once,
-you opened it in a second, then nothing,
-refresh, refresh, still nothing,
+lace bra you sent me as a joke —
+wore it for nobody, sent it view-once,
+you opened it in a second — and that was it,
 I'm a story you skip,
 a picture you don't keep.
 
@@ -65,8 +58,9 @@ seen, seen, you left me on seen.
 
 [Post-Chorus]
 Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
+ki-do-ku mu-shi,
+read it, leave it,
+read it, leave it,
 kidoku, kidoku…
 
 [Verse 3]
@@ -93,15 +87,18 @@ I try to undo you like a Windsor knot,
 every pull, tighter, tighter…
 
 [Final Chorus]
+(just voice and piano)
 Seen, seen, I'm still on seen,
 seen, seen, I'm still on seen,
+(everything comes back)
 you watch it all, you'll never reply,
 seen, seen, I'm still on seen.
 
 [Post-Chorus]
 Kidoku, kidoku,
-kidoku mushi,
-read it and leave it,
+ki-do-ku mu-shi,
+read it, leave it,
+read it, leave it,
 kidoku, kidoku…
 
 [Outro]
@@ -119,7 +116,7 @@ mata ne.
 Visto, visto… / kidoku, kidoku… (visto, en japonés)
 
 [Verso 1]
-Son las 2:47 y sigo despierta,
+Son las 2:47 en Londres y sigo despierta,
 actualizar, actualizar, actualizar otra vez,
 viste mi historia primero esta noche,
 pero mi mensaje sigue en "entregado".
@@ -140,15 +137,14 @@ lo ves todo, nunca contestas,
 visto, visto, me dejaste en visto.
 
 [Post-Coro]
-Kidoku, kidoku, / kidoku mushi (dejar en visto), / lo lees y lo dejas, / kidoku, kidoku…
+Kidoku, kidoku, / kidoku mushi (dejar en visto), / léelo, déjalo, / léelo, déjalo, / kidoku, kidoku…
 
 [Verso 2]
 Mis amigas me dicen "ya bloquéalo, amiga",
 yo les digo "mañana" todos los días,
-me compré el brasier de encaje que me mandaste de broma,
-me lo puse para nadie y te mandé una foto de ver una vez,
-la abriste en un segundo, y luego nada,
-actualizar, actualizar, sigue sin nada,
+el brasier de encaje que me mandaste de broma,
+me lo puse para nadie y te lo mandé en foto de ver una vez,
+la abriste en un segundo, y eso fue todo,
 soy una historia que te saltas,
 una foto que no guardas.
 
