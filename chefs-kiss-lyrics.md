@@ -9,11 +9,11 @@ CHEF'S KISS
 TRIP · Track 03
 
 [Verse 1]
-(starts straight in: acoustic guitar, wind through wheat)
-Burgundy in August, wheat up to my waist,
-you swing the sacks up on your shoulder like they're light,
+(starts straight in: acoustic guitar, autumn wind, leaves)
+Burgundy in October, the leaves gone red and gold,
+you swing the sacks of wheat up on your shoulder like they're light,
 "Coopérative, 1965" faded on the burlap,
-sun along your arms, you smell like wheat and summer,
+cold air on your arms, you smell like wheat and woodsmoke,
 I could watch you work all day,
 I could watch you, I could watch you,
 you turn around and laugh — "tu regardes encore?"
