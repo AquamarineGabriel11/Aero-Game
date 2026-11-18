@@ -1,111 +1,111 @@
-# CHEF'S KISS — letra (v5, Francia al centro + tradiciones de Suiza y Noruega)
+# CHEF'S KISS — letra (v6)
 
-**TRIP · Track 03 · Borgoña → París · Zúrich · el norte · pop romántico retro (inspiración de vibra: *Moonlit Floor* de LISA y las canciones de amor de finales de los 90) · ~100 BPM**
-Idiomas: ~70% inglés · ~30% francés e italiano (sin noruego; las tradiciones de Suiza y Noruega se cuentan en inglés)
+**TRIP · Track 03 · Borgoña → París · Zúrich · el norte**
+**Pop romántico retro** (inspiración de vibra: *Moonlit Floor* de LISA y las canciones de amor de finales de los 90) · ~100 BPM
+Idiomas: ~70% inglés · ~30% francés e italiano (las tradiciones de Suiza y Noruega se cuentan en inglés)
 
 ```text
 CHEF'S KISS
 TRIP · Track 03
 
 [Verse 1]
-(starts straight in: wind through wheat, a burlap sack hitting the ground)
+(starts straight in: acoustic guitar, wind through wheat)
 Burgundy in August, wheat up to my waist,
-you carry the sacks like they weigh nothing at all,
-"Coopérative, 1965" stamped across the burlap,
-sun on your shoulders, sweat down your arms,
+you swing the sacks up on your shoulder like they're light,
+"Coopérative, 1965" faded on the burlap,
+sun along your arms, gold in every line,
 I could watch you work all day,
 I could watch you, I could watch you,
-you look back and laugh — "tu regardes encore?"
-Still watching? Always, always.
+you turn around and laugh — "tu regardes encore?"
+Still watching. Always, always.
 
 [Pre-Chorus]
 "Wait till you taste what this becomes,"
-you say, and grind it into gold,
-farine like snow across my skin,
-and I already know…
+you grind the wheat to gold,
+farine falling soft like snow,
+and something in me knows…
 
 [Chorus]
 Chef's kiss, chef's kiss,
 doucement, piano piano,
 you knead me like the dough,
-slow hands, strong arms,
+slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
-you love like you cook —
+you love me like you cook —
 perfetto.
 
 [Post-Chorus]
-Comme ça, comme ça (mwah),
+Comme ça, comme ça,
+fingers to my lips (mwah),
 piano, piano,
-comme ça, comme ça,
 then the real one after.
 
 [Verse 2]
-Paris, the bakery before it opens,
-ovens breathing, flour hanging in the air,
+Paris, the bakery before the city wakes,
+ovens breathing, flour floating in the light,
 sleeves pushed up, you fold it, press it, turn it,
-the heel of your hand, the weight of your arms,
+the heel of your hand, the strength in your arms,
 and I forget to breathe, I forget to breathe,
 you catch me staring — "viens ici" —
-you stand behind me, your hands over mine,
-"comme ça, doucement," and I melt.
+you step behind me, your hands over mine,
+"comme ça… doucement…" and I'm gone.
 
 [Pre-Chorus 2]
 Butter at one-eighty, melt me slow,
 let me go golden — beurre noisette,
 I steal a taste right off your spoon,
-buttered hand, a little slap — "pas encore…"
+a buttered hand, a little slap — "pas encore…"
 
 [Chorus]
 Chef's kiss, chef's kiss,
 doucement, piano piano,
 you knead me like the dough,
-slow hands, strong arms,
+slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
-you love like you cook —
+you love me like you cook —
 perfetto.
 
 [Post-Chorus]
-Comme ça, comme ça (mwah),
+Comme ça, comme ça,
+fingers to my lips (mwah),
 piano, piano,
-comme ça, comme ça,
 then the real one after.
 
 [Verse 3]
-That winter in Zürich, one pot, two forks,
-drop your bread in the cheese and you owe a kiss,
+Zürich in December, one pot, two forks,
+drop your bread in the cheese and you owe a kiss —
 so I drop it, drop it, drop it,
-you never make me ask.
+and you never make me ask.
 Chocolate on the marble, you roll it into Lindors,
-hard on the outside, melting in the middle,
-like you, like you.
+hard outside, soft inside — just like you.
 
 [Bridge]
-(everything drops: snow against the glass, a fork on a plate, an accordion far away)
-Up north, the same flour turns to waffles shaped like hearts,
-brown cheese melting sweet as caramel,
-we raise our glasses the way they do up there —
-eyes locked, you never look away,
+(everything slows: accordion, snow against the glass, a fork on a plate)
+Up north, the windows white with frost,
+the same flour turned to waffles shaped like hearts,
+we raise our glasses like they do up there —
+eyes locked, and you never look away,
 you never look away…
-"amore," you whisper, then "mon amour,"
+"amore," then "mon amour,"
 two languages, one mouth on mine.
 
 [Final Chorus]
-(the whole bakery wakes up: claps, ovens, choirs)
+(key change up: strings, handclaps, every voice in the bakery)
 Chef's kiss, chef's kiss,
 doucement, piano piano,
 you knead me like the dough,
-slow hands, strong arms,
+slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
 save me the last bite —
 perfetto.
 
 [Post-Chorus]
-Comme ça, comme ça (mwah),
+Comme ça, comme ça,
+fingers to my lips (mwah),
 piano, piano,
-comme ça, comme ça,
 then the real one after.
 
 [Outro]
@@ -116,7 +116,7 @@ comme ça…
 mwah.
 ```
 
-## Francés e italiano de la canción
+## Francés e italiano
 
 | Palabra | Idioma | Se dice | Significa |
 |---|---|---|---|
@@ -132,7 +132,9 @@ mwah.
 | amore | 🇮🇹 | a-MÓ-re | amor |
 | mon amour | 🇫🇷 | mon a-MUR | mi amor |
 
-## Tradiciones (contadas en inglés)
-
-- 🇨🇭 **Suiza:** la regla del fondue (si se te cae el pan en el queso, debes un beso) y el chocolate temperado en mármol para hacer Lindors.
-- 🇳🇴 **Noruega:** los waffles en forma de corazón, el queso café (*brunost*) que sabe a caramelo y la costumbre de **mirarse a los ojos al brindar**.
+## Producción (paraíso retro)
+- Base: guitarra acústica rasgueada, bajo cálido, batería suave con escobillas.
+- Brillo: glockenspiel o celesta en los coros, "ooh" de fondo.
+- Coros: cuerdas (violines y chelo).
+- Bridge: todo baja, acordeón lejano.
+- **Coro final con cambio de tonalidad** (sube un tono): el truco clásico de las canciones de amor de antes para el momento más feliz.
