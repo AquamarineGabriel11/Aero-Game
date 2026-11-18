@@ -1,4 +1,4 @@
-# CHEF'S KISS — letra (v2)
+# CHEF'S KISS — letra (v3)
 
 **TRIP · Track 03 · NAP · ZRH · OSL · CDG · pop-R&B · ~108 BPM**
 
@@ -6,16 +6,12 @@
 CHEF'S KISS
 TRIP · Track 03 · NAP · ZRH · OSL · CDG
 
-[Intro]
-(oil sizzling, a knife on wood keeping time, the oven — ding)
-mwah…
-chef's kiss…
-
 [Verse 1]
+(starts straight in: oil sizzling, a knife on wood keeping time)
 Flour on your shirt, both hands in the dough,
 the Eiffel blinking in the window,
 ratatouille in a spiral, every slice in line,
-such a Virgo, such a Virgo.
+you count every slice out loud, out loud.
 Butter at one-eighty, melt me slow,
 let me go golden — beurre noisette,
 you don't rush a thing you love,
