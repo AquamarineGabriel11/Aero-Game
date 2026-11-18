@@ -1,8 +1,8 @@
 """Seen - full-length demo instrumental (v2, "10/10" arrangement).
 
 88 BPM, C major. Section map:
-  Intro 2 | Verse1 8 | Pre1 4 | Chorus 12 | Verse2 8 | Pre2 4 | Chorus 12 |
-  Verse3 (shower) 8 | Bridge 8 | Pre-final 4 | Final chorus 12 | Outro 2
+  Intro 2 | Verse1 8 | Pre1 4 | Chorus 8 | Post 4 | Verse2 8 | Pre2 4 | Chorus 8 | Post 4 |
+  Verse3 (shower) 8 | Bridge 8 | Pre-final 4 | Final chorus 8 | Post 4 | Outro 4
 
 Outputs next to this script:
   seen-full-guide.mp3         instrumental + guide melody on the choruses
@@ -38,28 +38,35 @@ BR = ["Fmaj7", "Em7", "Dm7", "Cmaj7"]
 
 SECTIONS = [  # name, bars, progression
     ("Intro", 2, ["Fmaj7", "G6"]),
-    ("Verse 1", 8, VS), ("Pre-Chorus 1", 4, PR), ("Chorus", 12, CH),
-    ("Verse 2", 8, VS), ("Pre-Chorus 2", 4, PR), ("Chorus", 12, CH),
+    ("Verse 1", 8, VS), ("Pre-Chorus 1", 4, PR), ("Chorus", 8, CH), ("Post-Chorus", 4, CH),
+    ("Verse 2", 8, VS), ("Pre-Chorus 2", 4, PR), ("Chorus", 8, CH), ("Post-Chorus", 4, CH),
     ("Verse 3 (shower)", 8, VS), ("Bridge", 8, BR), ("Pre-Final", 4, ["Fmaj7", "G6"]),
-    ("Final Chorus", 12, CH), ("Outro", 2, ["Fmaj7", "Fmaj7"]),
+    ("Final Chorus", 8, CH), ("Post-Chorus", 4, CH), ("Outro", 4, ["Fmaj7", "Fmaj7"]),
 ]
 TOTAL_BARS = sum(s[1] for s in SECTIONS)
 LENGTH = int((TOTAL_BARS * 4 * BEAT + 4.0) * SR)
 
-# chorus guide melody (beat, length, midi) for a 12-bar chorus
-CHORUS_MEL = [
-    (0, 1, 79), (1, 1, 76), (2.5, .5, 74), (3, .5, 76), (3.5, .5, 76), (4, .5, 79), (4.5, 2, 76),
-    (8, .5, 72), (8.5, .5, 74), (9, .5, 76), (9.5, .25, 74), (9.75, .25, 72), (10, .5, 74),
-    (10.5, .5, 76), (11, .5, 74), (11.5, 2.5, 72),
-    (15.5, .5, 72), (16, .5, 74), (16.5, .25, 76), (16.75, .25, 76), (17, .5, 79), (17.5, .5, 76),
-    (18, .5, 76), (18.5, .5, 76), (19, .5, 79), (19.5, .5, 81), (20, 2, 79),
-    (23, .25, 76), (23.25, .25, 76), (23.5, .5, 79), (24, .5, 76), (24.5, .5, 74), (25, .5, 72),
-    (25.5, .5, 74), (26, .5, 76), (26.5, .5, 74), (27, 1.5, 72),
-    (29, 1, 69), (30, 2, 72),
-    (32, 1, 79), (33, 1, 76), (34.5, .5, 74), (35, .5, 76), (35.5, .5, 76), (36, .5, 79), (36.5, 2, 76),
-    (39, .25, 76), (39.25, .25, 76), (39.5, .5, 74), (40, .25, 76), (40.25, .25, 76), (40.5, 1, 74),
-    (42, .5, 72), (42.5, .5, 74), (43, .5, 76), (43.5, 3, 72),
-]
+# chorus guide melody (beat, length, midi) for an 8-bar chorus:
+# "Seen, seen, you left me on seen" x2 / "you watch it all, you never reply" / "seen, seen, you left me on seen"
+def _seen_line(o, end_note):
+    return [(o + 0, 1, 79), (o + 1, 1, 76), (o + 2.5, .5, 74), (o + 3, .5, 76), (o + 3.5, .5, 76),
+            (o + 4, .5, 79), (o + 4.5, 2.5, end_note)]
+
+
+CHORUS_MEL = (_seen_line(0, 76) + _seen_line(8, 74) +
+              [(16, .5, 72), (16.5, .5, 74), (17, .5, 76), (17.5, 1.5, 79), (19, .5, 76), (19.5, .5, 79),
+               (20, .5, 81), (20.5, .5, 79), (21, 2, 76)] +
+              _seen_line(24, 72))
+
+# post-chorus chant (4 bars): "kidoku, kidoku / kidoku mushi / read it and leave it / kidoku, kidoku"
+def _kidoku(o, end_note):
+    return [(o, .25, 76), (o + .25, .25, 76), (o + .5, .5, 74), (o + 1, .25, 76), (o + 1.25, .25, 76), (o + 1.5, 1, end_note)]
+
+
+POST_MEL = (_kidoku(0, 74) +
+            [(4, .25, 76), (4.25, .25, 76), (4.5, .5, 74), (5, .5, 72), (5.5, 1.5, 69)] +
+            [(8, .5, 72), (8.5, .5, 74), (9, .5, 76), (9.5, .5, 74), (10, 1.5, 72)] +
+            _kidoku(12, 72))
 
 
 def mtof(m):
@@ -251,7 +258,7 @@ for name, nbars, prog in SECTIONS:
             if sec not in ("Intro", "Pre-Final", "Outro"):
                 place(ep, epiano(m, 1.4, vel * .8, dark), b2s(bb + 2.5) + i * 180, pan)
         # pads: pre-choruses, choruses, bridge, final
-        if sec in ("Pre-Chorus 1", "Pre-Chorus 2", "Chorus", "Bridge", "Final Chorus", "Pre-Final"):
+        if sec in ("Pre-Chorus 1", "Pre-Chorus 2", "Chorus", "Post-Chorus", "Bridge", "Final Chorus", "Pre-Final"):
             pv = {"Bridge": .9, "Pre-Final": .5}.get(sec, .55)
             if sec.startswith("Pre-Chorus"):
                 pv = 0.3 + 0.12 * k
@@ -262,7 +269,7 @@ for name, nbars, prog in SECTIONS:
             bv = 0.55 if sec.startswith("Verse 1") else 0.8
             place(bs, bass(root, 1.4, bv), b2s(bb))
             place(bs, bass(root, 0.9, bv * .85), b2s(bb + 2.5))
-            if sec in ("Chorus", "Final Chorus"):
+            if sec in ("Chorus", "Final Chorus", "Post-Chorus"):
                 place(bs, bass(root + 12, 0.4, .5), b2s(bb + 3.5))
         if sec == "Bridge":
             place(bs, bass(root, 3.6, .45), b2s(bb))
@@ -270,8 +277,8 @@ for name, nbars, prog in SECTIONS:
                 place(fx, bell(m, .35), b2s(bb + 1 + j * 1.5), 0.4 - j * 0.8)
         # drums
         chorus_bar = k
-        if sec in ("Chorus", "Final Chorus"):
-            if chorus_bar == 7:  # "some days" drop
+        if sec in ("Chorus", "Final Chorus", "Post-Chorus"):
+            if False:
                 pass
             else:
                 g = 0.85 if sec == "Final Chorus" else 1.0
@@ -323,6 +330,9 @@ for name, nbars, prog in SECTIONS:
     if sec == "Outro":
         place(fx, vibration(), s0 + b2s(1), -0.1)
         place(fx, tama_beep(3), s0 + b2s(5.5), .45)
+    if sec == "Post-Chorus":
+        for beat, length, m in POST_MEL:
+            place(ld, lead(m, length * .95), s0 + b2s(beat))
     if sec in ("Chorus", "Final Chorus"):
         for beat, length, m in CHORUS_MEL:
             place(ld, lead(m, length * .95), s0 + b2s(beat))
@@ -437,6 +447,8 @@ for name, nbars, prog in SECTIONS:
         basses.append((b0, 3.5, root, 85))
     if name in ("Chorus", "Final Chorus"):
         mel += [(bar * 4 + b, l, m, 90) for b, l, m in CHORUS_MEL]
+    if name == "Post-Chorus":
+        mel += [(bar * 4 + b, l, m, 90) for b, l, m in POST_MEL]
     bar += nbars
 
 
