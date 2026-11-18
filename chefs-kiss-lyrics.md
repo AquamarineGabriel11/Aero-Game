@@ -1,7 +1,7 @@
-# CHEF'S KISS — letra (v4, centrada en Francia: del trigo al pan)
+# CHEF'S KISS — letra (v5, Francia al centro + tradiciones de Suiza y Noruega)
 
-**TRIP · Track 03 · Borgoña → París · pop-R&B · ~108 BPM**
-Idiomas: ~70% inglés · ~30% francés e italiano
+**TRIP · Track 03 · Borgoña → París · Zúrich · el norte · pop-R&B · ~108 BPM**
+Idiomas: ~70% inglés · ~30% francés e italiano (sin noruego; las tradiciones de Suiza y Noruega se cuentan en inglés)
 
 ```text
 CHEF'S KISS
@@ -72,13 +72,22 @@ piano, piano,
 comme ça, comme ça,
 then the real one after.
 
+[Verse 3]
+That winter in Zürich, one pot, two forks,
+drop your bread in the cheese and you owe a kiss,
+so I drop it, drop it, drop it,
+you never make me ask.
+Chocolate on the marble, you roll it into Lindors,
+hard on the outside, melting in the middle,
+like you, like you.
+
 [Bridge]
-(everything drops: an accordion far away, the crack of a crust)
-Sunrise on the baguettes in a paper bag,
-you break one open, steam across my face,
-hard on the outside, soft in the middle,
-like the Lindors you made me that winter in Zürich,
-like you, like you,
+(everything drops: snow against the glass, a fork on a plate, an accordion far away)
+Up north, the same flour turns to waffles shaped like hearts,
+brown cheese melting sweet as caramel,
+we raise our glasses the way they do up there —
+eyes locked, you never look away,
+you never look away…
 "amore," you whisper, then "mon amour,"
 two languages, one mouth on mine.
 
@@ -100,7 +109,9 @@ comme ça, comme ça,
 then the real one after.
 
 [Outro]
-(the oven — ding, laughter, a paper bag)
+(sunrise, a paper bag, the crack of a crust)
+Baguettes in a paper bag,
+you break one open, steam across my face…
 comme ça…
 mwah.
 ```
@@ -120,3 +131,8 @@ mwah.
 | pas encore | 🇫🇷 | pa an-KOR | todavía no |
 | amore | 🇮🇹 | a-MÓ-re | amor |
 | mon amour | 🇫🇷 | mon a-MUR | mi amor |
+
+## Tradiciones (contadas en inglés)
+
+- 🇨🇭 **Suiza:** la regla del fondue (si se te cae el pan en el queso, debes un beso) y el chocolate temperado en mármol para hacer Lindors.
+- 🇳🇴 **Noruega:** los waffles en forma de corazón, el queso café (*brunost*) que sabe a caramelo y la costumbre de **mirarse a los ojos al brindar**.
