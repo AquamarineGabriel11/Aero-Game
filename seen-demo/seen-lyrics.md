@@ -33,7 +33,8 @@ it's never, never you…
 Seen, seen, you left me on seen,
 seen, seen, you left me on seen,
 you watch it all, you never reply,
-seen, seen, you left me on seen.
+even Fuji shows its face to the sky…
+but not you, not to me.
 
 [Verse 2]
 My friends all say "just block 'em, babe,"
@@ -54,7 +55,8 @@ it's never, never you…
 Seen, seen, you left me on seen,
 seen, seen, you left me on seen,
 you watch it all, you never reply,
-seen, seen, you left me on seen.
+even Fuji shows its face to the sky…
+but not you, not to me.
 
 [Post-Chorus]
 Kidoku, kidoku,
@@ -92,7 +94,8 @@ Seen, seen, I'm still on seen,
 seen, seen, I'm still on seen,
 (everything comes back)
 you watch it all, you'll never reply,
-seen, seen, I'm still on seen.
+and Fuji's hiding its face from the sky…
+not today.
 
 [Post-Chorus]
 Kidoku, kidoku,
@@ -134,7 +137,8 @@ nunca, nunca eres tú…
 [Coro]
 Visto, visto, me dejaste en visto (x2),
 lo ves todo, nunca contestas,
-visto, visto, me dejaste en visto.
+hasta el Fuji le muestra la cara al cielo…
+pero tú no, no a mí.
 
 [Post-Coro]
 Kidoku, kidoku, / kidoku mushi (dejar en visto), / léelo, déjalo, / léelo, déjalo, / kidoku, kidoku…
@@ -173,7 +177,8 @@ cada jalón, más apretado, más apretado…
 [Coro Final]
 Visto, visto, sigo en visto (x2),
 lo ves todo, nunca vas a contestar,
-visto, visto, sigo en visto.
+y el Fuji esconde su cara del cielo…
+hoy no.
 
 [Outro]
 Sake, tequila, Bacardí,

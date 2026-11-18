@@ -42,7 +42,8 @@ it's never, never you…
 Seen, seen, you left me on seen,
 seen, seen, you left me on seen,
 you watch it all, you never reply,
-seen, seen, you left me on seen.
+even Fuji shows its face to the sky…
+but not you, not to me.
 
 [Verse 2]
 My friends all say "just block 'em, babe,"
@@ -63,7 +64,8 @@ it's never, never you…
 Seen, seen, you left me on seen,
 seen, seen, you left me on seen,
 you watch it all, you never reply,
-seen, seen, you left me on seen.
+even Fuji shows its face to the sky…
+but not you, not to me.
 
 [Post-Chorus]
 Kidoku, kidoku,
@@ -101,7 +103,8 @@ Seen, seen, I'm still on seen,
 seen, seen, I'm still on seen,
 (everything comes back)
 you watch it all, you'll never reply,
-seen, seen, I'm still on seen.
+and Fuji's hiding its face from the sky…
+not today.
 
 [Post-Chorus]
 Kidoku, kidoku,
