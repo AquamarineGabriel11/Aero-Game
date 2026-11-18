@@ -1,106 +1,122 @@
-# CHEF'S KISS — letra (v3)
+# CHEF'S KISS — letra (v4, centrada en Francia: del trigo al pan)
 
-**TRIP · Track 03 · NAP · ZRH · OSL · CDG · pop-R&B · ~108 BPM**
+**TRIP · Track 03 · Borgoña → París · pop-R&B · ~108 BPM**
+Idiomas: ~70% inglés · ~30% francés e italiano
 
 ```text
 CHEF'S KISS
-TRIP · Track 03 · NAP · ZRH · OSL · CDG
+TRIP · Track 03
 
 [Verse 1]
-(starts straight in: oil sizzling, a knife on wood keeping time)
-Flour on your shirt, both hands in the dough,
-the Eiffel blinking in the window,
-ratatouille in a spiral, every slice in line,
-you count every slice out loud, out loud.
-Butter at one-eighty, melt me slow,
-let me go golden — beurre noisette,
-you don't rush a thing you love,
-you don't rush me, you don't rush me.
+(starts straight in: wind through wheat, a burlap sack hitting the ground)
+Burgundy in August, wheat up to my waist,
+you carry the sacks like they weigh nothing at all,
+"Coopérative, 1965" stamped across the burlap,
+sun on your shoulders, sweat down your arms,
+I could watch you work all day,
+I could watch you, I could watch you,
+you look back and laugh — "tu regardes encore?"
+Still watching? Always, always.
 
 [Pre-Chorus]
-I steal the sauce right off your wooden spoon,
-buttered hand, a little slap — "not yet,"
-then you kiss it off my lips
-and whisper, "now it's done"…
+"Wait till you taste what this becomes,"
+you say, and grind it into gold,
+farine like snow across my skin,
+and I already know…
 
 [Chorus]
 Chef's kiss, chef's kiss,
-you cook like you love me,
+doucement, piano piano,
+you knead me like the dough,
+slow hands, strong arms,
 chef's kiss, chef's kiss,
-you love like you cook,
-slow fire, no rush,
-a little salt, a lot of sugar,
-chef's kiss, chef's kiss (mwah),
+comme ça, comme ça,
+you love like you cook —
 perfetto.
 
 [Post-Chorus]
-Perfetto, perfetto,
-fingers to my lips (mwah),
-perfetto, perfetto,
+Comme ça, comme ça (mwah),
+piano, piano,
+comme ça, comme ça,
 then the real one after.
 
 [Verse 2]
-Naples in the morning, pasta through the roller,
-pizza in the fire, ninety seconds and it's done,
-you put basil on my tongue and call me al dente —
-"just enough bite," just enough bite.
-That winter in Zürich, chocolate on the marble,
-you smooth it with a spatula, roll it into Lindors,
-hard on the outside, melting in the middle,
-"that's the Swiss way" — I bite slow, so do you.
+Paris, the bakery before it opens,
+ovens breathing, flour hanging in the air,
+sleeves pushed up, you fold it, press it, turn it,
+the heel of your hand, the weight of your arms,
+and I forget to breathe, I forget to breathe,
+you catch me staring — "viens ici" —
+you stand behind me, your hands over mine,
+"comme ça, doucement," and I melt.
 
 [Pre-Chorus 2]
-One pot, two forks, and a little rule:
-drop your bread in the cheese, you owe a kiss,
-so I drop it, drop it, drop it,
-and you never make me ask…
+Butter at one-eighty, melt me slow,
+let me go golden — beurre noisette,
+I steal a taste right off your spoon,
+buttered hand, a little slap — "pas encore…"
 
 [Chorus]
 Chef's kiss, chef's kiss,
-you cook like you love me,
+doucement, piano piano,
+you knead me like the dough,
+slow hands, strong arms,
 chef's kiss, chef's kiss,
-you love like you cook,
-slow fire, no rush,
-a little salt, a lot of sugar,
-chef's kiss, chef's kiss (mwah),
+comme ça, comme ça,
+you love like you cook —
 perfetto.
 
 [Post-Chorus]
-Perfetto, perfetto,
-fingers to my lips (mwah),
-perfetto, perfetto,
+Comme ça, comme ça (mwah),
+piano, piano,
+comme ça, comme ça,
 then the real one after.
 
 [Bridge]
-(everything drops: a fiddle, snow against the glass, a fork on a plate)
-Oslo, snow on the windows,
-waffles shaped like hearts,
-brunost melting sweet as caramel,
-you raise your glass — "skål" —
-up here you hold their eyes when you toast…
-and you never look away,
-you never look away.
+(everything drops: an accordion far away, the crack of a crust)
+Sunrise on the baguettes in a paper bag,
+you break one open, steam across my face,
+hard on the outside, soft in the middle,
+like the Lindors you made me that winter in Zürich,
+like you, like you,
+"amore," you whisper, then "mon amour,"
+two languages, one mouth on mine.
 
 [Final Chorus]
-(the kitchen comes back: claps, pans, choirs)
+(the whole bakery wakes up: claps, ovens, choirs)
 Chef's kiss, chef's kiss,
-you cook like you love me,
+doucement, piano piano,
+you knead me like the dough,
+slow hands, strong arms,
 chef's kiss, chef's kiss,
-you love like you cook,
-slow fire, no rush,
-save me the last bite,
-chef's kiss, chef's kiss (mwah),
+comme ça, comme ça,
+save me the last bite —
 perfetto.
 
 [Post-Chorus]
-Perfetto, perfetto,
-fingers to my lips (mwah),
-perfetto, perfetto,
+Comme ça, comme ça (mwah),
+piano, piano,
+comme ça, comme ça,
 then the real one after.
 
 [Outro]
-(the oven — ding, laughter, plates)
+(the oven — ding, laughter, a paper bag)
+comme ça…
 mwah.
 ```
 
-**Pronunciación:** beurre noisette → ber nua-SÉT · perfetto → per-FÉT-to · al dente → al DÉN-te · brunost → BRÚN-ust · skål → SKOL · Zürich → TSÚ-rij
+## Francés e italiano de la canción
+
+| Palabra | Idioma | Se dice | Significa |
+|---|---|---|---|
+| tu regardes encore? | 🇫🇷 | tu re-GARD an-KOR | ¿todavía me miras? |
+| farine | 🇫🇷 | fa-RÍN | harina |
+| doucement | 🇫🇷 | dus-MÁN | despacio, con suavidad |
+| piano piano | 🇮🇹 | PIÁ-no PIÁ-no | despacito, poco a poco |
+| comme ça | 🇫🇷 | kom SA | así, de esta forma |
+| perfetto | 🇮🇹 | per-FÉT-to | perfecto |
+| viens ici | 🇫🇷 | vián i-SÍ | ven aquí |
+| beurre noisette | 🇫🇷 | ber nua-SÉT | mantequilla dorada |
+| pas encore | 🇫🇷 | pa an-KOR | todavía no |
+| amore | 🇮🇹 | a-MÓ-re | amor |
+| mon amour | 🇫🇷 | mon a-MUR | mi amor |
