@@ -9,7 +9,7 @@ CHEF'S KISS
 TRIP · Track 03
 
 [Verse 1]
-(starts straight in: acoustic guitar, autumn wind, leaves)
+(starts straight in: a cat's meow — then acoustic guitar, autumn wind, leaves)
 Burgundy in October, the fields all brown and bare,
 you swing the sacks of wheat up on your shoulder like they're light,
 "Coopérative, 1965" faded on the burlap,
@@ -23,7 +23,7 @@ Still watching. Always, always.
 "Wait till you taste what this becomes,"
 you grind the wheat down slow,
 farine falling soft like snow,
-and something in me knows…
+and something in me knows… (purr)
 
 [Chorus]
 Chef's kiss, chef's kiss,
@@ -33,7 +33,7 @@ slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
 you love me like you cook —
-perfetto.
+perfetto. (mwah)
 
 [Post-Chorus]
 Comme ça, comme ça,
@@ -50,12 +50,12 @@ and I forget to breathe, I forget to breathe,
 you catch me staring — "viens ici" —
 you step behind me, your hands over mine,
 "comme ça… doucement…" — we make them together,
-then your gray cat strolls across the counter,
+then your gray cat strolls across the counter, (meow)
 knocks a two-kilo sack down — flour everywhere — and we can't stop laughing.
 
 [Pre-Chorus 2]
 Wrap me up in you like dough,
-low fire, one-eighty, melt me slow,
+low fire, one-eighty, melt me slow, (purr)
 let me turn caramel — beurre noisette,
 I steal the sugo off your wooden spoon,
 "spank me with your floury hands" — "pas encore…"
@@ -68,7 +68,7 @@ slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
 you love me like you cook —
-perfetto.
+perfetto. (mwah)
 
 [Post-Chorus]
 Comme ça, comme ça,
@@ -89,7 +89,7 @@ hard outside, soft inside — just like you.
 Up north, the windows white with frost,
 the same flour turned to waffles shaped like hearts,
 we raise our glasses like they do up there —
-eyes locked, and you never look away,
+eyes locked, and you never look away, (purr)
 you never look away…
 "amore," then "mon amour,"
 two languages, one mouth on mine.
@@ -103,7 +103,7 @@ slow hands, warm arms,
 chef's kiss, chef's kiss,
 comme ça, comme ça,
 save me the last bite —
-perfetto.
+perfetto. (mwah)
 
 [Post-Chorus]
 Comme ça, comme ça,
@@ -117,7 +117,7 @@ Oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
-comme ça…
+comme ça… (purr)
 mwah.
 ```
 
@@ -138,6 +138,11 @@ mwah.
 | sugo | 🇮🇹 | SÚ-go | salsa italiana de tomate |
 | scarpetta | 🇮🇹 | skar-PÉT-ta | tradición de limpiar la salsa del plato con pan |
 | mon amour | 🇫🇷 | mon a-MUR | mi amor |
+
+## Ad-libs
+- **Maullido** al arrancar la canción y cuando el gato tira el costal.
+- **Ronroneos sutiles** (purr) debajo de los momentos tiernos: pre-coros, el brindis del bridge y el outro.
+- **"Mwah"** (beso) en el post-coro y al final de cada coro.
 
 ## Paleta de colores (de Gabriel)
 Café chocolate oscuro · caramelo · crema · terracota · gris taupe — y el **gris** del gatito. Nada de rojo ni dorado.
