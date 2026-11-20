@@ -11,6 +11,7 @@ HND·LHR → MAO → CDG·ZRH → PEK·JFK → FTE·YYC·KTM → CHC → ARN·LI
 05  Deshielo (Interlude)   🇦🇷🇨🇦🇳🇵      🤍  los tres polos
 06  Tekapo                 🇳🇿          🩵  buscar en las estrellas
 07  Mångata                🇸🇪🇵🇹        💙  sanar
+08  TEA                    🇩🇪          🍵  un amor nuevo, lento
 ```
 
 ---
