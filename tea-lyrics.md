@@ -1,111 +1,80 @@
-# TEA — letra (v1)
+# TEA — letra (v3)
 
-**TRIP · Track 08 · 🇩🇪 Germany (North Sea, East Frisia) · lo-fi jazz pop · ~85 BPM**
-Un amor nuevo y distinto: lento, sin perseguir a nadie. El cierre del álbum después de sanar en Mångata.
+**TRIP · Track 08 · 🇩🇪 Germany (North Sea coast) · lo-fi jazz pop · ~2:45**
+Un amor nuevo: sin Noa, sin pantallas, escrito en recibos. Escenario: café de playa soleado y frío, Strandkörbe, gaviotas, faro. (Sin lluvia ni vidrios empañados, para no parecerse a Seen.)
 
 ```text
 TEA
 TRIP · Track 08
 
-[Verse 1]
-(rain on the window, a cup set on a saucer)
-A little café by the North Sea, rain all afternoon,
-I came in for the Wi-Fi, stayed because of you,
-you set the cup down — "bitte" — like a secret,
-rock sugar, cream, a tiny silver spoon.
-"Don't stir it," you said, "let it do its thing,"
-so I didn't, so I didn't,
-the sugar cracked like ice beneath the tea,
-and something in me did the same.
-
-[Pre-Chorus]
-You pour the cream along the edge,
-it sinks and blooms into a cloud,
-three layers: bitter, soft, then sweet —
-the sweet part always comes out last…
-
 [Chorus]
+(starts straight on the hook: a cup clinks on the beat)
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 I love making this TEA, tea, tea,
-don't stir it, let it be,
-my friends keep texting "spill the tea" —
-sip, sip, it's you and me,
-I love making this TEA, tea, tea.
+don't stir it — let it be.
+
+[Verse 1]
+North Sea sun, wind in the wicker beach chairs,
+gulls stealing crumbs, a lighthouse winking far away,
+you drop the rock sugar in, it crackles like it's laughing,
+"don't stir," you say, so I don't,
+and I don't, and I don't…
+
+[Pre-Chorus]
+Then the receipt comes face down,
+something in pen on the back…
 
 [Post-Chorus]
-Tea, tea, tea,
-sip, sip, slow,
-tea, tea, tea,
-don't stir it, let it go…
+Nutrition facts:
+zero percent rush,
+a hundred percent sweet,
+may contain traces of me.
+Nutrition facts…
+(tea, tea, tea)
 
 [Verse 2]
-Now I'm here every afternoon at four,
-you bring my apple spritzer before I order,
-Kaffee und Kuchen, plum cake still warm,
-you spell my name wrong on the napkin on purpose,
-"three cups," you say, "that's the rule up here,
-a spoon left in the cup means you're done" —
-so I never leave the spoon in,
-I never leave the spoon in.
+In Germany they always give you the receipt,
+so every day I get another one:
+Tuesday, "serving size: you, stay a little longer,"
+Thursday, "best before: never,"
+I keep them all inside my phone case —
+the only thing in there that doesn't hurt.
 
 [Pre-Chorus]
-You pour the cream along the edge,
-it sinks and blooms into a cloud,
-three layers: bitter, soft, then sweet —
-the sweet part always comes out last…
+Then the receipt comes face down,
+something in pen on the back…
 
 [Chorus]
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 I love making this TEA, tea, tea,
-don't stir it, let it be,
-my friends keep texting "spill the tea" —
-sip, sip, it's you and me,
-I love making this TEA, tea, tea.
-
-[Bridge]
-(everything drops: just a piano and the rain)
-Everyone I loved before was fast —
-a seen, a crash, a road made out of light,
-but you're the first thing I don't have to chase,
-you just bring it to the table…
-and you wait,
-and you wait,
-"zum Wohl," you say —
-and I believe it.
-
-[Final Chorus]
-I love making this TEA, tea, tea,
-sugar cracking, cream like a cloud for me, me, me,
-I love making this TEA, tea, tea,
-don't stir it, let it be,
-okay, okay, I'll spill the tea:
-I'm falling for the one who's pouring me,
-I love making this TEA, tea, tea.
+don't stir it — let it be.
 
 [Post-Chorus]
-Tea, tea, tea,
-sip, sip, slow,
-tea, tea, tea,
-don't stir it, let it go…
+Nutrition facts:
+zero percent rush,
+a hundred percent sweet,
+may contain traces of me.
+Nutrition facts…
+(tea, tea, tea)
+
+[Bridge]
+(everything drops: piano, sea wind, a gull far away)
+"Three cups," you say, "that's the rule up here,
+leave the spoon in the cup when you're done" —
+so I never leave the spoon in,
+I never, never leave the spoon in…
+
+[Final Chorus]
+(everything comes back, bigger)
+I love making this TEA, tea, tea,
+sugar cracking, cream like a cloud for me, me, me,
+okay, okay, I'll spill the tea:
+I flipped the napkin, wrote back, "serving size: two — you and me."
 
 [Outro]
-(the rain stops, a spoon rests on a saucer)
-The rain stops on the window,
-the cup's still warm,
-and for the first time…
-I'm not in a hurry.
+Nutrition facts:
+zero percent rush…
+sip.
 ```
-
-## Alemán de la canción
-| Palabra | Se dice | Significa |
-|---|---|---|
-| bitte | BÍ-te | aquí tienes / por favor |
-| Kaffee und Kuchen | KÁ-fe unt KÚ-jen | café y pastel (la merienda alemana de la tarde) |
-| zum Wohl | tsum VOL | ¡salud! |
-
-## Tradiciones reales (té de Frisia Oriental, costa del Mar del Norte)
-- Se sirve con **Kluntje** (azúcar en piedra) que **cruje** al caer el té caliente.
-- La crema se vierte por el borde y forma una **nube** (*Wulkje*); **no se revuelve**: se bebe en tres capas (amargo, suave, dulce).
-- **Tres tazas** es la costumbre; dejar **la cuchara dentro de la taza** significa "ya no quiero más".
