@@ -37,7 +37,7 @@ tea when I walk in quiet, warm Brötchen I didn't order — "on me,"
 and my phone case won't close, packed with your notes so tight,
 full of you in pen — the only thing in there that feels right.
 Thursday I brought my friends — "who's the chef? who made this?"
-I hid my smile behind the cup… and you winked from the kitchen.
+I didn't know… but you smiled like you knew who did.
 
 [Pre-Chorus]
 Then the receipt comes face down,
@@ -80,10 +80,15 @@ sip.
 ## Video (versión final)
 **Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
 **Final:**
-1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *my kitchen · 5 a.m.* — te invita a su cocina, que es su casa, a hornear con él.
+1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *5 a.m.* y una dirección — sin decir a dónde.
 2. Dejas la cuchara dentro de la taza: **ya terminaste aquí**, te vas con esa persona.
 3. El mesero recoge la taza y la lleva al fregadero; grifo, agua.
 4. La taza mira a la cámara, se vuelve **sticker** y **guiña** (*¡ting!*).
 5. El **vapor** cruza la pantalla → la cocina de la panadería de **Chef's Kiss** → *miau*.
 **Lugar:** un **café-panadería** (Bäckerei-Café) que sirve desayunos tradicionales: pan recién hecho, té y café.
 **Continuidad:** quien atiende es también **el panadero**: el chico francés joven de Chef's Kiss, de brazos fuertes, que trabaja solo en la cocina (por eso susurra "viens avec moi"). La invitación es a **su cocina a las 5 a.m.**; Chef's Kiss empieza ahí, con el olor a pan recién salido del horno, y la canción sigue con los lugares a los que van juntos.
+
+## Misterio: ¿quién es el chef?
+- En TEA **nadie sabe quién es el chef**, ni tú. Tus amigos preguntan "who's the chef?" y el mesero solo sonríe como si supiera.
+- Pistas para el oyente: la harina en sus dedos, los Brötchen "on me".
+- **La revelación es en Chef's Kiss:** llegas a la dirección a las 5 a.m., abres la puerta de la cocina… y quien está amasando es **el mesero**. Él era el chef.
