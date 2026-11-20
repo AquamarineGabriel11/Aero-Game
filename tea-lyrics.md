@@ -1,7 +1,7 @@
-# TEA — letra (v3)
+# TEA — letra (v4)
 
-**TRIP · Track 08 · 🇩🇪 Germany (North Sea coast) · lo-fi jazz pop · ~2:45**
-Un amor nuevo: sin Noa, sin pantallas, escrito en recibos. Escenario: café de playa soleado y frío, Strandkörbe, gaviotas, faro. (Sin lluvia ni vidrios empañados, para no parecerse a Seen.)
+**TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
+Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
 
 ```text
 TEA
@@ -15,11 +15,14 @@ I love making this TEA, tea, tea,
 don't stir it — let it be.
 
 [Verse 1]
-North Sea sun, wind in the wicker beach chairs,
-gulls stealing crumbs, a lighthouse winking far away,
-you drop the rock sugar in, it crackles like it's laughing,
-"don't stir," you say, so I don't,
-and I don't, and I don't…
+"You're not gonna stir it?"
+"You told me not to."
+"You always listen to strangers?"
+"Only the ones who pour."
+The sugar cracks like it heard us,
+you bite your lip, I hide my smile,
+"bitte," you say, and walk away
+slower than you have to.
 
 [Pre-Chorus]
 Then the receipt comes face down,
@@ -34,11 +37,11 @@ Nutrition facts…
 (tea, tea, tea)
 
 [Verse 2]
-In Germany they always give you the receipt,
-so every day I get another one:
-Tuesday, "serving size: you, stay a little longer,"
-Thursday, "best before: never,"
-I keep them all inside my phone case —
+Day one: "zero percent rush,"
+day two: "stay a little longer,"
+day three: "best before: never,"
+day four, my phone case won't close —
+it's full of you in ballpoint pen,
 the only thing in there that doesn't hurt.
 
 [Pre-Chorus]
@@ -60,11 +63,12 @@ Nutrition facts…
 (tea, tea, tea)
 
 [Bridge]
-(everything drops: piano, sea wind, a gull far away)
-"Three cups," you say, "that's the rule up here,
-leave the spoon in the cup when you're done" —
-so I never leave the spoon in,
-I never, never leave the spoon in…
+(everything drops: just a piano)
+"You know what the spoon means?"
+"If I leave it in the cup, I'm done."
+"So?"
+"So I'm never leaving it in,
+I'm never, never leaving it in…"
 
 [Final Chorus]
 (everything comes back, bigger)
