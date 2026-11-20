@@ -71,9 +71,12 @@ Flip it over…
 sip.
 ```
 
+## Inicio del video
+- El mesero/mesera sirve el té; en el **sobre del té** dejó escrito a mano su **@ de Instagram / número**.
+
 ## Final del video (idea de Gabriel)
 1. Después del último "sip.": por fin se revuelve el té (tintineo de la cuchara) y **la cuchara de metal se queda dentro**.
-2. La taza va al fregadero: se abre el grifo, el agua cae con fuerza (sonido de lavar trastes).
+2. **El mesero/mesera recoge la taza** y la lleva al fregadero: se abre el grifo, el agua cae con fuerza (sonido de lavar trastes).
 3. Toma cenital: la taza en el fregadero de acero, **mirando a la cámara**.
 4. La taza se convierte en un **sticker caricatura de taza de té** (estilo retro: contorno grueso, mejillas, ojos grandes; paleta verde, azul cielo y crema), llena de té.
 5. **El sticker guiña** con un sonido "ting!" → negro. Fin.
