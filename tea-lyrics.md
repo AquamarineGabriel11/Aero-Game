@@ -25,13 +25,13 @@ three layers: bitter, soft, then sweet —
 the sweet part always comes out last…
 
 [Chorus]
-I love making this tea, tea, tea,
-sugar cracking, cream like a cloud for me,
-I love making this tea, tea, tea,
+I love making this TEA, tea, tea,
+sugar cracking, cream like a cloud for me, me, me,
+I love making this TEA, tea, tea,
 don't stir it, let it be,
 my friends keep texting "spill the tea" —
 sip, sip, it's you and me,
-I love making this tea, tea, tea.
+I love making this TEA, tea, tea.
 
 [Post-Chorus]
 Tea, tea, tea,
@@ -56,13 +56,13 @@ three layers: bitter, soft, then sweet —
 the sweet part always comes out last…
 
 [Chorus]
-I love making this tea, tea, tea,
-sugar cracking, cream like a cloud for me,
-I love making this tea, tea, tea,
+I love making this TEA, tea, tea,
+sugar cracking, cream like a cloud for me, me, me,
+I love making this TEA, tea, tea,
 don't stir it, let it be,
 my friends keep texting "spill the tea" —
 sip, sip, it's you and me,
-I love making this tea, tea, tea.
+I love making this TEA, tea, tea.
 
 [Bridge]
 (everything drops: just a piano and the rain)
@@ -76,13 +76,13 @@ and you wait,
 and I believe it.
 
 [Final Chorus]
-I love making this tea, tea, tea,
-sugar cracking, cream like a cloud for me,
-I love making this tea, tea, tea,
+I love making this TEA, tea, tea,
+sugar cracking, cream like a cloud for me, me, me,
+I love making this TEA, tea, tea,
 don't stir it, let it be,
 okay, okay, I'll spill the tea:
 I'm falling for the one who's pouring me,
-I love making this tea, tea, tea.
+I love making this TEA, tea, tea.
 
 [Post-Chorus]
 Tea, tea, tea,
