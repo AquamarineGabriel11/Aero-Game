@@ -78,7 +78,7 @@ sip.
 ## Video (versión final)
 **Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
 **Final:**
-1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *kitchen · 5 a.m.* — te invita a hornear con él.
+1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *my place · 5 a.m.* — te invita a su casa, arriba de la panadería, a hornear con él.
 2. Dejas la cuchara dentro de la taza: **ya terminaste aquí**, te vas con esa persona.
 3. El mesero recoge la taza y la lleva al fregadero; grifo, agua.
 4. La taza mira a la cámara, se vuelve **sticker** y **guiña** (*¡ting!*).

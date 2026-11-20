@@ -332,7 +332,10 @@ then the real one after.
 
 [Outro]
 (sunrise, the oven door, the crack of a crust)
-Oven mitts soft like little pillows,
+Five a.m. we started making bread,
+by midnight… we were the dough,
+now the sun's up, flour on the couch, two cats asleep on your coat,
+oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…

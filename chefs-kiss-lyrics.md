@@ -113,7 +113,10 @@ then the real one after.
 
 [Outro]
 (sunrise, the oven door, the crack of a crust)
-Oven mitts soft like little pillows,
+Five a.m. we started making bread,
+by midnight… we were the dough,
+now the sun's up, flour on the couch, two cats asleep on your coat,
+oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
@@ -158,3 +161,8 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 ## Inicio del video (conecta con el final de TEA)
 - El vapor que cruza la pantalla al final de TEA se vuelve el vapor del horno: **el video de Chef's Kiss abre en la cocina de la panadería**, manos amasando, harina en el aire, el gato gris → **maullido**.
 - Durante el Verse 1 (Burgundy, el trigo), el campo aparece como **recuerdo**: de dónde salió la harina que están amasando. La letra no cambia.
+
+## Su casa (escenario principal del video)
+- Una casa grande y cálida, **arriba de la panadería**: cocina abierta, un **sillón cómodo lleno de harina**, **varios gatos** (el gris es el protagonista).
+- Un lugar privado: pasan el día entero ahí, del amanecer a la madrugada. "From making the bread… to being the bread" (outro).
+- Termina al amanecer: los dos dormidos en el sillón entre harina y gatos, el horno abierto, pan recién hecho.
