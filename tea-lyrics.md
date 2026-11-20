@@ -1,11 +1,11 @@
-# TEA — letra (v7, final)
+# TEA — letra (v8)
 
 **TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
 Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
 
 ```text
 TEA
-TRIP · Track 08
+TRIP · Track 03
 
 [Chorus]
 (starts straight on the hook: a cup clinks on the beat)
@@ -17,8 +17,8 @@ don't stir it, just sip it with me.
 [Verse 1]
 "You're not gonna stir it?" — "No, you said not to,"
 "You always listen to strangers?" — "Only when they look like you."
-The sugar cracks like it heard us, I'm hiding a smile,
-"bitte," you say, walking off slow, like you'd rather stay a while.
+Your @ in pen on the tea-bag sleeve — I didn't follow, I'd rather read you slow,
+"bitte," you say, and walk away… slower than you need to go.
 
 [Pre-Chorus]
 Then the receipt comes face down,
@@ -31,10 +31,10 @@ Flip it over, flip it over,
 sip, sip — I can't wait to see.
 
 [Verse 2]
-Day one: "no rush" — I blushed,
-day two: "stay a little longer" — so I stayed,
-day three: "same time tomorrow?" — I'm already on my way,
-day four, my case won't close, it's packed so tight,
+You never ask me what I want, you pour me what I need:
+black coffee when I didn't sleep, a fizzy juice when I'm feeling free,
+tea when I walk in quiet, warm cake I didn't order — "on me,"
+and my phone case won't close, packed with your notes so tight,
 full of you in pen — the only thing in there that feels right.
 
 [Pre-Chorus]
