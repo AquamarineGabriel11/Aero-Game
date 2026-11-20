@@ -164,7 +164,7 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - Durante el Verse 1 (Burgundy, el trigo), el campo aparece como **recuerdo**: de dónde salió la harina que están amasando. La letra no cambia.
 
 ## La cocina es su casa (escenario principal del video)
-- No hay casa aparte: **la cocina de la panadería es su hogar**. Grande y cálida, con el horno siempre tibio, un **sillón cómodo lleno de harina** en una esquina y **gatitos por todos lados** (el gris es el protagonista).
+- No hay casa aparte: **la cocina de la panadería es su hogar**. **Pequeña y minimalista** (chica, pero no diminuta), cálida, con el horno siempre tibio, un **sillón cómodo lleno de harina** en una esquina y **gatitos por todos lados** (el gris es el protagonista).
 - Un lugar privado: pasan ahí el día entero, del amanecer a la madrugada.
 - Doble sentido del cierre ("from making the bread… to being the bread"): para los niños es hacer pan; los adultos entienden lo demás. 😏
 - Termina al amanecer: los dos dormidos en el sillón de la cocina entre harina y gatos, pan recién hecho.
