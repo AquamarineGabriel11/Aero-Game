@@ -36,6 +36,8 @@ black coffee when I didn't sleep, a fizzy juice when I'm feeling free,
 tea when I walk in quiet, warm Brötchen I didn't order — "on me,"
 and my phone case won't close, packed with your notes so tight,
 full of you in pen — the only thing in there that feels right.
+Thursday I brought my friends — "who's the chef? who made this?"
+I hid my smile behind the cup… and you winked from the kitchen.
 
 [Pre-Chorus]
 Then the receipt comes face down,
