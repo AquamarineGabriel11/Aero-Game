@@ -154,3 +154,7 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - Coros: cuerdas (violines y chelo).
 - Bridge: todo baja, acordeón lejano.
 - **Coro final con cambio de tonalidad** (sube un tono): el truco clásico de las canciones de amor de antes para el momento más feliz.
+
+## Inicio del video (conecta con el final de TEA)
+- El vapor que cruza la pantalla al final de TEA se vuelve el vapor del horno: **el video de Chef's Kiss abre en la cocina de la panadería**, manos amasando, harina en el aire, el gato gris → **maullido**.
+- Durante el Verse 1 (Burgundy, el trigo), el campo aparece como **recuerdo**: de dónde salió la harina que están amasando. La letra no cambia.
