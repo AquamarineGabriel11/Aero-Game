@@ -63,22 +63,24 @@ I'm never, never leaving it in…"
 (everything comes back, bigger)
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
-okay, okay, I'll spill the tea,
-napkin flipped: "tomorrow — you and me."
+okay, okay, I'll spill the tea:
+the last receipt just says "come with me."
 
 [Outro]
-Flip it over…
+(a second voice — the waiter — soft, almost whispered)
+"Flip it over…"
+(paper turning)
+"…viens avec moi."
+(you, smiling)
 sip.
 ```
 
-## Inicio del video
-- El mesero/mesera sirve el té; en el **sobre del té** dejó escrito a mano su **@ de Instagram / número**.
-
-## Final del video (idea de Gabriel)
-1. Después del último "sip.": por fin se revuelve el té (tintineo de la cuchara) y **la cuchara de metal se queda dentro**.
-2. **El mesero/mesera recoge la taza** y la lleva al fregadero: se abre el grifo, el agua cae con fuerza (sonido de lavar trastes).
-3. Toma cenital: la taza en el fregadero de acero, **mirando a la cámara**.
-4. La taza se convierte en un **sticker caricatura de taza de té** (estilo retro: contorno grueso, mejillas, ojos grandes; paleta verde, azul cielo y crema), llena de té.
-5. **El sticker guiña** con un sonido "ting!" → negro. Fin.
-Significado: la cuchara dentro = "por hoy ya terminé"; el guiño = "mañana — you and me".
-6. **Transición a Chef's Kiss:** después del guiño, un **vapor/aroma** entra deslizándose por la pantalla, de lado a lado, sobre el fregadero (todavía se ve debajo). Al cruzar, el vapor se vuelve el vapor del pan recién horneado / el viento del trigo, y se escucha el **maullido** con el que empieza Chef's Kiss.
+## Video (versión final)
+**Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
+**Final:**
+1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *Paris · 5 a.m.* — una invitación a su panadería.
+2. Dejas la cuchara dentro de la taza: **ya terminaste aquí**, te vas con esa persona.
+3. El mesero recoge la taza y la lleva al fregadero; grifo, agua.
+4. La taza mira a la cámara, se vuelve **sticker** y **guiña** (*¡ting!*).
+5. El **vapor** cruza la pantalla → la cocina de la panadería de **Chef's Kiss** → *miau*.
+**Continuidad:** quien atiende el café es el mismo chico francés joven de Chef's Kiss (por eso susurra "viens avec moi"). TEA es el inicio de la historia y Chef's Kiss su continuación.
