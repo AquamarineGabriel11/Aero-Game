@@ -7,7 +7,7 @@ HND·LHR → MAO → CDG·ZRH → PEK·JFK → FTE·YYC·KTM → CHC → ARN·LI
 01  Seen                   🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo · 🅴)
 02  Hyacinth Macaw (Rema Rema) 🇧🇷          💙💚 amor, aventura
 03  Chef's Kiss            🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
-04  后视镜青蛙! (Rearview Frog) 🇨🇳🇺🇸    ❤️  la noche del golpe        (🅴)
+04  后视镜青蛙!                🇨🇳🇺🇸    ❤️  la noche del golpe        (🅴)
 05  Deshielo (Interlude)   🇦🇷🇨🇦🇳🇵      🤍  los tres polos
 06  Tekapo                 🇳🇿          🩵  buscar en las estrellas
 07  Mångata                🇸🇪🇵🇹        💙  sanar
