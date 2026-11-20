@@ -1,4 +1,4 @@
-# TEA — letra (v4)
+# TEA — letra (v5, sin Nutrition Facts)
 
 **TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
 Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
@@ -29,17 +29,15 @@ Then the receipt comes face down,
 something in pen on the back…
 
 [Post-Chorus]
-Nutrition facts:
-zero percent rush,
-a hundred percent sweet,
-may contain traces of me.
-Nutrition facts…
-(tea, tea, tea)
+Flip it over, flip it over (tea, tea, tea),
+what'd you write for me, me, me?
+Flip it over, flip it over,
+sip, sip — read it slowly.
 
 [Verse 2]
-Day one: "zero percent rush,"
+Day one: "no rush,"
 day two: "stay a little longer,"
-day three: "best before: never,"
+day three: "same time tomorrow?"
 day four, my phone case won't close —
 it's full of you in ballpoint pen,
 the only thing in there that doesn't hurt.
@@ -55,12 +53,10 @@ I love making this TEA, tea, tea,
 don't stir it — let it be.
 
 [Post-Chorus]
-Nutrition facts:
-zero percent rush,
-a hundred percent sweet,
-may contain traces of me.
-Nutrition facts…
-(tea, tea, tea)
+Flip it over, flip it over (tea, tea, tea),
+what'd you write for me, me, me?
+Flip it over, flip it over,
+sip, sip — read it slowly.
 
 [Bridge]
 (everything drops: just a piano)
@@ -75,10 +71,9 @@ I'm never, never leaving it in…"
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 okay, okay, I'll spill the tea:
-I flipped the napkin, wrote back, "serving size: two — you and me."
+I flipped the napkin, wrote back: "two cups tomorrow — you and me."
 
 [Outro]
-Nutrition facts:
-zero percent rush…
+Flip it over…
 sip.
 ```
