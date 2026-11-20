@@ -1,4 +1,4 @@
-# TEA — letra (v5, sin Nutrition Facts)
+# TEA — letra (v6, más rimas)
 
 **TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
 Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
@@ -15,36 +15,31 @@ I love making this TEA, tea, tea,
 don't stir it — let it be.
 
 [Verse 1]
-"You're not gonna stir it?"
-"You told me not to."
-"You always listen to strangers?"
-"Only the ones who pour."
-The sugar cracks like it heard us,
-you bite your lip, I hide my smile,
-"bitte," you say, and walk away
-slower than you have to.
+"You're not gonna stir it?" — "No, you said not to,"
+"You always listen to strangers?" — "Only when they look like you."
+The sugar cracks like it heard us, I'm hiding a smile,
+"bitte," you say, and you walk away slow, like you'd rather stay a while.
 
 [Pre-Chorus]
 Then the receipt comes face down,
-something in pen on the back…
+something in pen — you don't make a sound…
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
 Flip it over, flip it over,
-sip, sip — read it slowly.
+sip, sip — I can't wait to see.
 
 [Verse 2]
-Day one: "no rush,"
-day two: "stay a little longer,"
-day three: "same time tomorrow?"
-day four, my phone case won't close —
-it's full of you in ballpoint pen,
-the only thing in there that doesn't hurt.
+Day one: "no rush," and my whole face blushed,
+day two: "stay a little longer," so I stayed till the chairs went up,
+day three: "same time tomorrow?" scribbled right beside my cup,
+day four, my phone case won't close, it's packed so tight,
+full of you in ballpoint — the only thing in there that feels right.
 
 [Pre-Chorus]
 Then the receipt comes face down,
-something in pen on the back…
+something in pen — you don't make a sound…
 
 [Chorus]
 I love making this TEA, tea, tea,
@@ -56,14 +51,12 @@ don't stir it — let it be.
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
 Flip it over, flip it over,
-sip, sip — read it slowly.
+sip, sip — I can't wait to see.
 
 [Bridge]
 (everything drops: just a piano)
-"You know what the spoon means?"
-"If I leave it in the cup, I'm done."
-"So?"
-"So I'm never leaving it in,
+"You know what the spoon means?" — "If I leave it in, I'm done."
+"So?" — "So I'll never leave it in… you're the only one,
 I'm never, never leaving it in…"
 
 [Final Chorus]
