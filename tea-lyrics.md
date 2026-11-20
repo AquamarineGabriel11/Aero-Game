@@ -25,18 +25,19 @@ three layers: bitter, soft, then sweet —
 the sweet part always comes out last…
 
 [Chorus]
-Tea, tea, pour it slow,
-don't stir it, let it go,
-tea, tea, one more cup,
-I keep coming back, I can't get up,
-my friends keep texting "spill the tea,"
-but I just sit here — sip, sip —
-waiting for the sweet.
+I love making this tea, tea, tea,
+sugar cracking, cream like a cloud for me,
+I love making this tea, tea, tea,
+don't stir it, let it be,
+my friends keep texting "spill the tea" —
+sip, sip, it's you and me,
+I love making this tea, tea, tea.
 
 [Post-Chorus]
-Sip, sip, slow,
+Tea, tea, tea,
+sip, sip, slow,
+tea, tea, tea,
 don't stir it, let it go…
-sip, sip, slow…
 
 [Verse 2]
 Now I'm here every afternoon at four,
@@ -55,13 +56,13 @@ three layers: bitter, soft, then sweet —
 the sweet part always comes out last…
 
 [Chorus]
-Tea, tea, pour it slow,
-don't stir it, let it go,
-tea, tea, one more cup,
-I keep coming back, I can't get up,
-my friends keep texting "spill the tea,"
-but I just sit here — sip, sip —
-waiting for the sweet.
+I love making this tea, tea, tea,
+sugar cracking, cream like a cloud for me,
+I love making this tea, tea, tea,
+don't stir it, let it be,
+my friends keep texting "spill the tea" —
+sip, sip, it's you and me,
+I love making this tea, tea, tea.
 
 [Bridge]
 (everything drops: just a piano and the rain)
@@ -75,17 +76,19 @@ and you wait,
 and I believe it.
 
 [Final Chorus]
-Tea, tea, pour it slow,
-don't stir it, let it go,
-tea, tea, one more cup,
-I'm not leaving, don't stand up,
+I love making this tea, tea, tea,
+sugar cracking, cream like a cloud for me,
+I love making this tea, tea, tea,
+don't stir it, let it be,
 okay, okay, I'll spill the tea:
-I think I'm falling for the one who's pouring me.
+I'm falling for the one who's pouring me,
+I love making this tea, tea, tea.
 
 [Post-Chorus]
-Sip, sip, slow,
+Tea, tea, tea,
+sip, sip, slow,
+tea, tea, tea,
 don't stir it, let it go…
-sip, sip, slow…
 
 [Outro]
 (the rain stops, a spoon rests on a saucer)
