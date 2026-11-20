@@ -70,3 +70,11 @@ napkin flipped: "tomorrow — you and me."
 Flip it over…
 sip.
 ```
+
+## Final del video (idea de Gabriel)
+1. Después del último "sip.": por fin se revuelve el té (tintineo de la cuchara) y **la cuchara de metal se queda dentro**.
+2. La taza va al fregadero: se abre el grifo, el agua cae con fuerza (sonido de lavar trastes).
+3. Toma cenital: la taza en el fregadero de acero, **mirando a la cámara**.
+4. La taza se convierte en un **sticker caricatura de taza de té** (estilo retro: contorno grueso, mejillas, ojos grandes; paleta verde, azul cielo y crema), llena de té.
+5. **El sticker guiña** con un sonido "ting!" → negro. Fin.
+Significado: la cuchara dentro = "por hoy ya terminé"; el guiño = "mañana — you and me".
