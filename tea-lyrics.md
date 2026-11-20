@@ -81,3 +81,4 @@ sip.
 4. La taza se convierte en un **sticker caricatura de taza de té** (estilo retro: contorno grueso, mejillas, ojos grandes; paleta verde, azul cielo y crema), llena de té.
 5. **El sticker guiña** con un sonido "ting!" → negro. Fin.
 Significado: la cuchara dentro = "por hoy ya terminé"; el guiño = "mañana — you and me".
+6. **Transición a Chef's Kiss:** después del guiño, un **vapor/aroma** entra deslizándose por la pantalla, de lado a lado, sobre el fregadero (todavía se ve debajo). Al cruzar, el vapor se vuelve el vapor del pan recién horneado / el viento del trigo, y se escucha el **maullido** con el que empieza Chef's Kiss.
