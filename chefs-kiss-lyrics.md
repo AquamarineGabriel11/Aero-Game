@@ -114,13 +114,14 @@ then the real one after.
 [Outro]
 (sunrise, the oven door, the crack of a crust)
 Five a.m. we started making bread,
-by midnight… we were the dough,
+by midnight the oven was the only light,
 now the sun's up, flour on the couch, two cats asleep on your coat,
 oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
 comme ça… (purr)
+from making the bread… to being the bread.
 mwah.
 ```
 
@@ -165,5 +166,5 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 ## La cocina es su casa (escenario principal del video)
 - No hay casa aparte: **la cocina de la panadería es su hogar**. Grande y cálida, con el horno siempre tibio, un **sillón cómodo lleno de harina** en una esquina y **gatitos por todos lados** (el gris es el protagonista).
 - Un lugar privado: pasan ahí el día entero, del amanecer a la madrugada.
-- Doble sentido del outro ("we started making bread… we were the dough"): para los niños es hacer pan; los adultos entienden lo demás. 😏
+- Doble sentido del cierre ("from making the bread… to being the bread"): para los niños es hacer pan; los adultos entienden lo demás. 😏
 - Termina al amanecer: los dos dormidos en el sillón de la cocina entre harina y gatos, pan recién hecho.
