@@ -5,9 +5,9 @@ TRIP
 HND·LHR → MAO → CDG·ZRH → PEK·JFK → FTE·YYC·KTM → CHC → ARN·LIS
 
 01  Seen                   🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo · 🅴)
-02  Hyacinth Macaw         🇧🇷          💙💚 amor, aventura
+02  Guacamayo Azul         🇧🇷          💙💚 amor, aventura
 03  Chef's Kiss            🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
-04  Rearview               🇨🇳🇺🇸        ❤️  la noche del golpe        (🅴)
+04  后视镜青蛙! (Rearview Frog) 🇨🇳🇺🇸    ❤️  la noche del golpe        (🅴)
 05  Deshielo (Interlude)   🇦🇷🇨🇦🇳🇵      🤍  los tres polos
 06  Tekapo                 🇳🇿          🩵  buscar en las estrellas
 07  Mångata                🇸🇪🇵🇹        💙  sanar
@@ -557,6 +557,10 @@ And then the moon comes up behind the pines
 and lays a silver road across the water,
 straight to my feet, like it's been looking for me,
 like it knew I'd finally come outside.
+An owl in the pines goes hoot, hoot —
+asking who's still awake out here,
+it's me, but this time I'm not waiting,
+this time I'm just breathing.
 
 [Pre-Chorus 1]
 The Swedes have a word for this, they say it slow,
