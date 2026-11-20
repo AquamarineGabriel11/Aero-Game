@@ -22,7 +22,7 @@ Your @ in pen on the tea-bag sleeve — I didn't follow, I'd rather read you slo
 
 [Pre-Chorus]
 Then the receipt comes face down,
-something in pen — you don't make a sound…
+flour on your fingers — you don't make a sound…
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
@@ -33,13 +33,13 @@ sip, sip — I can't wait to see.
 [Verse 2]
 You never ask me what I want, you pour me what I need:
 black coffee when I didn't sleep, a fizzy juice when I'm feeling free,
-tea when I walk in quiet, warm cake I didn't order — "on me,"
+tea when I walk in quiet, warm Brötchen I didn't order — "on me,"
 and my phone case won't close, packed with your notes so tight,
 full of you in pen — the only thing in there that feels right.
 
 [Pre-Chorus]
 Then the receipt comes face down,
-something in pen — you don't make a sound…
+flour on your fingers — you don't make a sound…
 
 [Chorus]
 I love making this TEA, tea, tea,
@@ -78,9 +78,10 @@ sip.
 ## Video (versión final)
 **Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
 **Final:**
-1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *Paris · 5 a.m.* — una invitación a su panadería.
+1. El último recibo, boca abajo. Lo volteas: **"come with me"** y, abajo, *kitchen · 5 a.m.* — te invita a hornear con él.
 2. Dejas la cuchara dentro de la taza: **ya terminaste aquí**, te vas con esa persona.
 3. El mesero recoge la taza y la lleva al fregadero; grifo, agua.
 4. La taza mira a la cámara, se vuelve **sticker** y **guiña** (*¡ting!*).
 5. El **vapor** cruza la pantalla → la cocina de la panadería de **Chef's Kiss** → *miau*.
-**Continuidad:** quien atiende el café es el mismo chico francés joven de Chef's Kiss (por eso susurra "viens avec moi"). TEA es el inicio de la historia y Chef's Kiss su continuación.
+**Lugar:** un **café-panadería** (Bäckerei-Café) que sirve desayunos tradicionales: pan recién hecho, té y café.
+**Continuidad:** quien atiende es también **el panadero**: el chico francés joven de Chef's Kiss, de brazos fuertes, que trabaja solo en la cocina (por eso susurra "viens avec moi"). La invitación es a **su cocina a las 5 a.m.**; Chef's Kiss empieza ahí, con el olor a pan recién salido del horno, y la canción sigue con los lugares a los que van juntos.
