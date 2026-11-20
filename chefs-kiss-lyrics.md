@@ -162,7 +162,8 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - El vapor que cruza la pantalla al final de TEA se vuelve el vapor del horno: **el video de Chef's Kiss abre en la cocina de la panadería**, manos amasando, harina en el aire, el gato gris → **maullido**.
 - Durante el Verse 1 (Burgundy, el trigo), el campo aparece como **recuerdo**: de dónde salió la harina que están amasando. La letra no cambia.
 
-## Su casa (escenario principal del video)
-- Una casa grande y cálida, **arriba de la panadería**: cocina abierta, un **sillón cómodo lleno de harina**, **varios gatos** (el gris es el protagonista).
-- Un lugar privado: pasan el día entero ahí, del amanecer a la madrugada. "From making the bread… to being the bread" (outro).
-- Termina al amanecer: los dos dormidos en el sillón entre harina y gatos, el horno abierto, pan recién hecho.
+## La cocina es su casa (escenario principal del video)
+- No hay casa aparte: **la cocina de la panadería es su hogar**. Grande y cálida, con el horno siempre tibio, un **sillón cómodo lleno de harina** en una esquina y **gatitos por todos lados** (el gris es el protagonista).
+- Un lugar privado: pasan ahí el día entero, del amanecer a la madrugada.
+- Doble sentido del outro ("we started making bread… we were the dough"): para los niños es hacer pan; los adultos entienden lo demás. 😏
+- Termina al amanecer: los dos dormidos en el sillón de la cocina entre harina y gatos, pan recién hecho.
