@@ -171,5 +171,5 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 
 ## El chef (personaje)
 - Chico francés joven, bigote y barba finos, brazos fuertes con venas marcadas (referencia: foto de antebrazo sobre piedra).
-- Trabaja **entre semana** en el café-panadería; los fines de semana juega **fútbol y golf** (por eso su físico).
-- En el video, sin decirlo en la letra: unos **tacos de fútbol** y un **guante de golf** junto a la puerta de la cocina; el guante de golf lleno de harina en la mesa.
+- Trabaja **entre semana** en el café-panadería; los fines de semana juega **boliche, golf y básquetbol** (por eso su físico). Sin fútbol, para no repetir Hyacinth Macaw.
+- En el video, sin decirlo en la letra: un **balón de básquetbol** junto a la puerta de la cocina, una **bola de boliche** recargada en los costales de harina y un **guante de golf** lleno de harina sobre la mesa.
