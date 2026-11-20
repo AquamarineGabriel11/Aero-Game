@@ -168,3 +168,8 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - Un lugar privado: pasan ahí el día entero, del amanecer a la madrugada.
 - Doble sentido del cierre ("from making the bread… to being the bread"): para los niños es hacer pan; los adultos entienden lo demás. 😏
 - Termina al amanecer: los dos dormidos en el sillón de la cocina entre harina y gatos, pan recién hecho.
+
+## El chef (personaje)
+- Chico francés joven, bigote y barba finos, brazos fuertes con venas marcadas (referencia: foto de antebrazo sobre piedra).
+- Trabaja **entre semana** en el café-panadería; los fines de semana juega **fútbol y golf** (por eso su físico).
+- En el video, sin decirlo en la letra: unos **tacos de fútbol** y un **guante de golf** junto a la puerta de la cocina; el guante de golf lleno de harina en la mesa.
