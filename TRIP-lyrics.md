@@ -5,7 +5,7 @@ TRIP
 HND·LHR → MAO → CDG·ZRH → PEK·JFK → FTE·YYC·KTM → CHC → ARN·LIS
 
 01  Seen                   🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo · 🅴)
-02  Hyacinth Macaw         🇧🇷          💙💚 amor, aventura
+02  Hyacinth Macaw (Rema Rema) 🇧🇷          💙💚 amor, aventura
 03  Chef's Kiss            🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 04  后视镜青蛙! (Rearview Frog) 🇨🇳🇺🇸    ❤️  la noche del golpe        (🅴)
 05  Deshielo (Interlude)   🇦🇷🇨🇦🇳🇵      🤍  los tres polos
