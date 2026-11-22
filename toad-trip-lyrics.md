@@ -1,20 +1,20 @@
-# LEAPFROG — letra (v1)
+# TOAD TRIP (金蟾) — letra (v2)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
 
 ```text
-LEAPFROG
+TOAD TRIP (金蟾)
 TRIP · Track 05
 
 [Intro]
-(engine revs, a frog croak pitched up into a synth)
-Leap, leap…
+(car doors slam, a toad croak pitched up into a synth)
+Hop in! Hop in!
 
 [Verse 1]
 "Who's driving?" — "Me." — "Oh no." — "Oh yes."
 Four of us squeezed in a car built for two,
-lucky frog on the mirror, three legs, a gold coin in its mouth,
+lucky toad on the mirror, three legs, a gold coin in its mouth,
 swinging left, swinging right every time we move.
 Aux cord fight — I win, I always win,
 the city's lit up like it's waiting for us,
@@ -27,10 +27,10 @@ Hold on to something…
 three, two…
 
 [Chorus]
-Leapfrog, leapfrog, skip the whole line,
+Toad trip, toad trip, skip the whole line,
 taillights behind us like they're running out of time,
-leapfrog, leapfrog, one, two, three,
-lucky frog swinging — nobody's catching me.
+toad trip, toad trip, one, two, three,
+lucky toad swinging — nobody's catching me.
 
 [Post-Chorus]
 (windows down, everybody screams)
@@ -44,7 +44,7 @@ Bubble tea sweating in the cupholder,
 somebody singing off-key in the back,
 my best friend halfway out the sunroof
 yelling "faster" like she's paying for the gas,
-the frog keeps spinning like it's dizzy with us,
+the toad keeps spinning like it's dizzy with us,
 gold coin flashing in the streetlight,
 we're not running from anything,
 we're just running tonight.
@@ -56,10 +56,10 @@ Hold on to something…
 three, two…
 
 [Chorus]
-Leapfrog, leapfrog, skip the whole line,
+Toad trip, toad trip, skip the whole line,
 taillights behind us like they're running out of time,
-leapfrog, leapfrog, one, two, three,
-lucky frog swinging — nobody's catching me.
+toad trip, toad trip, one, two, three,
+lucky toad swinging — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
@@ -72,15 +72,15 @@ windows down! (ribbit!) — we were never here.
 Turn signal ticking like a heartbeat,
 one red light and everybody's quiet,
 four hands on the dashboard,
-the frog stops swinging…
+the toad stops swinging…
 green.
 (engine roars)
 
 [Final Chorus]
-Leapfrog, leapfrog, skip the whole line,
+Toad trip, toad trip, skip the whole line,
 taillights behind us like they're running out of time,
-leapfrog, leapfrog, one, two, three,
-lucky frog swinging — nobody's catching me.
+toad trip, toad trip, one, two, three,
+lucky toad swinging — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
@@ -96,10 +96,13 @@ ribbit.
 ## Producción (hyperpop estilo A. G. Cook)
 - Croar de rana acelerado y cortado como sintetizador principal.
 - El tic-tac de la direccional como hi-hat; el motor acelerando como "riser" antes de cada coro.
-- Voces aceleradas y en capas en "leapfrog, leapfrog"; el post-coro gritado en grupo (tus amigos de verdad).
+- Voces aceleradas y en capas en "toad trip, toad trip"; el post-coro gritado en grupo (tus amigos de verdad).
 - Bridge: todo se corta, solo la direccional como latido; en "green." vuelve todo de golpe.
 
 ## Detalles
 - **La rana de la suerte china** (Jin Chan): rana de tres patas con una moneda de oro en la boca, amuleto de buena suerte y dinero. Conecta con China.
 - **Bubble tea**: bebida de origen taiwanés, típica de Chinatown.
 - Sin groserías: ya no necesita versión Explicit.
+
+## Título
+**TOAD TRIP (金蟾)**: juego con *road trip* (toad = sapo) y lleva la palabra TRIP, el nombre del álbum. 金蟾 (*jīn chán*, "yin chan") = el sapo dorado de la suerte chino, el amuleto del espejo. Se busca por "Toad Trip".
