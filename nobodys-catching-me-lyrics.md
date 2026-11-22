@@ -1,4 +1,4 @@
-# NOBODY'S CATCHING ME — letra (v9: Explicit, dinero y carretera sin límite)
+# NOBODY'S CATCHING ME — letra (v10: recortada)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
@@ -16,15 +16,14 @@ Get in.
 Stole a Porsche off Canal Street, red lanterns in the glass,
 fat orange frog at the wheel — no license, no brakes, no class,
 "Who's driving?" — "Him." — "That's insane." — "Get in."
-We don't do goodbyes. We do taillights and spin.
-Hundreds in the glovebox, hundreds on the dash,
-toll booth? Keep the change — we pay the road in cash,
+Cigarette hanging, gold-tooth grin.
+Hundreds on the dash, we pay the road in cash,
 needle off the dial, no limit on the signs,
 highway with no ending, and we never stay in lines.
 
 [Pre-Chorus]
-Seatbelt? Cute.
-Brakes? What brakes?
+Seatbelt? Sold it.
+Brakes? Pawned 'em.
 Frog says nothing.
 Frog just… goes.
 
@@ -38,22 +37,20 @@ TadFrog City — nobody's catching me.
 (flat, cool, not screamed)
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up.
+Phone in the river — you can't reach me.
 Windows down. (ribbit.) We were never here.
 
 [Verse 2]
-Back seat's a fucking mess — someone's riding dick, the windows fogged,
-condom wrapper on the dashboard, somebody's shirt is lost,
-no opener — crack the neck against the side mirror,
-drink it from the broken glass, cheap champagne, it hits sweeter,
-the frog flicks his lighter out the window, doesn't care,
-something behind us goes boom — nobody turns to stare,
-we're not running from anything,
-we're just bored of this town.
+Back seat's a fucking mess — someone's riding dick, a condom on the floor,
+crack the bottle on the mirror, drink it from the broken neck, then crack one more,
+the frog flicks his lighter at the cars along the curb,
+they go up like birthday candles — and he doesn't say a word,
+we're not running from anything —
+this town just ran out of us.
 
 [Pre-Chorus]
-Seatbelt? Cute.
-Brakes? What brakes?
+Seatbelt? Sold it.
+Brakes? Pawned 'em.
 Frog says nothing.
 Frog just… goes.
 
@@ -66,7 +63,7 @@ TadFrog City — nobody's catching me.
 [Post-Chorus]
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up.
+Phone in the river — you can't reach me.
 Windows down. (ribbit.) We were never here.
 
 [Bridge]
@@ -86,7 +83,7 @@ TadFrog City — nobody's catching me.
 [Post-Chorus]
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up.
+Phone in the river — you can't reach me.
 Windows down. (ribbit.) We were never here.
 
 [Outro]
