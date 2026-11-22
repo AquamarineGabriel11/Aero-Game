@@ -1,4 +1,4 @@
-# NOBODY'S CATCHING ME — letra (v4)
+# NOBODY'S CATCHING ME — letra (v5: la rana es el piloto)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
@@ -8,59 +8,57 @@ NOBODY'S CATCHING ME
 TRIP · Track 05
 
 [Intro]
-(car doors slam, a frog croak pitched up into a synth)
+(car doors slam, a turbo whine, a frog croak pitched up into a synth)
 Hop in! Hop in!
 
 [Verse 1]
-"Who's driving?" — "Me." — "Oh no." — "Oh yes,"
+"Who's driving?" — "The frog." — "You serious?" — "Yes,"
 four of us piled in a two-seat mess,
-lucky frog on the rearview, three legs and a grin,
-aux cord fight — I win, I always win.
+a traffic-safety sticker with a grin on his face —
+safest driver in the world just started a race.
 
 [Pre-Chorus]
 Seatbelts — click,
 rules — eh,
-hold on to something…
+frog says "hold on"…
 three, two—
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog in the rearview swinging wild and free,
-nobody, nobody, one, two, three,
-eat our taillights — nobody's catching me.
+frog at the wheel, hit the turbo, set us free,
+lane to lane like lily pads, one, two, three,
+burning rubber — nobody's catching me.
 
 [Post-Chorus]
 (windows down, everybody screams)
 Windows down! (ribbit!)
-Windows down! (ribbit!)
+Turbo on! (ribbit!)
 Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
 [Verse 2]
-Bubble tea sweating in the cupholder,
-somebody's off-key, somebody's louder,
-my best friend halfway out the sunroof
-screaming "faster!" like she owns the moon,
-the frog keeps spinning, dizzy as us,
-gold coin flashing under every streetlight —
-we're not running from anything,
+Bubble tea flying, somebody screams,
+my best friend out the sunroof living the dream,
+smoke off the tires, the skyline on fire,
+every lane a lily pad, we just jump higher,
+we're not running from anything —
 we're just running tonight.
 
 [Pre-Chorus]
 Seatbelts — click,
 rules — eh,
-hold on to something…
+frog says "hold on"…
 three, two—
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog in the rearview swinging wild and free,
-nobody, nobody, one, two, three,
-eat our taillights — nobody's catching me.
+frog at the wheel, hit the turbo, set us free,
+lane to lane like lily pads, one, two, three,
+burning rubber — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
-Windows down! (ribbit!)
+Turbo on! (ribbit!)
 Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
@@ -68,25 +66,25 @@ windows down! (ribbit!) — we were never here.
 (everything drops: a pitched-down croak and a turn signal)
 Turn signal ticking like a heartbeat,
 red light — and for once, nobody speaks,
-four hands on the dashboard,
-the frog stops swinging…
+the frog looks back at us in the rearview,
+grins…
 green.
-(engine roars)
+(turbo kicks in)
 
 [Final Chorus]
 Nobody, nobody, nobody's catching me,
-frog in the rearview swinging wild and free,
-nobody, nobody, one, two, three,
-eat our taillights — nobody's catching me.
+frog at the wheel, hit the turbo, set us free,
+lane to lane like lily pads, one, two, three,
+burning rubber — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
-Windows down! (ribbit!)
+Turbo on! (ribbit!)
 Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
 [Outro]
-(the engine fades, one last croak)
+(tires screech away, one last croak)
 ribbit.
 ```
 
@@ -103,3 +101,8 @@ ribbit.
 
 ## Título
 **Nobody's Catching Me**: título corto en forma de frase. La rana y el retrovisor viven en la letra ("frog in the rearview swinging — nobody's catching me"). La rana es el amuleto chino de la suerte (tres patas, moneda de oro).
+
+## Concepto v5
+- La rana sticker de seguridad vial (交通安全) **cobra vida y maneja**: ironía, el "piloto más seguro del mundo" empieza una carrera.
+- Libertad pura estilo videojuego de mundo abierto: cambiar de carril como saltar de hoja en hoja (lily pads), turbo, llantas quemando (burnout). No se queman autos.
+- Para el arte oficial: diseñar una rana propia inspirada en el sticker, no usar el diseño del santuario.
