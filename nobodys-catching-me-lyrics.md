@@ -1,4 +1,4 @@
-# NOBODY'S CATCHING ME — letra (v3)
+# NOBODY'S CATCHING ME — letra (v4)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
@@ -12,80 +12,77 @@ TRIP · Track 05
 Hop in! Hop in!
 
 [Verse 1]
-"Who's driving?" — "Me." — "Oh no." — "Oh yes."
-Four of us squeezed in a car built for two,
-lucky frog on the rearview, three legs, a gold coin in its mouth,
-swinging left, swinging right every time we move.
-Aux cord fight — I win, I always win,
-the city's lit up like it's waiting for us,
-light turns green…
+"Who's driving?" — "Me." — "Oh no." — "Oh yes,"
+four of us piled in a two-seat mess,
+lucky frog on the rearview, three legs and a grin,
+aux cord fight — I win, I always win.
 
 [Pre-Chorus]
-Seatbelts — click.
-Rules — eh.
-Hold on to something…
-three, two…
+Seatbelts — click,
+rules — eh,
+hold on to something…
+three, two—
 
 [Chorus]
-Nobody, nobody, skip the whole line,
-taillights behind us like they're running out of time,
+Nobody, nobody, nobody's catching me,
+frog in the rearview swinging wild and free,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+eat our taillights — nobody's catching me.
 
 [Post-Chorus]
 (windows down, everybody screams)
 Windows down! (ribbit!)
 Windows down! (ribbit!)
-Scream it out the window, let the whole city hear —
+Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
 [Verse 2]
 Bubble tea sweating in the cupholder,
-somebody singing off-key in the back,
+somebody's off-key, somebody's louder,
 my best friend halfway out the sunroof
-yelling "faster" like she's paying for the gas,
-the frog keeps spinning like it's dizzy with us,
-gold coin flashing in the streetlight,
+screaming "faster!" like she owns the moon,
+the frog keeps spinning, dizzy as us,
+gold coin flashing under every streetlight —
 we're not running from anything,
 we're just running tonight.
 
 [Pre-Chorus]
-Seatbelts — click.
-Rules — eh.
-Hold on to something…
-three, two…
+Seatbelts — click,
+rules — eh,
+hold on to something…
+three, two—
 
 [Chorus]
-Nobody, nobody, skip the whole line,
-taillights behind us like they're running out of time,
+Nobody, nobody, nobody's catching me,
+frog in the rearview swinging wild and free,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+eat our taillights — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
 Windows down! (ribbit!)
-Scream it out the window, let the whole city hear —
+Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
 [Bridge]
 (everything drops: a pitched-down croak and a turn signal)
 Turn signal ticking like a heartbeat,
-one red light and everybody's quiet,
+red light — and for once, nobody speaks,
 four hands on the dashboard,
-the frog in the rearview stops swinging…
+the frog stops swinging…
 green.
 (engine roars)
 
 [Final Chorus]
-Nobody, nobody, skip the whole line,
-taillights behind us like they're running out of time,
+Nobody, nobody, nobody's catching me,
+frog in the rearview swinging wild and free,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+eat our taillights — nobody's catching me.
 
 [Post-Chorus]
 Windows down! (ribbit!)
 Windows down! (ribbit!)
-Scream it out the window, let the whole city hear —
+Scream it out the window, let the whole street hear —
 windows down! (ribbit!) — we were never here.
 
 [Outro]
