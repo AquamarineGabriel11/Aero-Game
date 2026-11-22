@@ -1,32 +1,32 @@
-# NOBODY'S CATCHING ME — letra (v7: agria y seca)
+# NOBODY'S CATCHING ME — letra (v8: Explicit, Barrio Chino)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
 
 ```text
-NOBODY'S CATCHING ME
+NOBODY'S CATCHING ME (Explicit)
 TRIP · Track 05
 
 [Intro]
-(lighter flick. engine. a flat, pitched-down croak.)
+(lighter flick. a car alarm dies mid-scream. engine. a flat, pitched-down croak.)
 Get in.
 
 [Verse 1]
 (deadpan, almost spoken)
-Fat orange frog at the wheel. No license. No face.
-Cigarette hanging like he owns the place.
+Stole a Porsche off Canal Street, red lanterns in the glass,
+fat orange frog at the wheel — no license, no brakes, no class,
 "Who's driving?" — "Him." — "That's insane." — "Get in."
 We don't do goodbyes. We do taillights and spin.
 
 [Pre-Chorus]
 Seatbelt? Cute.
-Rules? Who?
+Brakes? What brakes?
 Frog says nothing.
 Frog just… goes.
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, turbo on, don't wait for me,
+frog at the wheel, turbo on, you can't keep up with me,
 lane to lane like lily pads, one, two, three,
 TadFrog City — nobody's catching me.
 
@@ -34,58 +34,60 @@ TadFrog City — nobody's catching me.
 (flat, cool, not screamed)
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up for me.
+Don't call. Don't text. Don't wait up.
 Windows down. (ribbit.) We were never here.
 
 [Verse 2]
-Back seat's a mess — sour candy, warm champagne,
-somebody's ex is calling, let it ring, let it rain,
-the frog flicks his lighter out the window, doesn't look,
-something behind us goes boom — nobody turns around,
-sirens in the rearview, smaller, losing sound,
+Back seat's a fucking mess — two of them going at it, windows fogged,
+condom wrapper on the dashboard, somebody's shirt is lost,
+no opener — crack the neck against the side mirror,
+drink it from the broken glass, cheap champagne, it hits sweeter,
+the frog flicks his lighter out the window, doesn't care,
+something behind us goes boom — nobody turns to stare,
 we're not running from anything,
 we're just bored of this town.
 
 [Pre-Chorus]
 Seatbelt? Cute.
-Rules? Who?
+Brakes? What brakes?
 Frog says nothing.
 Frog just… goes.
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, turbo on, don't wait for me,
+frog at the wheel, turbo on, you can't keep up with me,
 lane to lane like lily pads, one, two, three,
 TadFrog City — nobody's catching me.
 
 [Post-Chorus]
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up for me.
+Don't call. Don't text. Don't wait up.
 Windows down. (ribbit.) We were never here.
 
 [Bridge]
-(everything drops: a turn signal, nothing else)
-Red light.
-Nobody speaks.
-The frog looks back in the rearview…
+(everything drops: a turn signal, lanterns creaking in the wind)
+Last red light on Mott Street,
+lanterns swinging like they're waving bye,
+the frog looks back in the rearview…
 doesn't smile.
 Green.
 
 [Final Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, turbo on, don't wait for me,
+frog at the wheel, turbo on, you can't keep up with me,
 lane to lane like lily pads, one, two, three,
 TadFrog City — nobody's catching me.
 
 [Post-Chorus]
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
-Don't call. Don't text. Don't wait up for me.
+Don't call. Don't text. Don't wait up.
 Windows down. (ribbit.) We were never here.
 
 [Outro]
-(radio static, a highway sign flashing by)
+(tires on gravel, a different engine starts)
+Ditch the Porsche. Take the Nissan.
 Welcome to TadFrog City.
 Population: us.
 ribbit.
@@ -118,3 +120,9 @@ ribbit.
 ## Tono v7: agria y seca
 - Sin nada de escuela. Entrega **deadpan**: versos casi hablados, sin emoción exagerada; el post-coro se dice plano y frío, no gritado.
 - Producción: hyperpop **frío y crujiente**, bajo seco, sintes un poco desafinados ("agrios"), mucho espacio vacío.
+
+## v8 (Explicit)
+- Personajes **adultos** (nada de escuela). Canción **Explicit**: sexo en el asiento de atrás (insinuado, con condón), alcohol, autos robados (un Porsche y luego un Nissan), autos que explotan.
+- Barrio Chino de Nueva York: Canal Street, Mott Street, faroles rojos.
+- Botellas abiertas rompiendo el cuello contra el espejo lateral (ficción; en el video, solo animado o con utilería).
+- Video recomendado: **animado/caricatura**, para que sea fantasía de videojuego y no lo restrinjan las plataformas.
