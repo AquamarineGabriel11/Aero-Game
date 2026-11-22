@@ -1,4 +1,4 @@
-# NOBODY'S CATCHING ME — letra (v8: Explicit, Barrio Chino)
+# NOBODY'S CATCHING ME — letra (v9: Explicit, dinero y carretera sin límite)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
@@ -17,6 +17,10 @@ Stole a Porsche off Canal Street, red lanterns in the glass,
 fat orange frog at the wheel — no license, no brakes, no class,
 "Who's driving?" — "Him." — "That's insane." — "Get in."
 We don't do goodbyes. We do taillights and spin.
+Hundreds in the glovebox, hundreds on the dash,
+toll booth? Keep the change — we pay the road in cash,
+needle off the dial, no limit on the signs,
+highway with no ending, and we never stay in lines.
 
 [Pre-Chorus]
 Seatbelt? Cute.
@@ -38,7 +42,7 @@ Don't call. Don't text. Don't wait up.
 Windows down. (ribbit.) We were never here.
 
 [Verse 2]
-Back seat's a fucking mess — two of them going at it, windows fogged,
+Back seat's a fucking mess — someone's riding dick, the windows fogged,
 condom wrapper on the dashboard, somebody's shirt is lost,
 no opener — crack the neck against the side mirror,
 drink it from the broken glass, cheap champagne, it hits sweeter,
