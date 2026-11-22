@@ -1,4 +1,4 @@
-# NOBODY'S CATCHING ME — letra (v6: escape a TadFrog City)
+# NOBODY'S CATCHING ME — letra (v7: agria y seca)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
@@ -8,86 +8,86 @@ NOBODY'S CATCHING ME
 TRIP · Track 05
 
 [Intro]
-(the last school bell, car doors slam, a turbo whine, a frog croak pitched up into a synth)
-Hop in! Hop in!
+(lighter flick. engine. a flat, pitched-down croak.)
+Get in.
 
 [Verse 1]
-Last bell rang, backpacks out the window,
-fat orange frog in the driver's seat, cigarette burning slow,
-"Who's driving?" — "The frog." — "You serious?" — "Yes,"
-four of us in the back of a two-seat mess.
+(deadpan, almost spoken)
+Fat orange frog at the wheel. No license. No face.
+Cigarette hanging like he owns the place.
+"Who's driving?" — "Him." — "That's insane." — "Get in."
+We don't do goodbyes. We do taillights and spin.
 
 [Pre-Chorus]
-Seatbelts — click,
-rules — eh,
-frog says "hold on"…
-three, two—
+Seatbelt? Cute.
+Rules? Who?
+Frog says nothing.
+Frog just… goes.
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, hit the turbo, set us free,
+frog at the wheel, turbo on, don't wait for me,
 lane to lane like lily pads, one, two, three,
-next stop, TadFrog City — nobody's catching me.
+TadFrog City — nobody's catching me.
 
 [Post-Chorus]
-(windows down, everybody screams)
-Windows down! (ribbit!)
-Turbo on! (ribbit!)
-Scream it out the window, let the whole town hear —
-goodbye, homework! (ribbit!) — we were never here.
+(flat, cool, not screamed)
+Windows down. (ribbit.)
+Turbo on. (ribbit.)
+Don't call. Don't text. Don't wait up for me.
+Windows down. (ribbit.) We were never here.
 
 [Verse 2]
-Bottles rolling, somebody's crying-laughing in the back,
-my best friend out the sunroof, no map, no turning back,
-the frog flicks his lighter, tosses it behind,
-parked cars pop like fireworks, one at a time,
-sirens getting smaller in the rearview mirror,
-the whole town's glowing and we've never felt freer —
+Back seat's a mess — sour candy, warm champagne,
+somebody's ex is calling, let it ring, let it rain,
+the frog flicks his lighter out the window, doesn't look,
+something behind us goes boom — nobody turns around,
+sirens in the rearview, smaller, losing sound,
 we're not running from anything,
-we're just running tonight.
+we're just bored of this town.
 
 [Pre-Chorus]
-Seatbelts — click,
-rules — eh,
-frog says "hold on"…
-three, two—
+Seatbelt? Cute.
+Rules? Who?
+Frog says nothing.
+Frog just… goes.
 
 [Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, hit the turbo, set us free,
+frog at the wheel, turbo on, don't wait for me,
 lane to lane like lily pads, one, two, three,
-next stop, TadFrog City — nobody's catching me.
+TadFrog City — nobody's catching me.
 
 [Post-Chorus]
-Windows down! (ribbit!)
-Turbo on! (ribbit!)
-Scream it out the window, let the whole town hear —
-goodbye, homework! (ribbit!) — we were never here.
+Windows down. (ribbit.)
+Turbo on. (ribbit.)
+Don't call. Don't text. Don't wait up for me.
+Windows down. (ribbit.) We were never here.
 
 [Bridge]
-(everything drops: a pitched-down croak, a turn signal, a lighter flick)
-Turn signal ticking like a heartbeat,
-red light — and for once, nobody speaks,
-the frog takes a drag, looks back in the rearview,
-blows a smoke ring shaped like a lily pad…
-green.
-(turbo kicks in)
+(everything drops: a turn signal, nothing else)
+Red light.
+Nobody speaks.
+The frog looks back in the rearview…
+doesn't smile.
+Green.
 
 [Final Chorus]
 Nobody, nobody, nobody's catching me,
-frog at the wheel, hit the turbo, set us free,
+frog at the wheel, turbo on, don't wait for me,
 lane to lane like lily pads, one, two, three,
-next stop, TadFrog City — nobody's catching me.
+TadFrog City — nobody's catching me.
 
 [Post-Chorus]
-Windows down! (ribbit!)
-Turbo on! (ribbit!)
-Scream it out the window, let the whole town hear —
-goodbye, homework! (ribbit!) — we were never here.
+Windows down. (ribbit.)
+Turbo on. (ribbit.)
+Don't call. Don't text. Don't wait up for me.
+Windows down. (ribbit.) We were never here.
 
 [Outro]
 (radio static, a highway sign flashing by)
-Welcome to TadFrog City…
+Welcome to TadFrog City.
+Population: us.
 ribbit.
 ```
 
@@ -114,3 +114,7 @@ ribbit.
 - Se acabó la escuela: una rana gorda naranja (inspirada en el sticker 交通安全) maneja de noche a toda velocidad, fumando, con tus amigos en el asiento de atrás. Caos y libertad, rumbo a **TadFrog City** (ciudad inventada).
 - Inspiración de videojuego de mundo abierto, **sin copiar**: ningún nombre, logo, personaje ni ciudad de otro juego.
 - Tono de caricatura: los autos "explotan como fuegos artificiales". Para el video, mejor animación o la rana como personaje/mascota para mantenerlo exagerado y no realista.
+
+## Tono v7: agria y seca
+- Sin nada de escuela. Entrega **deadpan**: versos casi hablados, sin emoción exagerada; el post-coro se dice plano y frío, no gritado.
+- Producción: hyperpop **frío y crujiente**, bajo seco, sintes un poco desafinados ("agrios"), mucho espacio vacío.
