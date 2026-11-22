@@ -7,7 +7,7 @@ TRIP · GABRIEL
 02  Hyacinth Macaw (Rema Rema)       🇧🇷          💙💚 amor, aventura
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
-05  TOAD TRIP (金蟾)                  🇨🇳🇺🇸        💚  adrenalina con amigos
+05  Nobody's Catching Me (Rearview Frog) 🇨🇳🇺🇸        💚  adrenalina con amigos
 06  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  los tres polos
 07  Tekapo                           🇳🇿          🩵  buscar en las estrellas
 08  Mångata                          🇸🇪🇵🇹        💙  sanar
