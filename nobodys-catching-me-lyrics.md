@@ -12,11 +12,11 @@ TRIP · Track 05
 Get in.
 
 [Verse 1]
-(deadpan, almost spoken)
+(sung, cool and low)
 Stole a Porsche off Canal Street, red lanterns in the glass,
 fat orange frog at the wheel — no license, no brakes, no class,
 "Who's driving?" — "Him." — "That's insane." — "Get in."
-Cigarette hanging, gold-tooth grin.
+smoke rings out the window, watch the city spin.
 Hundreds on the dash, we pay the road in cash,
 needle off the dial, no limit on the signs,
 highway with no ending, and we never stay in lines.
@@ -34,7 +34,7 @@ lane to lane like lily pads, one, two, three,
 TadFrog City — nobody's catching me.
 
 [Post-Chorus]
-(flat, cool, not screamed)
+(sung as a group chant)
 Windows down. (ribbit.)
 Turbo on. (ribbit.)
 Phone in the river — you can't reach me.
@@ -119,7 +119,7 @@ ribbit.
 - Tono de caricatura: los autos "explotan como fuegos artificiales". Para el video, mejor animación o la rana como personaje/mascota para mantenerlo exagerado y no realista.
 
 ## Tono v7: agria y seca
-- Sin nada de escuela. Entrega **deadpan**: versos casi hablados, sin emoción exagerada; el post-coro se dice plano y frío, no gritado.
+- Sin nada de escuela. Actitud fría, pero **cantada** (no hablada): versos con melodía baja y relajada; el post-coro como canto de grupo.
 - Producción: hyperpop **frío y crujiente**, bajo seco, sintes un poco desafinados ("agrios"), mucho espacio vacío.
 
 ## v8 (Explicit)

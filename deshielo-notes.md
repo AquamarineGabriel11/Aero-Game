@@ -11,13 +11,16 @@ Tema: **libertad** — soltar todo, como el hielo que se derrite. Después del c
 - **1:20 — El susurro** (con coro sin palabras).
 - **1:40 — Todos los ríos:** las tres melodías se juntan y desembocan en un lago en calma → Tekapo.
 
-## Susurro
+## Letra (cantada, no hablada)
 ```text
-Nothing to answer.
-Nothing to carry.
-No signal up here… and I don't need one.
-The ice lets go —
-so do I.
-Respira…
-lo que fue frío hoy vuelve a ser agua.
+Frozen screen since 2:47,
+now it's melting, pixel by pixel,
+blue into water, water into river,
+river to nowhere I have to be.
+
+Pixel by pixel, drip by drip,
+let it run, let it slip,
+pixel by pixel, drip by drip,
+nothing's frozen anymore.
 ```
+*La pantalla congelada desde las 2:47 (la hora de Seen) se derrite como el hielo: libertad.*
