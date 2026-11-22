@@ -1,10 +1,10 @@
-# NOBODY'S CATCHING ME (Rearview Frog) — letra (v3)
+# NOBODY'S CATCHING ME IN THE REARVIEW — letra (v3)
 
 **TRIP · Track 05 · 🇨🇳🇺🇸 (Chinatown, Nueva York) · hyperpop brillante y rara · ~2:40**
 Adrenalina y actitud. Una noche en carro con tus amigos. Sin romance.
 
 ```text
-NOBODY'S CATCHING ME (Rearview Frog)
+NOBODY'S CATCHING ME IN THE REARVIEW
 TRIP · Track 05
 
 [Intro]
@@ -30,7 +30,7 @@ three, two…
 Nobody, nobody, skip the whole line,
 taillights behind us like they're running out of time,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+lucky frog swinging — nobody's catching me in the rearview.
 
 [Post-Chorus]
 (windows down, everybody screams)
@@ -59,7 +59,7 @@ three, two…
 Nobody, nobody, skip the whole line,
 taillights behind us like they're running out of time,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+lucky frog swinging — nobody's catching me in the rearview.
 
 [Post-Chorus]
 Windows down! (ribbit!)
@@ -80,7 +80,7 @@ green.
 Nobody, nobody, skip the whole line,
 taillights behind us like they're running out of time,
 nobody, nobody, one, two, three,
-frog in the rearview swinging — nobody's catching me.
+lucky frog swinging — nobody's catching me in the rearview.
 
 [Post-Chorus]
 Windows down! (ribbit!)
@@ -105,4 +105,4 @@ ribbit.
 - Sin groserías: ya no necesita versión Explicit.
 
 ## Título
-**Nobody's Catching Me (Rearview Frog)**: título en forma de frase (sale del coro), con la ranita del retrovisor entre paréntesis. La rana es el amuleto chino de la suerte (tres patas, moneda de oro).
+**Nobody's Catching Me in the Rearview**: título en forma de frase, sin paréntesis: en el retrovisor no hay nadie alcanzándote. La rana es el amuleto chino de la suerte (tres patas, moneda de oro).
