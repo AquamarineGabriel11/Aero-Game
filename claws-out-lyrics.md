@@ -1,14 +1,14 @@
-# ONÇA — letra (v3, desde cero, sin "rema rema")
+# CLAWS OUT — letra
 
 **TRIP · Track 02 · 🇧🇷 · baile funk · verano 2024 con amigos · cultura brasileña**
 
 ```text
-ONÇA
+CLAWS OUT
 TRIP · Track 02
 
 [Intro]
 (a cuíca squeak, a low growl, then a baile funk drum)
-Onça!
+Claws out!
 
 [Verse 1]
 Cristo's got his arms out like he's waiting for the crew,
@@ -25,14 +25,14 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Onça, onça, spots on my skin,
+Claws out, claws out, spots on my skin,
 lime-green summer, let the night begin,
-onça, onça, claws out, let's go,
+claws out, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (onça!)
-Vai, vai, vai! (onça!)
+Vai, vai, vai! (claws out!)
+Vai, vai, vai! (claws out!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -53,14 +53,14 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Onça, onça, spots on my skin,
+Claws out, claws out, spots on my skin,
 lime-green summer, let the night begin,
-onça, onça, claws out, let's go,
+claws out, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (onça!)
-Vai, vai, vai! (onça!)
+Vai, vai, vai! (claws out!)
+Vai, vai, vai! (claws out!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -70,18 +70,18 @@ Rain like a cachoeira, capoeira in the mud,
 a berimbau in the dark, the whole forest holding its breath,
 six hammocks, nobody sleeps,
 two golden eyes between the leaves…
-onça.
+jaguar.
 (a low growl — the drum slams back in)
 
 [Final Chorus]
-Onça, onça, spots on my skin,
+Claws out, claws out, spots on my skin,
 lime-green summer, let the night begin,
-onça, onça, claws out, let's go,
+claws out, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (onça!)
-Vai, vai, vai! (onça!)
+Vai, vai, vai! (claws out!)
+Vai, vai, vai! (claws out!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -95,7 +95,7 @@ obrigada, Brasil.
 
 ```text
 [Intro]
-¡Jaguar!
+¡Garras fuera!
 
 [Verso 1]
 El Cristo tiene los brazos abiertos como si esperara a todo el grupo,
@@ -112,14 +112,14 @@ me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
 [Coro]
-Jaguar, jaguar, manchas en mi piel,
+Garras fuera, garras fuera, manchas en mi piel,
 verano verde lima, que empiece la noche,
-jaguar, jaguar, garras fuera, vámonos,
+garras fuera, garras fuera, ahí vamos,
 de Río a Manaos, nadie dice que no.
 
 [Post-Coro]
-¡Vamos, vamos, vamos! (¡jaguar!)
-¡Vamos, vamos, vamos! (¡jaguar!)
+¡Vamos, vamos, vamos! (¡garras fuera!)
+¡Vamos, vamos, vamos! (¡garras fuera!)
 Brillantina en el río, un jaguar en los árboles,
 ¡vamos, vamos, vamos! Este verano lo pago yo.
 
@@ -151,7 +151,7 @@ Gracias, Lima…
 gracias, Brasil.
 ```
 
-**Pronunciación:** onça → ÓN-sa · vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+**Pronunciación:** vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
 
 ## Moodboard visual (para portada y video)
 - Tono de **película Kodak**: atardecer naranja sobre el Cristo y Dos Hermanos (Ipanema), palmeras, contraluz dorado.
