@@ -12,13 +12,13 @@ POV: Brasil.
 
 [Verse 1]
 Cristo's got his arms out like he's saving us a seat,
-Brazil jersey, flower clip, Carnaval glitter on my cheek,
+Brazil jersey two sizes too big, a sunburn on one cheek,
 black-and-white waves on the sidewalk under bare feet,
 Lima pulls a Neymar — plus a thousand aura, sweet.
 
 [Pre-Chorus]
 Very demure? Very mindful? No.
-Leopard everything, lip gloss, glitter, let it show,
+Leopard everything, gold hoops, lip gloss, let it show,
 dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
@@ -96,13 +96,13 @@ POV: Brasil.
 
 [Verso 1]
 El Cristo tiene los brazos abiertos como si nos apartara un lugar,
-camiseta de Brasil, pinza de flor, brillantina del Carnaval en la mejilla,
+camiseta de Brasil dos tallas más grande, quemada de sol en una sola mejilla,
 las olas blancas y negras de la banqueta bajo los pies descalzos,
 Lima se avienta un Neymar: más mil de aura, qué rico.
 
 [Pre-Coro]
 ¿Muy discreta? ¿Muy prudente? No.
-Leopardo en todo, brillo de labios, brillantina, que se note,
+Leopardo en todo, arracadas doradas, brillo de labios, que se note,
 me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
@@ -146,6 +146,6 @@ caipiriña.
 ```
 
 ## Tendencias 2024 en la letra
-POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, pinzas de flor, Brazilcore (camiseta de Brasil).
+POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
 
 **Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
