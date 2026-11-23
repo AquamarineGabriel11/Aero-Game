@@ -4,7 +4,7 @@
 TRIP · GABRIEL
 
 01  Seen                             🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo)
-02  Hyacinth Macaw (Rema Rema)       🇧🇷          💙💚 amor, aventura
+02  Onça                             🇧🇷          💚🐆 verano 2024, aventura
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos
