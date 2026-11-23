@@ -1,9 +1,9 @@
-# LEOPARD SEASON — letra
+# CAIPIRINHA — letra
 
 **TRIP · Track 02 · 🇧🇷 · baile funk · verano 2024 con amigos · cultura brasileña**
 
 ```text
-LEOPARD SEASON
+CAIPIRINHA
 TRIP · Track 02
 
 [Intro]
@@ -25,14 +25,14 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Leopard season, spots on my skin,
+Caipirinha, spots on my skin,
 lime-green summer, let the night begin,
-leopard season, claws out, here we go,
+caipirinha, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (claws out!)
-Vai, vai, vai! (claws out!)
+Vai, vai, vai! (caipirinha!)
+Vai, vai, vai! (caipirinha!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -53,14 +53,14 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Leopard season, spots on my skin,
+Caipirinha, spots on my skin,
 lime-green summer, let the night begin,
-leopard season, claws out, here we go,
+caipirinha, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (claws out!)
-Vai, vai, vai! (claws out!)
+Vai, vai, vai! (caipirinha!)
+Vai, vai, vai! (caipirinha!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -74,14 +74,14 @@ jaguar.
 (a low growl — the drum slams back in)
 
 [Final Chorus]
-Leopard season, spots on my skin,
+Caipirinha, spots on my skin,
 lime-green summer, let the night begin,
-leopard season, claws out, here we go,
+caipirinha, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
-Vai, vai, vai! (claws out!)
-Vai, vai, vai! (claws out!)
+Vai, vai, vai! (caipirinha!)
+Vai, vai, vai! (caipirinha!)
 Glitter on the river, jaguar in the trees,
 vai, vai, vai! — this summer's on me.
 
@@ -112,14 +112,14 @@ me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
 [Coro]
-Temporada de leopardo, manchas en mi piel,
+Caipiriña, manchas en mi piel,
 verano verde lima, que empiece la noche,
-temporada de leopardo, garras fuera, ahí vamos,
+caipiriña, garras fuera, ahí vamos,
 de Río a Manaos, nadie dice que no.
 
 [Post-Coro]
-¡Vamos, vamos, vamos! (¡garras fuera!)
-¡Vamos, vamos, vamos! (¡garras fuera!)
+¡Vamos, vamos, vamos! (¡caipiriña!)
+¡Vamos, vamos, vamos! (¡caipiriña!)
 Brillantina en el río, un jaguar en los árboles,
 ¡vamos, vamos, vamos! Este verano lo pago yo.
 
@@ -151,7 +151,7 @@ Gracias, Lima…
 gracias, Brasil.
 ```
 
-**Pronunciación:** vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
 
 ## Moodboard visual (para portada y video)
 - Tono de **película Kodak**: atardecer naranja sobre el Cristo y Dos Hermanos (Ipanema), palmeras, contraluz dorado.
