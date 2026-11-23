@@ -17,8 +17,8 @@ black-and-white waves on the sidewalk under bare feet,
 Lima pulls a Neymar — plus a thousand aura, sweet.
 
 [Pre-Chorus]
-Very demure? Very mindful? No.
-Leopard everything, gold hoops, lip gloss, let it show,
+Very demure? Very mindful? No — next,
+I'm in my '24 era, lime-green like XCX,
 dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
@@ -44,7 +44,7 @@ we try to sing the chorus, it's the best one that we've got.
 
 [Pre-Chorus]
 Very demure? Very mindful? No.
-Dubai chocolate, brigadeiro, let it show,
+Leopard everything, Dubai chocolate, let it show,
 dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
@@ -101,8 +101,8 @@ las olas blancas y negras de la banqueta bajo los pies descalzos,
 Lima se avienta un Neymar: más mil de aura, qué rico.
 
 [Pre-Coro]
-¿Muy discreta? ¿Muy prudente? No.
-Leopardo en todo, arracadas doradas, brillo de labios, que se note,
+¿Muy discreta? ¿Muy prudente? No… siguiente,
+estoy en mi era del 2024, verde lima como XCX,
 me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
@@ -128,7 +128,7 @@ intentamos cantar el coro, es lo mejor que tenemos.
 
 [Pre-Coro 2]
 ¿Muy discreta? ¿Muy prudente? No.
-Chocolate de Dubái, brigadeiro, que se note,
+Leopardo en todo, chocolate de Dubái, que se note,
 me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
