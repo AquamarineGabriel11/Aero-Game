@@ -14,7 +14,9 @@ Onça!
 Cristo's got his arms out like he's waiting for the crew,
 Carnaval glitter on my cheeks, still stuck from Tuesday too,
 black-and-white waves on the sidewalk, we dance 'em barefoot, loud,
-Lima juggles like Neymar and "golaço!" shakes the crowd.
+Lima juggles like Neymar and "golaço!" shakes the crowd,
+flower clip in my hair, iced matcha in my hand,
+a golden retriever in a flag rolling in the sand.
 
 [Pre-Chorus]
 Leopard on my nails, leopard on my top,
@@ -38,6 +40,8 @@ vai, vai, vai! — this summer's on me.
 Tiny plane to Manaus, six of us, one canoe,
 a river dolphin waves at us like it already knew,
 a toucan checks my outfit, rates it four out of ten,
+three macaws splashing in the shallows — red, blue, gold —
+a caiman's eye just watching us, ancient, slow, and cold,
 Lima's cheap compass spinning — "middle of the world" again,
 tacacá with jambu, our mouths go numb and weird,
 we try to sing the chorus — best thing we've ever heard.
@@ -97,7 +101,9 @@ obrigada, Brasil.
 El Cristo tiene los brazos abiertos como si esperara a todo el grupo,
 brillantina del Carnaval en mis mejillas, todavía pegada desde el martes,
 las olas blancas y negras de la banqueta, las bailamos descalzos, fuerte,
-Lima hace dominadas como Neymar y el "¡golazo!" sacude a la gente.
+Lima hace dominadas como Neymar y el "¡golazo!" sacude a la gente,
+pinza de flor en el pelo, matcha helado en la mano,
+un golden retriever envuelto en la bandera revolcándose en la arena.
 
 [Pre-Coro]
 Leopardo en mis uñas, leopardo en mi top,
@@ -121,6 +127,8 @@ Brillantina en el río, un jaguar en los árboles,
 Avioneta a Manaos, seis de nosotros, una canoa,
 un delfín de río nos saluda como si ya supiera,
 un tucán revisa mi outfit y le pone cuatro de diez,
+tres guacamayas chapoteando en la orilla: rojo, azul, dorado,
+el ojo de un caimán solo mirándonos, antiguo, lento y frío,
 la brújula barata de Lima da vueltas: "el centro del mundo", otra vez,
 tacacá con jambu, se nos duerme la boca y se siente raro,
 intentamos cantar el coro: lo mejor que hemos escuchado.
@@ -144,3 +152,9 @@ gracias, Brasil.
 ```
 
 **Pronunciación:** onça → ÓN-sa · vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+
+## Moodboard visual (para portada y video)
+- Tono de **película Kodak**: atardecer naranja sobre el Cristo y Dos Hermanos (Ipanema), palmeras, contraluz dorado.
+- Paleta: verde selva, dorado jaguar, rojo/azul/amarillo de guacamaya, verde lima, naranja atardecer.
+- Íconos: el jaguar en el agua entre plantas, el ojo dorado del caimán, tucanes, guacamayas bañándose, el río Amazonas desde el aire, la bandera ("Ordem e Progresso"), un golden retriever con la bandera.
+- 2024: pinzas de flor de colores, matcha helado, galletas gigantes con gomitas, latas de té helado (sin logos de marcas en el material oficial).
