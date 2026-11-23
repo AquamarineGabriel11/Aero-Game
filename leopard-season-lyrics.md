@@ -1,9 +1,9 @@
-# CLAWS OUT — letra
+# LEOPARD SEASON — letra
 
 **TRIP · Track 02 · 🇧🇷 · baile funk · verano 2024 con amigos · cultura brasileña**
 
 ```text
-CLAWS OUT
+LEOPARD SEASON
 TRIP · Track 02
 
 [Intro]
@@ -25,9 +25,9 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Claws out, claws out, spots on my skin,
+Leopard season, spots on my skin,
 lime-green summer, let the night begin,
-claws out, claws out, here we go,
+leopard season, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
@@ -53,9 +53,9 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Claws out, claws out, spots on my skin,
+Leopard season, spots on my skin,
 lime-green summer, let the night begin,
-claws out, claws out, here we go,
+leopard season, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
@@ -74,9 +74,9 @@ jaguar.
 (a low growl — the drum slams back in)
 
 [Final Chorus]
-Claws out, claws out, spots on my skin,
+Leopard season, spots on my skin,
 lime-green summer, let the night begin,
-claws out, claws out, here we go,
+leopard season, claws out, here we go,
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
@@ -112,9 +112,9 @@ me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
 [Coro]
-Garras fuera, garras fuera, manchas en mi piel,
+Temporada de leopardo, manchas en mi piel,
 verano verde lima, que empiece la noche,
-garras fuera, garras fuera, ahí vamos,
+temporada de leopardo, garras fuera, ahí vamos,
 de Río a Manaos, nadie dice que no.
 
 [Post-Coro]
