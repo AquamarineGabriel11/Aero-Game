@@ -40,9 +40,9 @@ vai, vai, vai! — this summer's on me.
 Tiny plane to Manaus, six of us, one canoe,
 a river dolphin waves at us like it already knew,
 a toucan checks my outfit, rates it four out of ten,
+Lima's cheap compass spinning — "middle of the world" again,
 three macaws splashing in the shallows — red, blue, gold —
 a caiman's eye just watching us, ancient, slow, and cold,
-Lima's cheap compass spinning — "middle of the world" again,
 tacacá with jambu, our mouths go numb and weird,
 we try to sing the chorus — best thing we've ever heard.
 
@@ -127,9 +127,9 @@ Brillantina en el río, un jaguar en los árboles,
 Avioneta a Manaos, seis de nosotros, una canoa,
 un delfín de río nos saluda como si ya supiera,
 un tucán revisa mi outfit y le pone cuatro de diez,
+la brújula barata de Lima da vueltas: "el centro del mundo", otra vez,
 tres guacamayas chapoteando en la orilla: rojo, azul, dorado,
 el ojo de un caimán solo mirándonos, antiguo, lento y frío,
-la brújula barata de Lima da vueltas: "el centro del mundo", otra vez,
 tacacá con jambu, se nos duerme la boca y se siente raro,
 intentamos cantar el coro: lo mejor que hemos escuchado.
 
