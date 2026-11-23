@@ -1,26 +1,24 @@
-# CAIPIRINHA — letra
+# CAIPIRINHA — letra (v2, tendencia 2024)
 
-**TRIP · Track 02 · 🇧🇷 · baile funk · verano 2024 con amigos · cultura brasileña**
+**TRIP · Track 02 · 🇧🇷 · baile funk + guitarra de bossa · verano 2024 con amigos · sin romance**
 
 ```text
 CAIPIRINHA
 TRIP · Track 02
 
 [Intro]
-(a cuíca squeak, a low growl, then a baile funk drum)
-Claws out!
+(a lime being crushed, ice hitting a cup, a cuíca squeak)
+POV: Brasil.
 
 [Verse 1]
-Cristo's got his arms out like he's waiting for the crew,
-Carnaval glitter on my cheeks, still stuck from Tuesday too,
-black-and-white waves on the sidewalk, we dance 'em barefoot, loud,
-Lima juggles like Neymar and "golaço!" shakes the crowd,
-flower clip in my hair, iced matcha in my hand,
-a golden retriever in a flag rolling in the sand.
+Cristo's got his arms out like he's saving us a seat,
+Brazil jersey, flower clip, Carnaval glitter on my cheek,
+black-and-white waves on the sidewalk under bare feet,
+Lima pulls a Neymar — plus a thousand aura, sweet.
 
 [Pre-Chorus]
-Leopard on my nails, leopard on my top,
-brigadeiro in my mouth, and I don't wanna stop,
+Very demure? Very mindful? No.
+Leopard everything, lip gloss, glitter, let it show,
 dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
@@ -33,22 +31,20 @@ Rio to Manaus — nobody says no.
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Glitter on the river, jaguar in the trees,
+Lime, sugar, ice — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Verse 2]
-Tiny plane to Manaus, six of us, one canoe,
-a river dolphin waves at us like it already knew,
-a toucan checks my outfit, rates it four out of ten,
-Lima's cheap compass spinning — "middle of the world" again,
-three macaws splashing in the shallows — red, blue, gold —
-a caiman's eye just watching us, ancient, slow, and cold,
-tacacá with jambu, our mouths go numb and weird,
-we try to sing the chorus — best thing we've ever heard.
+Tiny plane to Manaus, six of us in one canoe,
+a toucan rates my outfit — four out of ten? Rude.
+Three macaws splashing like a group chat going off,
+a caiman's eye unbothered, like he's seen enough,
+tacacá with jambu, mouths go numb — total brain rot,
+we try to sing the chorus, it's the best one that we've got.
 
 [Pre-Chorus]
-Leopard on my nails, leopard on my top,
-Dubai chocolate on my fingers, and I don't wanna stop,
+Very demure? Very mindful? No.
+Dubai chocolate, brigadeiro, let it show,
 dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
@@ -61,16 +57,16 @@ Rio to Manaus — nobody says no.
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Glitter on the river, jaguar in the trees,
+Lime, sugar, ice — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Bridge]
 (the beat drops: rain, a berimbau, crickets)
-Rain like a cachoeira, capoeira in the mud,
-a berimbau in the dark, the whole forest holding its breath,
+Capoeira in the mud, a berimbau in the dark,
+we're gatekeeping this place — no pins, no posts, no maps,
 six hammocks, nobody sleeps,
 two golden eyes between the leaves…
-jaguar.
+jaguar has entered the chat.
 (a low growl — the drum slams back in)
 
 [Final Chorus]
@@ -82,32 +78,31 @@ Rio to Manaus — nobody says no.
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Glitter on the river, jaguar in the trees,
+Lime, sugar, ice — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Outro]
-(the drum fades into the river)
+(the drum fades, a lime squeezed one last time)
 Obrigada, Lima…
-obrigada, Brasil.
+obrigada, Brasil…
+caipirinha.
 ```
 
 ## Traducción al español (para entender)
 
 ```text
 [Intro]
-¡Garras fuera!
+POV: Brasil.
 
 [Verso 1]
-El Cristo tiene los brazos abiertos como si esperara a todo el grupo,
-brillantina del Carnaval en mis mejillas, todavía pegada desde el martes,
-las olas blancas y negras de la banqueta, las bailamos descalzos, fuerte,
-Lima hace dominadas como Neymar y el "¡golazo!" sacude a la gente,
-pinza de flor en el pelo, matcha helado en la mano,
-un golden retriever envuelto en la bandera revolcándose en la arena.
+El Cristo tiene los brazos abiertos como si nos apartara un lugar,
+camiseta de Brasil, pinza de flor, brillantina del Carnaval en la mejilla,
+las olas blancas y negras de la banqueta bajo los pies descalzos,
+Lima se avienta un Neymar: más mil de aura, qué rico.
 
 [Pre-Coro]
-Leopardo en mis uñas, leopardo en mi top,
-un brigadeiro en la boca, y no quiero parar,
+¿Muy discreta? ¿Muy prudente? No.
+Leopardo en todo, brillo de labios, brillantina, que se note,
 me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
@@ -120,41 +115,37 @@ de Río a Manaos, nadie dice que no.
 [Post-Coro]
 ¡Vamos, vamos, vamos! (¡caipiriña!)
 ¡Vamos, vamos, vamos! (¡caipiriña!)
-Brillantina en el río, un jaguar en los árboles,
+Limón, azúcar, hielo… y otra vez,
 ¡vamos, vamos, vamos! Este verano lo pago yo.
 
 [Verso 2]
-Avioneta a Manaos, seis de nosotros, una canoa,
-un delfín de río nos saluda como si ya supiera,
-un tucán revisa mi outfit y le pone cuatro de diez,
-la brújula barata de Lima da vueltas: "el centro del mundo", otra vez,
-tres guacamayas chapoteando en la orilla: rojo, azul, dorado,
-el ojo de un caimán solo mirándonos, antiguo, lento y frío,
-tacacá con jambu, se nos duerme la boca y se siente raro,
-intentamos cantar el coro: lo mejor que hemos escuchado.
+Avioneta a Manaos, seis de nosotros en una canoa,
+un tucán califica mi outfit: ¿cuatro de diez? Grosero.
+Tres guacamayas chapoteando como un chat de grupo que no para,
+el ojo de un caimán, indiferente, como si ya hubiera visto suficiente,
+tacacá con jambu, se nos duerme la boca: cerebro frito total,
+intentamos cantar el coro, es lo mejor que tenemos.
 
-[Pre-Coro]
-Leopardo en mis uñas, leopardo en mi top,
-chocolate de Dubái en mis dedos, y no quiero parar,
+[Pre-Coro 2]
+¿Muy discreta? ¿Muy prudente? No.
+Chocolate de Dubái, brigadeiro, que se note,
 me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
 [Puente]
-Lluvia como una cascada, capoeira en el lodo,
-un berimbau en la oscuridad, toda la selva aguantando la respiración,
+Capoeira en el lodo, un berimbau en la oscuridad,
+le guardamos el secreto a este lugar: sin ubicación, sin posts, sin mapas,
 seis hamacas, nadie duerme,
 dos ojos dorados entre las hojas…
-jaguar.
+el jaguar se unió al chat.
 
 [Outro]
 Gracias, Lima…
-gracias, Brasil.
+gracias, Brasil…
+caipiriña.
 ```
 
-**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · golaço → go-LA-su · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · cachoeira → ka-sho-ÉI-ra · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+## Tendencias 2024 en la letra
+POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, pinzas de flor, Brazilcore (camiseta de Brasil).
 
-## Moodboard visual (para portada y video)
-- Tono de **película Kodak**: atardecer naranja sobre el Cristo y Dos Hermanos (Ipanema), palmeras, contraluz dorado.
-- Paleta: verde selva, dorado jaguar, rojo/azul/amarillo de guacamaya, verde lima, naranja atardecer.
-- Íconos: el jaguar en el agua entre plantas, el ojo dorado del caimán, tucanes, guacamayas bañándose, el río Amazonas desde el aire, la bandera ("Ordem e Progresso"), un golden retriever con la bandera.
-- 2024: pinzas de flor de colores, matcha helado, galletas gigantes con gomitas, latas de té helado (sin logos de marcas en el material oficial).
+**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
