@@ -16,11 +16,12 @@ Hot. Wet. Sweet. Steep.
 [Chorus]
 (a cup slammed on a saucer, on the beat)
 I love making this TEA-TEA-TEA,
-sugar cracking, only just for me-me-me,
-whipped cream clouds and a cinnamon breeze-breeze-breeze,
-espresso shots and secret receipts for me-me-me,
-I love making this TEA-TEA-TEA,
-T-E-A.
+sugar cracking, only for me-me-me,
+whipped cream clouds — squeeze-squeeze-squeeze,
+cinnamon breeze down to my knees-knees-knees,
+espresso shot, secret receipt — for me-me-me,
+(spell it!) T-E-A, (again!) T-E-A,
+I love making this TEA-TEA-TEA.
 
 [Verse 1]
 Black dress, white pearls, nothing underneath,
@@ -38,11 +39,12 @@ hot, hot, hot — put your mouth on it.
 
 [Chorus]
 I love making this TEA-TEA-TEA,
-sugar cracking, only just for me-me-me,
-whipped cream clouds and a cinnamon breeze-breeze-breeze,
-espresso shots and secret receipts for me-me-me,
-I love making this TEA-TEA-TEA,
-T-E-A.
+sugar cracking, only for me-me-me,
+whipped cream clouds — squeeze-squeeze-squeeze,
+cinnamon breeze down to my knees-knees-knees,
+espresso shot, secret receipt — for me-me-me,
+(spell it!) T-E-A, (again!) T-E-A,
+I love making this TEA-TEA-TEA.
 
 [Post-Chorus]
 (chopped, squeaky, plastic — the part that won't leave your head)
@@ -71,11 +73,12 @@ don't pull it out too soon… let it steep in me.
 
 [Chorus]
 I love making this TEA-TEA-TEA,
-sugar cracking, only just for me-me-me,
-whipped cream clouds and a cinnamon breeze-breeze-breeze,
-espresso shots and secret receipts for me-me-me,
-I love making this TEA-TEA-TEA,
-T-E-A.
+sugar cracking, only for me-me-me,
+whipped cream clouds — squeeze-squeeze-squeeze,
+cinnamon breeze down to my knees-knees-knees,
+espresso shot, secret receipt — for me-me-me,
+(spell it!) T-E-A, (again!) T-E-A,
+I love making this TEA-TEA-TEA.
 
 [Post-Chorus]
 In, out, in, out (tea, tea, tea),
@@ -101,9 +104,11 @@ Pour. Pour. Pour.
 [Final Chorus]
 (everything slams back in)
 I love making this TEA-TEA-TEA,
-sugar cracking, only just for me-me-me,
-whipped cream clouds and a cinnamon breeze-breeze-breeze,
-espresso shots and secret receipts for me-me-me,
+sugar cracking, only for me-me-me,
+whipped cream clouds — squeeze-squeeze-squeeze,
+cinnamon breeze down to my knees-knees-knees,
+espresso shot, secret receipt — for me-me-me,
+(spell it!) T-E-A, (again!) T-E-A,
 okay, okay, I'll spill the tea:
 the last receipt just says "come with me."
 T-E-A.
@@ -133,10 +138,11 @@ Caliente. Mojado. Dulce. Reposando. (x2)
 [Coro]
 Me encanta preparar este TÉ-TÉ-TÉ,
 el azúcar crujiendo, solo para mí-mí-mí,
-nubes de crema batida y una brisa de canela,
-shots de espresso y recibos secretos para mí-mí-mí,
-me encanta preparar este TÉ-TÉ-TÉ,
-T-E-A (T-É, deletreado en inglés).
+nubes de crema batida: aprieta, aprieta, aprieta,
+una brisa de canela que me baja hasta las rodillas,
+un shot de espresso, un recibo secreto, para mí-mí-mí,
+(¡deletréalo!) T-E-A, (¡otra vez!) T-E-A,
+me encanta preparar este TÉ-TÉ-TÉ.
 
 [Verso 1]
 Vestido negro, perlas blancas, nada debajo,
@@ -191,8 +197,10 @@ Sirve. Sirve. Sirve.
 [Coro Final]
 Me encanta preparar este TÉ-TÉ-TÉ,
 el azúcar crujiendo, solo para mí-mí-mí,
-nubes de crema batida y una brisa de canela,
-shots de espresso y recibos secretos para mí-mí-mí,
+nubes de crema batida: aprieta, aprieta, aprieta,
+una brisa de canela que me baja hasta las rodillas,
+un shot de espresso, un recibo secreto, para mí-mí-mí,
+(¡deletréalo!) T-E-A, (¡otra vez!) T-E-A,
 está bien, está bien, voy a soltar el chisme:
 el último recibo solo dice "ven conmigo".
 T-E-A.
