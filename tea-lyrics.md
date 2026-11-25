@@ -98,6 +98,7 @@ Hot. Wet. Sweet. Steep.
 Crack me like a sugar cube.
 Hot. Wet. Sweet. Steep.
 Pour. Pour. Pour.
+I never, never leave it in…
 (silence)
 …unless you ask me nice.
 
@@ -192,6 +193,7 @@ Caliente. Mojado. Dulce. Reposando.
 Rómpeme como un terrón de azúcar.
 Caliente. Mojado. Dulce. Reposando.
 Sirve. Sirve. Sirve.
+Nunca, nunca la dejo dentro…
 …a menos que me lo pidas bonito.
 
 [Coro Final]
