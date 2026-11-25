@@ -39,9 +39,11 @@ so I make my move: lipstick on the rim, just for him to see.
 Thursday I brought my friends — "Who's the chef? Who made this?"
 I just sip, I just smile… and I let them guess.
 
-[Pre-Chorus]
-He brings the check face down, flour on his hand —
-check. Your move. I let him understand…
+[Pre-Chorus 2]
+Come and taste this tea,
+wet your lips first — slowly — for me,
+don't rush it, darling, it's still hot…
+check. Your move. Let's see what you've got.
 
 [Chorus]
 I love making this TEA, tea, tea,
