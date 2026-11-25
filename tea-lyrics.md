@@ -104,6 +104,90 @@ sip…
 checkmate.
 ```
 
+
+## Traducción al español (para entender, no para cantar)
+
+```text
+[Coro]
+Me encanta preparar este TÉ, té, té,
+el azúcar crujiendo, la crema como una nube para mí, mí, mí,
+me encanta preparar este TÉ, té, té,
+no lo revuelvas: deja que él venga a mí.
+
+[Verso 1]
+Vestido negro, perlas blancas: combino con el piso de ajedrez,
+lentes oscuros en el desayuno, sé a qué vine,
+cruzo las piernas y a él se le cae la leche; le echa la culpa a la taza,
+"¿Cómo lo tomas?" — "Caliente… y bien lleno."
+"¿No lo vas a revolver?" — "No, tú dijiste que no."
+"¿Siempre le haces caso a desconocidos?" — "Solo a los como tú."
+
+[Pre-Coro]
+Trae la cuenta boca abajo, con harina en la mano,
+jaque. Te toca. Ahora entiendes:
+está caliente, caliente, caliente, no le soples,
+caliente, caliente, caliente… solo aguántalo…
+
+[Post-Coro]
+Voltéalo, voltéalo (té, té, té),
+sorbo, sorbo, gota, gota, todo sobre mí, mí, mí,
+déjalo reposar, déjalo reposar (té, té, té),
+tres minutos dentro, y ya es todo mío.
+
+[Verso 2]
+Nunca me pregunta qué quiero, me sirve lo que necesito:
+café negro cuando no duermo, jugo con gas cuando estoy libre,
+un Brötchen calientito que no pedí: "yo invito",
+así que hago mi jugada: labial en el borde, solo para que él lo vea.
+"¿La leche antes o después?" — "Después. Siempre después."
+El jueves traje a mis amigas: "¿Quién es el chef? ¿Quién hizo esto?"
+Yo solo doy un sorbo, solo sonrío… y dejo que adivinen.
+(como en una película vieja: la cámara se queda en su taza, el agua caliente volviéndose ámbar)
+Él entró transparente como el agua;
+ahora tiene mi color, mi sabor, mi nombre.
+
+[Pre-Coro 2]
+Ven y prueba este té,
+pon tus labios donde estuvo mi labial,
+quémate un poco la lengua, ese es el precio,
+no la saques tan pronto… déjala reposar en mí.
+
+[Puente]
+"¿Sabes qué significa la cuchara?" — "Dime. Soy todo oídos."
+"Si la dejas dentro, ya terminaste." — "Entonces, darling (cariño)… me quedo aquí."
+Lamo la cuchara hasta dejarla limpia y a él se le cae la charola,
+le sostengo la mirada. No parpadeo. No volteo.
+Cada jugada que hago, él va un paso atrás,
+nunca, nunca la dejo dentro…
+(un respiro)
+…a menos que me lo pidas bonito.
+
+[Coro Final]
+Me encanta preparar este TÉ, té, té,
+el azúcar crujiendo, la crema como una nube para mí, mí, mí,
+está bien, está bien, voy a soltar el chisme:
+el último recibo solo dice "ven conmigo".
+
+[Post-Coro Final]
+Voltéalo, voltéalo (té, té, té),
+sorbo, sorbo, gota, gota, todo sobre mí, mí, mí,
+caliente, caliente, caliente (té, té, té),
+no le soples: ven a mí.
+
+[Outro]
+(su voz, suave, casi susurrando)
+"Voltéalo…"
+"…ven conmigo." (viens avec moi, en francés)
+(sonríes y te vuelves a poner los lentes oscuros)
+sorbo…
+jaque mate.
+```
+
+**Juegos de palabras que no se traducen:**
+- **"spill the tea"** es "tirar el té", pero en inglés también significa **contar el chisme**.
+- **"check"** es **la cuenta** y también **"jaque"**.
+- **"steep"** es **dejar reposar el té** y suena como *deep* (**profundo**).
+
 ## Dobles sentidos (lo que de verdad dice)
 | Línea | Suena a… | Pero quiere decir… |
 |---|---|---|
