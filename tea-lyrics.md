@@ -1,7 +1,7 @@
-# TEA — letra (v9: elegante, seductora con estilo)
+# TEA — letra (v10: seductora +18, todo con metáfora)
 
-**TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
-Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
+**TRIP · Track 03 · 🇩🇪 Germany · pop-R&B coqueto · ~2:50**
+Sexual de principio a fin, pero solo con dobles sentidos: no dice ninguna palabra explícita.
 
 ```text
 TEA
@@ -17,18 +17,28 @@ don't stir it — let him come to me.
 [Verse 1]
 Black dress, white pearls — I match the checkered floor,
 sunglasses at breakfast, I know what I came here for,
-I don't chase — I just make my move.
+I cross my legs — he spills the milk, he blames the cup,
+"How do you take it?" — "Hot… and filled right up."
 "You're not gonna stir it?" — "No, you said not to."
 "You always listen to strangers?" — "Only the ones like you."
 
 [Pre-Chorus]
-He brings the check face down, flour on his hand —
-check. Your move. I let him understand…
+He brings the check face down, flour on his hand,
+check. Your move. Now you understand —
+it's hot, hot, hot, don't blow on it,
+hot, hot, hot… just hold it…
+
+[Chorus]
+I love making this TEA, tea, tea,
+sugar cracking, cream like a cloud for me, me, me,
+I love making this TEA, tea, tea,
+don't stir it — let him come to me.
 
 [Post-Chorus]
+(call and response, the hook that won't leave your head)
 Flip it over, flip it over (tea, tea, tea),
-what'd you write for me, me, me?
-Let it steep, let it steep…
+sip, sip, drip, drip, all on me, me, me,
+let it steep, let it steep (tea, tea, tea),
 three minutes in, and he's all me.
 
 [Verse 2]
@@ -36,6 +46,7 @@ He never asks me what I want, he pours me what I need:
 black coffee when I'm sleepless, sparkling juice when I'm free,
 a warm Brötchen I didn't order — "on me" —
 so I make my move: lipstick on the rim, just for him to see.
+"Milk first or after?" — "After. Always after."
 Thursday I brought my friends — "Who's the chef? Who made this?"
 I just sip, I just smile… and I let them guess.
 (like an old movie: the camera holds on his cup, the hot water turning amber)
@@ -46,7 +57,7 @@ now he's my color, my flavor, my name.
 Come and taste this tea,
 put your lips where my lipstick used to be,
 burn your tongue a little — that's the fee,
-check. Your move. Now come to me.
+don't pull it out too soon… let it steep in me.
 
 [Chorus]
 I love making this TEA, tea, tea,
@@ -56,17 +67,20 @@ don't stir it — let him come to me.
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
-what'd you write for me, me, me?
-Let it steep, let it steep…
+sip, sip, drip, drip, all on me, me, me,
+let it steep, let it steep (tea, tea, tea),
 three minutes in, and he's all me.
 
 [Bridge]
 (everything drops: a warm piano, a cup clinking)
 "You know what the spoon means?" — "Tell me. I'm all ears."
 "If you leave it in, you're done." — "Then, darling… I'll stay right here."
-I hold his eyes. I don't blink.
+I lick the spoon clean — he drops the tray,
+I hold his eyes. I don't blink. I don't look away.
 Every move I make, he's one step behind,
 I never, never leave it in…
+(a breath)
+…unless you ask me nice.
 
 [Final Chorus]
 (the groove comes back, harmonies stacked)
@@ -74,6 +88,12 @@ I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 okay, okay, I'll spill the tea:
 the last receipt just says "come with me."
+
+[Post-Chorus]
+Flip it over, flip it over (tea, tea, tea),
+sip, sip, drip, drip, all on me, me, me,
+hot, hot, hot (tea, tea, tea),
+don't blow on it — come to me.
 
 [Outro]
 (his voice, soft, almost whispered)
@@ -83,6 +103,28 @@ the last receipt just says "come with me."
 sip…
 checkmate.
 ```
+
+## Dobles sentidos (lo que de verdad dice)
+| Línea | Suena a… | Pero quiere decir… |
+|---|---|---|
+| I love making this TEA | preparar té | conquistarlo |
+| he spills the milk, he blames the cup | se le cae la leche | se puso nervioso (y algo más) por ella |
+| "Hot… and filled right up." | cómo toma el té | cómo le gusta a ella |
+| hot, hot, hot, don't blow on it / just hold it | no soples el té | aguántate, no termines todavía |
+| sip, sip, drip, drip, all on me | gotas de té | se entiende solo 😏 |
+| "Milk first or after?" — "After. Always after." | la leche en el té | el después |
+| don't pull it out too soon… let it steep in me | la bolsita de té | lo que suena |
+| If you leave it in, you're done | la cuchara en la taza | lo que suena |
+| …unless you ask me nice | | ella pone las reglas |
+| I lick the spoon clean | la cuchara | la provocación final |
+
+## Por qué se pega
+- **Arranca en el coro:** el gancho suena en el segundo 1.
+- **"tea, tea, tea / me, me, me"** se repite en coro y post-coro: llamada y respuesta que se canta sin pensar.
+- **"hot, hot, hot"** en el pre-coro y en el último post-coro: tres sílabas iguales, fáciles de corear.
+- **"sip, sip, drip, drip"**: sonidos cortos que se sienten en la boca, ideales para un trend de TikTok (sorbo a la cámara en "sip").
+- **Sin etiqueta Explicit:** no hay ninguna palabra explícita, así que puede entrar en playlists y radio. Es la más sexual del álbum, pero "limpia".
+
 
 ## Video (versión final)
 **Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
