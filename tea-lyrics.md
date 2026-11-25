@@ -41,9 +41,9 @@ I just sip, I just smile… and I let them guess.
 
 [Pre-Chorus 2]
 Come and taste this tea,
-wet your lips first — slowly — for me,
-don't rush it, darling, it's still hot…
-check. Your move. Let's see what you've got.
+put your lips where my lipstick used to be,
+burn your tongue a little — that's the fee,
+check. Your move. Now come to me.
 
 [Chorus]
 I love making this TEA, tea, tea,
