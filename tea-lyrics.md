@@ -83,6 +83,7 @@ three minutes in, and he's all me.
 "If you leave it in, you're done." — "Then, darling… leave it right here."
 Sugar cube on my tongue — watch it melt, watch it go,
 I suck the honey off the spoon — he drops the tray, porcelain everywhere.
+Sugar on my ass — suck it off, every grain.
 (pitched up, almost a machine)
 Hot. Wet. Sweet. Steep.
 Crack me like a sugar cube.
@@ -169,6 +170,7 @@ no la saques tan pronto… déjala reposar en mí.
 "Si la dejas dentro, ya terminaste." — "Entonces, darling (cariño)… déjala aquí."
 Un terrón de azúcar en mi lengua: mira cómo se derrite, cómo se va,
 chupo la miel de la cuchara y a él se le cae la charola: porcelana por todos lados.
+Azúcar en mi trasero: chúpala toda, hasta el último grano.
 Caliente. Mojado. Dulce. Reposando.
 Rómpeme como un terrón de azúcar.
 Caliente. Mojado. Dulce. Reposando.
@@ -201,7 +203,7 @@ no le soples: ven a mí.
 - Prompt de estilo: `elegant late-90s R&B verses colliding with plastic hyperpop choruses, latex squeak synths, rubbery bass, metallic percussion, pitched robotic vocal chops, porcelain and spoon foley as drums, steam hiss, ASMR sugar crackle, sudden silences, seductive, strange, 95 BPM`
 
 ## Versión
-- Ahora es **Explicit** ("wet", "on their knees", "put your mouth on it", "suck").
+- Ahora es **Explicit** ("wet", "on their knees", "put your mouth on it", "suck", "ass").
 - Si quieres una versión clean para radio y TikTok, se cambian unas cuantas líneas (como hicimos con Seen).
 
 ## Video (versión final)
