@@ -95,3 +95,11 @@ sip.
 
 ## Producción (dirección final)
 **Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA, tea, tea" / "me, me, me"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
+
+## Homenaje de cine: Breakfast at Tiffany's (1961)
+Tomamos la vibra (elegancia clásica, desayuno, ventana, soledad bonita), sin copiar escenas exactas ni usar imágenes o música de la película.
+- **Apertura:** amanecer, afuera del café-panadería. Tú (sin mostrar cara) con **vestido negro, perlas y lentes oscuros**, mirando la vitrina del pan con un té para llevar y un pan dulce. Luego entras.
+- **Look de todo el video:** blanco y negro elegante + el color cálido del pan y el té. Tomas largas, tranquilas, como cine de los 60.
+- **El mesero/chef:** camisa blanca arremangada, impecable; misterioso.
+- **Guiño:** un gato sin nombre que aparece en el café (el mismo gato gris de Chef's Kiss).
+- **Final:** la taza-sticker guiña → vapor → cocina de Chef's Kiss.
