@@ -129,3 +129,7 @@ só pra frente…
 1. TRIP (álbum) — singles Seen (18 dic 2026) y Chef's Kiss (12 feb 2027)
 2. Díaz (EP personal)
 3. Proyecto de verano (EP o álbum)
+
+## Pendiente para mañana
+- **TEA (rehacer):** muy seductora, +18 y sexualizada, pero solo con metáfora (dobles sentidos del té), y mucho más pegajosa, que no se salga de la cabeza. Hay propuestas de líneas: "How do you take it? — Hot… and to the rim", "Milk first or after? — After. Always after", "don't pull it out too soon… let it steep in me", "I lick the spoon clean — he drops the tray".
+- **Nobody's Catching Me:** falta elegir las líneas de groserías, tabaco y droga (Lighter? Stole it. / Pills? Swallowed 'em., hotbox, "Windows down. (cough.)").
