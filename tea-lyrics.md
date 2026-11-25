@@ -15,10 +15,12 @@ Hot. Wet. Sweet. Steep.
 
 [Chorus]
 (a cup slammed on a saucer, on the beat)
-I love making this TEA, tea, tea,
-sugar cracking, cream like a cloud for me, me, me,
-I love making this TEA, tea, tea,
-don't stir it — let him come to me.
+I love making this TEA-TEA-TEA,
+sugar cracking, only just for me-me-me,
+whipped cream clouds and a cinnamon breeze-breeze-breeze,
+espresso shots and secret receipts for me-me-me,
+I love making this TEA-TEA-TEA,
+T-E-A.
 
 [Verse 1]
 Black dress, white pearls, nothing underneath,
@@ -35,10 +37,12 @@ Hot, hot, hot — don't blow on it,
 hot, hot, hot — put your mouth on it.
 
 [Chorus]
-I love making this TEA, tea, tea,
-sugar cracking, cream like a cloud for me, me, me,
-I love making this TEA, tea, tea,
-don't stir it — let him come to me.
+I love making this TEA-TEA-TEA,
+sugar cracking, only just for me-me-me,
+whipped cream clouds and a cinnamon breeze-breeze-breeze,
+espresso shots and secret receipts for me-me-me,
+I love making this TEA-TEA-TEA,
+T-E-A.
 
 [Post-Chorus]
 (chopped, squeaky, plastic — the part that won't leave your head)
@@ -66,10 +70,12 @@ burn your tongue a little — that's the fee,
 don't pull it out too soon… let it steep in me.
 
 [Chorus]
-I love making this TEA, tea, tea,
-sugar cracking, cream like a cloud for me, me, me,
-I love making this TEA, tea, tea,
-don't stir it — let him come to me.
+I love making this TEA-TEA-TEA,
+sugar cracking, only just for me-me-me,
+whipped cream clouds and a cinnamon breeze-breeze-breeze,
+espresso shots and secret receipts for me-me-me,
+I love making this TEA-TEA-TEA,
+T-E-A.
 
 [Post-Chorus]
 In, out, in, out (tea, tea, tea),
@@ -94,10 +100,13 @@ Pour. Pour. Pour.
 
 [Final Chorus]
 (everything slams back in)
-I love making this TEA, tea, tea,
-sugar cracking, cream all over me, me, me,
+I love making this TEA-TEA-TEA,
+sugar cracking, only just for me-me-me,
+whipped cream clouds and a cinnamon breeze-breeze-breeze,
+espresso shots and secret receipts for me-me-me,
 okay, okay, I'll spill the tea:
 the last receipt just says "come with me."
+T-E-A.
 
 [Post-Chorus]
 In, out, in, out (tea, tea, tea),
@@ -122,10 +131,12 @@ checkmate.
 Caliente. Mojado. Dulce. Reposando. (x2)
 
 [Coro]
-Me encanta preparar este TÉ, té, té,
-el azúcar crujiendo, la crema como una nube para mí, mí, mí,
-me encanta preparar este TÉ, té, té,
-no lo revuelvas: deja que él venga a mí.
+Me encanta preparar este TÉ-TÉ-TÉ,
+el azúcar crujiendo, solo para mí-mí-mí,
+nubes de crema batida y una brisa de canela,
+shots de espresso y recibos secretos para mí-mí-mí,
+me encanta preparar este TÉ-TÉ-TÉ,
+T-E-A (T-É, deletreado en inglés).
 
 [Verso 1]
 Vestido negro, perlas blancas, nada debajo,
@@ -178,10 +189,13 @@ Sirve. Sirve. Sirve.
 …a menos que me lo pidas bonito.
 
 [Coro Final]
-Me encanta preparar este TÉ, té, té,
-el azúcar crujiendo, la crema toda sobre mí, mí, mí,
+Me encanta preparar este TÉ-TÉ-TÉ,
+el azúcar crujiendo, solo para mí-mí-mí,
+nubes de crema batida y una brisa de canela,
+shots de espresso y recibos secretos para mí-mí-mí,
 está bien, está bien, voy a soltar el chisme:
 el último recibo solo dice "ven conmigo".
+T-E-A.
 
 [Post-Coro Final]
 Adentro, afuera, adentro, afuera (té, té, té),
@@ -223,7 +237,7 @@ no le soples: ven a mí.
 - **La revelación es en Chef's Kiss:** llegas a la dirección a las 5 a.m., abres la puerta de la cocina… y quien está amasando es **el mesero**. Él era el chef.
 
 ## Producción (dirección final)
-**Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA, tea, tea" / "me, me, me"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
+**Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA-TEA-TEA" / "me-me-me" / "breeze-breeze-breeze"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
 
 ## Dirección visual
 - **Apertura:** amanecer, afuera del café-panadería. Tú (sin mostrar cara), de **negro y blanco**, mirando la vitrina del pan. Luego entras.
