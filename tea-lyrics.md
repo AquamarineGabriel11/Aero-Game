@@ -1,4 +1,4 @@
-# TEA — letra (v8)
+# TEA — letra (v9: elegante, seductora con estilo)
 
 **TRIP · Track 08 · 🇩🇪 Germany · lo-fi jazz pop · ~2:45**
 Contada en diálogos y recibos, no en descripciones. Sin Noa, sin pantallas, sin lluvia.
@@ -8,72 +8,71 @@ TEA
 TRIP · Track 03
 
 [Chorus]
-(starts straight on the hook: a cup clinks on the beat)
+(starts straight on the hook: a cup set down on a saucer, on the beat)
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 I love making this TEA, tea, tea,
-don't stir it, just sip it with me.
+don't stir it — let him come to me.
 
 [Verse 1]
-"You're not gonna stir it?" — "No, you said not to,"
-"You always listen to strangers?" — "Only when they look like you."
-Your @ in pen on the tea-bag sleeve — I didn't follow, I'd rather read you slow,
-"bitte," you say, and walk away… slower than you need to go.
+Pearls on, sunglasses at breakfast, black dress, window seat,
+I don't chase, darling — I just order something sweet.
+"You're not gonna stir it?" — "No, you said not to."
+"You always listen to strangers?" — "Only the ones like you."
 
 [Pre-Chorus]
-Then the receipt comes face down,
-flour on your fingers — you don't make a sound…
+He sets the check down face down, flour on his hand,
+I don't flip it right away… I let him understand…
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
-Flip it over, flip it over,
-sip, sip — I can't wait to see.
+Flip it over… slowly, slowly…
+I already know what it's gonna be.
 
 [Verse 2]
-You never ask me what I want, you pour me what I need:
-black coffee when I didn't sleep, a fizzy juice when I'm feeling free,
-tea when I walk in quiet, warm Brötchen I didn't order — "on me,"
-and my phone case won't close, packed with your notes so tight,
-full of you in pen — the only thing in there that feels right.
-Thursday I brought my friends — "who's the chef? who made this?"
-I didn't know… but you smiled like you knew who did.
+He never asks me what I want, he pours me what I need:
+black coffee when I'm sleepless, sparkling juice when I'm free,
+a warm Brötchen I didn't order — "on me" —
+so I leave a little lipstick on the rim, just for him to see.
+Thursday I brought my friends — "Who's the chef? Who made this?"
+I just sip, I just smile… and I let them guess.
 
 [Pre-Chorus]
-Then the receipt comes face down,
-flour on your fingers — you don't make a sound…
+He sets the check down face down, flour on his hand,
+I don't flip it right away… I let him understand…
 
 [Chorus]
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 I love making this TEA, tea, tea,
-don't stir it, just sip it with me.
+don't stir it — let him come to me.
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
-Flip it over, flip it over,
-sip, sip — I can't wait to see.
+Flip it over… slowly, slowly…
+I already know what it's gonna be.
 
 [Bridge]
-(everything drops: just a piano)
-"You know what the spoon means?" — "If I leave it in, I'm done."
-"So?" — "So I'll never leave it in… you're the only one,
-I'm never, never leaving it in…"
+(everything drops: a warm piano, a cup clinking)
+"You know what the spoon means?" — "Tell me. I'm all ears."
+"If you leave it in, you're done." — "Then, darling… I'll stay right here."
+I hold his eyes. I don't blink.
+I never, never leave it in…
 
 [Final Chorus]
-(everything comes back, bigger)
+(the groove comes back, harmonies stacked)
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 okay, okay, I'll spill the tea:
 the last receipt just says "come with me."
 
 [Outro]
-(a second voice — the waiter — soft, almost whispered)
+(his voice, soft, almost whispered)
 "Flip it over…"
-(paper turning)
 "…viens avec moi."
-(you, smiling)
+(you smile, slide your sunglasses back on)
 sip.
 ```
 
