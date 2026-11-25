@@ -17,7 +17,7 @@ don't stir it — let him come to me.
 [Verse 1]
 Black dress, white pearls — I match the checkered floor,
 sunglasses at breakfast, I know what I came here for,
-I don't chase, darling — I just make my move.
+I don't chase — I just make my move.
 "You're not gonna stir it?" — "No, you said not to."
 "You always listen to strangers?" — "Only the ones like you."
 
@@ -28,8 +28,8 @@ check. Your move. I let him understand…
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
-Flip it over… slowly, slowly…
-I already know what it's gonna be.
+Let it steep, let it steep…
+three minutes in, and he's all me.
 
 [Verse 2]
 He never asks me what I want, he pours me what I need:
@@ -38,6 +38,9 @@ a warm Brötchen I didn't order — "on me" —
 so I make my move: lipstick on the rim, just for him to see.
 Thursday I brought my friends — "Who's the chef? Who made this?"
 I just sip, I just smile… and I let them guess.
+(like an old movie: the camera holds on his cup, the hot water turning amber)
+He walked in clear like water —
+now he's my color, my flavor, my name.
 
 [Pre-Chorus 2]
 Come and taste this tea,
@@ -54,8 +57,8 @@ don't stir it — let him come to me.
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
 what'd you write for me, me, me?
-Flip it over… slowly, slowly…
-I already know what it's gonna be.
+Let it steep, let it steep…
+three minutes in, and he's all me.
 
 [Bridge]
 (everything drops: a warm piano, a cup clinking)
@@ -112,3 +115,10 @@ Tomamos la vibra (elegancia clásica, desayuno, ventana, soledad bonita), sin co
 - Tu look **negro y blanco** combina con el **piso de ajedrez** del café: eres **la reina** del tablero.
 - Doble sentido: en inglés **"check"** es **la cuenta** y también **"jaque"**. Él trae la cuenta → "check. Your move." Al final → **"checkmate."**
 - Video: piso de cuadros blanco y negro; el mesero de camisa blanca y mandil negro; **terrones de azúcar y tazas movidos como piezas de ajedrez** sobre la mesa; tu labial en la taza es "tu jugada".
+
+## Homenaje a la película (más guiños)
+- **"Let it steep"**: la calma de Holly Golightly, que nunca corre detrás de nadie.
+- **"my color, my flavor, my name"**: en la película los nombres son clave (Holly se inventó el suyo, el gato no tiene nombre). Aquí ella le pone su nombre a él.
+- **Plano de cine viejo** en el Verse 2: la cámara se queda en la taza de él mientras el agua caliente se vuelve ámbar, con imagen suave y luz dorada de ventana, como una película de los 60.
+- **"darling"** se queda solo en el Bridge, a propósito: es la palabra con la que Holly le habla a todo el mundo.
+- En la película Holly toma café; aquí toma té porque es **su** versión.
