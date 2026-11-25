@@ -1,7 +1,7 @@
 # TEA — letra (v11: máximo sexual, rara, estilo SOPHIE) · Explicit
 
 **TRIP · Track 03 · 🇩🇪 Germany · R&B elegante + hyperpop plástico · ~2:50**
-Elegancia de película de los 60 por fuera; látex, porcelana y vapor por dentro. Rara a propósito.
+Elegante por fuera; látex, porcelana y vapor por dentro. Rara a propósito.
 
 ```text
 TEA (Explicit)
@@ -55,7 +55,7 @@ lipstick on the rim, lipstick on his collar, let the whole café see.
 "Milk first or after?" — "After. Always after. Then again."
 Thursday I brought my friends — "Who's the chef? Who made this?"
 I just lick the spoon… and I let them guess.
-(like an old movie: the camera holds on his cup, the hot water turning amber)
+(the camera holds on his cup, the hot water turning amber)
 He walked in clear like water —
 now he's my color, my flavor, my name.
 
@@ -80,7 +80,7 @@ three minutes in, and he's all me.
 [Bridge]
 (everything goes plastic: the spoon on the cup sped up into a machine)
 "You know what the spoon means?" — "Tell me. I'm all ears."
-"If you leave it in, you're done." — "Then, darling… leave it right here."
+"If you leave it in, you're done." — "Then, chef… leave it right here."
 Sugar cube on my tongue — watch it melt, watch it go,
 I suck the honey off the spoon — he drops the tray, porcelain everywhere.
 Sugar on my ass — suck it off, every grain.
@@ -155,7 +155,7 @@ labial en el borde, labial en su cuello de camisa, que lo vea todo el café.
 "¿La leche antes o después?" — "Después. Siempre después. Y otra vez."
 El jueves traje a mis amigas: "¿Quién es el chef? ¿Quién hizo esto?"
 Yo solo lamo la cuchara… y dejo que adivinen.
-(como en una película vieja: la cámara se queda en su taza, el agua volviéndose ámbar)
+(la cámara se queda en su taza, el agua volviéndose ámbar)
 Él entró transparente como el agua;
 ahora tiene mi color, mi sabor, mi nombre.
 
@@ -167,7 +167,7 @@ no la saques tan pronto… déjala reposar en mí.
 
 [Puente]
 "¿Sabes qué significa la cuchara?" — "Dime. Soy todo oídos."
-"Si la dejas dentro, ya terminaste." — "Entonces, darling (cariño)… déjala aquí."
+"Si la dejas dentro, ya terminaste." — "Entonces, chef… déjala aquí."
 Un terrón de azúcar en mi lengua: mira cómo se derrite, cómo se va,
 chupo la miel de la cuchara y a él se le cae la charola: porcelana por todos lados.
 Azúcar en mi trasero: chúpala toda, hasta el último grano.
@@ -196,7 +196,7 @@ no le soples: ven a mí.
 **Juegos de palabras:** "spill the tea" = contar el chisme · "check" = la cuenta y "jaque" · "steep" = dejar reposar (suena a *deep*, profundo) · "in, out" = meter y sacar la bolsita de té… o no.
 
 ## Producción: rara como SOPHIE (inspiración, sin copiar)
-- **Choque de mundos:** versos de R&B elegante y suave (la película de los 60) contra coros y post-coros de **hyperpop plástico**: ahí está lo raro.
+- **Choque de mundos:** versos de R&B elegante y suave contra coros y post-coros de **hyperpop plástico**: ahí está lo raro.
 - **Sonidos del café convertidos en sintes:** la taza que **rechina como látex**, la cuchara contra la porcelana acelerada hasta sonar a máquina, vapor que silba con tono, azúcar crujiendo en primer plano (ASMR).
 - **Bajo de goma**, golpes metálicos secos, silencios totales antes de que todo regrese de golpe.
 - **Voces:** los versos susurrados y cercanos; "Hot. Wet. Sweet. Steep." con voz acelerada y robótica, casi de máquina.
@@ -225,12 +225,11 @@ no le soples: ven a mí.
 ## Producción (dirección final)
 **Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA, tea, tea" / "me, me, me"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
 
-## Homenaje de cine: Breakfast at Tiffany's (1961)
-Tomamos la vibra (elegancia clásica, desayuno, ventana, soledad bonita), sin copiar escenas exactas ni usar imágenes o música de la película.
-- **Apertura:** amanecer, afuera del café-panadería. Tú (sin mostrar cara) con **vestido negro, perlas y lentes oscuros**, mirando la vitrina del pan con un té para llevar y un pan dulce. Luego entras.
-- **Look de todo el video:** blanco y negro elegante + el color cálido del pan y el té. Tomas largas, tranquilas, como cine de los 60.
+## Dirección visual
+- **Apertura:** amanecer, afuera del café-panadería. Tú (sin mostrar cara), de **negro y blanco**, mirando la vitrina del pan. Luego entras.
+- **Look de todo el video:** blanco y negro elegante + el color cálido del pan y el té, y destellos plásticos y brillantes en los coros (la parte rara).
 - **El mesero/chef:** camisa blanca arremangada, impecable; misterioso.
-- **Guiño:** un gato sin nombre que aparece en el café (el mismo gato gris de Chef's Kiss).
+- **El gato gris** aparece en el café (el mismo de Chef's Kiss).
 - **Final:** la taza-sticker guiña → vapor → cocina de Chef's Kiss.
 
 ## Ajedrez (idea de Gabriel)
@@ -238,9 +237,7 @@ Tomamos la vibra (elegancia clásica, desayuno, ventana, soledad bonita), sin co
 - Doble sentido: en inglés **"check"** es **la cuenta** y también **"jaque"**. Él trae la cuenta → "check. Your move." Al final → **"checkmate."**
 - Video: piso de cuadros blanco y negro; el mesero de camisa blanca y mandil negro; **terrones de azúcar y tazas movidos como piezas de ajedrez** sobre la mesa; tu labial en la taza es "tu jugada".
 
-## Homenaje a la película (más guiños)
-- **"Let it steep"**: la calma de Holly Golightly, que nunca corre detrás de nadie.
-- **"my color, my flavor, my name"**: en la película los nombres son clave (Holly se inventó el suyo, el gato no tiene nombre). Aquí ella le pone su nombre a él.
-- **Plano de cine viejo** en el Verse 2: la cámara se queda en la taza de él mientras el agua caliente se vuelve ámbar, con imagen suave y luz dorada de ventana, como una película de los 60.
-- **"darling"** se queda solo en el Bridge, a propósito: es la palabra con la que Holly le habla a todo el mundo.
-- En la película Holly toma café; aquí toma té porque es **su** versión.
+## Detalles de la letra
+- **"Then, chef…"**: ella le dice "chef" al mesero en el Bridge. Sospecha quién es él, pero nadie lo confirma hasta Chef's Kiss.
+- **"my color, my flavor, my name"**: el té cambia el agua para siempre; ella lo cambia a él.
+- **Plano en el Verse 2:** la cámara se queda en la taza de él mientras el agua caliente se vuelve ámbar.
