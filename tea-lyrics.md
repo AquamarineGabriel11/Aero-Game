@@ -93,14 +93,5 @@ sip.
 - Pistas para el oyente: la harina en sus dedos, los Brötchen "on me".
 - **La revelación es en Chef's Kiss:** llegas a la dirección a las 5 a.m., abres la puerta de la cocina… y quien está amasando es **el mesero**. Él era el chef.
 
-## Producción (nueva dirección)
-Lo-fi vintage + jazz/swing retro con un toque de **caricatura antigua y cabaret suave**. ~90 BPM, relajado.
-- **Piano** cálido y un poco desgastado (como de café viejo).
-- **Clarinete y saxofón suave** con frases cortas y juguetonas: le **contestan** a la voz (después de "TEA, tea, tea" y "me, me, me").
-- **Contrabajo** tranquilo con swing; **escobillas** muy suaves; las tazas y la cucharita como percusión.
-- **Textura de grabación de época:** crujido de vinilo, sonido un poco "de radio vieja".
-- Sin percusión agresiva ni sintetizadores modernos.
-- Momentos de caricatura: un **"boop" de clarinete** cuando volteas el recibo ("flip it over"), un **trino juguetón** cuando el mesero se aleja despacio, y un **"ta-da" de vientos** con el guiño final de la taza.
-
-Prompt de estilo (para Suno u otro referente):
-`vintage lo-fi jazz swing, 1930s cartoon whimsy, soft cabaret, 90 BPM, warm slightly worn upright piano, playful clarinet and soft saxophone phrases, gentle swing upright bass, light brushed drums, teacups and spoons as percussion, vinyl crackle, old radio warmth, cozy, tender, playful, slightly mischievous, intimate vocals, no synths, no heavy drums`
+## Producción (dirección final)
+**Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA, tea, tea" / "me, me, me"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.

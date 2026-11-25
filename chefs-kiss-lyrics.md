@@ -173,3 +173,11 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - Chico francés joven, bigote y barba finos, brazos fuertes con venas marcadas (referencia: foto de antebrazo sobre piedra).
 - Trabaja **entre semana** en el café-panadería; los fines de semana juega **boliche, golf y básquetbol** (por eso su físico). Sin fútbol, para no repetir Hyacinth Macaw.
 - En el video, sin decirlo en la letra: un **balón de básquetbol** junto a la puerta de la cocina, una **bola de boliche** recargada en los costales de harina y un **guante de golf** lleno de harina sobre la mesa.
+
+## Producción (nueva dirección)
+Lo-fi vintage + jazz/swing retro con toque de **caricatura antigua / cabaret suave** y **sabor francés**. ~90 BPM.
+- Piano cálido y gastado, **acordeón** (vals musette parisino), **guitarra de jazz manouche**, clarinete juguetón, contrabajo con swing, escobillas suaves.
+- Textura de grabación de época (vinilo, radio vieja). Sin sintes modernos ni batería agresiva.
+- Final del video con **créditos** sobre esta música, en la cocina con los gatos (en sepia/blanco harina, no blanco y negro, para no parecerse a otro video).
+
+Prompt de estilo: `vintage lo-fi jazz swing, French musette accordion, gypsy jazz guitar, 1930s cartoon whimsy, soft cabaret, 90 BPM, warm worn upright piano, playful clarinet, gentle swing upright bass, brushed drums, vinyl crackle, cozy, tender, playful, romantic, no synths`
