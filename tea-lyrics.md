@@ -16,7 +16,7 @@ Hot. Wet. Sweet. Steep.
 [Chorus]
 (a cup slammed on a saucer, on the beat)
 I love making this TEA-TEA-TEA,
-sugar cracking, only for me-me-me,
+sugar cracking, only just for me-me-me,
 whipped cream clouds — squeeze-squeeze-squeeze,
 cinnamon breeze down to my knees-knees-knees,
 espresso shot, secret receipt — for me-me-me,
@@ -39,7 +39,7 @@ hot, hot, hot — put your mouth on it.
 
 [Chorus]
 I love making this TEA-TEA-TEA,
-sugar cracking, only for me-me-me,
+sugar cracking, only just for me-me-me,
 whipped cream clouds — squeeze-squeeze-squeeze,
 cinnamon breeze down to my knees-knees-knees,
 espresso shot, secret receipt — for me-me-me,
@@ -73,7 +73,7 @@ don't pull it out too soon… let it steep in me.
 
 [Chorus]
 I love making this TEA-TEA-TEA,
-sugar cracking, only for me-me-me,
+sugar cracking, only just for me-me-me,
 whipped cream clouds — squeeze-squeeze-squeeze,
 cinnamon breeze down to my knees-knees-knees,
 espresso shot, secret receipt — for me-me-me,
@@ -104,7 +104,7 @@ Pour. Pour. Pour.
 [Final Chorus]
 (everything slams back in)
 I love making this TEA-TEA-TEA,
-sugar cracking, only for me-me-me,
+sugar cracking, only just for me-me-me,
 whipped cream clouds — squeeze-squeeze-squeeze,
 cinnamon breeze down to my knees-knees-knees,
 espresso shot, secret receipt — for me-me-me,
