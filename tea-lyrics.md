@@ -15,14 +15,15 @@ I love making this TEA, tea, tea,
 don't stir it — let him come to me.
 
 [Verse 1]
-Pearls on, sunglasses at breakfast, black dress, window seat,
-I don't chase, darling — I just order something sweet.
+Black dress, white pearls — I match the checkered floor,
+sunglasses at breakfast, I know what I came here for,
+I don't chase, darling — I just make my move.
 "You're not gonna stir it?" — "No, you said not to."
 "You always listen to strangers?" — "Only the ones like you."
 
 [Pre-Chorus]
-He sets the check down face down, flour on his hand,
-I don't flip it right away… I let him understand…
+He brings the check face down, flour on his hand —
+check. Your move. I let him understand…
 
 [Post-Chorus]
 Flip it over, flip it over (tea, tea, tea),
@@ -34,13 +35,13 @@ I already know what it's gonna be.
 He never asks me what I want, he pours me what I need:
 black coffee when I'm sleepless, sparkling juice when I'm free,
 a warm Brötchen I didn't order — "on me" —
-so I leave a little lipstick on the rim, just for him to see.
+so I make my move: lipstick on the rim, just for him to see.
 Thursday I brought my friends — "Who's the chef? Who made this?"
 I just sip, I just smile… and I let them guess.
 
 [Pre-Chorus]
-He sets the check down face down, flour on his hand,
-I don't flip it right away… I let him understand…
+He brings the check face down, flour on his hand —
+check. Your move. I let him understand…
 
 [Chorus]
 I love making this TEA, tea, tea,
@@ -59,6 +60,7 @@ I already know what it's gonna be.
 "You know what the spoon means?" — "Tell me. I'm all ears."
 "If you leave it in, you're done." — "Then, darling… I'll stay right here."
 I hold his eyes. I don't blink.
+Every move I make, he's one step behind,
 I never, never leave it in…
 
 [Final Chorus]
@@ -73,7 +75,8 @@ the last receipt just says "come with me."
 "Flip it over…"
 "…viens avec moi."
 (you smile, slide your sunglasses back on)
-sip.
+sip…
+checkmate.
 ```
 
 ## Video (versión final)
@@ -102,3 +105,8 @@ Tomamos la vibra (elegancia clásica, desayuno, ventana, soledad bonita), sin co
 - **El mesero/chef:** camisa blanca arremangada, impecable; misterioso.
 - **Guiño:** un gato sin nombre que aparece en el café (el mismo gato gris de Chef's Kiss).
 - **Final:** la taza-sticker guiña → vapor → cocina de Chef's Kiss.
+
+## Ajedrez (idea de Gabriel)
+- Tu look **negro y blanco** combina con el **piso de ajedrez** del café: eres **la reina** del tablero.
+- Doble sentido: en inglés **"check"** es **la cuenta** y también **"jaque"**. Él trae la cuenta → "check. Your move." Al final → **"checkmate."**
+- Video: piso de cuadros blanco y negro; el mesero de camisa blanca y mandil negro; **terrones de azúcar y tazas movidos como piezas de ajedrez** sobre la mesa; tu labial en la taza es "tu jugada".
