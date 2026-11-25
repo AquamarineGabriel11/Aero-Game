@@ -1,32 +1,38 @@
-# TEA — letra (v10: seductora +18, todo con metáfora)
+# TEA — letra (v11: máximo sexual, rara, estilo SOPHIE) · Explicit
 
-**TRIP · Track 03 · 🇩🇪 Germany · pop-R&B coqueto · ~2:50**
-Sexual de principio a fin, pero solo con dobles sentidos: no dice ninguna palabra explícita.
+**TRIP · Track 03 · 🇩🇪 Germany · R&B elegante + hyperpop plástico · ~2:50**
+Elegancia de película de los 60 por fuera; látex, porcelana y vapor por dentro. Rara a propósito.
 
 ```text
-TEA
+TEA (Explicit)
 TRIP · Track 03
 
+[Intro]
+(a porcelain cup squeaks like rubber. steam hisses, pitched up.)
+(pitched, robotic)
+Hot. Wet. Sweet. Steep.
+Hot. Wet. Sweet. Steep.
+
 [Chorus]
-(starts straight on the hook: a cup set down on a saucer, on the beat)
+(a cup slammed on a saucer, on the beat)
 I love making this TEA, tea, tea,
 sugar cracking, cream like a cloud for me, me, me,
 I love making this TEA, tea, tea,
 don't stir it — let him come to me.
 
 [Verse 1]
-Black dress, white pearls — I match the checkered floor,
-sunglasses at breakfast, I know what I came here for,
-I cross my legs — he spills the milk, he blames the cup,
-"How do you take it?" — "Hot… and filled right up."
-"You're not gonna stir it?" — "No, you said not to."
-"You always listen to strangers?" — "Only the ones like you."
+Black dress, white pearls, nothing underneath,
+porcelain legs on the checkered floor, pearls between my teeth,
+I cross 'em, uncross 'em — he spills the milk, he blames the cup,
+"How do you take it?" — "Hot. Wet. Filled right up."
+"You're not gonna stir it?" — "No. You stir me."
+"You always listen to strangers?" — "Only when they're on their knees."
 
 [Pre-Chorus]
 He brings the check face down, flour on his hand,
-check. Your move. Now you understand —
-it's hot, hot, hot, don't blow on it,
-hot, hot, hot… just hold it…
+check. Your move. Lick it off — understand?
+Hot, hot, hot — don't blow on it,
+hot, hot, hot — put your mouth on it.
 
 [Chorus]
 I love making this TEA, tea, tea,
@@ -35,20 +41,20 @@ I love making this TEA, tea, tea,
 don't stir it — let him come to me.
 
 [Post-Chorus]
-(call and response, the hook that won't leave your head)
-Flip it over, flip it over (tea, tea, tea),
-sip, sip, drip, drip, all on me, me, me,
-let it steep, let it steep (tea, tea, tea),
+(chopped, squeaky, plastic — the part that won't leave your head)
+In, out, in, out (tea, tea, tea),
+dip it, dip it, drip it all on me, me, me,
+in, out, let it steep (tea, tea, tea),
 three minutes in, and he's all me.
 
 [Verse 2]
-He never asks me what I want, he pours me what I need:
-black coffee when I'm sleepless, sparkling juice when I'm free,
-a warm Brötchen I didn't order — "on me" —
-so I make my move: lipstick on the rim, just for him to see.
-"Milk first or after?" — "After. Always after."
+He never asks me what I want, he pours me what I need,
+holds the pot up high so I can watch it stream,
+a warm Brötchen in his palm — "squeeze it, it's on me" —
+lipstick on the rim, lipstick on his collar, let the whole café see.
+"Milk first or after?" — "After. Always after. Then again."
 Thursday I brought my friends — "Who's the chef? Who made this?"
-I just sip, I just smile… and I let them guess.
+I just lick the spoon… and I let them guess.
 (like an old movie: the camera holds on his cup, the hot water turning amber)
 He walked in clear like water —
 now he's my color, my flavor, my name.
@@ -66,32 +72,35 @@ I love making this TEA, tea, tea,
 don't stir it — let him come to me.
 
 [Post-Chorus]
-Flip it over, flip it over (tea, tea, tea),
-sip, sip, drip, drip, all on me, me, me,
-let it steep, let it steep (tea, tea, tea),
+In, out, in, out (tea, tea, tea),
+dip it, dip it, drip it all on me, me, me,
+in, out, let it steep (tea, tea, tea),
 three minutes in, and he's all me.
 
 [Bridge]
-(everything drops: a warm piano, a cup clinking)
+(everything goes plastic: the spoon on the cup sped up into a machine)
 "You know what the spoon means?" — "Tell me. I'm all ears."
-"If you leave it in, you're done." — "Then, darling… I'll stay right here."
-I lick the spoon clean — he drops the tray,
-I hold his eyes. I don't blink. I don't look away.
-Every move I make, he's one step behind,
-I never, never leave it in…
-(a breath)
+"If you leave it in, you're done." — "Then, darling… leave it right here."
+Sugar cube on my tongue — watch it melt, watch it go,
+I suck the honey off the spoon — he drops the tray, porcelain everywhere.
+(pitched up, almost a machine)
+Hot. Wet. Sweet. Steep.
+Crack me like a sugar cube.
+Hot. Wet. Sweet. Steep.
+Pour. Pour. Pour.
+(silence)
 …unless you ask me nice.
 
 [Final Chorus]
-(the groove comes back, harmonies stacked)
+(everything slams back in)
 I love making this TEA, tea, tea,
-sugar cracking, cream like a cloud for me, me, me,
+sugar cracking, cream all over me, me, me,
 okay, okay, I'll spill the tea:
 the last receipt just says "come with me."
 
 [Post-Chorus]
-Flip it over, flip it over (tea, tea, tea),
-sip, sip, drip, drip, all on me, me, me,
+In, out, in, out (tea, tea, tea),
+dip it, dip it, drip it all on me, me, me,
 hot, hot, hot (tea, tea, tea),
 don't blow on it — come to me.
 
@@ -101,13 +110,16 @@ don't blow on it — come to me.
 "…viens avec moi."
 (you smile, slide your sunglasses back on)
 sip…
+(the cup squeaks one last time)
 checkmate.
 ```
-
 
 ## Traducción al español (para entender, no para cantar)
 
 ```text
+[Intro]
+Caliente. Mojado. Dulce. Reposando. (x2)
+
 [Coro]
 Me encanta preparar este TÉ, té, té,
 el azúcar crujiendo, la crema como una nube para mí, mí, mí,
@@ -115,34 +127,34 @@ me encanta preparar este TÉ, té, té,
 no lo revuelvas: deja que él venga a mí.
 
 [Verso 1]
-Vestido negro, perlas blancas: combino con el piso de ajedrez,
-lentes oscuros en el desayuno, sé a qué vine,
-cruzo las piernas y a él se le cae la leche; le echa la culpa a la taza,
-"¿Cómo lo tomas?" — "Caliente… y bien lleno."
-"¿No lo vas a revolver?" — "No, tú dijiste que no."
-"¿Siempre le haces caso a desconocidos?" — "Solo a los como tú."
+Vestido negro, perlas blancas, nada debajo,
+piernas de porcelana en el piso de ajedrez, perlas entre los dientes,
+las cruzo, las descruzo; a él se le cae la leche y le echa la culpa a la taza,
+"¿Cómo lo tomas?" — "Caliente. Mojado. Bien lleno."
+"¿No lo vas a revolver?" — "No. Revuélveme tú a mí."
+"¿Siempre le haces caso a desconocidos?" — "Solo cuando están de rodillas."
 
 [Pre-Coro]
 Trae la cuenta boca abajo, con harina en la mano,
-jaque. Te toca. Ahora entiendes:
-está caliente, caliente, caliente, no le soples,
-caliente, caliente, caliente… solo aguántalo…
+jaque. Te toca. Lámela, ¿entiendes?
+Caliente, caliente, caliente: no le soples,
+caliente, caliente, caliente: ponle la boca.
 
 [Post-Coro]
-Voltéalo, voltéalo (té, té, té),
-sorbo, sorbo, gota, gota, todo sobre mí, mí, mí,
-déjalo reposar, déjalo reposar (té, té, té),
+Adentro, afuera, adentro, afuera (té, té, té),
+mójalo, mójalo, escúrrelo todo sobre mí, mí, mí,
+adentro, afuera, déjalo reposar (té, té, té),
 tres minutos dentro, y ya es todo mío.
 
 [Verso 2]
-Nunca me pregunta qué quiero, me sirve lo que necesito:
-café negro cuando no duermo, jugo con gas cuando estoy libre,
-un Brötchen calientito que no pedí: "yo invito",
-así que hago mi jugada: labial en el borde, solo para que él lo vea.
-"¿La leche antes o después?" — "Después. Siempre después."
+Nunca me pregunta qué quiero, me sirve lo que necesito,
+levanta la tetera alto para que lo vea caer en chorro,
+un Brötchen calientito en su mano: "apriétalo, yo invito",
+labial en el borde, labial en su cuello de camisa, que lo vea todo el café.
+"¿La leche antes o después?" — "Después. Siempre después. Y otra vez."
 El jueves traje a mis amigas: "¿Quién es el chef? ¿Quién hizo esto?"
-Yo solo doy un sorbo, solo sonrío… y dejo que adivinen.
-(como en una película vieja: la cámara se queda en su taza, el agua caliente volviéndose ámbar)
+Yo solo lamo la cuchara… y dejo que adivinen.
+(como en una película vieja: la cámara se queda en su taza, el agua volviéndose ámbar)
 Él entró transparente como el agua;
 ahora tiene mi color, mi sabor, mi nombre.
 
@@ -154,61 +166,43 @@ no la saques tan pronto… déjala reposar en mí.
 
 [Puente]
 "¿Sabes qué significa la cuchara?" — "Dime. Soy todo oídos."
-"Si la dejas dentro, ya terminaste." — "Entonces, darling (cariño)… me quedo aquí."
-Lamo la cuchara hasta dejarla limpia y a él se le cae la charola,
-le sostengo la mirada. No parpadeo. No volteo.
-Cada jugada que hago, él va un paso atrás,
-nunca, nunca la dejo dentro…
-(un respiro)
+"Si la dejas dentro, ya terminaste." — "Entonces, darling (cariño)… déjala aquí."
+Un terrón de azúcar en mi lengua: mira cómo se derrite, cómo se va,
+chupo la miel de la cuchara y a él se le cae la charola: porcelana por todos lados.
+Caliente. Mojado. Dulce. Reposando.
+Rómpeme como un terrón de azúcar.
+Caliente. Mojado. Dulce. Reposando.
+Sirve. Sirve. Sirve.
 …a menos que me lo pidas bonito.
 
 [Coro Final]
 Me encanta preparar este TÉ, té, té,
-el azúcar crujiendo, la crema como una nube para mí, mí, mí,
+el azúcar crujiendo, la crema toda sobre mí, mí, mí,
 está bien, está bien, voy a soltar el chisme:
 el último recibo solo dice "ven conmigo".
 
 [Post-Coro Final]
-Voltéalo, voltéalo (té, té, té),
-sorbo, sorbo, gota, gota, todo sobre mí, mí, mí,
+Adentro, afuera, adentro, afuera (té, té, té),
+mójalo, mójalo, escúrrelo todo sobre mí, mí, mí,
 caliente, caliente, caliente (té, té, té),
 no le soples: ven a mí.
 
 [Outro]
-(su voz, suave, casi susurrando)
-"Voltéalo…"
-"…ven conmigo." (viens avec moi, en francés)
-(sonríes y te vuelves a poner los lentes oscuros)
-sorbo…
-jaque mate.
+"Voltéalo…" / "…ven conmigo." (viens avec moi) / sorbo… / jaque mate.
 ```
 
-**Juegos de palabras que no se traducen:**
-- **"spill the tea"** es "tirar el té", pero en inglés también significa **contar el chisme**.
-- **"check"** es **la cuenta** y también **"jaque"**.
-- **"steep"** es **dejar reposar el té** y suena como *deep* (**profundo**).
+**Juegos de palabras:** "spill the tea" = contar el chisme · "check" = la cuenta y "jaque" · "steep" = dejar reposar (suena a *deep*, profundo) · "in, out" = meter y sacar la bolsita de té… o no.
 
-## Dobles sentidos (lo que de verdad dice)
-| Línea | Suena a… | Pero quiere decir… |
-|---|---|---|
-| I love making this TEA | preparar té | conquistarlo |
-| he spills the milk, he blames the cup | se le cae la leche | se puso nervioso (y algo más) por ella |
-| "Hot… and filled right up." | cómo toma el té | cómo le gusta a ella |
-| hot, hot, hot, don't blow on it / just hold it | no soples el té | aguántate, no termines todavía |
-| sip, sip, drip, drip, all on me | gotas de té | se entiende solo 😏 |
-| "Milk first or after?" — "After. Always after." | la leche en el té | el después |
-| don't pull it out too soon… let it steep in me | la bolsita de té | lo que suena |
-| If you leave it in, you're done | la cuchara en la taza | lo que suena |
-| …unless you ask me nice | | ella pone las reglas |
-| I lick the spoon clean | la cuchara | la provocación final |
+## Producción: rara como SOPHIE (inspiración, sin copiar)
+- **Choque de mundos:** versos de R&B elegante y suave (la película de los 60) contra coros y post-coros de **hyperpop plástico**: ahí está lo raro.
+- **Sonidos del café convertidos en sintes:** la taza que **rechina como látex**, la cuchara contra la porcelana acelerada hasta sonar a máquina, vapor que silba con tono, azúcar crujiendo en primer plano (ASMR).
+- **Bajo de goma**, golpes metálicos secos, silencios totales antes de que todo regrese de golpe.
+- **Voces:** los versos susurrados y cercanos; "Hot. Wet. Sweet. Steep." con voz acelerada y robótica, casi de máquina.
+- Prompt de estilo: `elegant late-90s R&B verses colliding with plastic hyperpop choruses, latex squeak synths, rubbery bass, metallic percussion, pitched robotic vocal chops, porcelain and spoon foley as drums, steam hiss, ASMR sugar crackle, sudden silences, seductive, strange, 95 BPM`
 
-## Por qué se pega
-- **Arranca en el coro:** el gancho suena en el segundo 1.
-- **"tea, tea, tea / me, me, me"** se repite en coro y post-coro: llamada y respuesta que se canta sin pensar.
-- **"hot, hot, hot"** en el pre-coro y en el último post-coro: tres sílabas iguales, fáciles de corear.
-- **"sip, sip, drip, drip"**: sonidos cortos que se sienten en la boca, ideales para un trend de TikTok (sorbo a la cámara en "sip").
-- **Sin etiqueta Explicit:** no hay ninguna palabra explícita, así que puede entrar en playlists y radio. Es la más sexual del álbum, pero "limpia".
-
+## Versión
+- Ahora es **Explicit** ("wet", "on their knees", "put your mouth on it", "suck").
+- Si quieres una versión clean para radio y TikTok, se cambian unas cuantas líneas (como hicimos con Seen).
 
 ## Video (versión final)
 **Inicio:** el mesero/mesera sirve el té; en el sobre del té dejó su @ escrito a mano.
