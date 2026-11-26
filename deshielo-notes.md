@@ -71,7 +71,7 @@ Deshielo y Tekapo son **las dos canciones que más te desconectan del mundo**: e
 - **Hora azul:** ventanas al amanecer con árboles sin hojas, calle con nieve, cortinas con las luces de la ciudad detrás, edificios de noche en azul profundo. Todo en silencio, como el mundo antes de despertar.
 - **Fotos instantáneas (polaroid) gastadas:** el Golden Gate en niebla, el mar oscuro con una ola blanca. Recuerdos que se borran como el hielo.
 - **Lavanda y morado:** dunas al atardecer, un fondo de pantalla de líneas lavanda que se derriten y escurren. Ideal para la **portada** de Deshielo.
-- **Pantalla retro de computadora** (para el acorde de arranque). Ojo: la referencia es de un visual de **NAYEON** ("SHIVER"); tomar solo la idea de una computadora vieja que se "descongela", **sin copiar** su diseño, ventanas ni textos.
+- **Pantalla retro de computadora** (para el acorde de arranque): una computadora vieja que se "descongela" con la nieve.
 - **Renacer en el agua:** manos sacando agua llena de luz, pies salpicando en la orilla, brillos borrosos sobre el agua (bokeh). Este es el momento de **salir a la superficie**.
 - **Figuras de blanco en círculo, con luz entre las manos:** como un ritual de nacimiento. Sin mostrar caras.
 - **Luz borrosa sobre el mar** y una **luna azul**: el cierre, justo antes de las estrellas de Tekapo.
