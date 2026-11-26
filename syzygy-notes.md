@@ -1,13 +1,13 @@
-# TRACK 06 (antes "Tekapo") — letra v3: desconectarte del mundo
+# SYZYGY — letra v3: desconectarte del mundo
 
 **TRIP · Track 06 · 🇳🇿 Lago Tekapo, Aotearoa · ~3:15**
-*(Título por decidir: Gabriel no quiere "Tekapo". Opciones: Airplane Mode · Out of Range · Forty-Two · Hi to the Sky.)*
+**Syzygy** (se dice **SÍ-zi-yi**; en español "sicigia"): palabra de astronomía para cuando tres o más astros **se alinean en línea recta**. Las estrellas se alinean para ella.
 Tema: **desconectarte del mundo y sentirte diminuta.** Por primera vez nadie la puede encontrar. Frente a los planetas, sus problemas se vuelven polvo. Emoción: **asombro y ligereza**. (Volver a nacer es de Deshielo; cerrar ciclos es de Mångata.)
 Idiomas: inglés + un poco de **te reo Māori**.
 Sonido: empieza flotando (dream pop, como *Space Song* de Beach House) y crece hasta sentirse enorme (pop neozelandés como *Ribs* de Lorde). Solo inspiración.
 
 ```text
-TRACK 06
+SYZYGY
 TRIP · Track 06
 
 [Intro]
@@ -30,11 +30,11 @@ one… then ten… then a thousand at once,
 like the sky was just waiting for me to look up.
 
 [Chorus]
-Airplane mode, airplane mode,
-nobody can find me where the planets go,
+Syzygy, syzygy,
+everything up there is lining up for me,
 I found Saturn in a telescope,
 rings and all — and my problems look so small, oh,
-airplane mode, airplane mode,
+syzygy, syzygy,
 the light up here left so long ago,
 it took a million years to say hello,
 and nobody down there has to know.
@@ -60,11 +60,11 @@ one… then ten… then a thousand at once,
 like the sky was just waiting for me to look up.
 
 [Chorus]
-Airplane mode, airplane mode,
-nobody can find me where the planets go,
+Syzygy, syzygy,
+everything up there is lining up for me,
 I found Saturn in a telescope,
 rings and all — and my problems look so small, oh,
-airplane mode, airplane mode,
+syzygy, syzygy,
 the light up here left so long ago,
 it took a million years to say hello,
 and nobody down there has to know.
@@ -81,15 +81,16 @@ From Saturn, Earth's a dot you'd miss if you blinked,
 and somewhere on that dot, a phone is lighting up…
 let it ring.
 Let it ring.
-I'm a speck on a speck on a speck — and it feels like flying.
+One, two, three, four, five, all in a line —
+I'm a speck on a speck on a speck… and tonight I'm number six.
 
 [Final Chorus]
 (everything comes in at once)
-Airplane mode, airplane mode,
-nobody can find me where the planets go,
-I found Saturn in a telescope,
-rings and all — and my problems look so small, oh,
-airplane mode, airplane mode,
+Syzygy, syzygy,
+everything up there is lining up for me,
+Saturn, Jupiter, the moon — all in a row,
+and the last one in the line is me, you know,
+syzygy, syzygy,
 the light up here left so long ago,
 it took a million years to say hello,
 and nobody, nobody down there has to know.
@@ -121,11 +122,11 @@ una… luego diez… luego mil de golpe,
 como si el cielo solo estuviera esperando a que yo mirara hacia arriba.
 
 [Coro]
-Modo avión, modo avión,
-nadie me puede encontrar donde van los planetas,
+Sicigia, sicigia (los astros en línea),
+todo allá arriba se está alineando para mí,
 encontré a Saturno en un telescopio,
 con todo y anillos, y mis problemas se ven tan pequeños,
-modo avión, modo avión,
+sicigia, sicigia,
 la luz de aquí arriba salió hace muchísimo,
 tardó un millón de años en decir hola,
 y nadie allá abajo tiene que enterarse.
@@ -146,7 +147,12 @@ estaba contando satélites.
 Desde Saturno, la Tierra es un punto que no verías si parpadeas,
 y en algún lugar de ese punto, un celular se está prendiendo…
 déjalo sonar.
-Soy una mota en una mota en una mota, y se siente como volar.
+Uno, dos, tres, cuatro, cinco, todos en fila:
+soy una mota en una mota en una mota… y esta noche soy la número seis.
+
+[Coro Final]
+… Saturno, Júpiter, la luna: todos en fila,
+y la última de la fila soy yo.
 
 [Outro]
 Kia ora…
@@ -154,6 +160,7 @@ Kia ora…
 ```
 
 ## Los planetas (todo es real)
+- **Sicigia (syzygy):** alineación de tres o más cuerpos en el espacio; un eclipse es una sicigia del Sol, la Tierra y la Luna. Cuando varios planetas se ven en fila en el cielo, se le dice "desfile de planetas".
 - **Saturno:** sus anillos se ven con un telescopio pequeño.
 - **Júpiter:** con un telescopio o binoculares se ven sus **cuatro lunas más grandes** como puntitos en línea.
 - **Marte:** se ve como un punto rojizo.

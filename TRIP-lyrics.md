@@ -8,7 +8,7 @@ TRIP · GABRIEL
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos
-06  Tekapo                           🇳🇿          🩵  encontrarte en el universo
+06  Syzygy                           🇳🇿          🩵  los astros se alinean, desconectarte
 07  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  volver a nacer bajo el agua
 08  Mångata                          🇸🇪🇵🇹        💙  hora azul, la luna: cerrar y renacer
 
@@ -461,7 +461,7 @@ et l'eau trouve toujours le chemin de la maison.
 
 ## 06 · TEKAPO
 
-> **Versión vieja.** La letra nueva (v2: encontrarte en el universo) está en `tekapo-notes.md`.
+> **Versión vieja.** La canción ahora se llama **Syzygy**; la letra nueva está en `syzygy-notes.md`.
 
 ```text
 [Intro]

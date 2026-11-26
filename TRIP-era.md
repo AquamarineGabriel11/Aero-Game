@@ -17,7 +17,7 @@
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |
-| 06 | Tekapo | CHC | azul noche y dorado Saturno |
+| 06 | Syzygy | CHC | azul noche y dorado Saturno |
 | 07 | Deshielo | FTE | lavanda |
 | 08 | Mångata | ARN · LIS | azul de hora azul y plata de luna |
 
