@@ -1,8 +1,8 @@
-# MÅNGATA — letra v2: el gran cierre
+# MÅNGATA — letra v3: cerrar ciclos
 
 **TRIP · Track 08 (última) · 🇸🇪 Estocolmo · 🇵🇹 Cabo da Roca · ~3:40**
 *Mångata* (sueco, se dice **MONG-a-ta**): el camino de luz que deja la luna sobre el agua.
-Tema: **cerrar ciclos y llegar al final.** Última noche del viaje, la hora azul, la luna. Le da las gracias a cada lugar y regresa a casa diferente. Emoción: **saudade y gratitud** (no tristeza).
+Tema: **cerrar ciclos.** La hora azul y la luna. No es regresar a casa: es despedirte de cada etapa, darle las gracias y soltarla. Emoción: **saudade y gratitud** (no tristeza).
 Sonido: pop nórdico de "bailar llorando" (como Robyn o Lykke Li) + **guitarra portuguesa de fado**. Solo inspiración.
 
 ```text
@@ -14,8 +14,8 @@ TRIP · Track 08
 Mån-ga-ta…
 
 [Verse 1]
-Last night of the trip, and my suitcase won't close,
-too many places stuffed in the pockets of my coat,
+I wrote down every ending I never got to finish
+on little paper squares in the pockets of my coat,
 I walk down to the dock in the blue before the day,
 the Baltic so still it's pretending to be glass.
 An owl in the pines goes hoot, hoot —
@@ -32,12 +32,12 @@ a road of light you don't have to walk… you just have to know it's there.
 [Chorus]
 Mångata, Mångata,
 silver road across the water,
-I gave every place a little piece of me,
-and I'm taking home the rest.
-Mån-ga-ta, kom hem,
-it's over — and it's okay,
-everything ends, that's what made it gold,
-Mån-ga-ta… kom hem.
+every chapter that I couldn't close,
+I set it on the light and watch it float.
+Mån-ga-ta, hej då,
+goodbye to who I was a year ago,
+everything ends — that's what made it gold,
+Mån-ga-ta… hej då.
 
 [Post-Chorus]
 (a chant that grows: every language of the trip)
@@ -65,12 +65,12 @@ a road of light you don't have to walk… you just have to know it's there.
 [Chorus]
 Mångata, Mångata,
 silver road across the water,
-I gave every place a little piece of me,
-and I'm taking home the rest.
-Mån-ga-ta, kom hem,
-it's over — and it's okay,
-everything ends, that's what made it gold,
-Mån-ga-ta… kom hem.
+every chapter that I couldn't close,
+I set it on the light and watch it float.
+Mån-ga-ta, hej då,
+goodbye to who I was a year ago,
+everything ends — that's what made it gold,
+Mån-ga-ta… hej då.
 
 [Post-Chorus]
 Arigatō, obrigada,
@@ -91,12 +91,12 @@ It's a thank-you note.
 (everything comes back: the whole trip singing with her)
 Mångata, Mångata,
 silver road across the water,
-I gave every place a little piece of me,
-and I'm taking home the rest.
-Mån-ga-ta, kom hem,
+every chapter that I couldn't close,
+I set it on the light and watch it float.
+Mån-ga-ta, hej då,
 the sun comes up, the road dissolves,
 and I don't need it anymore —
-Mån-ga-ta… kom hem.
+Mån-ga-ta… hej då.
 
 [Post-Chorus]
 Arigatō, obrigada,
@@ -109,7 +109,7 @@ tack — thank you, thank you.
 Somewhere it's 2:47…
 and I'm not awake for it.
 (a phone buzzes once on the dock. she doesn't look.)
-Kom hem.
+Hej då.
 (the boot chord from Deshielo plays one last time — backwards, like a computer shutting down. TRIP ends.)
 ```
 
@@ -119,8 +119,8 @@ Kom hem.
 Mån-ga-ta…
 
 [Verso 1]
-Última noche del viaje, y mi maleta no cierra,
-demasiados lugares metidos en los bolsillos de mi abrigo,
+Escribí cada final que nunca pude terminar
+en papelitos cuadrados en los bolsillos de mi abrigo,
 bajo al muelle en el azul de antes del día,
 el Báltico tan quieto que finge ser cristal.
 Una lechuza en los pinos hace uh, uh,
@@ -137,12 +137,12 @@ un camino de luz que no tienes que recorrer… solo tienes que saber que está a
 [Coro]
 Mångata, Mångata,
 camino de plata sobre el agua,
-le di a cada lugar un pedacito de mí,
-y me llevo a casa el resto.
-Mån-ga-ta, kom hem (ven a casa),
-se acabó, y está bien,
+cada capítulo que no podía cerrar,
+lo pongo sobre la luz y lo veo flotar.
+Mån-ga-ta, hej då (adiós, en sueco),
+adiós a quien era hace un año,
 todo termina; eso es lo que lo hizo de oro,
-Mån-ga-ta… ven a casa.
+Mån-ga-ta… adiós.
 
 [Post-Coro]
 Gracias en cada idioma del viaje:
@@ -170,18 +170,18 @@ Es una nota de agradecimiento.
 [Coro Final]
 … sale el sol, el camino se deshace,
 y ya no lo necesito.
-Mån-ga-ta… ven a casa.
+Mån-ga-ta… adiós.
 
 [Outro]
 En algún lugar son las 2:47…
 y no estoy despierta para verlo.
 (un celular vibra una vez en el muelle. ella no lo mira.)
-Ven a casa.
+Adiós.
 (el acorde de arranque de Deshielo suena una última vez, al revés, como una computadora que se apaga. Fin de TRIP.)
 ```
 
 ## Por qué cierra bien el álbum
-- **El ritual de cerrar ciclos:** deja sobre el camino de la luna un recuerdo de cada canción.
+- **El ritual de cerrar ciclos:** primero suelta los papelitos con los finales que nunca terminó; después, un recuerdo de cada canción. Cada objeto es un ciclo que se cierra.
 
 | Objeto | Canción |
 |---|---|
@@ -195,9 +195,9 @@ Ven a casa.
 
 - **"Gracias" en cada idioma del viaje** (post-coro): arigatō 🇯🇵 Seen · obrigada 🇧🇷 Caipirinha · danke 🇩🇪 TEA · merci 🇫🇷 Chef's Kiss · xièxie 🇨🇳 Nobody's Catching Me · kia ora 🇳🇿 Syzygy (en māori también se usa para dar las gracias) · gracias 🇦🇷 Deshielo (y tu idioma) · tack 🇸🇪 Mångata. Es el canto que el público va a corear al final de cada concierto.
 - **Responde a Seen:** el álbum empezó despierta a las 2:47 esperando un mensaje. Termina con *"Somewhere it's 2:47… and I'm not awake for it"*, y un celular que vibra y ella ni lo mira. Ese es el viaje completo.
-- **"Kom hem"** (sueco: "ven a casa"): regresar a casa, y regresar a ti.
+- **"Hej då"** (sueco: "adiós", se dice *jei-DÓ*): despedirte de cada etapa. **"Goodbye to who I was a year ago"** es cerrar el ciclo más grande: tu versión de antes.
 - **El último sonido:** el acorde de arranque de Deshielo, al revés, como una computadora que se apaga. El álbum "se apaga".
-- **Lo tuyo se queda:** la lechuza, la hora azul, la luna, y el ritual de cerrar ciclos de tus imágenes.
+- **Lo tuyo se queda:** la lechuza, la hora azul, la luna, y el ritual de cerrar ciclos de tus imágenes. Nada de regresar a casa.
 
 ## Detalles reales
 - **Mångata:** palabra sueca real para el reflejo de la luna sobre el agua en forma de camino.

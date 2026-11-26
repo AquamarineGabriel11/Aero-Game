@@ -9,8 +9,8 @@ TRIP · GABRIEL
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos
 06  Syzygy                           🇳🇿          🩵  los astros se alinean, desconectarte
-07  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  volver a nacer bajo el agua
-08  Mångata                          🇸🇪🇵🇹        💙  hora azul, la luna: cerrar y renacer
+07  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  refrescar tu mente
+08  Mångata                          🇸🇪🇵🇹        💙  hora azul, la luna: cerrar ciclos
 
 Bonus: Seen (Extended Scene)           
 ```
