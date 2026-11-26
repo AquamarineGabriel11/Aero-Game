@@ -138,3 +138,13 @@ só pra frente…
 > "Cada viaje es una canción, cada país tiene su cultura."
 - Los cambios de género **son el concepto**, no un problema: cada país suena como su cultura. TRIP quiere ser diferente.
 - Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, la hora 2:47). Las transiciones entre canciones son el "viaje" de un lugar a otro.
+
+## Referencias de sonido (de Gabriel)
+Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante, voz cercana y respirada, sintes de ensueño y mucho espacio. Son referencias de vibra: **no se copia** ninguna melodía, letra ni sample.
+
+| Canción | Referencias | Lo que tomamos |
+|---|---|---|
+| **Seen** | High Fashion (Addison Rae) · Freak (Ariana Grande) · Miss (Erika de Casier) | R&B minimalista y sensual: voz cerquita y respirada, bajo suave, pocos elementos, ambiente de cuarto de noche. |
+| **Caipirinha** | New York (Addison Rae) · Sun Kiss · Karlee girl · Stateside (PinkPantheress + Zara Larsson) | Pop bailable y soleado: ritmos rápidos y ligeros tipo UK garage / drum & bass suave, mezclados con la batería del funk brasileño. |
+| **TEA** | Immaterial (SOPHIE) · Battitude (TWICE) · Kiss (Tyla) · Von dutch (A. G. Cook, Charli XCX, Addison Rae) · Club classics (Charli XCX) | Hyperpop de club: sintes plásticos y burbujeantes, bajo pesado, actitud "brat", gancho de coro de grupo, toques sensuales. |
+| **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | Pop-R&B romántico y suave: guitarras cálidas, groove relajado, voz dulce. El swing francés vintage queda para **el final y los créditos**. |
