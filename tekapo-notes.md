@@ -1,20 +1,19 @@
-# TEKAPO — letra v2 (encontrarte en el universo)
+# TRACK 06 (antes "Tekapo") — letra v3: desconectarte del mundo
 
-**TRIP · Track 06 · 🇳🇿 Lago Tekapo, Aotearoa · ~3:20**
-*(Título por decidir: Gabriel no quiere "Tekapo".)*
-Tema: **encontrarte a ti misma en el universo.** Ya no busca a nadie: después del caos de Nobody's Catching Me, apaga el motor, mira hacia arriba y se encuentra. Junto con Deshielo, es la canción que **más te desconecta del mundo**.
-Idiomas: inglés + un poco de **te reo Māori** (el idioma māori de Nueva Zelanda).
-Sonido: empieza flotando (dream pop, como *Space Song* de Beach House) y crece hasta sentirse enorme (pop neozelandés como *Ribs* de Lorde). Solo inspiración, sin copiar.
+**TRIP · Track 06 · 🇳🇿 Lago Tekapo, Aotearoa · ~3:15**
+*(Título por decidir: Gabriel no quiere "Tekapo". Opciones: Airplane Mode · Out of Range · Forty-Two · Hi to the Sky.)*
+Tema: **desconectarte del mundo y sentirte diminuta.** Por primera vez nadie la puede encontrar. Frente a los planetas, sus problemas se vuelven polvo. Emoción: **asombro y ligereza**. (Volver a nacer es de Deshielo; cerrar ciclos es de Mångata.)
+Idiomas: inglés + un poco de **te reo Māori**.
+Sonido: empieza flotando (dream pop, como *Space Song* de Beach House) y crece hasta sentirse enorme (pop neozelandés como *Ribs* de Lorde). Solo inspiración.
 
 ```text
-TEKAPO
+TRACK 06
 TRIP · Track 06
 
 [Intro]
 (the engine from Nobody's Catching Me turns off. a car door. silence.)
 (cold wind, crickets, a telescope turning)
 Kia ora…
-Te-ka-po…
 
 [Verse 1]
 Forty-two glow stars on my ceiling back home,
@@ -31,14 +30,14 @@ one… then ten… then a thousand at once,
 like the sky was just waiting for me to look up.
 
 [Chorus]
-Tekapo, Tekapo,
-the whole town turns its lights off for the show,
+Airplane mode, airplane mode,
+nobody can find me where the planets go,
 I found Saturn in a telescope,
-rings and all — and I found me, though.
-Tekapo, Tekapo,
+rings and all — and my problems look so small, oh,
+airplane mode, airplane mode,
 the light up here left so long ago,
 it took a million years to say hello,
-and I'm only now learning how to glow.
+and nobody down there has to know.
 
 [Post-Chorus]
 Kia ora, kia ora,
@@ -47,12 +46,12 @@ kia ora, kia ora,
 hi to the sky… and the sky said hi back.
 
 [Verse 2]
+Jupiter's got four little moons in a line,
+like they're waiting for a bus that's never coming,
+Mars is a red freckle, Venus shows off till sunrise,
+and the Southern Cross hangs upside down from how I learned it.
 2:47 came and went — I didn't even check,
-I was counting satellites instead,
-the Southern Cross hangs upside down from how I learned it,
-everything's upside down down here — maybe that's the point.
-Lupins on the shore, a little stone church,
-a window with mountains where the painting should be.
+I was counting satellites instead.
 
 [Pre-Chorus]
 They hand me a red flashlight — "give your eyes twenty minutes,"
@@ -61,14 +60,14 @@ one… then ten… then a thousand at once,
 like the sky was just waiting for me to look up.
 
 [Chorus]
-Tekapo, Tekapo,
-the whole town turns its lights off for the show,
+Airplane mode, airplane mode,
+nobody can find me where the planets go,
 I found Saturn in a telescope,
-rings and all — and I found me, though.
-Tekapo, Tekapo,
+rings and all — and my problems look so small, oh,
+airplane mode, airplane mode,
 the light up here left so long ago,
 it took a million years to say hello,
-and I'm only now learning how to glow.
+and nobody down there has to know.
 
 [Post-Chorus]
 Kia ora, kia ora,
@@ -78,35 +77,34 @@ hi to the sky… and the sky said hi back.
 
 [Bridge]
 (everything drops: just the wind and one long note)
-When Matariki rises, they start a brand-new year,
-remember what was lost, and wish for what comes next,
-so I let the old me go up there with the rest…
-watch her turn to light.
-Watch her turn to light.
+From Saturn, Earth's a dot you'd miss if you blinked,
+and somewhere on that dot, a phone is lighting up…
+let it ring.
+Let it ring.
+I'm a speck on a speck on a speck — and it feels like flying.
 
 [Final Chorus]
-(everything comes in at once: the biggest moment of the album)
-Tekapo, Tekapo,
-the whole town turns its lights off for the show,
+(everything comes in at once)
+Airplane mode, airplane mode,
+nobody can find me where the planets go,
 I found Saturn in a telescope,
-rings and all — I came for the stars, and I found me, though.
-Tekapo, Tekapo,
+rings and all — and my problems look so small, oh,
+airplane mode, airplane mode,
 the light up here left so long ago,
 it took a million years to say hello,
-and look at me now — I glow.
+and nobody, nobody down there has to know.
 
 [Outro]
-(the lake goes still. the stars are in the water now.)
-Star by star…
-Kia ora… it's me.
-(she steps into the lake, the stars all around her — and goes under → Deshielo)
+(the whole sky in the lake)
+Kia ora…
+(a shooting star falls behind the mountains, into the ice → Deshielo)
 ```
 
 ## Traducción al español
 
 ```text
 [Intro]
-Kia ora (hola, en māori)… / Te-ka-po…
+Kia ora (hola, en māori)…
 
 [Verso 1]
 Cuarenta y dos estrellas que brillan en la oscuridad en el techo de mi casa,
@@ -123,67 +121,65 @@ una… luego diez… luego mil de golpe,
 como si el cielo solo estuviera esperando a que yo mirara hacia arriba.
 
 [Coro]
-Tekapo, Tekapo,
-el pueblo entero apaga sus luces para el espectáculo,
+Modo avión, modo avión,
+nadie me puede encontrar donde van los planetas,
 encontré a Saturno en un telescopio,
-con todo y anillos, y me encontré a mí.
-Tekapo, Tekapo,
+con todo y anillos, y mis problemas se ven tan pequeños,
+modo avión, modo avión,
 la luz de aquí arriba salió hace muchísimo,
 tardó un millón de años en decir hola,
-y apenas estoy aprendiendo a brillar.
+y nadie allá abajo tiene que enterarse.
 
 [Post-Coro]
 Kia ora, kia ora,
 le dije hola al cielo, y el cielo me dijo hola de vuelta.
 
 [Verso 2]
+Júpiter tiene cuatro lunitas en fila,
+como si esperaran un camión que nunca llega,
+Marte es una peca roja, Venus presume hasta el amanecer,
+y la Cruz del Sur cuelga al revés de como la aprendí.
 Las 2:47 llegaron y se fueron: ni siquiera revisé,
-estaba contando satélites,
-la Cruz del Sur cuelga al revés de como la aprendí,
-aquí abajo todo está al revés; tal vez de eso se trata.
-Lupinos en la orilla, una iglesita de piedra,
-una ventana con montañas donde debería ir la pintura.
+estaba contando satélites.
 
 [Puente]
-Cuando sale Matariki, empieza un año nuevo,
-recuerdan lo que se perdió y piden deseos para lo que viene,
-así que dejo que mi yo de antes suba allá con los demás…
-y la veo volverse luz.
-
-[Coro Final]
-… vine por las estrellas, y me encontré a mí.
-… y mírame ahora: brillo.
+Desde Saturno, la Tierra es un punto que no verías si parpadeas,
+y en algún lugar de ese punto, un celular se está prendiendo…
+déjalo sonar.
+Soy una mota en una mota en una mota, y se siente como volar.
 
 [Outro]
-Estrella por estrella…
-Kia ora… soy yo.
-(entra al lago, rodeada de estrellas, y se sumerge → Deshielo)
+Kia ora…
+(una estrella fugaz cae detrás de las montañas, sobre el hielo → Deshielo)
 ```
 
-## Detalles reales (para que la letra sea verdadera)
-- **Lago Tekapo:** se forma con agua de glaciares derretidos (por eso es turquesa lechoso) → conecta con Deshielo.
-- **Reserva de Cielo Oscuro Aoraki Mackenzie:** el pueblo controla sus luces para que se vean las estrellas.
-- **Linterna roja:** en las visitas para ver estrellas se usa luz roja para no arruinar la vista nocturna; los ojos tardan unos 20 minutos en acostumbrarse a la oscuridad.
-- **Iglesia del Buen Pastor (Church of the Good Shepherd):** iglesia de piedra junto al lago; detrás del altar hay una ventana con vista a las montañas en lugar de una pintura.
-- **Lupinos:** flores moradas y rosas en la orilla del lago.
-- **La Cruz del Sur:** solo se ve desde el hemisferio sur.
-- **Matariki:** el nombre māori de las Pléyades. Su salida marca el **Año Nuevo māori** (desde 2022 es día festivo en Nueva Zelanda). Es tiempo de recordar lo que se perdió, celebrar el presente y pedir deseos para el año que viene. Se usa con respeto: ella no se apropia de la tradición, solo la observa y deja ir su "yo de antes".
-- **Kia ora:** saludo māori ("hola", "que estés bien").
+## Los planetas (todo es real)
+- **Saturno:** sus anillos se ven con un telescopio pequeño.
+- **Júpiter:** con un telescopio o binoculares se ven sus **cuatro lunas más grandes** como puntitos en línea.
+- **Marte:** se ve como un punto rojizo.
+- **Venus:** el punto más brillante del cielo después de la luna; a veces se ve antes del amanecer ("lucero de la mañana").
+- **La Tierra vista desde Saturno:** en 2013 la nave Cassini fotografió la Tierra desde Saturno: un puntito de luz.
 
 ## Cómo se conecta con el álbum
 - **Empieza donde termina Nobody's Catching Me:** el motor se apaga, una puerta de carro, silencio… y el cielo. Del caos a la calma.
-- **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Es el crecimiento de todo el álbum en una línea.
-- **Las 42 estrellas de plástico → las de verdad:** de fingir el cielo a vivirlo; de "glow-in-the-dark" a "I glow".
-- **Termina entrando al lago con las estrellas reflejadas** y se sumerge → **Deshielo** empieza bajo el agua. El lago Tekapo nace de glaciares derretidos: Deshielo viaja al origen de esa agua.
+- **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
+- **Las 42 estrellas de plástico → los planetas de verdad.**
+- **Termina con una estrella fugaz que cae sobre el hielo** → Deshielo empieza dentro del glaciar.
 - "Kia ora" (hola) prepara el "hi… it's you" de Deshielo.
 
 ## Producción
-- **Intro y versos:** flotando. Guitarras con eco, sintes suaves, la voz cerquita, el viento y los grillos de fondo.
-- **Pre-coro:** una cuenta que crece ("one… then ten… then a thousand"), entran más capas en cada número.
+- **Intro y versos:** flotando. Guitarras con eco, sintes suaves, la voz cerquita, el viento y los grillos.
+- **Pre-coro:** una cuenta que crece ("one… then ten… then a thousand"); entra una capa nueva en cada número.
 - **Coros:** crece hasta sentirse enorme. Batería grande, coros en capas, sintes brillantes como estrellas.
-- **Post-coro "kia ora":** canto simple y alegre, fácil de corear en concierto.
-- **Bridge:** todo baja; solo el viento y una nota larga.
-- **Coro final:** el momento más grande del álbum.
+- **Post-coro "kia ora":** canto simple y alegre, para corear en concierto.
+- **Bridge:** todo baja; solo el viento, una nota larga y, a lo lejos, un celular sonando que se apaga.
 - Si se usan instrumentos tradicionales māori (taonga pūoro), que sea **con músicos māori** y con su permiso.
 
-Prompt de estilo: `dreamy cosmic pop that builds into a huge anthem, floating reverb guitars and soft synths in the verses, wind and crickets, intimate close female vocal, counting build in the pre-chorus, big drums and stacked harmonies in the chorus, sparkling star-like synths, simple joyful chant post-chorus, stripped bridge with wind and one sustained note, euphoric final chorus, 2010s New Zealand art-pop and dream pop influence, 100 BPM`
+Prompt de estilo: `dreamy cosmic pop that builds into a huge anthem, floating reverb guitars and soft synths in the verses, wind and crickets, intimate close female vocal, counting build in the pre-chorus, big drums and stacked harmonies in the chorus, sparkling star-like synths, simple joyful chant post-chorus, stripped bridge with wind and a distant phone ringing, euphoric final chorus, 2010s New Zealand art-pop and dream pop influence, light, playful, awe, 100 BPM`
+
+## Detalles reales del lugar
+- **Lago Tekapo:** se forma con agua de glaciares derretidos (por eso es turquesa lechoso) → conecta con Deshielo.
+- **Reserva de Cielo Oscuro Aoraki Mackenzie:** el pueblo controla sus luces para que se vean las estrellas.
+- **Linterna roja:** en las visitas para ver estrellas se usa luz roja para no arruinar la vista nocturna; los ojos tardan unos 20 minutos en acostumbrarse a la oscuridad.
+- **La Cruz del Sur:** solo se ve desde el hemisferio sur.
+- **Kia ora:** saludo māori ("hola", "que estés bien").
