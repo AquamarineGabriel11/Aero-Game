@@ -8,9 +8,9 @@ TRIP · GABRIEL
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos
-06  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  libertad, soltar
-07  Tekapo                           🇳🇿          🩵  buscar en las estrellas
-08  Mångata                          🇸🇪🇵🇹        💙  sanar
+06  Tekapo                           🇳🇿          🩵  encontrarte en el universo
+07  Deshielo (Interlude)             🇦🇷🇨🇦🇳🇵      🤍  volver a nacer bajo el agua
+08  Mångata                          🇸🇪🇵🇹        💙  hora azul, la luna: cerrar y renacer
 
 Bonus: Seen (Extended Scene)           
 ```

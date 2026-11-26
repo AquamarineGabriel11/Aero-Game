@@ -17,9 +17,9 @@
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |
-| 06 | Deshielo | FTE | lavanda |
-| 07 | Tekapo | CHC | azul noche y dorado Saturno |
-| 08 | Mångata | ARN · LIS | plata de luna |
+| 06 | Tekapo | CHC | azul noche y dorado Saturno |
+| 07 | Deshielo | FTE | lavanda |
+| 08 | Mångata | ARN · LIS | azul de hora azul y plata de luna |
 
 - **Tipografía:** letra monoespaciada como en los pases de abordar y las pantallas de salidas de los aeropuertos; los títulos en minúscula (como "seen").
 - **Sellos de pasaporte:** cada canción tiene su sello. El álbum físico/digital se llena de sellos conforme salen los singles.

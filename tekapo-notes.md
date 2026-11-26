@@ -1,16 +1,17 @@
 # TEKAPO — letra v2 (encontrarte en el universo)
 
-**TRIP · Track 07 · 🇳🇿 Lago Tekapo, Aotearoa · ~3:20**
-Tema: **encontrarte a ti misma en el universo.** Ya no busca a nadie: después de volver a nacer en Deshielo, mira hacia arriba y se encuentra. Junto con Deshielo, es la canción que **más te desconecta del mundo**.
+**TRIP · Track 06 · 🇳🇿 Lago Tekapo, Aotearoa · ~3:20**
+*(Título por decidir: Gabriel no quiere "Tekapo".)*
+Tema: **encontrarte a ti misma en el universo.** Ya no busca a nadie: después del caos de Nobody's Catching Me, apaga el motor, mira hacia arriba y se encuentra. Junto con Deshielo, es la canción que **más te desconecta del mundo**.
 Idiomas: inglés + un poco de **te reo Māori** (el idioma māori de Nueva Zelanda).
 Sonido: empieza flotando (dream pop, como *Space Song* de Beach House) y crece hasta sentirse enorme (pop neozelandés como *Ribs* de Lorde). Solo inspiración, sin copiar.
 
 ```text
 TEKAPO
-TRIP · Track 07
+TRIP · Track 06
 
 [Intro]
-(the end of Deshielo: water in your ears, drops turning into stars)
+(the engine from Nobody's Catching Me turns off. a car door. silence.)
 (cold wind, crickets, a telescope turning)
 Kia ora…
 Te-ka-po…
@@ -95,10 +96,10 @@ it took a million years to say hello,
 and look at me now — I glow.
 
 [Outro]
-(the lake goes still. drops again, but now they sound like stars.)
-Drip by drip… star by star…
+(the lake goes still. the stars are in the water now.)
+Star by star…
 Kia ora… it's me.
-(the moon comes up over the mountains and paints a silver road across the water → Mångata)
+(she steps into the lake, the stars all around her — and goes under → Deshielo)
 ```
 
 ## Traducción al español
@@ -154,13 +155,13 @@ y la veo volverse luz.
 … y mírame ahora: brillo.
 
 [Outro]
-Gota a gota… estrella por estrella…
+Estrella por estrella…
 Kia ora… soy yo.
-(sale la luna y pinta un camino de plata sobre el agua → Mångata)
+(entra al lago, rodeada de estrellas, y se sumerge → Deshielo)
 ```
 
 ## Detalles reales (para que la letra sea verdadera)
-- **Lago Tekapo:** se forma con agua de glaciares derretidos (por eso es turquesa lechoso) → es el agua de Deshielo.
+- **Lago Tekapo:** se forma con agua de glaciares derretidos (por eso es turquesa lechoso) → conecta con Deshielo.
 - **Reserva de Cielo Oscuro Aoraki Mackenzie:** el pueblo controla sus luces para que se vean las estrellas.
 - **Linterna roja:** en las visitas para ver estrellas se usa luz roja para no arruinar la vista nocturna; los ojos tardan unos 20 minutos en acostumbrarse a la oscuridad.
 - **Iglesia del Buen Pastor (Church of the Good Shepherd):** iglesia de piedra junto al lago; detrás del altar hay una ventana con vista a las montañas en lugar de una pintura.
@@ -170,10 +171,11 @@ Kia ora… soy yo.
 - **Kia ora:** saludo māori ("hola", "que estés bien").
 
 ## Cómo se conecta con el álbum
-- **Empieza donde termina Deshielo:** las gotas que se vuelven estrellas, y "kia ora" responde al "hi… it's you" de Deshielo.
-- **Seen → Tekapo:** en Seen estaba despierta a las 2:47 esperando un mensaje; en Tekapo las 2:47 llegan y se van y ni siquiera revisa el celular. Es el crecimiento de todo el álbum en una línea.
+- **Empieza donde termina Nobody's Catching Me:** el motor se apaga, una puerta de carro, silencio… y el cielo. Del caos a la calma.
+- **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Es el crecimiento de todo el álbum en una línea.
 - **Las 42 estrellas de plástico → las de verdad:** de fingir el cielo a vivirlo; de "glow-in-the-dark" a "I glow".
-- **Termina con la luna pintando un camino sobre el lago:** eso es literalmente *mångata* → la última canción.
+- **Termina entrando al lago con las estrellas reflejadas** y se sumerge → **Deshielo** empieza bajo el agua. El lago Tekapo nace de glaciares derretidos: Deshielo viaja al origen de esa agua.
+- "Kia ora" (hola) prepara el "hi… it's you" de Deshielo.
 
 ## Producción
 - **Intro y versos:** flotando. Guitarras con eco, sintes suaves, la voz cerquita, el viento y los grillos de fondo.
