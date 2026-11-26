@@ -49,6 +49,7 @@ Carpeta de imágenes: `moodboards/seen/`
 
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:45**
 Idioma principal: inglés (con japonés) · **Explicit**
+**Vibe: folkcore**: gris, lluvia, niebla, bosques, suéteres, la cama deshecha. Melancólica y cálida a la vez.
 
 **Versión clean:** `I used to sleep with my tits pressed to your back,` → `I used to sleep with my chest pressed to your back,`
 
