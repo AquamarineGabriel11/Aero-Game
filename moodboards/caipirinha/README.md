@@ -22,6 +22,8 @@ Sirven como **referencia de vibra**, pero **no se usan** en la portada, el video
 - La idea se puede recrear con diseños propios: un chocolate verde de pistache sin marca, un juego de vestir inventado, latas con diseño de TRIP.
 
 ## Imágenes
+![Moodboard completo](00-moodboard-completo.jpg)
+
 | | | | |
 |---|---|---|---|
 | ![](01-jaguar-en-la-roca.jpg) | ![](02-fresas-con-chocolate.jpg) | ![](03-caja-de-galletas.jpg) | ![](04-perrito-sueter-verde.jpg) |

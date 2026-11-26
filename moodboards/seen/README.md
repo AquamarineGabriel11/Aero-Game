@@ -17,6 +17,8 @@ Blanco y negro, gris, lluvia, niebla, movimiento borroso. La sensación de estar
 **Negro · gris lluvia · blanco niebla.** Casi sin color. Si aparece uno, que sea el azul frío de la pantalla del celular.
 
 ## Imágenes
+![Moodboard completo](00-moodboard-completo.jpg)
+
 | | | |
 |---|---|---|
 | ![](01-cabello-movido-bn.jpg) | ![](02-remolino-borroso-bn.jpg) | ![](03-silueta-movida-bn.jpg) |
