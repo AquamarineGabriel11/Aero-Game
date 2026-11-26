@@ -58,8 +58,8 @@ Ambient cinematográfico: pads tibios, piano con armónicos, chelo suave, armón
 
 Prompt de estilo: `ambient cinematic interlude, rebirth, muffled low-pass sound as if trapped inside a glacier, ice creaking, opening into bright clarity when the ice cracks, warm pads, glass harmonics, soft cello, piano harmonics, ice cracking and water drops as rhythm, slow heartbeat sub, faint layered spoken vocals buried under the mix like inner thoughts, minor to major shift, emotional, weightless, mostly instrumental, no drums`
 
-## Inicio: conexión con la canción 06
-La 06 termina con una estrella fugaz que cae detrás de las montañas, sobre el hielo. Deshielo empieza **ahí: dentro del glaciar**.
+## Inicio: conexión con Syzygy (track 06)
+Syzygy termina con una estrella fugaz que cae detrás de las montañas, sobre el hielo. Deshielo empieza **ahí: dentro del glaciar**.
 
 ## Final: conexión con Mångata (track 08)
 1. **1:50** Después de "everything after this is new.", el hielo derretido corre montaña abajo como un río.
