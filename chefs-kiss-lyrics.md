@@ -158,13 +158,6 @@ mwah.
 Café chocolate oscuro · caramelo · crema · terracota · gris taupe — y el **gris** del gatito. Nada de rojo ni dorado.
 Referencias visuales: pan rústico, harina y trigo, suéteres de punto color crema, un gato gris en la panadería.
 
-## Producción (paraíso retro)
-- Base: guitarra acústica rasgueada, bajo cálido, batería suave con escobillas.
-- Brillo: glockenspiel o celesta en los coros, "ooh" de fondo.
-- Coros: cuerdas (violines y chelo).
-- Bridge: todo baja, acordeón lejano.
-- **Coro final con cambio de tonalidad** (sube un tono): el truco clásico de las canciones de amor de antes para el momento más feliz.
-
 ## Inicio del video (conecta con el final de TEA)
 - El vapor que cruza la pantalla al final de TEA se vuelve el vapor del horno: **el video de Chef's Kiss abre en la cocina de la panadería**, manos amasando, harina en el aire, el gato gris → **maullido**.
 - Durante el Verse 1 (Burgundy, el trigo), el campo aparece como **recuerdo**: de dónde salió la harina que están amasando. La letra no cambia.
@@ -180,10 +173,13 @@ Referencias visuales: pan rústico, harina y trigo, suéteres de punto color cre
 - Trabaja **entre semana** en el café-panadería; los fines de semana juega **boliche, golf y básquetbol** (por eso su físico). Sin fútbol, para no repetir Hyacinth Macaw.
 - En el video, sin decirlo en la letra: un **balón de básquetbol** junto a la puerta de la cocina, una **bola de boliche** recargada en los costales de harina y un **guante de golf** lleno de harina sobre la mesa.
 
-## Producción (nueva dirección)
-Lo-fi vintage + jazz/swing retro con toque de **caricatura antigua / cabaret suave** y **sabor francés**. ~90 BPM.
-- Piano cálido y gastado, **acordeón** (vals musette parisino), **guitarra de jazz manouche**, clarinete juguetón, contrabajo con swing, escobillas suaves.
-- Textura de grabación de época (vinilo, radio vieja). Sin sintes modernos ni batería agresiva.
-- Final del video con **créditos** sobre esta música, en la cocina con los gatos (en sepia/blanco harina, no blanco y negro, para no parecerse a otro video).
+## Producción (dirección final): película romántica de los 90
+Todo el instrumental suena como **la banda sonora de una comedia romántica de cine de finales de los 90**: la escena donde los dos por fin se besan y empiezan los créditos. (Encaja con *Moonlit Floor* de LISA, que retoma una canción de una película romántica de 1999, y con *Kiss of Life* de Sade y *Truth or Dare* de Tyla. Solo inspiración, sin copiar.)
+- **Base:** guitarras acústicas brillantes (de 12 cuerdas), bajo cálido, batería suave con pandero, groove relajado a ~100 BPM.
+- **Lo cinematográfico:** cuerdas grandes y cálidas en los coros, piano eléctrico (Wurlitzer), glockenspiel brillando, coros de fondo "ooh".
+- **El toque francés:** acordeón y guitarra de jazz manouche, como adornos en las transiciones y en el bridge.
+- **Coro final con cambio de tonalidad** (sube un tono): el momento de la película en que todo sale bien.
+- **Créditos del video:** sepia/blanco harina, en la cocina con los gatos, con un final instrumental de swing francés vintage.
+- Textura: cálida, con un poco de cinta y grano, como un CD de soundtrack de 1999. Sin sintes modernos fríos.
 
-Prompt de estilo: `vintage lo-fi jazz swing, French musette accordion, gypsy jazz guitar, 1930s cartoon whimsy, soft cabaret, 90 BPM, warm worn upright piano, playful clarinet, gentle swing upright bass, brushed drums, vinyl crackle, cozy, tender, playful, romantic, no synths`
+Prompt de estilo: `late-90s romantic comedy movie soundtrack pop, bright 12-string acoustic guitars, warm bass, soft drums with tambourine, sweeping warm strings, Wurlitzer electric piano, glockenspiel sparkle, ooh backing vocals, French accordion and gypsy jazz guitar accents, key change final chorus, sweet breathy female vocal, nostalgic, cinematic, tender, playful, 100 BPM`
