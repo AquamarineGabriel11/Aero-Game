@@ -58,7 +58,7 @@ Las fechas dependen de grabar las voces. La distribuidora necesita la música en
 - [ ] Voces grabadas y mezcla/máster final de Seen.
 - [ ] Portada final 3000×3000 sin logos de marcas.
 - [ ] Distribuidora elegida y canción subida a tiempo (ISRC incluido).
-- [ ] Registrarse como compositora en la sociedad de autores de tu país y en un servicio de publishing, para cobrar regalías.
+- [ ] Registrar tus canciones en la sociedad de autores de tu país y en un servicio de publishing, para cobrar regalías.
 - [ ] Hoja de créditos (quién escribió y produjo cada canción).
 - [ ] Spotify for Artists: pitch, foto de perfil sin rostro, Canvas en loop para cada canción.
 - [ ] Letras sincronizadas (Musixmatch) para que aparezcan en Spotify e Instagram.
