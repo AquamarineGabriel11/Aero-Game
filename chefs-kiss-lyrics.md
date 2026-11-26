@@ -13,7 +13,8 @@ TRIP · Track 04
 Mwah, mwah… la-la-la…
 
 [Verse 1]
-Burgundy in October, wheat up on your shoulder,
+Burgundy in October, the fields all brown and bare,
+you swing the sacks of wheat up on your shoulder like they're light,
 "Coopérative, 1965" faded on the sack,
 cold air on your arms, you smell like wheat and woodsmoke,
 I could watch you all day long,
@@ -109,6 +110,7 @@ two kilos of flour — and I'm in love, oh no.
 Five a.m. we started making bread,
 by midnight the oven was the only light,
 now the sun's up, flour on the couch, two cats asleep on your coat,
+oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
