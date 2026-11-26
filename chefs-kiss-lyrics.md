@@ -37,7 +37,8 @@ knead me, need me, don't let go,
 chef's kiss — (mwah).
 
 [Post-Chorus]
-Silly little kitty knocked the flour off the shelf,
+Silly little kitty — little gray Cupid — (meow)
+knocked the flour off the shelf,
 now I'm falling for the baker, I can't help myself,
 la-la-la, piano piano,
 two kilos of flour — and I'm in love, oh no.
@@ -70,7 +71,8 @@ knead me, need me, don't let go,
 chef's kiss — (mwah).
 
 [Post-Chorus]
-Silly little kitty knocked the flour off the shelf,
+Silly little kitty — little gray Cupid — (meow)
+knocked the flour off the shelf,
 now I'm falling for the baker, I can't help myself,
 la-la-la, piano piano,
 two kilos of flour — and I'm in love, oh no.
@@ -100,7 +102,8 @@ knead me, need me, don't let go,
 save me the last bite — (mwah).
 
 [Post-Chorus]
-Silly little kitty knocked the flour off the shelf,
+Silly little kitty — little gray Cupid — (meow)
+knocked the flour off the shelf,
 now I'm falling for the baker, I can't help myself,
 la-la-la, piano piano,
 two kilos of flour — and I'm in love, oh no.
@@ -123,7 +126,7 @@ mwah.
 - **Palabras simples y dulces**, fáciles de cantar a la primera, como los grandes hits virales de amor.
 - **"knead me, need me, don't let go"**: juego de palabras. *Knead* (amasar) y *need* (necesitar) suenan igual. Es la frase para camisetas y captions.
 - **"rising like the dough"**: el corazón sube como la masa.
-- **El post-coro es una queja graciosa:** *"Silly little kitty knocked the flour off the shelf, now I'm falling for the baker, I can't help myself… and I'm in love, oh no."* Culpa al gatito de que se enamoró. Tierna, chistosa y fácil de corear.
+- **El post-coro es una queja graciosa:** *"Silly little kitty — little gray Cupid — knocked the flour off the shelf, now I'm falling for the baker, I can't help myself… and I'm in love, oh no."* Culpa al gatito de que se enamoró. Tierna, chistosa y fácil de corear.
 - **"la-la-la" y "oh-oh-oh"**: sílabas que cualquiera canta aunque no sepa inglés.
 - **Versión acelerada (sped up)** para TikTok: el post-coro funciona muy bien rápido.
 - Inspiración solo en lo icónico de un hit viral tierno: **no se copia** ninguna letra ni melodía.
