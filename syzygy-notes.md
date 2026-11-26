@@ -172,7 +172,7 @@ Kia ora…
 - **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
 - **Las 42 estrellas de plástico → los planetas de verdad.**
 - **Termina con una estrella fugaz que cae sobre el hielo** → Deshielo empieza dentro del glaciar.
-- "Kia ora" (hola) prepara el "hi… it's you" de Deshielo.
+- "Kia ora" (hola) y el "…good morning." de Deshielo: saludos al cielo y al nuevo día.
 
 ## Producción
 - **Intro y versos:** flotando. Guitarras con eco, sintes suaves, la voz cerquita, el viento y los grillos.

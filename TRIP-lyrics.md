@@ -551,6 +551,8 @@ but I know it's there.
 
 ## 07 · MÅNGATA
 
+> **Versión vieja.** La letra nueva (v2: el gran cierre) está en `mangata-notes.md`.
+
 ```text
 [Intro]
 (soft waves against wood, cold wind, a brush on paper)

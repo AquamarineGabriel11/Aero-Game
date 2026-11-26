@@ -14,44 +14,55 @@ Tema: **volver a nacer bajo los glaciares.** Estás dentro del hielo, en la luz 
 - **1:45 — Era nueva:** la primera palabra **clara** de la canción.
 - **1:50 — El puente a Mångata:** ver la sección "Final: conexión con Mångata".
 
-## Letra (muy poquita: tu mente hablándote)
+## Letra (muy poquita: tu mente hablándote desde dentro del hielo)
 ```text
-(inside the ice, barely there)
-breathe…
-pixel by pixel… drip by drip…
-let it melt…
-you're not frozen anymore.
+(inside the ice — a voice so low it feels like your own thoughts)
+you were snow once…
+then they pressed you so long you turned blue.
+there's air in here older than your name…
 
-(the heartbeat)
-it's okay…
-you can break through now.
+(the ice creaks)
+a thousand winters
+holding one shape…
 
-(the ice cracks open — a big breath — clear for the first time)
-hi…
-it's you.
-everything after this is new.
+(the heartbeat slows)
+you can stop holding it now.
+drip…
+drip…
+
+(the ice cracks open — one huge breath — clear for the first time)
+…good morning.
 ```
 
 ## Traducción
 ```text
-respira…
-píxel por píxel… gota por gota…
-deja que se derrita…
-ya no estás congelada.
+fuiste nieve alguna vez…
+luego te apretaron tanto tiempo que te volviste azul.
+aquí dentro hay aire más viejo que tu nombre…
 
-está bien…
-ya puedes romperlo.
+mil inviernos
+sosteniendo una sola forma…
 
-hola…
-eres tú.
-todo lo que viene después de esto es nuevo.
+ya puedes dejar de sostenerla.
+gota…
+gota…
+
+…buenos días.
 ```
+
+## Por qué estas palabras (todo es real)
+- **"you were snow once":** el hielo de un glaciar empieza como nieve que cae año tras año y se aprieta hasta volverse hielo.
+- **"pressed so long you turned blue":** el hielo de glaciar se ve azul porque está tan comprimido que absorbe la luz roja. Para ella: aguantó tanto, tanto tiempo, que hasta cambió de color.
+- **"air older than your name":** dentro del hielo de los glaciares quedan burbujas de aire atrapadas desde hace cientos o miles de años.
+- **"a thousand winters holding one shape":** años sosteniendo la misma forma, la misma versión de sí misma.
+- **"you can stop holding it now":** el permiso para soltar. Es el momento antes de nacer.
+- **"…good morning.":** la primera palabra clara. Nace al amanecer, y eso lleva directo a la hora azul de **Mångata**.
 
 ## Las voces "dentro del hielo" (cómo lograr el efecto)
 - **Grábalas hablando muy bajito, cerquita del micrófono**, casi sin aire. No es susurro: es tu voz normal, pero suave.
 - En la mezcla, **muy por debajo de la música** y con un **filtro que corta los agudos**, para que suenen como desde dentro del hielo: se entienden solo si pones atención.
 - **Varias capas**: la misma frase duplicada, una más grave y otra al revés de fondo, de un oído al otro, como pensamientos.
-- En **"hi… it's you."** se quita el filtro de golpe: es la primera vez que tu voz suena clara en toda la canción. Ese es el momento de **volver a nacer**.
+- En **"…good morning."** se quita el filtro de golpe: es la primera vez que tu voz suena clara en toda la canción. Ese es el momento de **volver a nacer**.
 
 ## Producción
 Ambient cinematográfico: pads tibios, piano con armónicos, chelo suave, armónicas de cristal, gotas de agua como percusión, latido grave a ~60 BPM. Sin batería.
@@ -62,7 +73,7 @@ Prompt de estilo: `ambient cinematic interlude, rebirth, muffled low-pass sound 
 Syzygy termina con una estrella fugaz que cae detrás de las montañas, sobre el hielo. Deshielo empieza **ahí: dentro del glaciar**.
 
 ## Final: conexión con Mångata (track 08)
-1. **1:50** Después de "everything after this is new.", el hielo derretido corre montaña abajo como un río.
+1. **1:50** Después de "…good morning.", el hielo derretido corre montaña abajo como un río.
 2. **2:00** El río llega al mar. Ya no es de noche: es la **hora azul**, entre la noche y el día.
 3. **2:10** Silencio de un segundo… y empieza **Mångata**: la luna sobre el agua, la última canción.
 

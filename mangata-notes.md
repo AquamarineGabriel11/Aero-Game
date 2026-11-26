@@ -1,25 +1,223 @@
-# MÅNGATA — dirección (cierre del álbum)
+# MÅNGATA — letra v2: el gran cierre
 
-**TRIP · Track 08 · 🇸🇪 Estocolmo · 🇵🇹 Lisboa**
-*Mångata* (sueco): el camino de luz que deja la luna sobre el agua.
+**TRIP · Track 08 (última) · 🇸🇪 Estocolmo · 🇵🇹 Cabo da Roca · ~3:40**
+*Mångata* (sueco, se dice **MONG-a-ta**): el camino de luz que deja la luna sobre el agua.
+Tema: **cerrar ciclos y llegar al final.** Última noche del viaje, la hora azul, la luna. Le da las gracias a cada lugar y regresa a casa diferente. Emoción: **saudade y gratitud** (no tristeza).
+Sonido: pop nórdico de "bailar llorando" (como Robyn o Lykke Li) + **guitarra portuguesa de fado**. Solo inspiración.
 
-## La historia: el camino de regreso y cerrar ciclos
-- El viaje se acabó. Es la **hora azul** y la luna pinta un camino de plata sobre el agua: **ese es el camino a casa**.
-- Mientras lo mira, recuerda todo el viaje, con un detalle de cada canción: el Fuji, el verde lima, el labial en la taza, la harina en el sillón, la rana en el retrovisor, los planetas, el hielo.
-- **Cerrar ciclos:** como un ritual, le da las gracias a cada lugar y lo deja ir. No es tristeza: es *saudade* (portugués: extrañar algo bonito que ya terminó) y gratitud.
-- Regresa a casa diferente. Cierra el álbum con un sonido que responde al arranque de Seen.
-- Se queda la lechuza de Gabriel: *"An owl in the pines goes hoot, hoot — asking who's still awake out here, it's me, but this time I'm not waiting, this time I'm just breathing."*
+```text
+MÅNGATA
+TRIP · Track 08
+
+[Intro]
+(the end of Deshielo: meltwater reaching the sea. blue hour. soft waves against wood.)
+Mån-ga-ta…
+
+[Verse 1]
+Last night of the trip, and my suitcase won't close,
+too many places stuffed in the pockets of my coat,
+I walk down to the dock in the blue before the day,
+the Baltic so still it's pretending to be glass.
+An owl in the pines goes hoot, hoot —
+asking who's still awake out here,
+it's me, but this time I'm not waiting,
+this time I'm just breathing.
+
+[Pre-Chorus]
+The moon's still up — it doesn't want to leave either,
+it lays a silver road across the water, straight to my feet,
+the Swedes have a word for that, they say it soft:
+a road of light you don't have to walk… you just have to know it's there.
+
+[Chorus]
+Mångata, Mångata,
+silver road across the water,
+I gave every place a little piece of me,
+and I'm taking home the rest.
+Mån-ga-ta, kom hem,
+it's over — and it's okay,
+everything ends, that's what made it gold,
+Mån-ga-ta… kom hem.
+
+[Post-Chorus]
+(a chant that grows: every language of the trip)
+Arigatō, obrigada,
+danke, merci, xièxie,
+kia ora, gracias,
+tack — thank you, thank you.
+
+[Verse 2]
+(the ritual: one by one, she sets them on the silver road)
+A postcard of Fuji with the corners gone soft,
+a lime from a summer I swore would never stop,
+a receipt that says "come with me," a pinch of flour,
+an orange frog sticker, a red flashlight,
+a little piece of ice already melting in my hand —
+I set them on the water, one by one,
+and the moon carries them away.
+
+[Pre-Chorus]
+The moon's still up — it doesn't want to leave either,
+it lays a silver road across the water, straight to my feet,
+the Swedes have a word for that, they say it soft:
+a road of light you don't have to walk… you just have to know it's there.
+
+[Chorus]
+Mångata, Mångata,
+silver road across the water,
+I gave every place a little piece of me,
+and I'm taking home the rest.
+Mån-ga-ta, kom hem,
+it's over — and it's okay,
+everything ends, that's what made it gold,
+Mån-ga-ta… kom hem.
+
+[Post-Chorus]
+Arigatō, obrigada,
+danke, merci, xièxie,
+kia ora, gracias,
+tack — thank you, thank you.
+
+[Bridge]
+(everything drops: a Portuguese guitar, far away)
+In Portugal there's a cliff where the land runs out,
+a poet wrote it down: here the sea begins,
+and they've got a word for missing something beautiful that's gone —
+saudade… saudade…
+it isn't sadness.
+It's a thank-you note.
+
+[Final Chorus]
+(everything comes back: the whole trip singing with her)
+Mångata, Mångata,
+silver road across the water,
+I gave every place a little piece of me,
+and I'm taking home the rest.
+Mån-ga-ta, kom hem,
+the sun comes up, the road dissolves,
+and I don't need it anymore —
+Mån-ga-ta… kom hem.
+
+[Post-Chorus]
+Arigatō, obrigada,
+danke, merci, xièxie,
+kia ora, gracias,
+tack — thank you, thank you.
+
+[Outro]
+(the moon goes down. gulls. a ferry horn far away.)
+Somewhere it's 2:47…
+and I'm not awake for it.
+(a phone buzzes once on the dock. she doesn't look.)
+Kom hem.
+(the boot chord from Deshielo plays one last time — backwards, like a computer shutting down. TRIP ends.)
+```
+
+## Traducción al español
+```text
+[Intro]
+Mån-ga-ta…
+
+[Verso 1]
+Última noche del viaje, y mi maleta no cierra,
+demasiados lugares metidos en los bolsillos de mi abrigo,
+bajo al muelle en el azul de antes del día,
+el Báltico tan quieto que finge ser cristal.
+Una lechuza en los pinos hace uh, uh,
+preguntando quién sigue despierto aquí afuera,
+soy yo, pero esta vez no estoy esperando,
+esta vez solo estoy respirando.
+
+[Pre-Coro]
+La luna sigue arriba: tampoco se quiere ir,
+pone un camino de plata sobre el agua, directo a mis pies,
+los suecos tienen una palabra para eso, la dicen suave:
+un camino de luz que no tienes que recorrer… solo tienes que saber que está ahí.
+
+[Coro]
+Mångata, Mångata,
+camino de plata sobre el agua,
+le di a cada lugar un pedacito de mí,
+y me llevo a casa el resto.
+Mån-ga-ta, kom hem (ven a casa),
+se acabó, y está bien,
+todo termina; eso es lo que lo hizo de oro,
+Mån-ga-ta… ven a casa.
+
+[Post-Coro]
+Gracias en cada idioma del viaje:
+japonés, portugués, alemán, francés, chino, māori, español, sueco…
+gracias, gracias.
+
+[Verso 2]
+(el ritual: uno por uno, los pone sobre el camino de plata)
+Una postal del Fuji con las esquinas gastadas,
+un limón de un verano que juré que nunca iba a terminar,
+un recibo que dice "ven conmigo", una pizca de harina,
+un sticker de rana naranja, una linterna roja,
+un pedacito de hielo que ya se derrite en mi mano,
+los pongo sobre el agua, uno por uno,
+y la luna se los lleva.
+
+[Puente]
+En Portugal hay un acantilado donde se acaba la tierra,
+un poeta lo escribió: aquí empieza el mar,
+y tienen una palabra para extrañar algo hermoso que ya se fue:
+saudade… saudade…
+no es tristeza.
+Es una nota de agradecimiento.
+
+[Coro Final]
+… sale el sol, el camino se deshace,
+y ya no lo necesito.
+Mån-ga-ta… ven a casa.
+
+[Outro]
+En algún lugar son las 2:47…
+y no estoy despierta para verlo.
+(un celular vibra una vez en el muelle. ella no lo mira.)
+Ven a casa.
+(el acorde de arranque de Deshielo suena una última vez, al revés, como una computadora que se apaga. Fin de TRIP.)
+```
+
+## Por qué cierra bien el álbum
+- **El ritual de cerrar ciclos:** deja sobre el camino de la luna un recuerdo de cada canción.
+
+| Objeto | Canción |
+|---|---|
+| la postal del Fuji | Seen |
+| el limón | Caipirinha |
+| el recibo "come with me" | TEA |
+| la pizca de harina | Chef's Kiss |
+| el sticker de rana naranja | Nobody's Catching Me |
+| la linterna roja | Syzygy |
+| el pedacito de hielo | Deshielo |
+
+- **"Gracias" en cada idioma del viaje** (post-coro): arigatō 🇯🇵 Seen · obrigada 🇧🇷 Caipirinha · danke 🇩🇪 TEA · merci 🇫🇷 Chef's Kiss · xièxie 🇨🇳 Nobody's Catching Me · kia ora 🇳🇿 Syzygy (en māori también se usa para dar las gracias) · gracias 🇦🇷 Deshielo (y tu idioma) · tack 🇸🇪 Mångata. Es el canto que el público va a corear al final de cada concierto.
+- **Responde a Seen:** el álbum empezó despierta a las 2:47 esperando un mensaje. Termina con *"Somewhere it's 2:47… and I'm not awake for it"*, y un celular que vibra y ella ni lo mira. Ese es el viaje completo.
+- **"Kom hem"** (sueco: "ven a casa"): regresar a casa, y regresar a ti.
+- **El último sonido:** el acorde de arranque de Deshielo, al revés, como una computadora que se apaga. El álbum "se apaga".
+- **Lo tuyo se queda:** la lechuza, la hora azul, la luna, y el ritual de cerrar ciclos de tus imágenes.
+
+## Detalles reales
+- **Mångata:** palabra sueca real para el reflejo de la luna sobre el agua en forma de camino.
+- **Cabo da Roca:** el punto más al oeste de Europa continental, en Portugal. El poeta Luís de Camões escribió de ese lugar: *"onde a terra se acaba e o mar começa"* ("donde la tierra se acaba y el mar comienza").
+- **Saudade:** palabra portuguesa para extrañar con cariño algo o a alguien que ya no está.
+- **El Báltico:** el mar frente a Estocolmo, con su archipiélago de islas.
 
 ## Moodboard (imágenes de Gabriel)
-- **Hora azul:** ventanas al amanecer con árboles sin hojas, la calle con nieve, cortinas con las luces de la ciudad detrás, edificios de noche en azul profundo. El mundo en silencio, entre la noche y el día.
+- **Hora azul:** ventanas al amanecer con árboles sin hojas, la calle con nieve, cortinas con las luces de la ciudad detrás, edificios en azul profundo.
 - **La luna azul** entre nubes, y **luz borrosa sobre el mar**.
 - **Polaroids gastadas:** el puente en la niebla, el mar oscuro con una ola blanca. Recuerdos del viaje.
 - **El ritual de cerrar ciclos:** figuras de blanco en círculo con luz entre las manos. Sin mostrar caras.
 - Colores: **azul profundo · azul hora azul · plata de luna · blanco**.
 
-## Sonido (propuesta)
-Pop nórdico de "bailar llorando" (como Robyn o Lykke Li) con **guitarra portuguesa de fado** para la *saudade*.
+## Producción
+- **Versos:** pulso electrónico suave y constante (como Robyn), sintes fríos y nórdicos, la voz cerquita.
+- **Coros:** se abre todo; batería de pop bailable pero melancólica, para bailar llorando.
+- **Post-coro:** el canto de "gracias" crece; cada vez entran más voces (tus amigos, como en Nobody's Catching Me).
+- **Bridge:** solo la **guitarra portuguesa de fado**, lejana, y tu voz.
+- **Coro final:** lo más grande de la canción; todos los sonidos del álbum aparecen un segundo de fondo (una taza, un maullido, un "ribbit", el hielo).
+- **Outro:** todo se apaga; gaviotas, un barco a lo lejos, el acorde al revés.
 
-## Conexión
-- **Empieza donde termina Deshielo:** el hielo derretido llega al mar en la hora azul.
-- Es la última canción: cierra el viaje que empezó en Seen.
+Prompt de estilo: `melancholic Scandinavian dance-pop, steady soft electronic pulse, cold Nordic synths, intimate close female vocal, euphoric bittersweet chorus to dance and cry to, growing multilingual group chant, stripped bridge with distant Portuguese fado guitar, huge final chorus, ambient outro with waves and gulls, saudade, gratitude, blue hour, 118 BPM`
