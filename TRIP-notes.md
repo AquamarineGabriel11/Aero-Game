@@ -133,3 +133,8 @@ só pra frente…
 ## Pendiente para mañana
 - **TEA (rehacer):** muy seductora, +18 y sexualizada, pero solo con metáfora (dobles sentidos del té), y mucho más pegajosa, que no se salga de la cabeza. Hay propuestas de líneas: "How do you take it? — Hot… and to the rim", "Milk first or after? — After. Always after", "don't pull it out too soon… let it steep in me", "I lick the spoon clean — he drops the tray".
 - **Nobody's Catching Me:** falta elegir las líneas de groserías, tabaco y droga (Lighter? Stole it. / Pills? Swallowed 'em., hotbox, "Windows down. (cough.)").
+
+## La idea central (palabras de Gabriel)
+> "Cada viaje es una canción, cada país tiene su cultura."
+- Los cambios de género **son el concepto**, no un problema: cada país suena como su cultura. TRIP quiere ser diferente.
+- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, la hora 2:47). Las transiciones entre canciones son el "viaje" de un lugar a otro.
