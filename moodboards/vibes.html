@@ -1,0 +1,95 @@
+<!doctype html><html><head><meta charset="utf-8"><title>TRIP vibes</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d0d0f;color:#eee;font-family:"Helvetica Neue",Arial,sans-serif;padding:36px;width:1400px}
+h1{font-size:44px;letter-spacing:.3em;font-weight:300;margin-bottom:6px}
+.sub{color:#999;margin-bottom:28px;font-size:18px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.card{position:relative;height:420px;border-radius:18px;overflow:hidden;padding:26px;display:flex;flex-direction:column;justify-content:space-between}
+.num{font-family:monospace;font-size:14px;letter-spacing:.2em;opacity:.8}
+.t{font-size:58px;line-height:1}
+.vibe{font-size:20px;margin-top:8px;letter-spacing:.08em}
+.kw{font-size:15px;opacity:.85;margin-top:6px}
+.sw{display:flex;gap:8px;margin-top:12px}.sw i{width:38px;height:38px;border-radius:50%;border:2px solid rgba(255,255,255,.5)}
+.strip{display:flex;gap:8px}.strip img{width:110px;height:140px;object-fit:cover;border-radius:8px}
+.row{display:flex;justify-content:space-between;align-items:flex-end;gap:12px}
+/* 1 seen fogcore */
+.seen{background:linear-gradient(160deg,#cfd2d4,#7d8286 55%,#3b3e41);color:#f4f4f4}
+.seen::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 30% 30%,rgba(255,255,255,.55),transparent 60%);filter:blur(10px)}
+.seen .t{font-family:Georgia,serif;font-weight:300;text-transform:lowercase;filter:blur(1.2px);letter-spacing:.05em}
+.seen .strip img{filter:grayscale(1)}
+/* 2 caipirinha */
+.caip{background:#9bd400;color:#111}
+.caip::before{content:"";position:absolute;inset:0;opacity:.18;background:
+radial-gradient(circle at 20% 30%,#3a2200 9px,transparent 10px),radial-gradient(circle at 70% 60%,#3a2200 12px,transparent 13px),radial-gradient(circle at 45% 80%,#3a2200 8px,transparent 9px);background-size:120px 120px}
+.caip .t{font-family:Arial Narrow,Arial,sans-serif;font-weight:700;text-transform:lowercase;letter-spacing:-.03em;filter:blur(.6px)}
+/* 3 tea */
+.tea{background:conic-gradient(#111 25%,#f2f2f2 0 50%,#111 0 75%,#f2f2f2 0) 0 0/70px 70px;color:#fff}
+.tea .inner{background:rgba(10,10,10,.88);border-radius:12px;padding:18px;width:62%}
+.tea .t{font-family:Didot,"Bodoni 72",Georgia,serif;font-style:italic;letter-spacing:.12em}
+.pearls{display:flex;gap:6px;margin-top:12px}.pearls b{width:16px;height:16px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff,#ddd 50%,#aaa)}
+.lips{position:absolute;right:40px;top:120px;width:170px;height:90px;background:#b0102a;border-radius:50% 50% 50% 50%/60% 60% 40% 40%;box-shadow:0 0 0 12px rgba(176,16,42,.25)}
+/* 4 chef's kiss */
+.chef{background:radial-gradient(circle at 70% 20%,#fff8ec,#efe0c6 60%,#d9c09a);color:#4a2d16}
+.chef::before{content:"";position:absolute;inset:0;background:radial-gradient(#fff 1px,transparent 1.5px) 0 0/14px 14px;opacity:.5}
+.chef .t{font-family:Georgia,serif;font-weight:400}
+.wheat{position:absolute;right:30px;top:24px;font-size:120px;opacity:.85}
+/* 5 nobody's */
+.nob{background:radial-gradient(circle at 80% 20%,#c4121a 0,#5a0508 30%,#0b0b0b 70%);color:#fff}
+.nob::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(255,255,255,.05) 0 2px,transparent 2px 5px)}
+.nob .t{font-family:"Courier New",monospace;font-weight:700;text-shadow:3px 3px 0 #ff7a00,-2px -1px 0 #00e5ff;font-size:46px}
+.frog{position:absolute;right:50px;bottom:60px;width:150px;height:120px;background:#ff8a1c;border-radius:50% 50% 45% 45%;box-shadow:inset -12px -14px 0 rgba(0,0,0,.2)}
+.frog::before,.frog::after{content:"";position:absolute;top:-22px;width:46px;height:46px;border-radius:50%;background:#ff8a1c radial-gradient(circle,#111 8px,#fff 9px 15px,transparent 16px)}
+.frog::before{left:14px}.frog::after{right:14px}
+.lantern{position:absolute;right:240px;top:30px;width:60px;height:80px;border-radius:40%;background:#e3141c;box-shadow:0 0 40px 10px rgba(227,20,28,.6)}
+/* 6 syzygy */
+.syz{background:#05050a;color:#f3e2b5}
+.syz::before{content:"";position:absolute;inset:0;background:radial-gradient(#fff 1px,transparent 1.5px) 0 0/37px 41px,radial-gradient(#fff .8px,transparent 1.2px) 13px 19px/53px 47px;opacity:.7}
+.syz .t{font-family:Futura,"Century Gothic",sans-serif;letter-spacing:.35em;font-weight:300}
+.align{position:absolute;left:30px;right:400px;top:210px;display:flex;justify-content:space-around;align-items:center}
+.align b{border-radius:50%;display:block}
+/* 7 deshielo */
+.desh{background:linear-gradient(170deg,#e9f7ff,#9fd8f5 40%,#7bb6e8 70%,#b9a6e8);color:#08325a}
+.desh::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 20% 70%,rgba(255,255,255,.8) 0 18px,transparent 19px),radial-gradient(circle at 80% 30%,rgba(255,255,255,.7) 0 26px,transparent 27px),radial-gradient(circle at 60% 85%,rgba(255,255,255,.6) 0 12px,transparent 13px)}
+.desh .t{font-family:"Trebuchet MS",sans-serif;background:linear-gradient(#fff,#6fc3ff);-webkit-background-clip:text;color:transparent;-webkit-text-stroke:1px #2a7fc4}
+/* 8 mangata */
+.mang{background:linear-gradient(180deg,#0a1a3f,#1c3a78 55%,#0b1630);color:#e8eefc}
+.moon{position:absolute;right:120px;top:40px;width:90px;height:90px;border-radius:50%;background:radial-gradient(circle at 40% 40%,#fff,#cfd9f2);box-shadow:0 0 50px 12px rgba(200,215,255,.45)}
+.path{position:absolute;right:135px;top:170px;width:60px;height:260px;background:repeating-linear-gradient(180deg,rgba(220,230,255,.85) 0 3px,transparent 3px 11px);filter:blur(1px);clip-path:polygon(40% 0,60% 0,100% 100%,0 100%)}
+.mang .t{font-family:Georgia,serif;font-weight:300;letter-spacing:.15em}
+.top{position:relative;z-index:2}.row,.strip{position:relative;z-index:2}
+</style></head><body>
+<h1>TRIP</h1><div class="sub">GABRIEL · cada viaje es una canción, cada canción es una estética</div>
+<div class="grid">
+
+<div class="card seen"><div class="top"><div class="num">01 · HND · LHR</div><div class="t">seen</div><div class="vibe">FOGCORE</div><div class="kw">niebla · lluvia · cama deshecha · 2:47</div></div>
+<div class="row"><div class="sw"><i style="background:#1a1a1a"></i><i style="background:#7d8286"></i><i style="background:#d8dbde"></i><i style="background:#5a7fb0"></i></div>
+<div class="strip"><img src="seen/04-fuji-torii-bn.jpg"><img src="seen/08-cama-lluvia-ciudad.jpg"><img src="seen/14-calle-niebla-japon.jpg"></div></div></div>
+
+<div class="card caip"><div class="top"><div class="num">02 · GIG · MAO</div><div class="t">caipirinha</div><div class="vibe">BRAT SUMMER TROPICAL</div><div class="kw">verde lima · jaguar · antojos 2024 · playa dorada</div></div>
+<div class="row"><div class="sw"><i style="background:#9bd400"></i><i style="background:#d9a441"></i><i style="background:#5b3a14"></i><i style="background:#ff7a1a"></i><i style="background:#ffb3c7"></i></div>
+<div class="strip"><img src="caipirinha/12-jaguar-nadando.jpg"><img src="caipirinha/11-ipanema-dos-hermanos.jpg"><img src="caipirinha/06-chocolate-dubai.jpg"></div></div></div>
+
+<div class="card tea"><div class="lips"></div><div class="top inner"><div class="num">03 · BER</div><div class="t">TEA</div><div class="vibe">DARK COQUETTE</div><div class="kw">perlas · labial rojo · porcelana · ajedrez · látex</div><div class="pearls"><b></b><b></b><b></b><b></b><b></b><b></b><b></b></div></div>
+<div class="row"><div class="sw"><i style="background:#0a0a0a"></i><i style="background:#f2f2f2"></i><i style="background:#b0102a"></i><i style="background:#c9a77a"></i></div></div></div>
+
+<div class="card chef"><div class="wheat">🌾</div><div class="top"><div class="num">04 · CDG · ZRH</div><div class="t">Chef's Kiss</div><div class="vibe">COTTAGECORE</div><div class="kw">harina · trigo · gatitos · suéteres de punto · otoño</div></div>
+<div class="row"><div class="sw"><i style="background:#4a2d16"></i><i style="background:#b9773a"></i><i style="background:#f3e7d3"></i><i style="background:#b5654a"></i><i style="background:#9a948c"></i></div></div></div>
+
+<div class="card nob"><div class="lantern"></div><div class="frog"></div><div class="top"><div class="num">05 · JFK</div><div class="t">NOBODY'S<br>CATCHING ME</div><div class="vibe">GRUNGE Y2K NOCTURNO</div><div class="kw">faroles rojos · rana naranja · humo · flash</div></div>
+<div class="row"><div class="sw"><i style="background:#0b0b0b"></i><i style="background:#e3141c"></i><i style="background:#ff8a1c"></i><i style="background:#00e5ff"></i></div></div></div>
+
+<div class="card syz"><div class="align"><b style="width:26px;height:26px;background:#c1440e"></b><b style="width:60px;height:60px;background:radial-gradient(circle at 35% 35%,#f6d8a8,#b07a3c)"></b><b style="width:90px;height:90px;background:radial-gradient(circle at 35% 35%,#f8e8c4,#a8864f);box-shadow:0 0 0 6px #05050a,0 0 0 9px rgba(243,226,181,.7)"></b><b style="width:40px;height:40px;background:#fffbe6"></b><b style="width:18px;height:18px;background:#5aa0ff"></b></div>
+<div class="top"><div class="num">06 · CHC</div><div class="t">SYZYGY</div><div class="vibe">SPACECORE</div><div class="kw">planetas en fila · Saturno · estrellas fugaces</div></div>
+<div class="row"><div class="sw"><i style="background:#05050a"></i><i style="background:#0f2552"></i><i style="background:#d4a756"></i><i style="background:#6fd3d0"></i></div>
+<div class="strip"><img src="syzygy/01-saturno.jpg"><img src="syzygy/02-estrellas-fugaces.jpg"><img src="syzygy/03-lluvia-de-estrellas.jpg"></div></div></div>
+
+<div class="card desh"><div class="top"><div class="num">07 · FTE</div><div class="t">Deshielo</div><div class="vibe">FRUTIGER AERO / WATERCORE</div><div class="kw">hielo azul · burbujas · brillo de los 2000 · lavanda</div></div>
+<div class="row"><div class="sw"><i style="background:#e9f7ff"></i><i style="background:#6fc3ff"></i><i style="background:#2a7fc4"></i><i style="background:#b9a6e8"></i></div>
+<div class="strip"><img src="deshielo/02-lineas-lavanda-derritiendose.jpg"><img src="deshielo/03-agua-con-luz-en-las-manos.jpg"><img src="deshielo/05-brillos-sobre-el-agua.jpg"></div></div></div>
+
+<div class="card mang"><div class="moon"></div><div class="path"></div><div class="top"><div class="num">08 · ARN · LIS</div><div class="t">Mångata</div><div class="vibe">BLUE HOUR CORE</div><div class="kw">hora azul · la luna · polaroids · cerrar ciclos</div></div>
+<div class="row"><div class="sw"><i style="background:#0a1a3f"></i><i style="background:#1c3a78"></i><i style="background:#cfd9f2"></i><i style="background:#ffffff"></i></div>
+<div class="strip"><img src="mangata/01-ventana-hora-azul.jpg"><img src="mangata/05-luna-azul.jpg"><img src="mangata/09-ritual-cerrar-ciclos.jpg"></div></div></div>
+
+</div></body></html>

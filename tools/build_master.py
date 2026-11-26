@@ -26,6 +26,8 @@ TRACKS = [
     ("08", "Mångata", "mangata-notes.md", "mangata", "🇸🇪🇵🇹", "ARN · LIS", "hora azul, la luna: cerrar ciclos", "9.0"),
 ]
 
+VIBES = {"01":"Fogcore","02":"Brat summer tropical","03":"Dark coquette","04":"Cottagecore","05":"Grunge Y2K nocturno","06":"Spacecore","07":"Frutiger Aero / Watercore","08":"Blue hour core"}
+
 parts = ["""# TRIP — GABRIEL · todo el álbum
 
 > **"Cada viaje es una canción, cada país tiene su cultura."**
@@ -43,10 +45,12 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 14. [Historial del proceso](#historial-del-proceso)
 
 ## Tracklist
-| # | Canción | País | Ruta | Tema | Calificación |
-|---|---|---|---|---|---|
-""" + "".join(f"| {n} | **{t}** | {fl} | {code} | {theme} | {r} |\n" for n,t,_,_,fl,code,theme,r in TRACKS) +
-"""| Bonus | Seen (Extended Scene) | 🇯🇵🇬🇧 | HND · LHR | todas las escenas extra | — |
+| # | Canción | País | Ruta | Tema | Vibe | Calificación |
+|---|---|---|---|---|---|---|
+""" + "".join(f"| {n} | **{t}** | {fl} | {code} | {theme} | {VIBES[n]} | {r} |\n" for n,t,_,_,fl,code,theme,r in TRACKS) +
+"""| Bonus | Seen (Extended Scene) | 🇯🇵🇬🇧 | HND · LHR | todas las escenas extra | Fogcore | — |
+
+![Las vibes de TRIP](moodboards/vibes.jpg)
 
 **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
 """]

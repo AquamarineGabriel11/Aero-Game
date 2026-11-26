@@ -22,17 +22,19 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 14. [Historial del proceso](#historial-del-proceso)
 
 ## Tracklist
-| # | Canción | País | Ruta | Tema | Calificación |
-|---|---|---|---|---|---|
-| 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | 8.5 |
-| 02 | **Caipirinha** | 🇧🇷 | GIG · MAO | verano 2024, aventura | 7.8 |
-| 03 | **TEA** | 🇩🇪 | BER | seducción | 8.9 |
-| 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | 8.6 |
-| 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | 8.0 |
-| 06 | **Syzygy** | 🇳🇿 | CHC | los astros se alinean, desconectarte | 8.9 |
-| 07 | **Deshielo (Interlude)** | 🇦🇷🇨🇦🇳🇵 | FTE | refrescar tu mente | 8.9 |
-| 08 | **Mångata** | 🇸🇪🇵🇹 | ARN · LIS | hora azul, la luna: cerrar ciclos | 9.0 |
-| Bonus | Seen (Extended Scene) | 🇯🇵🇬🇧 | HND · LHR | todas las escenas extra | — |
+| # | Canción | País | Ruta | Tema | Vibe | Calificación |
+|---|---|---|---|---|---|---|
+| 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | Fogcore | 8.5 |
+| 02 | **Caipirinha** | 🇧🇷 | GIG · MAO | verano 2024, aventura | Brat summer tropical | 7.8 |
+| 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 8.9 |
+| 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | Cottagecore | 8.6 |
+| 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | Grunge Y2K nocturno | 8.0 |
+| 06 | **Syzygy** | 🇳🇿 | CHC | los astros se alinean, desconectarte | Spacecore | 8.9 |
+| 07 | **Deshielo (Interlude)** | 🇦🇷🇨🇦🇳🇵 | FTE | refrescar tu mente | Frutiger Aero / Watercore | 8.9 |
+| 08 | **Mångata** | 🇸🇪🇵🇹 | ARN · LIS | hora azul, la luna: cerrar ciclos | Blue hour core | 9.0 |
+| Bonus | Seen (Extended Scene) | 🇯🇵🇬🇧 | HND · LHR | todas las escenas extra | Fogcore | — |
+
+![Las vibes de TRIP](moodboards/vibes.jpg)
 
 **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
 
