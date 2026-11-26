@@ -94,6 +94,9 @@ Population: us.
 ribbit.
 ```
 
+## Referencias de sonido (de Gabriel)
+M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny). Hyperpop agrio mezclado con **perreo**: el ritmo de dembow con bajo pesado, la actitud fría de girl group y los cantos en grupo. Solo inspiración, sin copiar.
+
 ## Producción (hyperpop estilo A. G. Cook)
 - Croar de rana acelerado y cortado como sintetizador principal.
 - El tic-tac de la direccional como hi-hat; el motor acelerando como "riser" antes de cada coro.
@@ -103,7 +106,6 @@ ribbit.
 ## Detalles
 - **La rana de la suerte china** (Jin Chan): rana de tres patas con una moneda de oro en la boca, amuleto de buena suerte y dinero. Conecta con China.
 - **Bubble tea**: bebida de origen taiwanés, típica de Chinatown.
-- Sin groserías: ya no necesita versión Explicit.
 
 ## Título
 **Nobody's Catching Me**: título corto en forma de frase. La rana y el retrovisor viven en la letra ("frog in the rearview swinging — nobody's catching me"). La rana es el amuleto chino de la suerte (tres patas, moneda de oro).

@@ -2,7 +2,7 @@
 
 **TRIP · Track 06 · 🇦🇷 Perito Moreno · 🇨🇦 Columbia Icefield · 🇳🇵 Everest → 🇳🇿 Tekapo · ~2:10**
 Tema: **volver a nacer.** Una etapa nueva, una era nueva, todo nuevo. Es el **área de enfriamiento** del álbum: después del caos de Nobody's Catching Me, respiras.
-**Casi todo instrumental.** Muy poquitas palabras, como si **tu mente te hablara**: no susurradas, sino tan bajito que se oyen **como debajo del agua**. (Inspiración de vibra: el efecto íntimo de *Lost & Found* de Addison Rae; sin copiar letra ni melodía.)
+**Casi todo instrumental.** Muy poquitas palabras, como si **tu mente te hablara**: no susurradas, sino tan bajito que se oyen **como debajo del agua**. (Inspiración de vibra: el efecto íntimo de *Lost & Found* de Addison Rae y lo etéreo de *Get Up* de NewJeans; sin copiar letra ni melodía.)
 
 ## Estructura
 - **0:00 — El reinicio:** el acorde de arranque cálido y nostálgico, como las computadoras de colores translúcidos de los 2000 (acorde **original**; no el sonido real de Apple). Pero suena **apagado, como bajo el agua**. Después, el zumbido de un monitor viejo que se apaga.
