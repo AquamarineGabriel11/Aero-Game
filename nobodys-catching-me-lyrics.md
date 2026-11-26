@@ -110,21 +110,30 @@ M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny). Hyperpop agrio mezcla
 ## Título
 **Nobody's Catching Me**: título corto en forma de frase. La rana y el retrovisor viven en la letra ("frog in the rearview swinging — nobody's catching me"). La rana es el amuleto chino de la suerte (tres patas, moneda de oro).
 
-## Concepto v5
+## Propuestas pendientes (Gabriel elige)
+Groserías, tabaco y droga para hacerla más salvaje:
+6. Pre-Chorus: `Lighter? Stole it. / Pills? Swallowed 'em.`
+7. Verse 1: `"Who's driving?" — "Him." — "That's fucking insane." — "Get in."`
+8. Verse 1: `Hotbox the Porsche till the lanterns go blurry, / menthol on my lip, and nobody's in a hurry.`
+9. Verse 2: `Ash on the leather — who gives a shit, it's not our car, / pupils like the headlights, fuck it, I'm wide awake.`
+10. Post-Chorus: `Windows down. (cough.)`
+
+## Historial de versiones (si algo choca con lo de arriba, manda lo de arriba)
+### Concepto v5
 - La rana sticker de seguridad vial (交通安全) **cobra vida y maneja**: ironía, el "piloto más seguro del mundo" empieza una carrera.
 - Libertad pura estilo videojuego de mundo abierto: cambiar de carril como saltar de hoja en hoja (lily pads), turbo, llantas quemando (burnout). No se queman autos.
 - Para el arte oficial: diseñar una rana propia inspirada en el sticker, no usar el diseño del santuario.
 
-## Concepto v6
+### Concepto v6
 - Se acabó la escuela: una rana gorda naranja (inspirada en el sticker 交通安全) maneja de noche a toda velocidad, fumando, con tus amigos en el asiento de atrás. Caos y libertad, rumbo a **TadFrog City** (ciudad inventada).
 - Inspiración de videojuego de mundo abierto, **sin copiar**: ningún nombre, logo, personaje ni ciudad de otro juego.
 - Tono de caricatura: los autos "explotan como fuegos artificiales". Para el video, mejor animación o la rana como personaje/mascota para mantenerlo exagerado y no realista.
 
-## Tono v7: agria y seca
+### Tono v7: agria y seca
 - Sin nada de escuela. Actitud fría, pero **cantada** (no hablada): versos con melodía baja y relajada; el post-coro como canto de grupo.
 - Producción: hyperpop **frío y crujiente**, bajo seco, sintes un poco desafinados ("agrios"), mucho espacio vacío.
 
-## v8 (Explicit)
+### v8 (Explicit)
 - Personajes **adultos** (nada de escuela). Canción **Explicit**: sexo en el asiento de atrás (insinuado, con condón), alcohol, autos robados (un Porsche y luego un Nissan), autos que explotan.
 - Barrio Chino de Nueva York: Canal Street, Mott Street, faroles rojos.
 - Botellas abiertas rompiendo el cuello contra el espejo lateral (ficción; en el video, solo animado o con utilería).

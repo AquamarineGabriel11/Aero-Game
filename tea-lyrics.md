@@ -246,7 +246,7 @@ no le soples: ven a mí.
 - Pistas para el oyente: la harina en sus dedos, los Brötchen "on me".
 - **La revelación es en Chef's Kiss:** llegas a la dirección a las 5 a.m., abres la puerta de la cocina… y quien está amasando es **el mesero**. Él era el chef.
 
-## Producción (dirección final)
+## Groove de los versos (R&B)
 **Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA-TEA-TEA" / "me-me-me" / "breeze-breeze-breeze"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
 
 ## Dirección visual

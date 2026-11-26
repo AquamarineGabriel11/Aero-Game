@@ -1,22 +1,26 @@
 # TRIP — estado del proyecto
 
-Artista: GABRIEL · Álbum: **TRIP** · Primer sencillo: **Seen** (meta: viernes 18 de diciembre de 2026)
+Artista: GABRIEL · Álbum: **TRIP** · Primer sencillo: **Seen** (nueva meta: 15 de enero de 2027)
 
-Ruta: `HND·LHR → MAO → NAP·ZRH·OSL·CDG → PEK·JFK → FTE·YYC·KTM → CHC → ARN·LIS`
+Ruta: `HND·LHR → GIG·MAO → BER → CDG·ZRH → JFK → CHC → FTE → ARN·LIS`
 
-| # | Canción | Lugares | Emoción | Letra |
+| # | Canción | Lugares | Emoción | Archivo |
 |---|---|---|---|---|
-| 01 | Seen | 🇯🇵 Tokio · 🇬🇧 Londres | Tristeza, desvelo, soledad | ✅ final (`seen-demo/seen-lyrics.md`) |
-| 02 | Hyacinth Macaw (ES: *Guacamayo Azul*) | 🇧🇷 Río · Iguazú · Manaus | Amor, aventura, remar | ✅ 9.5/10 (abajo) |
-| 03 | Chef's Kiss | 🇮🇹 Nápoles · 🇨🇭 Zúrich · 🇳🇴 Oslo · 🇫🇷 París | Calidez, la cocina de Noa | ⏳ **siguiente — darle mucho empeño, posible protagonismo** |
-| 04 | Rearview | 🇨🇳 Pekín · 🇺🇸 Nueva York (Chinatown) | La noche del golpe | ✅ (revisar panda/bambú/Mott St.) |
-| 05 | Deshielo (Interlude) | 🇦🇷 Perito Moreno · 🇨🇦 Columbia · 🇳🇵 Everest | Respiro, todos los ríos | ✅ estructura |
-| 06 | Tekapo | 🇳🇿 Lago Tekapo | Buscar en las estrellas | ✅ |
-| 07 | Mångata | 🇸🇪 Estocolmo · 🇵🇹 Lisboa | Sanar | ✅ (versión Van Gogh) |
+| 01 | Seen | 🇯🇵 Japón · 🇬🇧 Londres | Tristeza, desvelo | `seen-demo/seen-lyrics.md` |
+| 02 | Caipirinha | 🇧🇷 Río · Manaus | Verano 2024, aventura | `caipirinha-lyrics.md` |
+| 03 | TEA | 🇩🇪 Alemania | Seducción | `tea-lyrics.md` |
+| 04 | Chef's Kiss | 🇫🇷🇨🇭🇳🇴🇮🇹 | Amor, el pan | `chefs-kiss-lyrics.md` |
+| 05 | Nobody's Catching Me | 🇨🇳🇺🇸 Chinatown, NY | Adrenalina con amigos | `nobodys-catching-me-lyrics.md` |
+| 06 | Syzygy | 🇳🇿 Lago Tekapo | Los astros se alinean, desconectarte | `syzygy-notes.md` |
+| 07 | Deshielo (Interlude) | 🇦🇷🇨🇦🇳🇵 Glaciares | Refrescar tu mente | `deshielo-notes.md` |
+| 08 | Mångata | 🇸🇪 Estocolmo · 🇵🇹 Cabo da Roca | Cerrar ciclos | `mangata-notes.md` |
+
+> Todo junto en **`TRIP-COMPLETO.md`**. Lo que está más abajo en este archivo es el **historial del proceso**: si algo choca con los archivos de cada canción, mandan los archivos de cada canción.
 
 ## Reglas
 - Nunca mostrar la cara en portadas/visuales.
-- Cada canción = un color y una emoción; no mezclar emociones (sanar solo en Mångata).
+- Cada canción = un color y una emoción; no mezclar emociones.
+- Solo TEA y Chef's Kiss son canciones de amor.
 - Letras: detalles reales y específicos, nada genérico ni infantil; lo íntimo se insinúa.
 - Logos de marcas solo como inspiración, no en material oficial.
 
