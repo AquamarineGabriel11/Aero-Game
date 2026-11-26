@@ -1,122 +1,114 @@
-# CHEF'S KISS — letra (v6)
+# CHEF'S KISS — letra (v7: icónica y pegajosa)
 
-**TRIP · Track 03 · Burgundy → París · Zúrich · el norte**
+**TRIP · Track 04 · Burgundy → París · Zúrich · el norte**
 **Pop romántico retro** (inspiración de vibra: *Moonlit Floor* de LISA y las canciones de amor de finales de los 90) · ~100 BPM
 Idiomas: ~70% inglés · ~30% francés e italiano (las tradiciones de Suiza y Noruega se cuentan en inglés)
 
 ```text
 CHEF'S KISS
-TRIP · Track 03
+TRIP · Track 04
+
+[Intro]
+(a meow — then accordion, a little wind through the leaves)
+Mwah, mwah… la-la-la…
 
 [Verse 1]
-(starts straight in: a cat's meow — then acoustic guitar, autumn wind, leaves)
-Burgundy in October, the fields all brown and bare,
-you swing the sacks of wheat up on your shoulder like they're light,
-"Coopérative, 1965" faded on the burlap,
+Burgundy in October, wheat up on your shoulder,
+"Coopérative, 1965" faded on the sack,
 cold air on your arms, you smell like wheat and woodsmoke,
-I could watch you work all day,
-I could watch you, I could watch you,
+I could watch you all day long,
 you turn around and laugh — "tu regardes encore?"
 Still watching. Always, always.
 
 [Pre-Chorus]
 "Wait till you taste what this becomes,"
-you grind the wheat down slow,
-farine falling soft like snow,
-and something in me knows… (purr)
+farine falling down like snow,
+and my heart is rising… rising like the dough… (purr)
 
 [Chorus]
-Chef's kiss, chef's kiss,
-doucement, piano piano,
-you knead me like the dough,
-slow hands, warm arms,
-chef's kiss, chef's kiss,
-comme ça, comme ça,
-you love me like you cook —
-perfetto. (mwah)
+Chef's kiss, chef's kiss, (mwah)
+you made me sweet like a brioche,
+fingers on my lips — comme ça, comme ça,
+I'm rising, rising like the dough,
+chef's kiss, chef's kiss, (mwah)
+perfetto, oh-oh-oh,
+knead me, need me, don't let go,
+chef's kiss — (mwah).
 
 [Post-Chorus]
-Comme ça, comme ça,
-fingers to my lips (mwah),
-piano, piano,
-then the real one after.
+Silly little kitty knocked the flour off the shelf,
+now I'm falling for the baker, I can't help myself,
+la-la-la, piano piano,
+two kilos of flour — and I'm in love, oh no.
 
 [Verse 2]
 Paris, the bakery before the city wakes,
-warm wheat in the air, it gets into my clothes,
 flour in your beard, that thin moustache, still so young,
-sleeves pushed up, you fold it, press it, turn it,
-and I forget to breathe, I forget to breathe,
+sleeves pushed up — you fold it, press it, turn it,
 you catch me staring — "viens ici" —
 you step behind me, your hands over mine,
 "comme ça… doucement…" — we make them together,
-then your gray cat strolls across the counter, (meow)
-knocks a two-kilo sack down — flour everywhere — and we can't stop laughing.
+then the kitty strolls across the counter, (meow)
+two kilos down — and we can't stop laughing.
 
 [Pre-Chorus 2]
 Wrap me up in you like dough,
-low fire, one-eighty, melt me slow, (purr)
+low fire, one-eighty, melt me whole, (purr)
 let me turn caramel — beurre noisette,
 I steal the sugo off your wooden spoon,
 "spank me with your floury hands" — "pas encore…"
 
 [Chorus]
-Chef's kiss, chef's kiss,
-doucement, piano piano,
-you knead me like the dough,
-slow hands, warm arms,
-chef's kiss, chef's kiss,
-comme ça, comme ça,
-you love me like you cook —
-perfetto. (mwah)
+Chef's kiss, chef's kiss, (mwah)
+you made me sweet like a brioche,
+fingers on my lips — comme ça, comme ça,
+I'm rising, rising like the dough,
+chef's kiss, chef's kiss, (mwah)
+perfetto, oh-oh-oh,
+knead me, need me, don't let go,
+chef's kiss — (mwah).
 
 [Post-Chorus]
-Comme ça, comme ça,
-fingers to my lips (mwah),
-piano, piano,
-then the real one after.
-
-[Verse 3]
-Zürich in December, one pot, two forks,
-drop your bread in the cheese and you owe a kiss —
-so I drop it, drop it, drop it,
-and you never make me ask.
-Chocolate on the marble, you roll it into Lindors,
-hard outside, soft inside — just like you.
+Silly little kitty knocked the flour off the shelf,
+now I'm falling for the baker, I can't help myself,
+la-la-la, piano piano,
+two kilos of flour — and I'm in love, oh no.
 
 [Bridge]
 (everything slows: accordion, snow against the glass, a fork on a plate)
+Zürich in December, one pot, two forks,
+drop your bread in the cheese and you owe a kiss —
+so I drop it, drop it, drop it.
+Lindors on the marble — hard outside, soft inside, just like you.
 Up north, the windows white with frost,
-the same flour turned to waffles shaped like hearts,
+waffles shaped like hearts,
 we raise our glasses like they do up there —
-eyes locked, and you never look away, (purr)
-you never look away…
+eyes locked, and you never look away… (purr)
 "amore," then "mon amour,"
 two languages, one mouth on mine.
 
 [Final Chorus]
 (key change up: strings, handclaps, every voice in the bakery)
-Chef's kiss, chef's kiss,
-doucement, piano piano,
-you knead me like the dough,
-slow hands, warm arms,
-chef's kiss, chef's kiss,
-comme ça, comme ça,
-save me the last bite —
-perfetto. (mwah)
+Chef's kiss, chef's kiss, (mwah)
+you made me sweet like a brioche,
+fingers on my lips — comme ça, comme ça,
+I'm rising, rising like the dough,
+chef's kiss, chef's kiss, (mwah)
+perfetto, oh-oh-oh,
+knead me, need me, don't let go,
+save me the last bite — (mwah).
 
 [Post-Chorus]
-Comme ça, comme ça,
-fingers to my lips (mwah),
-piano, piano,
-then the real one after.
+Silly little kitty knocked the flour off the shelf,
+now I'm falling for the baker, I can't help myself,
+la-la-la, piano piano,
+two kilos of flour — and I'm in love, oh no.
 
 [Outro]
 (sunrise, the oven door, the crack of a crust)
 Five a.m. we started making bread,
 by midnight the oven was the only light,
 now the sun's up, flour on the couch, two cats asleep on your coat,
-oven mitts soft like little pillows,
 you pull the rolls out, warm and brown,
 we tear one open, wipe the sugo off the plate — scarpetta —
 steam across my face, the whole room smells like you…
@@ -124,6 +116,15 @@ comme ça… (purr)
 from making the bread… to being the bread.
 mwah.
 ```
+
+## Lo icónico (por qué se pega)
+- **Palabras simples y dulces**, fáciles de cantar a la primera, como los grandes hits virales de amor.
+- **"knead me, need me, don't let go"**: juego de palabras. *Knead* (amasar) y *need* (necesitar) suenan igual. Es la frase para camisetas y captions.
+- **"rising like the dough"**: el corazón sube como la masa.
+- **El post-coro es una queja graciosa:** *"Silly little kitty knocked the flour off the shelf, now I'm falling for the baker, I can't help myself… and I'm in love, oh no."* Culpa al gatito de que se enamoró. Tierna, chistosa y fácil de corear.
+- **"la-la-la" y "oh-oh-oh"**: sílabas que cualquiera canta aunque no sepa inglés.
+- **Versión acelerada (sped up)** para TikTok: el post-coro funciona muy bien rápido.
+- Inspiración solo en lo icónico de un hit viral tierno: **no se copia** ninguna letra ni melodía.
 
 ## Francés e italiano
 
