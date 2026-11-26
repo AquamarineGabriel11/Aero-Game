@@ -461,6 +461,8 @@ et l'eau trouve toujours le chemin de la maison.
 
 ## 06 · TEKAPO
 
+> **Versión vieja.** La letra nueva (v2: encontrarte en el universo) está en `tekapo-notes.md`.
+
 ```text
 [Intro]
 (cold wind, distant crickets, the hum of a telescope turning)
