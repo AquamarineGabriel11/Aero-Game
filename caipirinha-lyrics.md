@@ -25,7 +25,7 @@ lo más pedido de la noche… ¡PRo-Pi-Na!
 [Verse 1]
 Un yate cruzando el pantano, el motor en bajito,
 el corillo en traje corto — casi nada, poquito,
-caipirinha en una mano, piña colada en la otra,
+dirty money en una mano, piña colada en la otra,
 el hielo se derrite y, acho, aquí nadie se preocupa.
 Pink dolphins jumpin' right next to the boat,
 guacamayos azules, un capibara de guardia,
@@ -33,7 +33,7 @@ un tucán me puso four out of ten — ¿qué te pasa, loca?
 Y en la orilla, los cocodrilos… mirándonos la boca.
 
 [Hook 1]
-Caipirinha con piña colada,
+Dirty money con piña colada,
 mitad Brasil, mitad San Juan,
 the sun goes down and nobody's leavin',
 bora, bora — ¿y ahora pa' dónde van?
@@ -53,10 +53,13 @@ los chavos volando, billetes por el culo de las morras —
 make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
+Pull an all-nighter with Charli — este yate es mi party,
+embriagarme with that, que la noche no va a parar,
+caimanes en la proa del manglar… mirándome perrear.
 
 [Chorus]
 ¡Vai, vai, vai! (¡wepa!)
-caipirinha con piña colada,
+dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
@@ -71,7 +74,7 @@ ei, ei, ei — ¡PRoPiNa!
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
-les servimos caipirinha y se ríen los cabrones,
+les tiramos dirty money y se ríen los cabrones,
 una fría pa' mí y otra pa'l caimán,
 un caimán con shades pidiendo otra ronda,
 funk de Río con perreo de la isla en la misma onda,
@@ -99,7 +102,7 @@ lu-lu-luces…
 
 [Final Chorus]
 ¡Vai, vai, vai! (¡wepa!)
-caipirinha con piña colada,
+dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
