@@ -8,7 +8,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 ## Índice
 1. [Tracklist](#tracklist)
 2. [01 · Seen](#01--seen)
-3. [02 · [título por decidir]](#02--t-tulo-por-decidir)
+3. [02 · PRoPINA](#02--propina)
 4. [03 · TEA](#03--tea)
 5. [04 · Chef's Kiss](#04--chef-s-kiss)
 6. [05 · Nobody's Catching Me](#05--nobody-s-catching-me)
@@ -25,7 +25,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 | # | Canción | País | Ruta | Tema | Vibe | Calificación |
 |---|---|---|---|---|---|---|
 | 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | Fogcore | 8.5 |
-| 02 | **[título por decidir]** | 🇧🇷🇵🇷 | GIG · MAO · SJU | fiesta en un yate por el Amazonas que se vuelve antro (Explicit) | Brat summer tropical | — |
+| 02 | **PRoPINA** | 🇧🇷🇵🇷 | GIG · MAO · SJU | fiesta en un yate por el Amazonas que se vuelve antro (Explicit) | Brat summer tropical | — |
 | 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 8.9 |
 | 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | Cottagecore | 8.6 |
 | 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | Grunge Y2K nocturno | 8.0 |
@@ -242,20 +242,20 @@ mata ne (nos vemos).
 
 ---
 
-## 02 · [título por decidir]
+## 02 · PRoPINA
 
-![Moodboard de [título por decidir]](moodboards/caipirinha/00-moodboard-completo.jpg)
+![Moodboard de PRoPINA](moodboards/caipirinha/00-moodboard-completo.jpg)
 
 Carpeta de imágenes: `moodboards/caipirinha/`
 
-### [TÍTULO POR DECIDIR] — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
+### PRoPINA — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía). Español boricua + portugués + un poquito de inglés de internet.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
-[TÍTULO POR DECIDIR] (Explicit)
+PRoPINA (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -308,14 +308,14 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-este verano lo pago yo.
+que llueva la PRoPINA — este verano lo pago yo.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — el corillo no se va,
 ei, ei, ei — una más, una más,
-ei, ei, ei — ¡wepa!
+ei, ei, ei — ¡PRoPINA!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
@@ -331,13 +331,13 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-este verano lo pago yo.
+que llueva la PRoPINA — este verano lo pago yo.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — el corillo no se va,
 ei, ei, ei — una más, una más,
-ei, ei, ei — ¡wepa!
+ei, ei, ei — ¡PRoPINA!
 
 [Outro]
 (sunrise — the beat cuts. Birds. The yacht drifting. A cuatro puertorriqueño alone.)
@@ -348,6 +348,9 @@ obrigada, Brasil…
 y Puerto Rico… gracias por venir.
 (a lime squeezed one last time)
 ```
+
+#### El título: PRoPINA
+Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **PRoPINA**. Sin tildes ni "ñ".
 
 #### La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
@@ -2068,7 +2071,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | # | Canción | Ruta | Color |
 |---|---|---|---|
 | 01 | Seen | HND · LHR | gris azulado |
-| 02 | Caipirinha | GIG · MAO | verde lima |
+| 02 | PRoPINA | GIG · MAO · SJU | verde lima y verde neón |
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |
@@ -2145,7 +2148,7 @@ Ruta: `HND·LHR → GIG·MAO → BER → CDG·ZRH → JFK → CHC → FTE → AR
 | # | Canción | Lugares | Emoción | Archivo |
 |---|---|---|---|---|
 | 01 | Seen | 🇯🇵 Japón · 🇬🇧 Londres | Tristeza, desvelo | `seen-demo/seen-lyrics.md` |
-| 02 | Caipirinha | 🇧🇷 Río · Manaus | Verano 2024, aventura | `caipirinha-lyrics.md` |
+| 02 | PRoPINA | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
 | 03 | TEA | 🇩🇪 Alemania | Seducción | `tea-lyrics.md` |
 | 04 | Chef's Kiss | 🇫🇷🇨🇭🇳🇴🇮🇹 | Amor, el pan | `chefs-kiss-lyrics.md` |
 | 05 | Nobody's Catching Me | 🇨🇳🇺🇸 Chinatown, NY | Adrenalina con amigos | `nobodys-catching-me-lyrics.md` |
@@ -2298,7 +2301,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 TRIP · GABRIEL
 
 01  Seen                             🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo)
-02  Caipirinha                       🇧🇷          💚🐆 verano 2024, aventura
+02  PRoPINA (Explicit)              🇧🇷🇵🇷        💚🐆 yate por el Amazonas que se vuelve antro
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos

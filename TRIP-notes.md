@@ -7,7 +7,7 @@ Ruta: `HND·LHR → GIG·MAO → BER → CDG·ZRH → JFK → CHC → FTE → AR
 | # | Canción | Lugares | Emoción | Archivo |
 |---|---|---|---|---|
 | 01 | Seen | 🇯🇵 Japón · 🇬🇧 Londres | Tristeza, desvelo | `seen-demo/seen-lyrics.md` |
-| 02 | Caipirinha | 🇧🇷 Río · Manaus | Verano 2024, aventura | `caipirinha-lyrics.md` |
+| 02 | PRoPINA | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
 | 03 | TEA | 🇩🇪 Alemania | Seducción | `tea-lyrics.md` |
 | 04 | Chef's Kiss | 🇫🇷🇨🇭🇳🇴🇮🇹 | Amor, el pan | `chefs-kiss-lyrics.md` |
 | 05 | Nobody's Catching Me | 🇨🇳🇺🇸 Chinatown, NY | Adrenalina con amigos | `nobodys-catching-me-lyrics.md` |

@@ -13,7 +13,7 @@
 | # | Canción | Ruta | Color |
 |---|---|---|---|
 | 01 | Seen | HND · LHR | gris azulado |
-| 02 | Caipirinha | GIG · MAO | verde lima |
+| 02 | PRoPINA | GIG · MAO · SJU | verde lima y verde neón |
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |

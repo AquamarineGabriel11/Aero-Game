@@ -4,7 +4,7 @@
 TRIP · GABRIEL
 
 01  Seen                             🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo)
-02  Caipirinha                       🇧🇷          💚🐆 verano 2024, aventura
+02  PRoPINA (Explicit)              🇧🇷🇵🇷        💚🐆 yate por el Amazonas que se vuelve antro
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos
