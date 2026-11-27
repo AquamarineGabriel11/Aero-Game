@@ -28,13 +28,7 @@ la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
 lo más pedido de la noche… ¡PRo-Pi-Na!"
-(static cuts — silence)
-
-[Intro]
-(a boat engine low, water against the hull, birds, ice in a cup, a güiro)
-Ey… shh… ¿escuchaste eso?
-Olha só…
-BRaSiL x PuERTo RiCo, baby.
+(static cuts — a boat engine low, water against the hull, birds, ice in a cup, a güiro)
 
 [Verse 1]
 (relaxed, half-sung)
@@ -233,7 +227,6 @@ Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa,
 | chavos | 🇵🇷 | dinero |
 | acho | 🇵🇷 | muletilla boricua (como "wey" o "bro") |
 | brutal / mi pana | 🇵🇷 | increíble / mi amigo |
-| olha só | 🇧🇷 | ¡mira nada más! |
 | bora | 🇧🇷 | ¡vámonos! |
 | mais uma | 🇧🇷 | ¡otra más! |
 | que delícia | 🇧🇷 | ¡qué rico! |
