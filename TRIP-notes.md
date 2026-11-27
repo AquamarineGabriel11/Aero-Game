@@ -7,7 +7,7 @@ Ruta: `HND·LHR → GIG·MAO → BER → CDG·ZRH → JFK → CHC → FTE → AR
 | # | Canción | Lugares | Emoción | Archivo |
 |---|---|---|---|---|
 | 01 | Seen | 🇯🇵 Japón · 🇬🇧 Londres | Tristeza, desvelo | `seen-demo/seen-lyrics.md` |
-| 02 | PRoPINA | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
+| 02 | pRoPiNa | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
 | 03 | TEA | 🇩🇪 Alemania | Seducción | `tea-lyrics.md` |
 | 04 | Chef's Kiss | 🇫🇷🇨🇭🇳🇴🇮🇹 | Amor, el pan | `chefs-kiss-lyrics.md` |
 | 05 | Nobody's Catching Me | 🇨🇳🇺🇸 Chinatown, NY | Adrenalina con amigos | `nobodys-catching-me-lyrics.md` |
@@ -149,7 +149,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | Canción | Referencias | Lo que tomamos |
 |---|---|---|
 | **Seen** | High Fashion (Addison Rae) · Freak (Ariana Grande) · Miss (Erika de Casier) | R&B minimalista y sensual: voz cerquita y respirada, bajo suave, pocos elementos, ambiente de cuarto de noche. |
-| **PRoPINA** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
+| **pRoPiNa** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
 | **TEA** | Immaterial (SOPHIE) · Battitude (TWICE) · Kiss (Tyla) · Von dutch (A. G. Cook, Charli XCX, Addison Rae) · Club classics (Charli XCX) | Hyperpop de club: sintes plásticos y burbujeantes, bajo pesado, actitud "brat", gancho de coro de grupo, toques sensuales. |
 | **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | **Banda sonora de comedia romántica de los 90**: guitarras acústicas brillantes, cuerdas, piano eléctrico, toques franceses; swing vintage en los créditos. |
 | **Nobody's Catching Me** | M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny) | Hyperpop agrio + **perreo**: ritmo de dembow con bajo pesado, actitud de girl group, voces frías y seguras, cantos en grupo. Nueva York también es latina. |
@@ -157,6 +157,6 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 
 ## Cómo nació TRIP (orden en que se crearon los títulos)
 - **Primera canción creada:** **Seen** (track 01).
-- **Último título creado:** **PRoPINA** (track 02).
+- **Último título creado:** **pRoPiNa** (track 02).
 - El álbum empezó y terminó de crearse en sus dos primeras canciones: quedaron una junto a la otra.
-- Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → PRoPINA · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.
+- Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → pRoPiNa · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.

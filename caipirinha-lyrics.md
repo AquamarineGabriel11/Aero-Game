@@ -1,11 +1,11 @@
-# PRoPINA — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
+# pRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía). Español boricua + portugués + un poquito de inglés de internet.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
-PRoPINA (Explicit)
+pRoPiNa (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -58,14 +58,14 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-que llueva la PRoPINA — este verano lo pago yo.
+que llueva la pRoPiNa — este verano lo pago yo.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — el corillo no se va,
 ei, ei, ei — una más, una más,
-ei, ei, ei — ¡PRoPINA!
+ei, ei, ei — ¡pRoPiNa!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
@@ -81,13 +81,13 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-que llueva la PRoPINA — este verano lo pago yo.
+que llueva la pRoPiNa — este verano lo pago yo.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — el corillo no se va,
 ei, ei, ei — una más, una más,
-ei, ei, ei — ¡PRoPINA!
+ei, ei, ei — ¡pRoPiNa!
 
 [Outro]
 (sunrise — the beat cuts. Birds. The yacht drifting. A cuatro puertorriqueño alone.)
@@ -99,8 +99,8 @@ y Puerto Rico… gracias por venir.
 (a lime squeezed one last time)
 ```
 
-## El título: PRoPINA
-Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **PRoPINA**. Sin tildes ni "ñ".
+## El título: pRoPiNa
+Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **pRoPiNa** (alternada de principio a fin). Sin tildes ni "ñ".
 
 ## La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
