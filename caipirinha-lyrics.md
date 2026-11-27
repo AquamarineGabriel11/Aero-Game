@@ -55,7 +55,7 @@ leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
 [Pre-Chorus]
-Pull an all-nighter with Charli (¡Charli!),
+Pull an all-nighter with Charli (¡XCX!),
 el yate prendío', esto es un party (¡party!),
 embriagarme with that, with that — ¿y qué?
 si el río da vueltas y yo también,

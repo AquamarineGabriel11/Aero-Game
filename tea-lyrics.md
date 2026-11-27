@@ -126,6 +126,9 @@ don't blow on it — come to me.
 "…viens avec moi."
 (you smile, slide your sunglasses back on)
 sip…
+I leave my propina under the saucer —
+a wrinkled bill that still smells like the river,
+my lipstick on it…
 (the cup squeaks one last time)
 checkmate.
 ```
@@ -248,6 +251,10 @@ no le soples: ven a mí.
 
 ## Groove de los versos (R&B)
 **Pop-R&B coqueto y adictivo**, inspiración de vibra en el R&B de finales de los 90 que regresó en 2024 (sin copiar ninguna canción): groove a medio tempo (~90–95 BPM), bajo redondo, batería con swing suave, armonías de voz en capas, **llamada y respuesta** en el gancho ("TEA-TEA-TEA" / "me-me-me" / "breeze-breeze-breeze"), actitud traviesa y segura. Detalles cálidos: tazas y cucharita como percusión, un piano eléctrico suave.
+
+## Conexión con PRoPiNa (track 02)
+En el outro ella deja su **propina** debajo del platito: *"a wrinkled bill that still smells like the river"*. Es un billete arrugado que todavía huele al río del Amazonas: el **dirty money** que sobró de la fiesta del yate en PRoPiNa. Con su labial encima, como firma.
+- La palabra **"propina"** va en español a propósito dentro de una canción en inglés: es el guiño a la canción anterior.
 
 ## Dirección visual
 - **Apertura:** amanecer, afuera del café-panadería. Tú (sin mostrar cara), de **negro y blanco**, mirando la vitrina del pan. Luego entras.

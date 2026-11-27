@@ -164,7 +164,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 ## Tracklist oficial (aprobado por Gabriel)
 01 Seen · 02 PRoPiNa · 03 TEA · 04 Chef's Kiss · 05 Nobody's Catching Me · 06 Syzygy · 07 Deshielo (Interlude) · 08 Mångata · Bonus: Seen (Extended Scene)
 - Energía: lenta → explota → sensual → cálida → **sube otra vez** (Nobody's Catching Me) → se abre el cielo → respiro → cierre.
-- Conexiones de historia: TEA → Chef's Kiss · Seen → Deshielo → Mångata. Las demás son mundos sueltos.
+- Conexiones de historia: **PRoPiNa → TEA** (el billete del yate es la propina del mesero) · TEA → Chef's Kiss · Seen → Deshielo → Mångata. Las demás son mundos sueltos.
 
 ## Duraciones oficiales (decisión de Gabriel)
 | # | Canción | Duración |

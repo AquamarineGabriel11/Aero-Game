@@ -166,7 +166,7 @@ leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
 [Pre-Chorus]
-Pull an all-nighter with Charli (¡Charli!),
+Pull an all-nighter with Charli (¡XCX!),
 el yate prendío', esto es un party (¡party!),
 embriagarme with that, with that — ¿y qué?
 si el río da vueltas y yo también,
@@ -388,6 +388,9 @@ don't blow on it — come to me.
 "…viens avec moi."
 (you smile, slide your sunglasses back on)
 sip…
+I leave my propina under the saucer —
+a wrinkled bill that still smells like the river,
+my lipstick on it…
 (the cup squeaks one last time)
 checkmate.
 ```
