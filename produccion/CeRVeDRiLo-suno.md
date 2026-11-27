@@ -14,7 +14,7 @@ Reglas para que no suene genérico:
 
 **Style (copiar y pegar):**
 ```
-slow tropical intro, bossa nova guitar, Brazilian cuica, Puerto Rican guiro, jungle birds and river ambience, laid-back reggaeton swing, 88 bpm, relaxed half-sung male Spanish vocals with Puerto Rican accent, spoken 2000s Latin radio host intro with cheap synth jingle, playful, summer, sticky whistle melody
+slow tropical intro, bossa nova guitar, Brazilian cuica, Puerto Rican guiro, jungle birds and river ambience, laid-back reggaeton swing, 88 bpm, relaxed half-sung confident adult Spanish vocals with Puerto Rican accent, spoken 2000s Latin radio host intro with cheap synth jingle, playful, summer, sticky whistle melody
 ```
 
 **Lyrics (copiar y pegar):**
@@ -36,7 +36,7 @@ Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
 lo más pedido de la noche… ¡cer-ve-dri-lo!
 
-[Verse 1: Male Vocal, relaxed]
+[Verse 1: relaxed]
 Un yate cruzando el pantano, el motor en bajito,
 el corillo en traje corto, casi nada, poquito,
 dirty money en una mano, piña colada en la otra,
@@ -72,14 +72,14 @@ Jaguar has en—
 
 **Style (cambiarlo al extender):**
 ```
-dance-pop meets Brazilian funk carioca and reggaeton dembow, 100 bpm, four-on-the-floor kick in the choruses, bright synth riff that doubles the vocal hook, simple singalong melody easy to follow without knowing the words, wordless oh-oh hook, distorted 808 sub bass, neon club energy, glitchy stutter edits, chopped vocals, beat freezes like a skipping CD, male and female Spanish rap vocals, big group chants, catchy whistle hook, hypnotic double-time funk drop, perreo
+dance-pop meets Brazilian funk carioca and reggaeton dembow, 100 bpm, four-on-the-floor kick in the choruses, bright synth riff that doubles the vocal hook, simple singalong melody easy to follow without knowing the words, wordless oh-oh hook, distorted 808 sub bass, neon club energy, glitchy stutter edits, chopped vocals, beat freezes like a skipping CD, confident adult Spanish rap vocals, big group chants, catchy whistle hook, hypnotic double-time funk drop, perreo
 ```
 
 **Lyrics:**
 ```
 [Beat Drop]
 
-[Verse 2: Male Vocal, rap]
+[Verse 2: rap]
 Se prende el neón, verde lima, verde menta,
 el aire acondicionado a full y nadie se sienta,
 la botella en hielo, el DJ en la proa,
@@ -90,7 +90,7 @@ make it rain, make it rain, que llueva la propina,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
-[Pre-Chorus: Female Vocal]
+[Pre-Chorus]
 Pull an all-nighter with Charli (ex-see-ex!),
 el yate prendío', esto es un party (¡party!),
 embriagarme with that, with that, ¿y qué?
@@ -100,7 +100,7 @@ mirándome bajar, subir, perrear (¡perrear!),
 dirty money volando, nadie va a contar,
 que espere el sol, hoy no lo dejamos entrar.
 
-[Chorus: Male and Female, dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
+[Chorus: dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
 Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
 una fría en la mano, perreando tranquilo,
 cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
@@ -121,7 +121,7 @@ uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 empapaos, gritando… y la noche todavía (¡todavía!).
 ¡Checa si hay más alcohol en la neverita! (¡neverita!)
 
-[Verse 3: Male Vocal]
+[Verse 3]
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
 les tiramos dirty money y se ríen los cabrones,
@@ -131,7 +131,7 @@ funk de Río con perreo de la isla en la misma onda,
 four a.m. and nobody's checkin' the time,
 que delícia, Brasil, esto está brutal, mi pana.
 
-[Rap: Female Vocal, cocky, half-whispered, glitchy]
+[Rap: cocky, half-whispered, glitchy]
 In-in-intoxicated, el yate da vueltas,
 look, my thong, leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
@@ -150,7 +150,7 @@ más pegao', más pegao', que el yate está mojao',
 lu-lu-luces…
 ¡cervedrilo!
 
-[Chorus: Male and Female, dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
+[Chorus: dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
 Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
 una fría en la mano, perreando tranquilo,
 cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
@@ -173,7 +173,7 @@ cer-ve-dri-lo, cer-ve-dri-lo, ¡modo cervedrilo!
 [Glitch: tape stop]
 In-in-in-intoxi… in-in… in…
 
-[Outro: Female Vocal, soft, birds at sunrise, Puerto Rican cuatro]
+[Outro: soft, birds at sunrise, Puerto Rican cuatro]
 Se prenden las luces del cielo…
 los cocodrilos dormidos en la orilla…
 Obrigada, Lima… obrigada, Brasil…
