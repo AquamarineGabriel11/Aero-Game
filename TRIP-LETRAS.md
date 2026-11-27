@@ -177,11 +177,11 @@ que espere el sol — hoy no lo dejamos entrar.
 
 [Chorus: los dos + corillo]
 ¡Vai, vai, vai! (¡wepa!)
-dirty money con piña colada,
+dirty money, piña colada,
 ¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — aquí nadie dice que no,
-an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
+del Amazonas a San Juan — la noche no se acaba,
+se mece, se mece, el yate se mece (¡se mece!),
+una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -221,17 +221,17 @@ in-in-intoxicated… no me busques mañana.
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
 CeR- CeR- Ve- DRi- Lo, CeR- CeR- Ve- DRi- Lo,
-al suelo, al suelo — perreo duro al suelo,
+más pegao', más pegao' — que el yate está mojao',
 lu-lu-luces…
 ¡CeRVeDRiLo!
 
 [Final Chorus: los dos + corillo]
 ¡Vai, vai, vai! (¡wepa!)
-dirty money con piña colada,
+dirty money, piña colada,
 ¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — aquí nadie dice que no,
-an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
+del Amazonas a San Juan — la noche no se acaba,
+se mece, se mece, el yate se mece (¡se mece!),
+una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -241,13 +241,13 @@ ei, ei, ei — ¡CeRVeDRiLo!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
-An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
-an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
+Se mece, se mece — ¡CeR-VeDRi-Lo!
+se mece, se mece — ¡CeR-VeDRi-Lo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
-mais uma, mais uma, mais uma — ¡ancla!
+mais uma, mais uma, mais uma — ¡dale, dale!
 ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
+se mece, se mece — ¡CeR-VeDRi-Lo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending: ella]

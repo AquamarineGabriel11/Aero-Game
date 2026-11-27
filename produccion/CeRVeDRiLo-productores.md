@@ -85,11 +85,11 @@ que espere el sol — hoy no lo dejamos entrar.
 
 [Chorus]
 ¡Vai, vai, vai! (¡wepa!)
-dirty money con piña colada,
+dirty money, piña colada,
 ¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — aquí nadie dice que no,
-an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
+del Amazonas a San Juan — la noche no se acaba,
+se mece, se mece, el yate se mece (¡se mece!),
+una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
 
 [Post-Chorus]
 (group chant)
@@ -134,18 +134,18 @@ LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
 CeR- CeR- Ve- DRi- Lo, CeR- CeR- Ve- DRi- Lo,
-al suelo, al suelo — perreo duro al suelo,
+más pegao', más pegao' — que el yate está mojao',
 lu-lu-luces… (stop)
 …¡CeRVeDRiLo!
 (BOOM — everything back at full power)
 
 [Final Chorus]
 ¡Vai, vai, vai! (¡wepa!)
-dirty money con piña colada,
+dirty money, piña colada,
 ¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — aquí nadie dice que no,
-an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
+del Amazonas a San Juan — la noche no se acaba,
+se mece, se mece, el yate se mece (¡se mece!),
+una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
@@ -157,13 +157,13 @@ ei, ei, ei — ¡CeRVeDRiLo!
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
-An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
-an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
+Se mece, se mece — ¡CeR-VeDRi-Lo!
+se mece, se mece — ¡CeR-VeDRi-Lo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
-mais uma, mais uma, mais uma — ¡ancla!
+mais uma, mais uma, mais uma — ¡dale, dale!
 (corillo) ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
+se mece, se mece — ¡CeR-VeDRi-Lo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
@@ -198,7 +198,7 @@ no apaguen la radio."
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-CeRVeDRiLo", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("se mece, se mece", "CeR-CeR-CeRVeDRiLo", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 ## El Drop Final (la parte que te obliga a subirle el volumen)
@@ -206,7 +206,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡CeRVeDRiLo!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("se mece, se mece — ¡CeR-VeDRi-Lo!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 
