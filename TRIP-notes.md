@@ -149,7 +149,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | Canción | Referencias | Lo que tomamos |
 |---|---|---|
 | **Seen** | High Fashion (Addison Rae) · Freak (Ariana Grande) · Miss (Erika de Casier) | R&B minimalista y sensual: voz cerquita y respirada, bajo suave, pocos elementos, ambiente de cuarto de noche. |
-| **Caipirinha** | New York (Addison Rae) · Sun Kiss · Karlee girl · Stateside (PinkPantheress + Zara Larsson) | Pop bailable y soleado: ritmos rápidos y ligeros tipo UK garage / drum & bass suave, mezclados con la batería del funk brasileño. |
+| **PRoPINA** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
 | **TEA** | Immaterial (SOPHIE) · Battitude (TWICE) · Kiss (Tyla) · Von dutch (A. G. Cook, Charli XCX, Addison Rae) · Club classics (Charli XCX) | Hyperpop de club: sintes plásticos y burbujeantes, bajo pesado, actitud "brat", gancho de coro de grupo, toques sensuales. |
 | **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | **Banda sonora de comedia romántica de los 90**: guitarras acústicas brillantes, cuerdas, piano eléctrico, toques franceses; swing vintage en los créditos. |
 | **Nobody's Catching Me** | M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny) | Hyperpop agrio + **perreo**: ritmo de dembow con bajo pesado, actitud de girl group, voces frías y seguras, cantos en grupo. Nueva York también es latina. |

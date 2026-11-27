@@ -43,7 +43,7 @@ Las fechas dependen de grabar las voces. La distribuidora necesita la música en
   - TEA: un sorbo a la cámara en cada "sip" y el deletreo "T-E-A" con los dedos.
   - Chef's Kiss: el beso de chef con los dedos en cada "mwah".
   - Nobody's Catching Me: ventanas abajo en el carro en "Windows down. (ribbit.)".
-  - Caipirinha: brindis con limón en "Vai, vai, vai!".
+  - PRoPINA: el corillo tirando billetes (de juguete) en "que llueva la PRoPINA".
 - **Fans:** nombre propuesto **"Passengers"** (pasajeros).
 
 ## 5. Merch
