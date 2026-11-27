@@ -216,6 +216,9 @@ Lo que hace que no puedas dejar de moverte:
 - **Voz del locutor:** grave, rápida, de radio latina de los 2000, con efecto de "dentro de la radio" y estática.
 - *"Una fría"* = una cerveza en Puerto Rico.
 
+## Dance pop en los coros (decisión de Gabriel)
+Que la canción sea **fácil de seguir aunque no conozcas la letra**: bombo en cada tiempo en los coros, un riff de sinte que dobla la melodía de "CeR-Ve-DRi-Lo", 4 acordes en loop y un "oh-oh-oh" sin palabras detrás del coro. Los versos siguen con perreo/funk; el coro se abre a dance pop.
+
 ## Producción (Brasil x Puerto Rico · dos beats)
 - **Parte 1 (~88 BPM):** guitarra de bossa, cuíca suave, güiro, pájaros y lluvia de fondo; voz relajada, medio cantada.
 - **Transición (el cambio de traba):** naturaleza (lluvia, ranas, grillos), silencio… *"Jaguar has en—"* se corta y se traba, y entran **7 segundos de breakdown electro de mediados de los 2000**: bajo de sinte zumbado y distorsionado, filtro que sube, beat picado y tartamudeando, luces estroboscópicas, un riser que sube… *"…the chaaaaattt"* estirado, el rugido, y explota el **perreo de club brat**.

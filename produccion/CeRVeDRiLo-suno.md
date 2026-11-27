@@ -72,7 +72,7 @@ Jaguar has en—
 
 **Style (cambiarlo al extender):**
 ```
-hard Brazilian funk carioca meets reggaeton dembow club banger, 100 bpm, distorted 808 sub bass, neon club energy, glitchy stutter edits, chopped vocals, beat freezes like a skipping CD, male and female Spanish rap vocals, big group chants, catchy whistle hook, hypnotic double-time funk drop, perreo
+dance-pop meets Brazilian funk carioca and reggaeton dembow, 100 bpm, four-on-the-floor kick in the choruses, bright synth riff that doubles the vocal hook, simple singalong melody easy to follow without knowing the words, wordless oh-oh hook, distorted 808 sub bass, neon club energy, glitchy stutter edits, chopped vocals, beat freezes like a skipping CD, male and female Spanish rap vocals, big group chants, catchy whistle hook, hypnotic double-time funk drop, perreo
 ```
 
 **Lyrics:**
@@ -100,7 +100,7 @@ mirándome bajar, subir, perrear (¡perrear!),
 dirty money volando, nadie va a contar,
 que espere el sol, hoy no lo dejamos entrar.
 
-[Chorus: Male and Female, group chant, whistle hook]
+[Chorus: Male and Female, dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
 Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
 una fría en la mano, perreando tranquilo,
 cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
@@ -150,7 +150,7 @@ más pegao', más pegao', que el yate está mojao',
 lu-lu-luces…
 ¡cervedrilo!
 
-[Chorus: Male and Female, group chant, whistle hook]
+[Chorus: Male and Female, dance-pop, four-on-the-floor, synth riff doubles the melody, group singalong]
 Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
 una fría en la mano, perreando tranquilo,
 cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
@@ -187,6 +187,13 @@ Fría y Caimán, de Río a San Juan… no apaguen la radio.
 ```
 
 ---
+
+## Dance pop: fácil de seguir aunque no te sepas la letra
+- **En los coros, el bombo en cada tiempo (four-on-the-floor):** el cuerpo encuentra el ritmo al instante.
+- **Un riff de sinte que toca la misma melodía que "cer-ve-dri-lo":** aunque no entiendas las palabras, tarareas la melodía.
+- **Pocos acordes que se repiten** (4 acordes en loop): el oído adivina lo que viene.
+- **Un gancho sin palabras ("oh-oh-oh")** detrás del coro, para que cualquiera lo cante en cualquier idioma.
+- Los versos siguen con perreo y funk; **el coro se abre a dance pop**.
 
 ## Para que suene como lo quieres
 - **Persona:** cuando una voz te guste, guárdala como **Persona** y úsala en todas las partes, para que siempre cante la misma.
