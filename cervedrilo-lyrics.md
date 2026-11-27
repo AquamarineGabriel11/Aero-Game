@@ -1,4 +1,4 @@
-# PRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
+# CeRVeDRiLo — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
@@ -7,7 +7,7 @@ Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodí
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
-PRoPiNa (Explicit)
+CeRVeDRiLo (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 [Radio Intro: corillo y locutor]
@@ -131,13 +131,13 @@ ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
-An-an-ancla, an-an-ancla — ¡PRoPiNa!
+An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending: ella]
@@ -158,11 +158,13 @@ esto fue CERVEDRILO FM. Fría y Caimán, de Río a San Juan…
 no apaguen la radio.
 ```
 
-> Las indicaciones de sonido, efectos y tiempos para los productores están en `produccion/PRoPiNa-productores.md`.
+> Las indicaciones de sonido, efectos y tiempos para los productores están en `produccion/CeRVeDRiLo-productores.md`.
 
 
-## El título: PRoPiNa
-Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **PRoPiNa** (como lo escribió Gabriel). Sin tildes ni "ñ".
+## El título: CeRVeDRiLo
+*Cerve*za + coco*drilo*: una palabra inventada que solo existe en esta canción (fácil de encontrar). La palabra **propina** se queda en el coro (*"que llueva la PRoPiNa"*) y conecta con TEA.
+
+(Nota del título anterior, PRoPiNa:) Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribía **PRoPiNa**. Sin tildes ni "ñ".
 
 ## Referencias del club (Parte 2)
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
@@ -182,7 +184,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa! / ¡CeR-VeDRi-Lo!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 

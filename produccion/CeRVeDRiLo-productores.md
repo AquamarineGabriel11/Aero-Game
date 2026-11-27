@@ -1,10 +1,10 @@
-# PRoPiNa — guía para productores
+# CeRVeDRiLo — guía para productores
 
-Letra con **todas las indicaciones de sonido, efectos y tiempos** (lo que no se canta). La letra limpia, solo con lo que se dice, está en `caipirinha-lyrics.md`.
+Letra con **todas las indicaciones de sonido, efectos y tiempos** (lo que no se canta). La letra limpia, solo con lo que se dice, está en `cervedrilo-lyrics.md`.
 
 ## Letra con indicaciones
 ```text
-PRoPiNa (Explicit)
+CeRVeDRiLo (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -157,13 +157,13 @@ ei, ei, ei — ¡PRoPiNa!
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
-An-an-ancla, an-an-ancla — ¡PRoPiNa!
+An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 (corillo) ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
@@ -198,7 +198,7 @@ no apaguen la radio."
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-PRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-CeRVeDRiLo", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 ## El Drop Final (la parte que te obliga a subirle el volumen)
@@ -206,7 +206,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡CeRVeDRiLo!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 

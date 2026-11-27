@@ -13,7 +13,7 @@
 | # | Canción | Ruta | Color |
 |---|---|---|---|
 | 01 | Seen | HND · LHR | gris azulado |
-| 02 | PRoPiNa | GIG · MAO · SJU | verde lima y verde neón |
+| 02 | CeRVeDRiLo | GIG · MAO · SJU | verde lima y verde neón |
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |
@@ -43,7 +43,7 @@ Las fechas dependen de grabar las voces. La distribuidora necesita la música en
   - TEA: un sorbo a la cámara en cada "sip" y el deletreo "T-E-A" con los dedos.
   - Chef's Kiss: el beso de chef con los dedos en cada "mwah".
   - Nobody's Catching Me: ventanas abajo en el carro en "Windows down. (ribbit.)".
-  - PRoPiNa: el corillo tirando billetes (de juguete) en "que llueva la PRoPiNa".
+  - CeRVeDRiLo: el corillo tirando billetes (de juguete) en "que llueva la PRoPiNa".
 - **Fans:** nombre propuesto **"Passengers"** (pasajeros).
 
 ## 5. Merch

@@ -114,10 +114,10 @@ mata ne.
 
 ---
 
-## 02 · PRoPiNa  (6:23)
+## 02 · CeRVeDRiLo  (6:23)
 
 ```text
-PRoPiNa (Explicit)
+CeRVeDRiLo (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 [Radio Intro: corillo y locutor]
@@ -241,13 +241,13 @@ ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
-An-an-ancla, an-an-ancla — ¡PRoPiNa!
+An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending: ella]
