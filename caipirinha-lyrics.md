@@ -2,7 +2,7 @@
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
-**Voz: hombre** (decisión de Gabriel).
+**Voces: hombre y mujer** (decisión de Gabriel): es de club, para que bailen todos. Empieza el locutor (hombre). Reparto en `TRIP-notes.md`.
 **Idiomas (decisión de Gabriel):** ~70% español de Puerto Rico · ~20% inglés · ~10% portugués de Brasil.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 

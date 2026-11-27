@@ -182,4 +182,5 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 
 ## Voz de cada canción (decisión de Gabriel)
 - **Seen:** mujer.
-- **PRoPiNa:** hombre.
+- **PRoPiNa:** hombre **y** mujer (canción de club, para que bailen todos). Empieza un hombre (el locutor).
+  - Locutor y Verse 1: hombre · Hook 1: el corillo · Verse 2: hombre · Pre-Chorus: mujer · Coros y post-coros: los dos + corillo · La Cubeta: corillo · Verse 3: hombre · Rap: mujer (*"look, my thong"*) · Glitch Break y Drop Final: los dos · Outro: mujer (*"obrigada"* es como lo dice una mujer; un hombre diría *"obrigado"*) · Outro final: locutor.
