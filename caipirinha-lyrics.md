@@ -11,6 +11,25 @@ TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
 
+[Radio Intro]
+(static… a radio dial turning: bits of other stations… until it lands)
+(the corillo, close to the mic, laughing)
+"Pásame una cervezita bien friita y ready…"
+(a can cracking open — pssst)
+🎵 JINGLE (cheap 2000s synth, cuíca, the corillo shouting):
+"Una fría pa' mí y otra pa'l caimán…
+¡Fría y Caimán, de Río a San Juan!
+Cerveza en la cabeza, cocodrilo con estilo…
+¡CER-VE-DRI-LO… F-M!" (FM… FM… FM…)
+LOCUTOR (deep, fast, 2000s Latin radio energy):
+"¡Wepaaa! Buenas noches, Amazonas…
+estás sintonizando CERVEDRILO FM,
+la única emisora que transmite desde un yate… ¡sin capitán!
+Saludos a los caimanes de la orilla, a los delfines rosados,
+y al corillo que no se quiere ir pa' su casa…
+lo más pedido de la noche… ¡pRo-Pi-Na!"
+(static cuts — silence)
+
 [Intro]
 (a boat engine low, water against the hull, birds, ice in a cup, a güiro)
 Ey… shh… ¿escuchaste eso?
@@ -81,6 +100,7 @@ ei, ei, ei — ¡pRoPiNa!
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
 les servimos caipirinha y se ríen los cabrones,
+una fría pa' mí y otra pa'l caimán,
 un caimán con shades pidiendo otra ronda,
 funk de Río con perreo de la isla en la misma onda,
 four a.m. and nobody's checkin' the time,
@@ -98,6 +118,7 @@ billetes en el río, cocodrilos con shades,
 in-in-intoxicated… (glitch) …no me busques mañana.
 
 [Glitch Break]
+LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
@@ -149,6 +170,11 @@ y Puerto Rico… gracias por venir.
 Tudo bem…
 see you next summer.
 (a lime squeezed one last time)
+LOCUTOR (tired, laughing, almost dawn):
+"Ya salió el sol, corillo… los cocodrilos se durmieron… el capitán también…
+esto fue CERVEDRILO FM. Fría y Caimán, de Río a San Juan…
+no apaguen la radio."
+(static — click — silence)
 ```
 
 ## El título: pRoPiNa
@@ -175,6 +201,12 @@ Lo que hace que no puedas dejar de moverte:
 4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡pRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
+
+## CERVEDRILO FM (la radio de la canción)
+- **Nombre:** *cerve*za + coco*drilo*. Jingle: *"Una fría pa' mí y otra pa'l caimán… ¡Fría y Caimán, de Río a San Juan! Cerveza en la cabeza, cocodrilo con estilo… ¡CER-VE-DRI-LO FM!"* (líneas de Gabriel: *"Pásame una cervezita bien friita y ready"*, *"una fría pa' mí y otra pa'l caimán"*, *"Fría y Caimán, de Río a San Juan"*).
+- **Aparece 3 veces:** el Radio Intro, un grito antes del Glitch Break y la despedida al amanecer.
+- **Voz del locutor:** grave, rápida, de radio latina de los 2000, con efecto de "dentro de la radio" y estática.
+- *"Una fría"* = una cerveza en Puerto Rico.
 
 ## La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
