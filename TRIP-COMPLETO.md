@@ -316,12 +316,12 @@ dirty money volando, nadie va a contar,
 que espere el sol — hoy no lo dejamos entrar.
 
 [Chorus: los dos + corillo]
-¡Vai, vai, vai! (¡wepa!)
-dirty money, piña colada,
-¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — la noche no se acaba,
-se mece, se mece, el yate se mece (¡se mece!),
-una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo CeRVeDRiLo — no me saques del río (¡del río!),
+modo CeRVeDRiLo — que aquí nadie tiene frío.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -366,12 +366,12 @@ lu-lu-luces…
 ¡CeRVeDRiLo!
 
 [Final Chorus: los dos + corillo]
-¡Vai, vai, vai! (¡wepa!)
-dirty money, piña colada,
-¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — la noche no se acaba,
-se mece, se mece, el yate se mece (¡se mece!),
-una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo CeRVeDRiLo — no me saques del río (¡del río!),
+modo CeRVeDRiLo — que aquí nadie tiene frío.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -381,13 +381,13 @@ ei, ei, ei — ¡CeRVeDRiLo!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
-Se mece, se mece — ¡CeR-VeDRi-Lo!
-se mece, se mece — ¡CeR-VeDRi-Lo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡dale, dale!
 ¡Más volumen! ¡Más volumen!
-se mece, se mece — ¡CeR-VeDRi-Lo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending: ella]
@@ -422,6 +422,12 @@ SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Tr
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
 - **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("se mece, se mece", "CeR-CeR-CeRVeDRiLo", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
+
+#### El gancho: "modo CeRVeDRiLo"
+- **El título cantado en 4 sílabas que rebotan:** *CeR-Ve-DRi-Lo, CeR-Ve-DRi-Lo*. Melodía sugerida: sube-sube-baja-baja (como sol-la-mi-re), doblada por un silbido o un pífano para que se quede en la cabeza.
+- **Todo el coro rima en "-ilo"** (*CeRVeDRiLo / tranquilo / estilo*) y cierra con *río / frío*.
+- **La frase gancho: "modo CeRVeDRiLo"**: una frase para decir en la vida real (*"estoy en modo CeRVeDRiLo"*), como las frases-título de los grandes hits globales. Ideal para TikTok.
+- **Ironía:** una fría en la mano, *"que aquí nadie tiene frío"*.
 
 #### "Se mece" (el perreo del yate)
 **"Se mece, se mece, el yate se mece"**: el yate se balancea en el agua igual que la cadera al perrear. Doble sentido, repetición pegajosa estilo reguetón. Rima: *colada / acaba* y *mece / duerme*.

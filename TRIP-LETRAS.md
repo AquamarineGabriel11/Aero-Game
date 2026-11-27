@@ -176,12 +176,12 @@ dirty money volando, nadie va a contar,
 que espere el sol — hoy no lo dejamos entrar.
 
 [Chorus: los dos + corillo]
-¡Vai, vai, vai! (¡wepa!)
-dirty money, piña colada,
-¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — la noche no se acaba,
-se mece, se mece, el yate se mece (¡se mece!),
-una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo CeRVeDRiLo — no me saques del río (¡del río!),
+modo CeRVeDRiLo — que aquí nadie tiene frío.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -226,12 +226,12 @@ lu-lu-luces…
 ¡CeRVeDRiLo!
 
 [Final Chorus: los dos + corillo]
-¡Vai, vai, vai! (¡wepa!)
-dirty money, piña colada,
-¡vai, vai, vai! (¡wepa!)
-del Amazonas a San Juan — la noche no se acaba,
-se mece, se mece, el yate se mece (¡se mece!),
-una fría pa'l CeR-CeR-CeRVeDRiLo — y nadie se duerme.
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+CeR-VeDRi-Lo, CeR-VeDRi-Lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo CeRVeDRiLo — no me saques del río (¡del río!),
+modo CeRVeDRiLo — que aquí nadie tiene frío.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
@@ -241,13 +241,13 @@ ei, ei, ei — ¡CeRVeDRiLo!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
-Se mece, se mece — ¡CeR-VeDRi-Lo!
-se mece, se mece — ¡CeR-VeDRi-Lo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡dale, dale!
 ¡Más volumen! ¡Más volumen!
-se mece, se mece — ¡CeR-VeDRi-Lo!
+CeR-VeDRi-Lo, CeR-VeDRi-Lo — ¡modo CeRVeDRiLo!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending: ella]
