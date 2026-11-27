@@ -120,29 +120,20 @@ mata ne.
 PRoPiNa (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
-━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
-
-[Radio Intro]
-(static… a radio dial turning: bits of other stations… until it lands)
-(the corillo, close to the mic, laughing)
-"Pásame una cervezita bien friita y ready…"
-(a can cracking open — pssst)
-🎵 JINGLE (cheap 2000s synth, cuíca, the corillo shouting):
-"Una fría pa' mí y otra pa'l caimán…
+[Radio Intro: corillo y locutor]
+Pásame una cervezita bien friita y ready…
+Una fría pa' mí y otra pa'l caimán…
 ¡Fría y Caimán, de Río a San Juan!
 Cerveza en la cabeza, cocodrilo con estilo…
-¡CER-VE-DRI-LO… F-M!" (FM… FM… FM…)
-LOCUTOR (deep, fast, 2000s Latin radio energy):
-"¡Wepaaa! Buenas noches, Amazonas…
+¡CER-VE-DRI-LO… F-M!
+¡Wepaaa! Buenas noches, Amazonas…
 estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡PRo-Pi-Na!"
-(static cuts — a boat engine low, water against the hull, birds, ice in a cup, a güiro)
+lo más pedido de la noche… ¡PRo-Pi-Na!
 
 [Verse 1]
-(relaxed, half-sung)
 Un yate cruzando el pantano, el motor en bajito,
 el corillo en traje corto — casi nada, poquito,
 caipirinha en una mano, piña colada en la otra,
@@ -153,29 +144,17 @@ un tucán me puso four out of ten — ¿qué te pasa, loca?
 Y en la orilla, los cocodrilos… mirándonos la boca.
 
 [Hook 1]
-(soft, tipsy, the corillo singing along)
 Caipirinha con piña colada,
 mitad Brasil, mitad San Juan,
 the sun goes down and nobody's leavin',
 bora, bora — ¿y ahora pa' dónde van?
 
 [Transition]
-(the sun goes down: frogs, crickets, the river in the dark)
 Se apaga el cielo, se apaga el río,
 dos ojos dorados entre las hojas…
-(silence)
-Jaguar has en—
-(the voice gets cut and stuck — 7-second mid-2000s electro synth breakdown:
-a buzzing distorted synth bass, a filter sweeping up, the beat chopped and stuttering,
-strobe lights flickering on the yacht, a riser climbing…)
-——————————————————— (7 seg)
-…the chaaaaattt.
-(a growl — CLICK: neon lights flood the yacht — BOOM: brat club perreo drops)
-
-━━━━━━━━ PARTE 2 · EL YATE SE VUELVE ANTRO (perreo + funk carioca) ━━━━━━━━
+Jaguar has en——————————— the chaaaaattt.
 
 [Verse 2]
-(rapped, full energy)
 Se prende el neón — verde lima, verde menta,
 el aire acondicionado a full y nadie se sienta,
 la botella en hielo, el DJ en la proa,
@@ -195,7 +174,6 @@ an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
 que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
-(group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
@@ -212,7 +190,6 @@ four a.m. and nobody's checkin' the time,
 que delícia, Brasil — esto está brutal, mi pana.
 
 [Rap]
-(cocky, glitchy, half-whispered over the beat)
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
@@ -220,18 +197,16 @@ lo enseña cuando se ríe — PRoPiNa, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
-in-in-intoxicated… (glitch) …no me busques mañana.
+in-in-intoxicated… no me busques mañana.
 
 [Glitch Break]
-LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
-(the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
+¡CERVEDRILO FM! ¡No le bajes!
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
 PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
 al suelo, al suelo — perreo duro al suelo,
-lu-lu-luces… (stop)
-…¡PRoPiNa!
-(BOOM — everything back at full power)
+lu-lu-luces…
+¡PRoPiNa!
 
 [Final Chorus]
 ¡Vai, vai, vai! (¡wepa!)
@@ -248,25 +223,20 @@ ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final]
-(everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
-¿Están listos? — ¡más volumen!
-(BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
+¿Están listos? — ¡Más volumen!
 An-an-ancla, an-an-ancla — ¡PRoPiNa!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
-(corillo) ¡Más volumen! ¡Más volumen!
+¡Más volumen! ¡Más volumen!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
-(the beat starts skipping and breaking apart)
 In-in-in-intoxi— in-in— in—
-(tape stop — silence)
 
 [Outro]
-(sunrise — the beat cuts. Birds. The yacht drifting. A cuatro puertorriqueño alone.)
 Se prenden las luces del cielo…
 los cocodrilos dormidos en la orilla…
 Obrigada, Lima…
@@ -274,12 +244,11 @@ obrigada, Brasil…
 y Puerto Rico… gracias por venir.
 Tudo bem…
 see you next summer.
-(a lime squeezed one last time)
-LOCUTOR (tired, laughing, almost dawn):
-"Ya salió el sol, corillo… los cocodrilos se durmieron… el capitán también…
+
+[Outro: locutor]
+Ya salió el sol, corillo… los cocodrilos se durmieron… el capitán también…
 esto fue CERVEDRILO FM. Fría y Caimán, de Río a San Juan…
-no apaguen la radio."
-(static — click — silence)
+no apaguen la radio.
 ```
 
 ---
