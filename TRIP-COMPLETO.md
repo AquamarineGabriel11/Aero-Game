@@ -303,9 +303,16 @@ los chavos volando, billetes por el culo de las morras —
 make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
-Pull an all-nighter with Charli — este yate es mi party,
-embriagarme with that, que la noche no va a parar,
-caimanes en la proa del manglar… mirándome perrear.
+
+[Pre-Chorus]
+Pull an all-nighter with Charli (¡Charli!),
+el yate prendío', esto es un party (¡party!),
+embriagarme with that, with that — ¿y qué?
+si el río da vueltas y yo también,
+caimanes en la proa del manglar (¡manglar!),
+mirándome bajar, subir, perrear (¡perrear!),
+dirty money volando, nadie va a contar,
+que espere el sol — hoy no lo dejamos entrar.
 
 [Chorus]
 ¡Vai, vai, vai! (¡wepa!)
