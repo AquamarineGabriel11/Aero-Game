@@ -371,6 +371,19 @@ ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡pRoPiNa!
 
+[Drop Final]
+(everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
+¿Están listos? — ¡más volumen!
+(BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
+An-an-ancla, an-an-ancla — ¡pRoPiNa!
+an-an-ancla, an-an-ancla — ¡pRoPiNa!
+la cintura se me va, la cintura se me va,
+la cintura se me va… (¡wepa!)
+mais uma, mais uma, mais uma — ¡ancla!
+(corillo) ¡Más volumen! ¡Más volumen!
+an-an-ancla, an-an-ancla — ¡pRoPiNa!
+la cintura se me va… se me va… se me va…
+
 [Glitch Ending]
 (the beat starts skipping and breaking apart)
 In-in-in-intoxi— in-in— in—
@@ -403,6 +416,15 @@ En lugar de "baja hasta el suelo": **tírate como ancla**. El cuerpo baja perrea
 
 #### El rap (frases de Gabriel)
 *"Intoxicated"*, *"look, my thong"* y *"tattoo inside her lip"*: inglés atrevido, picado y glitcheado, en un rap medio susurrado con actitud. El tatuaje por dentro del labio es real (se ve solo cuando se baja el labio o cuando se ríe).
+
+#### El Drop Final (la parte que te obliga a subirle el volumen)
+Lo que hace que no puedas dejar de moverte:
+1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
+2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
+3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡pRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
+5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
+6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 
 #### La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
@@ -449,7 +471,7 @@ El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**
 - **Glitch Break:** el beat se congela y tartamudea (stutter edits, cortes de cinta, voces picadas), luces estroboscópicas, y regresa todo de golpe para el coro final.
 - **Outro:** se corta el beat; pájaros, olas y el **cuatro puertorriqueño** solo.
 
-Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain and frogs, then a cut-off stuttering vocal into a 7-second mid-2000s electro house synth breakdown with buzzing distorted saw bass, filter sweep, chopped stuttering beat and a riser, then a stretched vocal and a jaguar growl, then a hard beat switch into a brat-style club perreo: a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, chanty rapped Spanish vocals, glitchy stutter edits, chopped stuck vocals, beat freezes like a skipping CD, hard perreo, group chants, outro with birds, waves and a Puerto Rican cuatro`
+Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain and frogs, then a cut-off stuttering vocal into a 7-second mid-2000s electro house synth breakdown with buzzing distorted saw bass, filter sweep, chopped stuttering beat and a riser, then a stretched vocal and a jaguar growl, then a hard beat switch into a brat-style club perreo: a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, chanty rapped Spanish vocals, glitchy stutter edits, chopped stuck vocals, beat freezes like a skipping CD, hard perreo, group chants, final drop where everything cuts to kick and claps, snare roll and riser, then a double-time hypnotic distorted Brazilian funk drop with chest-hitting sub bass and a short chant loop repeated, outro with birds, waves and a Puerto Rican cuatro`
 
 #### Tendencias 2024 en la letra
 POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
