@@ -273,7 +273,7 @@ Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
 lo más pedido de la noche… ¡PRo-Pi-Na!
 
-[Verse 1]
+[Verse 1: él]
 Un yate cruzando el pantano, el motor en bajito,
 el corillo en traje corto — casi nada, poquito,
 dirty money en una mano, piña colada en la otra,
@@ -283,18 +283,18 @@ guacamayos azules, un capibara de guardia,
 un tucán me puso four out of ten — ¿qué te pasa, loca?
 Y en la orilla, los cocodrilos… mirándonos la boca.
 
-[Hook 1]
+[Hook 1: corillo]
 Dirty money con piña colada,
 mitad Brasil, mitad San Juan,
 the sun goes down and nobody's leavin',
 bora, bora — ¿y ahora pa' dónde van?
 
-[Transition]
+[Transition: él]
 Se apaga el cielo, se apaga el río,
 dos ojos dorados entre las hojas…
 Jaguar has en——————————— the chaaaaattt.
 
-[Verse 2]
+[Verse 2: él]
 Se prende el neón — verde lima, verde menta,
 el aire acondicionado a full y nadie se sienta,
 la botella en hielo, el DJ en la proa,
@@ -305,7 +305,7 @@ make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
-[Pre-Chorus]
+[Pre-Chorus: ella]
 Pull an all-nighter with Charli (¡XCX!),
 el yate prendío', esto es un party (¡party!),
 embriagarme with that, with that — ¿y qué?
@@ -315,7 +315,7 @@ mirándome bajar, subir, perrear (¡perrear!),
 dirty money volando, nadie va a contar,
 que espere el sol — hoy no lo dejamos entrar.
 
-[Chorus]
+[Chorus: los dos + corillo]
 ¡Vai, vai, vai! (¡wepa!)
 dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
@@ -323,20 +323,20 @@ del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
 que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
-[Post-Chorus]
+[Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡PRoPiNa!
 
-[La Cubeta]
+[La Cubeta: corillo]
 La cubeta se derrite con las frías (¡frías!),
 los hielos sudando igual que mi camisa (¡camisa!),
 uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 empapaos, gritando… y la noche todavía (¡todavía!).
 ¡Checa si hay más alcohol en la neverita! (¡neverita!)
 
-[Verse 3]
+[Verse 3: él]
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
 les tiramos dirty money y se ríen los cabrones,
@@ -346,7 +346,7 @@ funk de Río con perreo de la isla en la misma onda,
 four a.m. and nobody's checkin' the time,
 que delícia, Brasil — esto está brutal, mi pana.
 
-[Rap]
+[Rap: ella]
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
@@ -356,7 +356,7 @@ el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
 in-in-intoxicated… no me busques mañana.
 
-[Glitch Break]
+[Glitch Break: locutor + los dos]
 ¡CERVEDRILO FM! ¡No le bajes!
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
@@ -365,7 +365,7 @@ al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces…
 ¡PRoPiNa!
 
-[Final Chorus]
+[Final Chorus: los dos + corillo]
 ¡Vai, vai, vai! (¡wepa!)
 dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
@@ -373,13 +373,13 @@ del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
 que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
-[Post-Chorus]
+[Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡PRoPiNa!
 
-[Drop Final]
+[Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
 An-an-ancla, an-an-ancla — ¡PRoPiNa!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
@@ -390,10 +390,10 @@ mais uma, mais uma, mais uma — ¡ancla!
 an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va… se me va… se me va…
 
-[Glitch Ending]
+[Glitch Ending: ella]
 In-in-in-intoxi— in-in— in—
 
-[Outro]
+[Outro: ella]
 Se prenden las luces del cielo…
 los cocodrilos dormidos en la orilla…
 Obrigada, Lima…
