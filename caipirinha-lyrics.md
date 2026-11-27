@@ -40,8 +40,13 @@ bora, bora — ¿y ahora pa' dónde van?
 Se apaga el cielo, se apaga el río,
 dos ojos dorados entre las hojas…
 (silence)
-jaguar has entered the chat.
-(a growl — CLICK: neon lights flood the yacht — BOOM: the club beat drops)
+Jaguar has en—
+(the voice gets cut and stuck — 7-second mid-2000s electro synth breakdown:
+a buzzing distorted synth bass, a filter sweeping up, the beat chopped and stuttering,
+strobe lights flickering on the yacht, a riser climbing…)
+——————————————————— (7 seg)
+…the chaaaaattt.
+(a growl — CLICK: neon lights flood the yacht — BOOM: brat club perreo drops)
 
 ━━━━━━━━ PARTE 2 · EL YATE SE VUELVE ANTRO (perreo + funk carioca) ━━━━━━━━
 
@@ -170,12 +175,12 @@ El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**
 
 ## Producción (Brasil x Puerto Rico · dos beats)
 - **Parte 1 (~88 BPM):** guitarra de bossa, cuíca suave, güiro, pájaros y lluvia de fondo; voz relajada, medio cantada.
-- **Transición:** solo naturaleza (lluvia, ranas, grillos), berimbau, silencio total, rugido del jaguar.
+- **Transición (el cambio de traba):** naturaleza (lluvia, ranas, grillos), silencio… *"Jaguar has en—"* se corta y se traba, y entran **7 segundos de breakdown electro de mediados de los 2000**: bajo de sinte zumbado y distorsionado, filtro que sube, beat picado y tartamudeando, luces estroboscópicas, un riser que sube… *"…the chaaaaattt"* estirado, el rugido, y explota el **perreo de club brat**.
 - **Parte 2 (~100 BPM):** **funk carioca + dembow**, bajo pesado, sintes de neón; voz rapeada con energía; coro y post-coro para gritar en grupo.
 - **Glitch Break:** el beat se congela y tartamudea (stutter edits, cortes de cinta, voces picadas), luces estroboscópicas, y regresa todo de golpe para el coro final.
 - **Outro:** se corta el beat; pájaros, olas y el **cuatro puertorriqueño** solo.
 
-Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain, frogs, berimbau, silence and a jaguar growl, then a hard beat switch into a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, chanty rapped Spanish vocals, glitchy stutter edits, chopped stuck vocals, beat freezes like a skipping CD, hard perreo, group chants, outro with birds, waves and a Puerto Rican cuatro`
+Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain and frogs, then a cut-off stuttering vocal into a 7-second mid-2000s electro house synth breakdown with buzzing distorted saw bass, filter sweep, chopped stuttering beat and a riser, then a stretched vocal and a jaguar growl, then a hard beat switch into a brat-style club perreo: a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, chanty rapped Spanish vocals, glitchy stutter edits, chopped stuck vocals, beat freezes like a skipping CD, hard perreo, group chants, outro with birds, waves and a Puerto Rican cuatro`
 
 ## Tendencias 2024 en la letra
 POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
