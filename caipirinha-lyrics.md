@@ -1,7 +1,124 @@
-# CAIPIRINHA — letra (v3: coro nuevo, tendencia 2024)
+# CAiPiRiNHa — letra v4 (Brasil x Puerto Rico)
 
-**TRIP · Track 02 · 🇧🇷 · baile funk + guitarra de bossa · verano 2024 con amigos · sin romance**
+**TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance**
+Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía). Español boricua + portugués + un poquito de inglés de internet.
+**Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
+```text
+CAiPiRiNHa
+TRIP · Track 02 · BRaSiL x PuERTo RiCo
+
+[Intro]
+(a lime being crushed, ice hitting a cup, a güiro scraping, a cuíca squeak)
+Ey… ey…
+De Río pa' San Juan, ¿me escuchaste?
+BRaSiL x PuERTo RiCo, bebé.
+
+[Verse 1]
+Camiseta de Brasil, dos tallas de más,
+un cachete quemao' y no pienso parar,
+el Cristo con los brazos como guardándonos el lugar,
+Lima se tira un Neymar y el corillo a gritar — ¡golazo!
+Todo de leopardo, chocolate de Dubái,
+me vestí pa' impresionar y me pasé… ¿y qué? Bye.
+Very demure, very mindful… ¿pa' qué?
+Estoy en mi era del 2024, verde lima, ¿tú me ves?
+
+[Chorus]
+CAiPiRiNHa, CAiPiRiNHa (¡wepa!)
+limón, azúcar, hielo — y otra vez, mi amiga,
+CAiPiRiNHa con piña colada (¡vai, vai!)
+de Río a San Juan — aquí nadie dice que no.
+
+[Post-Chorus]
+Vai, vai, vai (¡dale!)
+vai, vai, vai (¡dale!)
+portugués y boricua mezclao' en un vaso,
+vai, vai, vai — este verano lo pago yo.
+
+[Verse 2]
+Avioneta pa' Manaos, seis en una canoa,
+un tucán me puso cuatro de diez — ¿qué te pasa, loca?
+Tres guacamayos gritando como un grupo de chat,
+un caimán ni me mira, ya lo ha visto to'a,
+tacacá con jambú, se nos duerme la boca,
+brain rot total, cantando el coro a lo loco.
+
+[Chorus]
+CAiPiRiNHa, CAiPiRiNHa (¡wepa!)
+limón, azúcar, hielo — y otra vez, mi amiga,
+CAiPiRiNHa con piña colada (¡vai, vai!)
+de Río a San Juan — aquí nadie dice que no.
+
+[Post-Chorus]
+Vai, vai, vai (¡dale!)
+vai, vai, vai (¡dale!)
+portugués y boricua mezclao' en un vaso,
+vai, vai, vai — este verano lo pago yo.
+
+[Bridge]
+(beat switch: plena drums meet a berimbau, rain on the leaves)
+Capoeira en el lodo, un berimbau en lo oscuro,
+este sitio lo guardamos — sin pin, sin post, sin mapa,
+seis hamacas y nadie duerme,
+dos ojos dorados entre las hojas…
+jaguar has entered the chat.
+(a low growl — the funk drum slams back in)
+
+[Final Chorus]
+CAiPiRiNHa, CAiPiRiNHa (¡wepa!)
+limón, azúcar, hielo — y otra vez, mi amiga,
+CAiPiRiNHa con piña colada (¡vai, vai!)
+de Río a San Juan — aquí nadie dice que no.
+
+[Post-Chorus]
+Vai, vai, vai (¡dale!)
+vai, vai, vai (¡dale!)
+portugués y boricua mezclao' en un vaso,
+vai, vai, vai — este verano lo pago yo.
+
+[Outro]
+(the beat fades: a cuatro puertorriqueño alone, waves, the corillo laughing far away)
+Obrigada, Lima…
+obrigada, Brasil…
+y Puerto Rico… gracias por venir.
+Que este verano no se acabe nunca…
+CAiPiRiNHa.
+```
+
+## Palabras de Puerto Rico y Brasil
+| Palabra | De dónde | Significa |
+|---|---|---|
+| corillo | 🇵🇷 | el grupo de amigos |
+| ¡wepa! | 🇵🇷 | grito de alegría |
+| quemao' / mezclao' / to'a | 🇵🇷 | quemado / mezclado / toda (así se habla en la isla) |
+| piña colada | 🇵🇷 | bebida nacional de Puerto Rico (nació en San Juan) |
+| vai | 🇧🇷 | ¡vamos! |
+| golazo / Neymar | 🇧🇷 | el fútbol de Brasil |
+| tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
+| capoeira / berimbau | 🇧🇷 | arte marcial con música / su instrumento de una cuerda |
+| cuatro puertorriqueño | 🇵🇷 | la guitarrita típica de Puerto Rico |
+| plena | 🇵🇷 | ritmo de tambores de mano de Puerto Rico |
+
+## La historia
+El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**: trae su forma de hablar, sus gritos y la piña colada. Por eso el vaso mezcla las dos islas: **caipirinha con piña colada**. Sin romance: Lima solo aparece como el que mete el gol.
+
+## Producción (Brasil x Puerto Rico)
+- **Base:** el tambor del **funk carioca** mezclado con el **dembow** del reguetón: perreo con sabor brasileño.
+- **Brasil:** cuíca, berimbau, guitarra de bossa en el intro.
+- **Puerto Rico:** güiro, panderos de **plena** y el **cuatro puertorriqueño** en el outro.
+- **Cambio de beat en el bridge** (muy de Bad Bunny): todo cambia a plena y berimbau con lluvia, y vuelve el funk de golpe con el rugido del jaguar.
+- Voz: versos medio rapeados y relajados; coro para gritar en grupo.
+
+Prompt de estilo: `Brazil x Puerto Rico summer anthem, Brazilian funk carioca drums fused with reggaeton dembow, perreo, cuíca, berimbau, güiro, plena hand drums, Puerto Rican cuatro outro, bossa guitar intro, beat switch bridge with rain and jaguar growl, laid-back rapped verses, big group-chant chorus, Spanish and Portuguese vocals, 2024 summer, 100 BPM`
+
+## Tendencias 2024 en la letra
+POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
+
+**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+
+
+## Historial: versión anterior (v3, en inglés)
 ```text
 CAIPIRINHA
 TRIP · Track 02
@@ -100,7 +217,7 @@ obrigada, Brasil…
 caipirinha.
 ```
 
-## Traducción al español (para entender)
+### Traducción al español (para entender)
 
 ```text
 [Intro]
@@ -161,12 +278,8 @@ gracias, Brasil…
 caipiriña.
 ```
 
-## El coro nuevo (v3)
+### El coro nuevo (v3)
 - **"Cai-pi, cai-pi, caipirinha"**: el título partido en sílabas que rebotan; se canta aunque no sepas inglés.
 - **"(ei!)"**: el grito de grupo después de cada "caipirinha".
 - **"cut it, crush it, ice it, shake it"**: la receta real de la caipirinha (cortar el limón, machacarlo con azúcar, hielo, agitar) convertida en **cuatro pasos de baile** para TikTok.
 
-## Tendencias 2024 en la letra
-POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
-
-**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
