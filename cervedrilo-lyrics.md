@@ -162,7 +162,7 @@ no apaguen la radio.
 
 
 ## El título: CeRVeDRiLo
-*Cerve*za + coco*drilo*: una palabra inventada que solo existe en esta canción (fácil de encontrar). La palabra **propina** se queda en el coro (*"que llueva la PRoPiNa"*) y conecta con TEA.
+*Cerve*za + coco*drilo*: una palabra inventada que solo existe en esta canción (fácil de encontrar). El control de los ganchos lo tiene **CeRVeDRiLo**; la palabra **propina** solo queda en el Verse 2 (*"que llueva la propina"*) y conecta con TEA.
 
 (Nota del título anterior, PRoPiNa:) Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribía **PRoPiNa**. Sin tildes ni "ñ".
 
