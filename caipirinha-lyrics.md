@@ -48,6 +48,8 @@ jaguar has entered the chat.
 Se prende el neón — verde lima, verde menta,
 el aire acondicionado a full y nadie se sienta,
 la botella en hielo, el DJ en la proa,
+solo maneja este yate en automático,
+el capitán perreando como un lunático,
 billetes por el culo de las morras — que llueva, que llueva la propina,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
