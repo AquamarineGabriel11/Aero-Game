@@ -79,7 +79,6 @@ parts.append("""
 
 ## Pendientes
 - [ ] **Caipirinha:** un coro más pegajoso (es la calificación más baja: 7.8).
-- [ ] **Nobody's Catching Me:** elegir las líneas de groserías, tabaco y droga (6–10).
 - [ ] **Chef's Kiss:** simplificar el bridge (demasiados lugares juntos).
 - [ ] **TEA:** decidir si se queda el gesto de los lentes oscuros en el outro.
 - [ ] **Nombre de fans** (propuesta: "Passengers") y aprobar el pase de abordar como identidad de la era.

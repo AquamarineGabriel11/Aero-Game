@@ -110,13 +110,14 @@ M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny). Hyperpop agrio mezcla
 ## Título
 **Nobody's Catching Me**: título corto en forma de frase. La rana y el retrovisor viven en la letra ("frog in the rearview swinging — nobody's catching me"). La rana es el amuleto chino de la suerte (tres patas, moneda de oro).
 
-## Propuestas pendientes (Gabriel elige)
-Groserías, tabaco y droga para hacerla más salvaje:
-6. Pre-Chorus: `Lighter? Stole it. / Pills? Swallowed 'em.`
-7. Verse 1: `"Who's driving?" — "Him." — "That's fucking insane." — "Get in."`
-8. Verse 1: `Hotbox the Porsche till the lanterns go blurry, / menthol on my lip, and nobody's in a hurry.`
-9. Verse 2: `Ash on the leather — who gives a shit, it's not our car, / pupils like the headlights, fuck it, I'm wide awake.`
-10. Post-Chorus: `Windows down. (cough.)`
+## Letra final (decisión de Gabriel)
+La letra **se queda así**, sin agregar las líneas de tabaco, droga y groserías que se propusieron.
+
+## Cómo llegar a 4:09 sin cambiar la letra (producción)
+- **Intro más largo (~0:20):** el encendedor, la alarma del carro que se apaga, el motor acelerando, el croar de la rana como sinte.
+- **Break instrumental después del segundo coro (~0:30):** solo el beat agrio con el croar picado y el tic-tac de la direccional.
+- **Post-coro final repetido** con el corillo gritando "Windows down. (ribbit.)".
+- **Outro largo (~0:30):** el Nissan arrancando, la carretera, el beat que se aleja como carro perdiéndose en la noche, y el motor apagándose (que lleva a Syzygy).
 
 ## Historial de versiones (si algo choca con lo de arriba, manda lo de arriba)
 ### Concepto v5
