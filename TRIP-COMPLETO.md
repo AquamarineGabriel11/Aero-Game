@@ -248,7 +248,7 @@ mata ne (nos vemos).
 
 Carpeta de imágenes: `moodboards/caipirinha/`
 
-### CAIPIRINHA — letra (v2, tendencia 2024)
+### CAIPIRINHA — letra (v3: coro nuevo, tendencia 2024)
 
 **TRIP · Track 02 · 🇧🇷 · baile funk + guitarra de bossa · verano 2024 con amigos · sin romance**
 
@@ -273,15 +273,19 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Caipirinha, spots on my skin,
-lime-green summer, let the night begin,
-caipirinha, claws out, here we go,
+Cai-pi, cai-pi, caipirinha (ei!)
+spots on my skin, I'm wild for the summer,
+cai-pi, cai-pi, caipirinha (ei!)
+claws out — louder, louder,
+cut it, crush it, ice it, shake it,
+lime-green summer, nobody can fake it,
+cai-pi, cai-pi, caipirinha (ei!)
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Lime, sugar, ice — and repeat,
+one more round — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Verse 2]
@@ -299,15 +303,19 @@ dressed to impress — and it's way too much…
 good. That's the point. Here we go —
 
 [Chorus]
-Caipirinha, spots on my skin,
-lime-green summer, let the night begin,
-caipirinha, claws out, here we go,
+Cai-pi, cai-pi, caipirinha (ei!)
+spots on my skin, I'm wild for the summer,
+cai-pi, cai-pi, caipirinha (ei!)
+claws out — louder, louder,
+cut it, crush it, ice it, shake it,
+lime-green summer, nobody can fake it,
+cai-pi, cai-pi, caipirinha (ei!)
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Lime, sugar, ice — and repeat,
+one more round — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Bridge]
@@ -320,15 +328,19 @@ jaguar has entered the chat.
 (a low growl — the drum slams back in)
 
 [Final Chorus]
-Caipirinha, spots on my skin,
-lime-green summer, let the night begin,
-caipirinha, claws out, here we go,
+Cai-pi, cai-pi, caipirinha (ei!)
+spots on my skin, I'm wild for the summer,
+cai-pi, cai-pi, caipirinha (ei!)
+claws out — louder, louder,
+cut it, crush it, ice it, shake it,
+lime-green summer, nobody can fake it,
+cai-pi, cai-pi, caipirinha (ei!)
 Rio to Manaus — nobody says no.
 
 [Post-Chorus]
 Vai, vai, vai! (caipirinha!)
 Vai, vai, vai! (caipirinha!)
-Lime, sugar, ice — and repeat,
+one more round — and repeat,
 vai, vai, vai! — this summer's on me.
 
 [Outro]
@@ -357,15 +369,19 @@ me arreglé para impresionar… y es demasiado.
 Bien. Esa es la idea. Ahí vamos…
 
 [Coro]
-Caipiriña, manchas en mi piel,
-verano verde lima, que empiece la noche,
-caipiriña, garras fuera, ahí vamos,
+Cai-pi, cai-pi, caipiriña (¡ey!)
+manchas en mi piel, salvaje por el verano,
+cai-pi, cai-pi, caipiriña (¡ey!)
+garras fuera, más fuerte, más fuerte,
+córtalo, machácalo, ponle hielo, agítalo,
+verano verde lima, nadie lo puede fingir,
+cai-pi, cai-pi, caipiriña (¡ey!)
 de Río a Manaos, nadie dice que no.
 
 [Post-Coro]
 ¡Vamos, vamos, vamos! (¡caipiriña!)
 ¡Vamos, vamos, vamos! (¡caipiriña!)
-Limón, azúcar, hielo… y otra vez,
+otra ronda… y otra vez,
 ¡vamos, vamos, vamos! Este verano lo pago yo.
 
 [Verso 2]
@@ -394,6 +410,11 @@ Gracias, Lima…
 gracias, Brasil…
 caipiriña.
 ```
+
+#### El coro nuevo (v3)
+- **"Cai-pi, cai-pi, caipirinha"**: el título partido en sílabas que rebotan; se canta aunque no sepas inglés.
+- **"(ei!)"**: el grito de grupo después de cada "caipirinha".
+- **"cut it, crush it, ice it, shake it"**: la receta real de la caipirinha (cortar el limón, machacarlo con azúcar, hielo, agitar) convertida en **cuatro pasos de baile** para TikTok.
 
 #### Tendencias 2024 en la letra
 POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
