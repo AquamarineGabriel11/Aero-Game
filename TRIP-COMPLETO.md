@@ -312,8 +312,8 @@ very demure, very mindful… ¿pa' qué? Bye.
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-suelta, suelta, suelta (¡hasta abajo!)
-que llueva la pRoPiNa — this summer's on me.
+su-su-suelta, su-su-suelta (¡ha-ha-hasta abajo!)
+que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
 (group chant)
@@ -331,13 +331,23 @@ funk de Río con perreo de la isla en la misma onda,
 four a.m. and nobody's checkin' the time,
 que delícia, Brasil — esto está brutal, mi pana.
 
-[Chorus]
+[Glitch Break]
+(the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
+Lu-lu-luces, lu-lu-luces,
+los nenes bajo ti, bajo ti, bajo ti,
+pRo- pRo- pi- pi- na, pRo- pRo- pi- pi- na,
+al suelo, al suelo — perreo duro al suelo,
+lu-lu-luces… (stop)
+…¡pRoPiNa!
+(BOOM — everything back at full power)
+
+[Final Chorus]
 ¡Vai, vai, vai! (¡wepa!)
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-suelta, suelta, suelta (¡hasta abajo!)
-que llueva la pRoPiNa — this summer's on me.
+su-su-suelta, su-su-suelta (¡ha-ha-hasta abajo!)
+que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
@@ -359,6 +369,13 @@ see you next summer.
 
 #### El título: pRoPiNa
 Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **pRoPiNa** (alternada de principio a fin). Sin tildes ni "ñ".
+
+#### Referencias del club (Parte 2)
+SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final · Power Trip (JENNIE), la parte del rap · Club classics (Charli XCX). Solo inspiración: no se copia letra, melodía ni sample.
+- **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
+- **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("su-su-suelta", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **El final** con un cambio fuerte, como el cierre de Tarde.
 
 #### La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
@@ -402,9 +419,10 @@ El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**
 - **Parte 1 (~88 BPM):** guitarra de bossa, cuíca suave, güiro, pájaros y lluvia de fondo; voz relajada, medio cantada.
 - **Transición:** solo naturaleza (lluvia, ranas, grillos), berimbau, silencio total, rugido del jaguar.
 - **Parte 2 (~100 BPM):** **funk carioca + dembow**, bajo pesado, sintes de neón; voz rapeada con energía; coro y post-coro para gritar en grupo.
+- **Glitch Break:** el beat se congela y tartamudea (stutter edits, cortes de cinta, voces picadas), luces estroboscópicas, y regresa todo de golpe para el coro final.
 - **Outro:** se corta el beat; pájaros, olas y el **cuatro puertorriqueño** solo.
 
-Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain, frogs, berimbau, silence and a jaguar growl, then a hard beat switch into a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, rapped Spanish vocals, group chants, outro with birds, waves and a Puerto Rican cuatro`
+Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain, frogs, berimbau, silence and a jaguar growl, then a hard beat switch into a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, chanty rapped Spanish vocals, glitchy stutter edits, chopped stuck vocals, beat freezes like a skipping CD, hard perreo, group chants, outro with birds, waves and a Puerto Rican cuatro`
 
 #### Tendencias 2024 en la letra
 POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
