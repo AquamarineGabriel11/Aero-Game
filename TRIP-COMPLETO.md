@@ -8,7 +8,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 ## Índice
 1. [Tracklist](#tracklist)
 2. [01 · Seen](#01--seen)
-3. [02 · pRoPiNa](#02--propina)
+3. [02 · PRoPiNa](#02--propina)
 4. [03 · TEA](#03--tea)
 5. [04 · Chef's Kiss](#04--chef-s-kiss)
 6. [05 · Nobody's Catching Me](#05--nobody-s-catching-me)
@@ -25,7 +25,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 | # | Canción | País | Ruta | Tema | Vibe | Duración | Calificación |
 |---|---|---|---|---|---|---|---|
 | 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | Fogcore | 2:54 | 8.5 |
-| 02 | **pRoPiNa** | 🇧🇷🇵🇷 | GIG · MAO · SJU | fiesta en un yate por el Amazonas que se vuelve antro (Explicit) | Brat summer tropical | 6:23 | 9.3 |
+| 02 | **PRoPiNa** | 🇧🇷🇵🇷 | GIG · MAO · SJU | fiesta en un yate por el Amazonas que se vuelve antro (Explicit) | Brat summer tropical | 6:23 | 9.3 |
 | 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 2:28 | 8.9 |
 | 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | Cottagecore | 2:12 | 8.6 |
 | 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | Grunge Y2K nocturno | 4:09 | 8.0 |
@@ -242,13 +242,13 @@ mata ne (nos vemos).
 
 ---
 
-## 02 · pRoPiNa
+## 02 · PRoPiNa
 
-![Moodboard de pRoPiNa](moodboards/caipirinha/00-moodboard-completo.jpg)
+![Moodboard de PRoPiNa](moodboards/caipirinha/00-moodboard-completo.jpg)
 
 Carpeta de imágenes: `moodboards/caipirinha/`
 
-### pRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
+### PRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
@@ -256,7 +256,7 @@ Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodí
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
-pRoPiNa (Explicit)
+PRoPiNa (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -277,7 +277,7 @@ estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡pRo-Pi-Na!"
+lo más pedido de la noche… ¡PRo-Pi-Na!"
 (static cuts — silence)
 
 [Intro]
@@ -327,7 +327,7 @@ la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
 los chavos volando, billetes por el culo de las morras —
-make it rain, make it rain, que llueva la pRoPiNa,
+make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -337,14 +337,14 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
@@ -361,7 +361,7 @@ que delícia, Brasil — esto está brutal, mi pana.
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
-lo enseña cuando se ríe — pRoPiNa, drip, drip,
+lo enseña cuando se ríe — PRoPiNa, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
@@ -372,10 +372,10 @@ LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
-pRo- pRo- pi- pi- na, pRo- pRo- pi- pi- na,
+PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
 al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces… (stop)
-…¡pRoPiNa!
+…¡PRoPiNa!
 (BOOM — everything back at full power)
 
 [Final Chorus]
@@ -384,25 +384,25 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final]
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
-An-an-ancla, an-an-ancla — ¡pRoPiNa!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+An-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 (corillo) ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
@@ -427,14 +427,14 @@ no apaguen la radio."
 (static — click — silence)
 ```
 
-#### El título: pRoPiNa
-Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **pRoPiNa** (alternada de principio a fin). Sin tildes ni "ñ".
+#### El título: PRoPiNa
+Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **PRoPiNa** (como lo escribió Gabriel). Sin tildes ni "ñ".
 
 #### Referencias del club (Parte 2)
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-PRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 #### "Ancla" (el perreo del yate)
@@ -448,7 +448,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡pRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 
@@ -2162,7 +2162,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | Canción | Referencias | Lo que tomamos |
 |---|---|---|
 | **Seen** | High Fashion (Addison Rae) · Freak (Ariana Grande) · Miss (Erika de Casier) | R&B minimalista y sensual: voz cerquita y respirada, bajo suave, pocos elementos, ambiente de cuarto de noche. |
-| **pRoPiNa** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
+| **PRoPiNa** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
 | **TEA** | Immaterial (SOPHIE) · Battitude (TWICE) · Kiss (Tyla) · Von dutch (A. G. Cook, Charli XCX, Addison Rae) · Club classics (Charli XCX) | Hyperpop de club: sintes plásticos y burbujeantes, bajo pesado, actitud "brat", gancho de coro de grupo, toques sensuales. |
 | **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | **Banda sonora de comedia romántica de los 90**: guitarras acústicas brillantes, cuerdas, piano eléctrico, toques franceses; swing vintage en los créditos. |
 | **Nobody's Catching Me** | M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny) | Hyperpop agrio + **perreo**: ritmo de dembow con bajo pesado, actitud de girl group, voces frías y seguras, cantos en grupo. Nueva York también es latina. |
@@ -2187,7 +2187,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | # | Canción | Ruta | Color |
 |---|---|---|---|
 | 01 | Seen | HND · LHR | gris azulado |
-| 02 | pRoPiNa | GIG · MAO · SJU | verde lima y verde neón |
+| 02 | PRoPiNa | GIG · MAO · SJU | verde lima y verde neón |
 | 03 | TEA | BER | negro y blanco (ajedrez) |
 | 04 | Chef's Kiss | CDG · ZRH | caramelo y crema |
 | 05 | Nobody's Catching Me | JFK | rojo farol y naranja rana |
@@ -2217,7 +2217,7 @@ Las fechas dependen de grabar las voces. La distribuidora necesita la música en
   - TEA: un sorbo a la cámara en cada "sip" y el deletreo "T-E-A" con los dedos.
   - Chef's Kiss: el beso de chef con los dedos en cada "mwah".
   - Nobody's Catching Me: ventanas abajo en el carro en "Windows down. (ribbit.)".
-  - pRoPiNa: el corillo tirando billetes (de juguete) en "que llueva la pRoPiNa".
+  - PRoPiNa: el corillo tirando billetes (de juguete) en "que llueva la PRoPiNa".
 - **Fans:** nombre propuesto **"Passengers"** (pasajeros).
 
 #### 5. Merch
@@ -2263,7 +2263,7 @@ Ruta: `HND·LHR → GIG·MAO → BER → CDG·ZRH → JFK → CHC → FTE → AR
 | # | Canción | Lugares | Emoción | Archivo |
 |---|---|---|---|---|
 | 01 | Seen | 🇯🇵 Japón · 🇬🇧 Londres | Tristeza, desvelo | `seen-demo/seen-lyrics.md` |
-| 02 | pRoPiNa | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
+| 02 | PRoPiNa | 🇧🇷 Amazonas · 🇵🇷 Puerto Rico | Fiesta en un yate que se vuelve antro | `caipirinha-lyrics.md` |
 | 03 | TEA | 🇩🇪 Alemania | Seducción | `tea-lyrics.md` |
 | 04 | Chef's Kiss | 🇫🇷🇨🇭🇳🇴🇮🇹 | Amor, el pan | `chefs-kiss-lyrics.md` |
 | 05 | Nobody's Catching Me | 🇨🇳🇺🇸 Chinatown, NY | Adrenalina con amigos | `nobodys-catching-me-lyrics.md` |
@@ -2405,7 +2405,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | Canción | Referencias | Lo que tomamos |
 |---|---|---|
 | **Seen** | High Fashion (Addison Rae) · Freak (Ariana Grande) · Miss (Erika de Casier) | R&B minimalista y sensual: voz cerquita y respirada, bajo suave, pocos elementos, ambiente de cuarto de noche. |
-| **pRoPiNa** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
+| **PRoPiNa** | EoO (Bad Bunny) + estilo de sus últimos álbumes · New York (Addison Rae) · Stateside (PinkPantheress + Zara Larsson) | Cambio de beat a mitad de canción: bossa lenta en el yate → perreo con funk carioca en el antro. |
 | **TEA** | Immaterial (SOPHIE) · Battitude (TWICE) · Kiss (Tyla) · Von dutch (A. G. Cook, Charli XCX, Addison Rae) · Club classics (Charli XCX) | Hyperpop de club: sintes plásticos y burbujeantes, bajo pesado, actitud "brat", gancho de coro de grupo, toques sensuales. |
 | **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | **Banda sonora de comedia romántica de los 90**: guitarras acústicas brillantes, cuerdas, piano eléctrico, toques franceses; swing vintage en los créditos. |
 | **Nobody's Catching Me** | M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny) | Hyperpop agrio + **perreo**: ritmo de dembow con bajo pesado, actitud de girl group, voces frías y seguras, cantos en grupo. Nueva York también es latina. |
@@ -2413,12 +2413,12 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 
 #### Cómo nació TRIP (orden en que se crearon los títulos)
 - **Primera canción creada:** **Seen** (track 01).
-- **Último título creado:** **pRoPiNa** (track 02).
+- **Último título creado:** **PRoPiNa** (track 02).
 - El álbum empezó y terminó de crearse en sus dos primeras canciones: quedaron una junto a la otra.
-- Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → pRoPiNa · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.
+- Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → PRoPiNa · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.
 
 #### Tracklist oficial (aprobado por Gabriel)
-01 Seen · 02 pRoPiNa · 03 TEA · 04 Chef's Kiss · 05 Nobody's Catching Me · 06 Syzygy · 07 Deshielo (Interlude) · 08 Mångata · Bonus: Seen (Extended Scene)
+01 Seen · 02 PRoPiNa · 03 TEA · 04 Chef's Kiss · 05 Nobody's Catching Me · 06 Syzygy · 07 Deshielo (Interlude) · 08 Mångata · Bonus: Seen (Extended Scene)
 - Energía: lenta → explota → sensual → cálida → **sube otra vez** (Nobody's Catching Me) → se abre el cielo → respiro → cierre.
 - Conexiones de historia: TEA → Chef's Kiss · Seen → Deshielo → Mångata. Las demás son mundos sueltos.
 
@@ -2426,7 +2426,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | # | Canción | Duración |
 |---|---|---|
 | 01 | Seen | 2:54 |
-| 02 | pRoPiNa | 6:23 (versión larga estilo DJ) |
+| 02 | PRoPiNa | 6:23 (versión larga estilo DJ) |
 | 03 | TEA | 2:28 |
 | 04 | Chef's Kiss | 2:12 |
 | 05 | Nobody's Catching Me | 4:09 |
@@ -2440,7 +2440,7 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 TRIP · GABRIEL
 
 01  Seen                             🇯🇵🇬🇧        🩶  tristeza, desvelo        (sencillo)
-02  pRoPiNa (Explicit)              🇧🇷🇵🇷        💚🐆 yate por el Amazonas que se vuelve antro
+02  PRoPiNa (Explicit)              🇧🇷🇵🇷        💚🐆 yate por el Amazonas que se vuelve antro
 03  TEA                              🇩🇪          🍵  un amor nuevo, lento
 04  Chef's Kiss                      🇫🇷🇨🇭🇳🇴🇮🇹   🤎  amor francés, el pan      (sencillo)
 05  Nobody's Catching Me (Explicit) 🇨🇳🇺🇸        💚  adrenalina con amigos

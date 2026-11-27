@@ -1,4 +1,4 @@
-# pRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
+# PRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
@@ -6,7 +6,7 @@ Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodí
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
-pRoPiNa (Explicit)
+PRoPiNa (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -27,7 +27,7 @@ estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡pRo-Pi-Na!"
+lo más pedido de la noche… ¡PRo-Pi-Na!"
 (static cuts — silence)
 
 [Intro]
@@ -77,7 +77,7 @@ la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
 los chavos volando, billetes por el culo de las morras —
-make it rain, make it rain, que llueva la pRoPiNa,
+make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -87,14 +87,14 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
@@ -111,7 +111,7 @@ que delícia, Brasil — esto está brutal, mi pana.
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
-lo enseña cuando se ríe — pRoPiNa, drip, drip,
+lo enseña cuando se ríe — PRoPiNa, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
@@ -122,10 +122,10 @@ LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
-pRo- pRo- pi- pi- na, pRo- pRo- pi- pi- na,
+PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
 al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces… (stop)
-…¡pRoPiNa!
+…¡PRoPiNa!
 (BOOM — everything back at full power)
 
 [Final Chorus]
@@ -134,25 +134,25 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final]
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
-An-an-ancla, an-an-ancla — ¡pRoPiNa!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+An-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 (corillo) ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
@@ -177,14 +177,14 @@ no apaguen la radio."
 (static — click — silence)
 ```
 
-## El título: pRoPiNa
-Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **pRoPiNa** (alternada de principio a fin). Sin tildes ni "ñ".
+## El título: PRoPiNa
+Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **PRoPiNa** (como lo escribió Gabriel). Sin tildes ni "ñ".
 
 ## Referencias del club (Parte 2)
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-PRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 ## "Ancla" (el perreo del yate)
@@ -198,7 +198,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡pRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 

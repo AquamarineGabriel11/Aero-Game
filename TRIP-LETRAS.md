@@ -114,10 +114,10 @@ mata ne.
 
 ---
 
-## 02 · pRoPiNa  (6:23)
+## 02 · PRoPiNa  (6:23)
 
 ```text
-pRoPiNa (Explicit)
+PRoPiNa (Explicit)
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
 
 ━━━━━━━━ PARTE 1 · EL YATE POR EL AMAZONAS (beat lento) ━━━━━━━━
@@ -138,7 +138,7 @@ estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡pRo-Pi-Na!"
+lo más pedido de la noche… ¡PRo-Pi-Na!"
 (static cuts — silence)
 
 [Intro]
@@ -188,7 +188,7 @@ la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
 los chavos volando, billetes por el culo de las morras —
-make it rain, make it rain, que llueva la pRoPiNa,
+make it rain, make it rain, que llueva la PRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -198,14 +198,14 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
@@ -222,7 +222,7 @@ que delícia, Brasil — esto está brutal, mi pana.
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
-lo enseña cuando se ríe — pRoPiNa, drip, drip,
+lo enseña cuando se ríe — PRoPiNa, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
@@ -233,10 +233,10 @@ LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
-pRo- pRo- pi- pi- na, pRo- pRo- pi- pi- na,
+PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
 al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces… (stop)
-…¡pRoPiNa!
+…¡PRoPiNa!
 (BOOM — everything back at full power)
 
 [Final Chorus]
@@ -245,25 +245,25 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la pRo-pRo-pRoPiNa — this summer's on me.
+que llueva la PRo-PRo-PRoPiNa — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡pRoPiNa!
+ei, ei, ei — ¡PRoPiNa!
 
 [Drop Final]
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
-An-an-ancla, an-an-ancla — ¡pRoPiNa!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+An-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
 (corillo) ¡Más volumen! ¡Más volumen!
-an-an-ancla, an-an-ancla — ¡pRoPiNa!
+an-an-ancla, an-an-ancla — ¡PRoPiNa!
 la cintura se me va… se me va… se me va…
 
 [Glitch Ending]
