@@ -26,7 +26,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 |---|---|---|---|---|---|---|---|
 | 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | Fogcore | 2:54 | 8.5 |
 | 02 | **pRoPiNa** | 🇧🇷🇵🇷 | GIG · MAO · SJU | fiesta en un yate por el Amazonas que se vuelve antro (Explicit) | Brat summer tropical | 6:23 | 9.3 |
-| 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 3:16 | 8.9 |
+| 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 2:28 | 8.9 |
 | 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | Cottagecore | 2:12 | 8.6 |
 | 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | Grunge Y2K nocturno | 4:09 | 8.0 |
 | 06 | **Syzygy** | 🇳🇿 | CHC | los astros se alinean, desconectarte | Spacecore | 1:57 | 8.9 |
@@ -36,7 +36,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 
 ![Las vibes de TRIP](moodboards/vibes.jpg)
 
-**Duración total: 26:22** · **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
+**Duración total: 25:34** · **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
 
 
 ---
@@ -2395,13 +2395,13 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 |---|---|---|
 | 01 | Seen | 2:54 |
 | 02 | pRoPiNa | 6:23 (versión larga estilo DJ) |
-| 03 | TEA | 3:16 |
+| 03 | TEA | 2:28 |
 | 04 | Chef's Kiss | 2:12 |
 | 05 | Nobody's Catching Me | 4:09 |
 | 06 | Syzygy | 1:57 |
 | 07 | Deshielo (Interlude) | 0:41 |
 | 08 | Mångata | 4:50 |
-| | **Total** | **26:22** |
+| | **Total** | **25:34** |
 ### TRIP — todas las letras · GABRIEL
 
 ```

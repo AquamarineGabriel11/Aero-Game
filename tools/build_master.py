@@ -26,7 +26,7 @@ TRACKS = [
     ("08", "Mångata", "mangata-notes.md", "mangata", "🇸🇪🇵🇹", "ARN · LIS", "hora azul, la luna: cerrar ciclos", "9.0"),
 ]
 
-DUR = {"01":"2:54","02":"6:23","03":"3:16","04":"2:12","05":"4:09","06":"1:57","07":"0:41","08":"4:50"}
+DUR = {"01":"2:54","02":"6:23","03":"2:28","04":"2:12","05":"4:09","06":"1:57","07":"0:41","08":"4:50"}
 VIBES = {"01":"Fogcore","02":"Brat summer tropical","03":"Dark coquette","04":"Cottagecore","05":"Grunge Y2K nocturno","06":"Spacecore","07":"Frutiger Aero / Watercore","08":"Blue hour core"}
 
 parts = ["""# TRIP — GABRIEL · todo el álbum
@@ -53,7 +53,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 
 ![Las vibes de TRIP](moodboards/vibes.jpg)
 
-**Duración total: 26:22** · **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
+**Duración total: 25:34** · **Álbum completo: 8.6** (calificación honesta de letra y concepto, todavía sin audio).
 """]
 
 for n, title, path, mood, *_ in TRACKS:

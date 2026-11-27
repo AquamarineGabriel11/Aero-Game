@@ -171,10 +171,10 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 |---|---|---|
 | 01 | Seen | 2:54 |
 | 02 | pRoPiNa | 6:23 (versión larga estilo DJ) |
-| 03 | TEA | 3:16 |
+| 03 | TEA | 2:28 |
 | 04 | Chef's Kiss | 2:12 |
 | 05 | Nobody's Catching Me | 4:09 |
 | 06 | Syzygy | 1:57 |
 | 07 | Deshielo (Interlude) | 0:41 |
 | 08 | Mångata | 4:50 |
-| | **Total** | **26:22** |
+| | **Total** | **25:34** |
