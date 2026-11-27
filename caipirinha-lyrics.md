@@ -62,7 +62,7 @@ very demure, very mindful… ¿pa' qué? Bye.
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-de-de-desce, de-de-desce (¡ha-ha-hasta abajo!)
+an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
 que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
@@ -96,7 +96,7 @@ lu-lu-luces… (stop)
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-de-de-desce, de-de-desce (¡ha-ha-hasta abajo!)
+an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
 que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
@@ -124,8 +124,11 @@ Los billetes que llueven en el antro del yate, y la actitud de ella: *"este vera
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final · Power Trip (JENNIE), la parte del rap · Club classics (Charli XCX). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("de-de-desce", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
+
+## "Ancla" (el perreo del yate)
+En lugar de "baja hasta el suelo": **tírate como ancla**. El cuerpo baja perreando como el ancla del yate que cae hasta el fondo del río. Paso de baile: bajar de golpe al suelo cuando suena "¡hasta el fondo del río!".
 
 ## La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
@@ -155,7 +158,6 @@ Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa,
 | olha só | 🇧🇷 | ¡mira nada más! |
 | bora | 🇧🇷 | ¡vámonos! |
 | mais uma | 🇧🇷 | ¡otra más! |
-| desce | 🇧🇷 | ¡baja! (en el funk: bajar hasta el suelo bailando) |
 | que delícia | 🇧🇷 | ¡qué rico! |
 | tudo bem | 🇧🇷 | todo bien |
 | tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
