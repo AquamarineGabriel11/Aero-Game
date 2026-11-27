@@ -340,3 +340,139 @@ Tudo bem… see you next summer.
 Esto fue Cervedrilo FM… no apaguen la radio.
 [End]
 ```
+
+---
+
+## Versión limpia para Suno (sin nombres de artistas ni palabras que bloquea)
+
+```
+[Intro: Radio Host]
+Pásame una cervezita bien friita y ready…
+
+[Jingle]
+Una fría pa' mí y otra pa'l caimán…
+¡Fría y Caimán, de Río a San Juan!
+Cerveza en la cabeza, cocodrilo con estilo…
+¡Cer-ve-dri-lo… F-M!
+
+[Radio Host]
+¡Wepaaa! Buenas noches, Amazonas…
+estás sintonizando Cervedrilo FM,
+la única emisora que transmite desde un yate… ¡sin capitán!
+Lo más pedido de la noche… ¡cer-ve-dri-lo!
+
+[Verse 1: slow tropical]
+Un yate cruzando el pantano, el motor en bajito,
+el corillo en traje corto, casi nada, poquito,
+dirty money en una mano, piña colada en la otra,
+el hielo se derrite y, acho, aquí nadie se preocupa.
+Pink dolphins jumpin' right next to the boat,
+guacamayos azules, un capibara de guardia,
+un tucán me puso four out of ten, ¿qué te pasa, loca?
+Y en la orilla, los cocodrilos… mirándonos la boca.
+
+[Hook]
+Dirty money con piña colada,
+mitad Brasil, mitad San Juan,
+the sun goes down and nobody's leavin',
+bora, bora, ¿y ahora pa' dónde van?
+
+[Bridge: whispered]
+Se apaga el cielo, se apaga el río,
+dos ojos dorados entre las hojas…
+Jaguar has en—
+
+[Electro Breakdown]
+…the chaaaaattt.
+
+[Beat Switch: club funk]
+
+[Verse 2: rap]
+Se prende el neón, verde lima, verde menta,
+el aire acondicionado a full y nadie se sienta,
+la botella en hielo, el DJ en la proa,
+solo maneja este yate en automático,
+el capitán perreando como un lunático,
+los chavos volando, billetes volando pa' las morras,
+make it rain, make it rain, que llueva la propina,
+leopardo de pies a cabeza, chocolate de Dubái,
+very demure, very mindful… ¿pa' qué? Bye.
+
+[Pre-Chorus]
+Pull an all-nighter, toda la noche (¡party!),
+el yate prendío', esto es un party (¡party!),
+quiero bailar with that, with that, ¿y qué?
+si el río da vueltas y yo también,
+caimanes en la proa del manglar (¡manglar!),
+mirándome bajar, subir, perrear (¡perrear!),
+dirty money volando, nadie va a contar,
+que espere el sol, hoy no lo dejamos entrar.
+
+[Chorus]
+Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo cervedrilo, no me saques del río (¡del río!),
+modo cervedrilo, que aquí nadie tiene frío.
+
+[Post-Chorus]
+Ei, ei, ei, el yate no se para,
+ei, ei, ei, the party never stops,
+ei, ei, ei, mais uma, mais uma,
+ei, ei, ei, ¡cervedrilo!
+
+[Break]
+La cubeta se derrite con las frías (¡frías!),
+los hielos sudando igual que mi camisa (¡camisa!),
+uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
+empapaos, gritando… y la noche todavía (¡todavía!).
+¡Checa si hay más frías en la neverita!
+
+[Verse 3]
+El corillo se tira al agua con los cocodrilos,
+nadando en círculos, borrachos y tranquilos,
+les tiramos dirty money y se ríen los bandidos,
+una fría pa' mí y otra pa'l caimán,
+un caimán con shades pidiendo otra ronda,
+four a.m. and nobody's checkin' the time,
+que delícia, Brasil, esto está brutal, mi pana.
+
+[Rap: glitchy]
+In-in-intoxicated, el yate da vueltas,
+look, mi outfit, leopardo, que se vea la tela,
+ella tiene un tattoo inside her lip,
+lo enseña cuando se ríe, cervedrilo, drip, drip,
+el jaguar en mi piel, esto ya no es normal,
+in-in-intoxicated… no me busques mañana.
+
+[Glitch Break]
+¡Cervedrilo FM! ¡No le bajes!
+Lu-lu-luces, los nenes bajo ti, bajo ti,
+cer- cer- ve- dri- lo,
+más pegao', más pegao', que el yate está mojao'.
+
+[Chorus]
+Cer-ve-dri-lo, cer-ve-dri-lo (¡wepa!),
+una fría en la mano, perreando tranquilo,
+cer-ve-dri-lo, cer-ve-dri-lo (¡vai, vai!),
+el yate se mece y yo no pierdo el estilo,
+modo cervedrilo, no me saques del río (¡del río!),
+modo cervedrilo, que aquí nadie tiene frío.
+
+[Drop]
+¿Están listos? ¡Más volumen!
+Cer-ve-dri-lo, cer-ve-dri-lo, ¡modo cervedrilo!
+la cintura se me va, la cintura se me va,
+mais uma, mais uma, ¡dale, dale!
+cer-ve-dri-lo, cer-ve-dri-lo, ¡modo cervedrilo!
+
+[Outro: soft, sunrise]
+Obrigada, Lima… obrigada, Brasil…
+y Puerto Rico… gracias por venir.
+Tudo bem… see you next summer.
+
+[Radio Host]
+Esto fue Cervedrilo FM… no apaguen la radio.
+[End]
+```
