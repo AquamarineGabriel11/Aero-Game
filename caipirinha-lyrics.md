@@ -1,7 +1,8 @@
 # pRoPiNa — letra v6 (Explicit · Brasil x Puerto Rico · el yate por el Amazonas)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
-Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía). Español boricua + portugués + un poquito de inglés de internet.
+Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
+**Idiomas (decisión de Gabriel):** ~70% español de Puerto Rico · ~20% inglés · ~10% portugués de Brasil.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
 ```text
@@ -13,25 +14,26 @@ TRIP · Track 02 · BRaSiL x PuERTo RiCo
 [Intro]
 (a boat engine low, water against the hull, birds, ice in a cup, a güiro)
 Ey… shh… ¿escuchaste eso?
-BRaSiL x PuERTo RiCo.
+Olha só…
+BRaSiL x PuERTo RiCo, baby.
 
 [Verse 1]
 (relaxed, half-sung)
 Un yate cruzando el pantano, el motor en bajito,
 el corillo en traje corto — casi nada, poquito,
 caipirinha en una mano, piña colada en la otra,
-el hielo se derrite y aquí nadie se preocupa.
-Delfines rosados brincando al lado del yate,
+el hielo se derrite y, acho, aquí nadie se preocupa.
+Pink dolphins jumpin' right next to the boat,
 guacamayos azules, un capibara de guardia,
-un tucán me puso cuatro de diez — ¿qué te pasa, loca?
+un tucán me puso four out of ten — ¿qué te pasa, loca?
 Y en la orilla, los cocodrilos… mirándonos la boca.
 
 [Hook 1]
 (soft, tipsy, the corillo singing along)
 Caipirinha con piña colada,
 mitad Brasil, mitad San Juan,
-el sol se va y nadie se baja…
-el yate pregunta: "¿y ahora pa' dónde van?"
+the sun goes down and nobody's leavin',
+bora, bora — ¿y ahora pa' dónde van?
 
 [Transition]
 (the sun goes down: frogs, crickets, the river in the dark)
@@ -50,7 +52,8 @@ el aire acondicionado a full y nadie se sienta,
 la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
-billetes por el culo de las morras — que llueva, que llueva la propina,
+los chavos volando, billetes por el culo de las morras —
+make it rain, make it rain, que llueva la pRoPiNa,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -60,22 +63,23 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-que llueva la pRoPiNa — este verano lo pago yo.
+que llueva la pRoPiNa — this summer's on me.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
-ei, ei, ei — el corillo no se va,
-ei, ei, ei — una más, una más,
+ei, ei, ei — the party never stops,
+ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡pRoPiNa!
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
 les servimos caipirinha y se ríen los cabrones,
-un caimán con lentes oscuros pidiendo otra ronda,
+un caimán con shades pidiendo otra ronda,
 funk de Río con perreo de la isla en la misma onda,
-las cuatro de la mañana y nadie mira la hora.
+four a.m. and nobody's checkin' the time,
+que delícia, Brasil — esto está brutal, mi pana.
 
 [Chorus]
 ¡Vai, vai, vai! (¡wepa!)
@@ -83,12 +87,12 @@ caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 suelta, suelta, suelta (¡hasta abajo!)
-que llueva la pRoPiNa — este verano lo pago yo.
+que llueva la pRoPiNa — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
-ei, ei, ei — el corillo no se va,
-ei, ei, ei — una más, una más,
+ei, ei, ei — the party never stops,
+ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡pRoPiNa!
 
 [Outro]
@@ -98,6 +102,8 @@ los cocodrilos dormidos en la orilla…
 Obrigada, Lima…
 obrigada, Brasil…
 y Puerto Rico… gracias por venir.
+Tudo bem…
+see you next summer.
 (a lime squeezed one last time)
 ```
 
@@ -126,6 +132,14 @@ Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa,
 | piña colada | 🇵🇷 | bebida nacional de Puerto Rico (nació en San Juan) |
 | vai | 🇧🇷 | ¡vamos! |
 | golazo / Neymar | 🇧🇷 | el fútbol de Brasil |
+| chavos | 🇵🇷 | dinero |
+| acho | 🇵🇷 | muletilla boricua (como "wey" o "bro") |
+| brutal / mi pana | 🇵🇷 | increíble / mi amigo |
+| olha só | 🇧🇷 | ¡mira nada más! |
+| bora | 🇧🇷 | ¡vámonos! |
+| mais uma | 🇧🇷 | ¡otra más! |
+| que delícia | 🇧🇷 | ¡qué rico! |
+| tudo bem | 🇧🇷 | todo bien |
 | tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
 | capoeira / berimbau | 🇧🇷 | arte marcial con música / su instrumento de una cuerda |
 | cuatro puertorriqueño | 🇵🇷 | la guitarrita típica de Puerto Rico |
