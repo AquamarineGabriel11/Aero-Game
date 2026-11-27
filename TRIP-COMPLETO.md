@@ -2295,6 +2295,12 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | **Chef's Kiss** | Moonlit Floor (Kiss Me) (LISA) · Truth or Dare (Tyla) · Kiss of Life (Sade) | **Banda sonora de comedia romántica de los 90**: guitarras acústicas brillantes, cuerdas, piano eléctrico, toques franceses; swing vintage en los créditos. |
 | **Nobody's Catching Me** | M.I.A (KATSEYE) · Power Trip (JENNIE) · EoO (Bad Bunny) | Hyperpop agrio + **perreo**: ritmo de dembow con bajo pesado, actitud de girl group, voces frías y seguras, cantos en grupo. Nueva York también es latina. |
 | **Deshielo** | Get Up (NewJeans) | Interludio corto, etéreo y de ensueño: voces suaves en capas, mucho aire y espacio. |
+
+#### Cómo nació TRIP (orden en que se crearon los títulos)
+- **Primera canción creada:** **Seen** (track 01).
+- **Último título creado:** **PRoPINA** (track 02).
+- El álbum empezó y terminó de crearse en sus dos primeras canciones: quedaron una junto a la otra.
+- Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → PRoPINA · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.
 ### TRIP — todas las letras · GABRIEL
 
 ```
