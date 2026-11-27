@@ -336,6 +336,17 @@ funk de Río con perreo de la isla en la misma onda,
 four a.m. and nobody's checkin' the time,
 que delícia, Brasil — esto está brutal, mi pana.
 
+[Rap]
+(cocky, glitchy, half-whispered over the beat)
+In-in-intoxicated, el yate da vueltas,
+look, my thong — leopardo, que se vea la tela,
+ella tiene un tattoo inside her lip,
+lo enseña cuando se ríe — pRoPiNa, drip, drip,
+el aire acondicionado y yo sudando igual,
+el jaguar en mi piel — esto ya no es normal,
+billetes en el río, cocodrilos con shades,
+in-in-intoxicated… (glitch) …no me busques mañana.
+
 [Glitch Break]
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
@@ -360,6 +371,11 @@ ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡pRoPiNa!
 
+[Glitch Ending]
+(the beat starts skipping and breaking apart)
+In-in-in-intoxi— in-in— in—
+(tape stop — silence)
+
 [Outro]
 (sunrise — the beat cuts. Birds. The yacht drifting. A cuatro puertorriqueño alone.)
 Se prenden las luces del cielo…
@@ -376,7 +392,7 @@ see you next summer.
 Los billetes que llueven en el antro del yate, y la actitud de ella: *"este verano lo pago yo"*. Ella paga, ella deja la propina, ella manda. Se escribe con las letras desordenadas: **pRoPiNa** (alternada de principio a fin). Sin tildes ni "ñ".
 
 #### Referencias del club (Parte 2)
-SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final · Power Trip (JENNIE), la parte del rap · Club classics (Charli XCX). Solo inspiración: no se copia letra, melodía ni sample.
+SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
 - **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
@@ -384,6 +400,9 @@ SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final · Power Trip (JENNIE)
 
 #### "Ancla" (el perreo del yate)
 En lugar de "baja hasta el suelo": **tírate como ancla**. El cuerpo baja perreando como el ancla del yate que cae hasta el fondo del río. Paso de baile: bajar de golpe al suelo cuando suena "¡hasta el fondo del río!".
+
+#### El rap (frases de Gabriel)
+*"Intoxicated"*, *"look, my thong"* y *"tattoo inside her lip"*: inglés atrevido, picado y glitcheado, en un rap medio susurrado con actitud. El tatuaje por dentro del labio es real (se ve solo cuando se baja el labio o cuando se ríe).
 
 #### La historia
 Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa, y una fiesta que se va emborrachando entre cocodrilos, delfines rosados, guacamayos azules y un capibara. Se mete el sol, aparece el jaguar y **se prende el neón: el yate se vuelve antro**. Verde lima y verde menta, aire acondicionado a todo, billetes volando y propina para las bailarinas. Al final, la gente nadando con los cocodrilos "borrachos" hasta el amanecer.
