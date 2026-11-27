@@ -312,7 +312,7 @@ very demure, very mindful… ¿pa' qué? Bye.
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-su-su-suelta, su-su-suelta (¡ha-ha-hasta abajo!)
+de-de-desce, de-de-desce (¡ha-ha-hasta abajo!)
 que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
@@ -346,7 +346,7 @@ lu-lu-luces… (stop)
 caipirinha con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
-su-su-suelta, su-su-suelta (¡ha-ha-hasta abajo!)
+de-de-desce, de-de-desce (¡ha-ha-hasta abajo!)
 que llueva la pRo-pRo-pRoPiNa — this summer's on me.
 
 [Post-Chorus]
@@ -374,7 +374,7 @@ Los billetes que llueven en el antro del yate, y la actitud de ella: *"este vera
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final · Power Trip (JENNIE), la parte del rap · Club classics (Charli XCX). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("su-su-suelta", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("de-de-desce", "pRo-pRo-pRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 #### La historia
@@ -405,6 +405,7 @@ Un **yate por el Amazonas** con el corillo, todos en traje corto, casi sin ropa,
 | olha só | 🇧🇷 | ¡mira nada más! |
 | bora | 🇧🇷 | ¡vámonos! |
 | mais uma | 🇧🇷 | ¡otra más! |
+| desce | 🇧🇷 | ¡baja! (en el funk: bajar hasta el suelo bailando) |
 | que delícia | 🇧🇷 | ¡qué rico! |
 | tudo bem | 🇧🇷 | todo bien |
 | tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
