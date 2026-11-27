@@ -160,3 +160,8 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 - **Último título creado:** **pRoPiNa** (track 02).
 - El álbum empezó y terminó de crearse en sus dos primeras canciones: quedaron una junto a la otra.
 - Títulos que cambiaron en el camino: Rearview → Nobody's Catching Me · Hyacinth Macaw → Caipirinha → pRoPiNa · Tekapo → Syzygy · Moonwater → (descartado) · el EP futuro: Díaz.
+
+## Tracklist oficial (aprobado por Gabriel)
+01 Seen · 02 pRoPiNa · 03 TEA · 04 Chef's Kiss · 05 Nobody's Catching Me · 06 Syzygy · 07 Deshielo (Interlude) · 08 Mångata · Bonus: Seen (Extended Scene)
+- Energía: lenta → explota → sensual → cálida → **sube otra vez** (Nobody's Catching Me) → se abre el cielo → respiro → cierre.
+- Conexiones de historia: TEA → Chef's Kiss · Seen → Deshielo → Mångata. Las demás son mundos sueltos.
