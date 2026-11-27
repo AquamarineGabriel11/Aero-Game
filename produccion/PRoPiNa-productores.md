@@ -105,6 +105,7 @@ los hielos llorando, como mi rímel, mija (¡mija!),
 uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 (SPLASH — ice and water everywhere, everyone screaming and laughing)
 empapaos, gritando… y la noche todavía (¡todavía!).
+¡Checa si hay más alcohol en la neverita! (¡neverita!)
 
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
