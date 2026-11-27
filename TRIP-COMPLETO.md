@@ -271,7 +271,7 @@ estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡PRo-Pi-Na!
+lo más pedido de la noche… ¡CeR-VeDRi-Lo!
 
 [Verse 1: él]
 Un yate cruzando el pantano, el motor en bajito,
@@ -301,7 +301,7 @@ la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
 los chavos volando, billetes por el culo de las morras —
-make it rain, make it rain, que llueva la PRoPiNa,
+make it rain, make it rain, que llueva la propina,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -321,13 +321,13 @@ dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la PRo-PRo-PRoPiNa — this summer's on me.
+una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡PRoPiNa!
+ei, ei, ei — ¡CeRVeDRiLo!
 
 [La Cubeta: corillo]
 La cubeta se derrite con las frías (¡frías!),
@@ -350,7 +350,7 @@ que delícia, Brasil — esto está brutal, mi pana.
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
-lo enseña cuando se ríe — PRoPiNa, drip, drip,
+lo enseña cuando se ríe — CeRVeDRiLo, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
@@ -360,10 +360,10 @@ in-in-intoxicated… no me busques mañana.
 ¡CERVEDRILO FM! ¡No le bajes!
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
-PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
+CeR- CeR- Ve- DRi- Lo, CeR- CeR- Ve- DRi- Lo,
 al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces…
-¡PRoPiNa!
+¡CeRVeDRiLo!
 
 [Final Chorus: los dos + corillo]
 ¡Vai, vai, vai! (¡wepa!)
@@ -371,18 +371,18 @@ dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la PRo-PRo-PRoPiNa — this summer's on me.
+una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
 
 [Post-Chorus: los dos + corillo]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡PRoPiNa!
+ei, ei, ei — ¡CeRVeDRiLo!
 
 [Drop Final: los dos + corillo]
 ¿Están listos? — ¡Más volumen!
 An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
-an-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
@@ -420,7 +420,7 @@ no apaguen la radio.
 SaWaDiKa (LISA, 2026) · Tarde (Kenia Os, 2026), su final glitcheado · Power Trip (JENNIE), la parte del rap y el final · Guess (Charli XCX con Billie Eilish) · Club classics (Charli XCX) · EoO (Bad Bunny). Solo inspiración: no se copia letra, melodía ni sample.
 - **Rap de canto pegajoso** que se repite como cántico (estilo SaWaDiKa).
 - **Perreo duro hasta el suelo**, rap bailable (estilo la parte del rap de Power Trip).
-- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "PRo-PRo-PRoPiNa", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
+- **Glitcheado y trabado:** el beat se congela como CD rayado y regresa cortado; voces picadas y repetidas ("an-an-ancla", "CeR-CeR-CeRVeDRiLo", "lu-lu-luces"), luces estroboscópicas (estilo Club classics).
 - **El final** con un cambio fuerte, como el cierre de Tarde.
 
 #### "Ancla" (el perreo del yate)
@@ -434,7 +434,7 @@ Lo que hace que no puedas dejar de moverte:
 1. **Todo se corta** menos el bombo y las palmas del corillo: tensión.
 2. **Redoble y riser** que suben… *"¿Están listos? — ¡más volumen!"*
 3. **El beat se duplica:** de perreo a **funk brasileño hipnótico y distorsionado** (como el funk automotivo de Brasil), con un bajo que se siente en el pecho.
-4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡PRoPiNa! / ¡CeR-VeDRi-Lo!"): la repetición es lo que hipnotiza el cuerpo.
+4. **Un loop cortito repetido muchas veces** ("an-an-ancla — ¡CeR-VeDRi-Lo!"): la repetición es lo que hipnotiza el cuerpo.
 5. **"La cintura se me va"**: la sensación de que la cintura desaparece de tanto perrear.
 6. **Llamada y respuesta** con el corillo (*"¡más volumen!"*) para que el público grite.
 
@@ -2209,7 +2209,7 @@ Las fechas dependen de grabar las voces. La distribuidora necesita la música en
   - TEA: un sorbo a la cámara en cada "sip" y el deletreo "T-E-A" con los dedos.
   - Chef's Kiss: el beso de chef con los dedos en cada "mwah".
   - Nobody's Catching Me: ventanas abajo en el carro en "Windows down. (ribbit.)".
-  - CeRVeDRiLo: el corillo tirando billetes (de juguete) en "que llueva la PRoPiNa".
+  - CeRVeDRiLo: el corillo tirando billetes (de juguete) en "make it rain… que llueva la propina".
 - **Fans:** nombre propuesto **"Passengers"** (pasajeros).
 
 #### 5. Merch

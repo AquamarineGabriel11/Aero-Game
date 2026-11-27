@@ -25,7 +25,7 @@ estás sintonizando CERVEDRILO FM,
 la única emisora que transmite desde un yate… ¡sin capitán!
 Saludos a los caimanes de la orilla, a los delfines rosados,
 y al corillo que no se quiere ir pa' su casa…
-lo más pedido de la noche… ¡PRo-Pi-Na!"
+lo más pedido de la noche… ¡CeR-VeDRi-Lo!"
 (static cuts — a boat engine low, water against the hull, birds, ice in a cup, a güiro)
 
 [Verse 1]
@@ -69,7 +69,7 @@ la botella en hielo, el DJ en la proa,
 solo maneja este yate en automático,
 el capitán perreando como un lunático,
 los chavos volando, billetes por el culo de las morras —
-make it rain, make it rain, que llueva la PRoPiNa,
+make it rain, make it rain, que llueva la propina,
 leopardo de pies a cabeza, chocolate de Dubái,
 very demure, very mindful… ¿pa' qué? Bye.
 
@@ -89,14 +89,14 @@ dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la PRo-PRo-PRoPiNa — this summer's on me.
+una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
 
 [Post-Chorus]
 (group chant)
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡PRoPiNa!
+ei, ei, ei — ¡CeRVeDRiLo!
 
 [La Cubeta]
 (ice clinking in a metal bucket, cans sweating, the corillo counting)
@@ -122,7 +122,7 @@ que delícia, Brasil — esto está brutal, mi pana.
 In-in-intoxicated, el yate da vueltas,
 look, my thong — leopardo, que se vea la tela,
 ella tiene un tattoo inside her lip,
-lo enseña cuando se ríe — PRoPiNa, drip, drip,
+lo enseña cuando se ríe — CeRVeDRiLo, drip, drip,
 el aire acondicionado y yo sudando igual,
 el jaguar en mi piel — esto ya no es normal,
 billetes en el río, cocodrilos con shades,
@@ -133,10 +133,10 @@ LOCUTOR (with echo): "¡CERVEDRILO FM! ¡No le bajes!"
 (the beat freezes like a skipping CD — strobe lights — then stutters back in, chopped and stuck)
 Lu-lu-luces, lu-lu-luces,
 los nenes bajo ti, bajo ti, bajo ti,
-PRo- PRo- pi- pi- na, PRo- PRo- pi- pi- na,
+CeR- CeR- Ve- DRi- Lo, CeR- CeR- Ve- DRi- Lo,
 al suelo, al suelo — perreo duro al suelo,
 lu-lu-luces… (stop)
-…¡PRoPiNa!
+…¡CeRVeDRiLo!
 (BOOM — everything back at full power)
 
 [Final Chorus]
@@ -145,20 +145,20 @@ dirty money con piña colada,
 ¡vai, vai, vai! (¡wepa!)
 del Amazonas a San Juan — aquí nadie dice que no,
 an-an-ancla, an-an-ancla (¡ha-ha-hasta el fondo del río!)
-que llueva la PRo-PRo-PRoPiNa — this summer's on me.
+una fría pa'l CeR-CeR-CeRVeDRiLo — this summer's on me.
 
 [Post-Chorus]
 Ei, ei, ei — el yate no se para,
 ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
-ei, ei, ei — ¡PRoPiNa!
+ei, ei, ei — ¡CeRVeDRiLo!
 
 [Drop Final]
 (everything cuts except the kick and the corillo clapping… a snare roll, a riser climbing…)
 ¿Están listos? — ¡más volumen!
 (BOOM — the beat doubles: hypnotic, distorted Brazilian funk, the bass hits your chest)
 An-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
-an-an-ancla, an-an-ancla — ¡PRoPiNa!
+an-an-ancla, an-an-ancla — ¡CeR-VeDRi-Lo!
 la cintura se me va, la cintura se me va,
 la cintura se me va… (¡wepa!)
 mais uma, mais uma, mais uma — ¡ancla!
