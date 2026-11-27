@@ -17,7 +17,7 @@ def section(path, levels=1):
 
 TRACKS = [
     ("01", "Seen", "seen-demo/seen-lyrics.md", "seen", "🇯🇵🇬🇧", "HND · LHR", "tristeza, desvelo (single)", "8.5"),
-    ("02", "CAiPiRiNHa", "caipirinha-lyrics.md", "caipirinha", "🇧🇷🇵🇷", "GIG · MAO · SJU", "verano 2024 con el corillo (Brasil x Puerto Rico)", "—"),
+    ("02", "[título por decidir]", "caipirinha-lyrics.md", "caipirinha", "🇧🇷🇵🇷", "GIG · MAO · SJU", "del Amazonas al club (Brasil x Puerto Rico)", "—"),
     ("03", "TEA", "tea-lyrics.md", None, "🇩🇪", "BER", "seducción", "8.9"),
     ("04", "Chef's Kiss", "chefs-kiss-lyrics.md", None, "🇫🇷🇨🇭🇳🇴🇮🇹", "CDG · ZRH", "amor, el pan (single)", "8.6"),
     ("05", "Nobody's Catching Me", "nobodys-catching-me-lyrics.md", None, "🇨🇳🇺🇸", "JFK", "adrenalina con amigos", "8.0"),

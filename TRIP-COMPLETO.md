@@ -8,7 +8,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 ## Índice
 1. [Tracklist](#tracklist)
 2. [01 · Seen](#01--seen)
-3. [02 · CAiPiRiNHa](#02--caipirinha)
+3. [02 · [título por decidir]](#02--t-tulo-por-decidir)
 4. [03 · TEA](#03--tea)
 5. [04 · Chef's Kiss](#04--chef-s-kiss)
 6. [05 · Nobody's Catching Me](#05--nobody-s-catching-me)
@@ -25,7 +25,7 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 | # | Canción | País | Ruta | Tema | Vibe | Calificación |
 |---|---|---|---|---|---|---|
 | 01 | **Seen** | 🇯🇵🇬🇧 | HND · LHR | tristeza, desvelo (single) | Fogcore | 8.5 |
-| 02 | **CAiPiRiNHa** | 🇧🇷🇵🇷 | GIG · MAO · SJU | verano 2024 con el corillo (Brasil x Puerto Rico) | Brat summer tropical | — |
+| 02 | **[título por decidir]** | 🇧🇷🇵🇷 | GIG · MAO · SJU | del Amazonas al club (Brasil x Puerto Rico) | Brat summer tropical | — |
 | 03 | **TEA** | 🇩🇪 | BER | seducción | Dark coquette | 8.9 |
 | 04 | **Chef's Kiss** | 🇫🇷🇨🇭🇳🇴🇮🇹 | CDG · ZRH | amor, el pan (single) | Cottagecore | 8.6 |
 | 05 | **Nobody's Catching Me** | 🇨🇳🇺🇸 | JFK | adrenalina con amigos | Grunge Y2K nocturno | 8.0 |
@@ -242,18 +242,155 @@ mata ne (nos vemos).
 
 ---
 
-## 02 · CAiPiRiNHa
+## 02 · [título por decidir]
 
-![Moodboard de CAiPiRiNHa](moodboards/caipirinha/00-moodboard-completo.jpg)
+![Moodboard de [título por decidir]](moodboards/caipirinha/00-moodboard-completo.jpg)
 
 Carpeta de imágenes: `moodboards/caipirinha/`
 
-### CAiPiRiNHa — letra v4 (Brasil x Puerto Rico)
+### [TÍTULO POR DECIDIR] — letra v5 (Brasil x Puerto Rico · del Amazonas al club)
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía). Español boricua + portugués + un poquito de inglés de internet.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
+```text
+[TÍTULO POR DECIDIR]
+TRIP · Track 02 · BRaSiL x PuERTo RiCo
+
+━━━━━━━━ PARTE 1 · EL AMAZONAS (beat lento) ━━━━━━━━
+
+[Intro]
+(a lime crushed, ice in a cup, a güiro, birds, a cuíca far away)
+Ey… shh… ¿escuchaste eso?
+BRaSiL x PuERTo RiCo.
+
+[Verse 1]
+(relaxed, half-sung)
+Camiseta de Brasil, dos tallas de más,
+un cachete quemao' y no pienso parar,
+Lima se tira un Neymar en la arena — ¡golazo!
+y el Cristo con los brazos como guardándonos el lugar.
+Avioneta pa' Manaos, seis en una canoa,
+un tucán me puso cuatro de diez — ¿qué te pasa, loca?
+Tres guacamayos gritando como un grupo de chat,
+un caimán ni me mira, ya lo ha visto to'a,
+tacacá con jambú, se nos duerme la boca.
+
+[Hook 1]
+(soft, the corillo singing along)
+Caipirinha con piña colada,
+mitad Brasil, mitad San Juan,
+el sol se va y no pasa nada…
+el corillo pregunta: "¿y ahora pa' dónde van?"
+
+[Transition]
+(everything drops: rain, frogs, crickets, six hammocks creaking)
+Seis hamacas y nadie duerme,
+capoeira en el lodo, un berimbau en lo oscuro,
+dos ojos dorados entre las hojas…
+(silence)
+jaguar has entered the chat.
+(a growl — BOOM: the club beat drops)
+
+━━━━━━━━ PARTE 2 · EL CLUB (perreo + funk carioca) ━━━━━━━━
+
+[Verse 2]
+(rapped, full energy)
+Luz lila, luz limón, la botella en hielo,
+leopardo de pies a cabeza, no toco el suelo,
+very demure, very mindful… ¿pa' qué? ¡No!
+me vestí pa' impresionar, me pasé, y me encantó,
+chocolate de Dubái en la mesa, el corillo en el sillón,
+billetes en el piso como hojas en el río,
+el jaguar soy yo — y la pista es territorio mío.
+
+[Chorus]
+¡Vai, vai, vai! (¡wepa!)
+caipirinha con piña colada,
+¡vai, vai, vai! (¡wepa!)
+de Río a San Juan — aquí nadie dice que no,
+suelta, suelta, suelta (¡hasta abajo!)
+este verano lo pago yo.
+
+[Post-Chorus]
+(group chant)
+Ei, ei, ei — de Río a San Juan,
+ei, ei, ei — el corillo no se va,
+ei, ei, ei — una más, una más,
+ei, ei, ei — ¡wepa!
+
+[Verse 3]
+Funk de Río con perreo de la isla,
+la cuíca y el güiro peleando en la misma pista,
+el DJ grita "¡Brasil!", el corillo grita "¡Boricua!",
+y yo en el medio con la caipirinha en la mano, ¿y tú?
+Las cuatro de la mañana y nadie mira la hora,
+la playa está esperando, pero la noche no se demora.
+
+[Chorus]
+¡Vai, vai, vai! (¡wepa!)
+caipirinha con piña colada,
+¡vai, vai, vai! (¡wepa!)
+de Río a San Juan — aquí nadie dice que no,
+suelta, suelta, suelta (¡hasta abajo!)
+este verano lo pago yo.
+
+[Post-Chorus]
+Ei, ei, ei — de Río a San Juan,
+ei, ei, ei — el corillo no se va,
+ei, ei, ei — una más, una más,
+ei, ei, ei — ¡wepa!
+
+[Outro]
+(5 a.m. — the beat cuts. Birds again. A cuatro puertorriqueño alone. Waves.)
+Se prenden las luces…
+afuera ya cantan los pájaros…
+Obrigada, Lima…
+obrigada, Brasil…
+y Puerto Rico… gracias por venir.
+(a lime squeezed one last time)
+```
+
+#### La estructura (como un cambio de ritmo a mitad de canción)
+- **Parte 1 · El Amazonas:** beat lento y relajado. Guitarra de bossa, percusión suave, pájaros, lluvia. El día: la playa, el Neymar, la canoa, el tucán, el jambú.
+- **La transición:** todo se apaga. Lluvia, ranas, seis hamacas, el berimbau… silencio… *"jaguar has entered the chat"*, el rugido y **¡BOOM!** entra el beat de club.
+- **Parte 2 · El club:** perreo + funk carioca, neón lila y verde lima, billetes, botellas en hielo, el corillo. Para alocarte.
+- **El outro** regresa a la naturaleza: se acaba la fiesta, salen los pájaros. La canción empieza y termina en la selva.
+- **Detalle escondido:** *"billetes en el piso como hojas en el río"*: el club repite la imagen del Amazonas.
+
+#### Palabras de Puerto Rico y Brasil
+| Palabra | De dónde | Significa |
+|---|---|---|
+| corillo | 🇵🇷 | el grupo de amigos |
+| ¡wepa! | 🇵🇷 | grito de alegría |
+| quemao' / mezclao' / to'a | 🇵🇷 | quemado / mezclado / toda (así se habla en la isla) |
+| piña colada | 🇵🇷 | bebida nacional de Puerto Rico (nació en San Juan) |
+| vai | 🇧🇷 | ¡vamos! |
+| golazo / Neymar | 🇧🇷 | el fútbol de Brasil |
+| tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
+| capoeira / berimbau | 🇧🇷 | arte marcial con música / su instrumento de una cuerda |
+| cuatro puertorriqueño | 🇵🇷 | la guitarrita típica de Puerto Rico |
+| plena | 🇵🇷 | ritmo de tambores de mano de Puerto Rico |
+
+#### La historia
+El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**: trae su forma de hablar, sus gritos y la piña colada. Por eso el vaso mezcla las dos islas: **caipirinha con piña colada**. Sin romance: Lima solo aparece como el que mete el gol.
+
+#### Producción (Brasil x Puerto Rico · dos beats)
+- **Parte 1 (~88 BPM):** guitarra de bossa, cuíca suave, güiro, pájaros y lluvia de fondo; voz relajada, medio cantada.
+- **Transición:** solo naturaleza (lluvia, ranas, grillos), berimbau, silencio total, rugido del jaguar.
+- **Parte 2 (~100 BPM):** **funk carioca + dembow**, bajo pesado, sintes de neón; voz rapeada con energía; coro y post-coro para gritar en grupo.
+- **Outro:** se corta el beat; pájaros, olas y el **cuatro puertorriqueño** solo.
+
+Prompt de estilo: `two-part Brazil x Puerto Rico summer song, part one slow bossa guitar with soft cuíca, güiro, jungle birds and rain, relaxed half-sung vocals, transition with rain, frogs, berimbau, silence and a jaguar growl, then a hard beat switch into a neon club banger mixing Brazilian funk carioca and reggaeton dembow, heavy bass, rapped Spanish vocals, group chants, outro with birds, waves and a Puerto Rican cuatro`
+
+#### Tendencias 2024 en la letra
+POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
+
+**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
+
+
+#### Historial: versión v4 (Brasil x Puerto Rico, un solo beat)
 ```text
 CAiPiRiNHa
 TRIP · Track 02 · BRaSiL x PuERTo RiCo
@@ -335,37 +472,6 @@ y Puerto Rico… gracias por venir.
 Que este verano no se acabe nunca…
 CAiPiRiNHa.
 ```
-
-#### Palabras de Puerto Rico y Brasil
-| Palabra | De dónde | Significa |
-|---|---|---|
-| corillo | 🇵🇷 | el grupo de amigos |
-| ¡wepa! | 🇵🇷 | grito de alegría |
-| quemao' / mezclao' / to'a | 🇵🇷 | quemado / mezclado / toda (así se habla en la isla) |
-| piña colada | 🇵🇷 | bebida nacional de Puerto Rico (nació en San Juan) |
-| vai | 🇧🇷 | ¡vamos! |
-| golazo / Neymar | 🇧🇷 | el fútbol de Brasil |
-| tacacá con jambú | 🇧🇷 | sopa del Amazonas; el jambú adormece la boca |
-| capoeira / berimbau | 🇧🇷 | arte marcial con música / su instrumento de una cuerda |
-| cuatro puertorriqueño | 🇵🇷 | la guitarrita típica de Puerto Rico |
-| plena | 🇵🇷 | ritmo de tambores de mano de Puerto Rico |
-
-#### La historia
-El corillo viaja por Brasil en el verano de 2024, y una del grupo es **boricua**: trae su forma de hablar, sus gritos y la piña colada. Por eso el vaso mezcla las dos islas: **caipirinha con piña colada**. Sin romance: Lima solo aparece como el que mete el gol.
-
-#### Producción (Brasil x Puerto Rico)
-- **Base:** el tambor del **funk carioca** mezclado con el **dembow** del reguetón: perreo con sabor brasileño.
-- **Brasil:** cuíca, berimbau, guitarra de bossa en el intro.
-- **Puerto Rico:** güiro, panderos de **plena** y el **cuatro puertorriqueño** en el outro.
-- **Cambio de beat en el bridge** (muy de Bad Bunny): todo cambia a plena y berimbau con lluvia, y vuelve el funk de golpe con el rugido del jaguar.
-- Voz: versos medio rapeados y relajados; coro para gritar en grupo.
-
-Prompt de estilo: `Brazil x Puerto Rico summer anthem, Brazilian funk carioca drums fused with reggaeton dembow, perreo, cuíca, berimbau, güiro, plena hand drums, Puerto Rican cuatro outro, bossa guitar intro, beat switch bridge with rain and jaguar growl, laid-back rapped verses, big group-chant chorus, Spanish and Portuguese vocals, 2024 summer, 100 BPM`
-
-#### Tendencias 2024 en la letra
-POV · aura (+1000 aura) · "very demure, very mindful" (con un "No") · dress to impress · brain rot (palabra del año 2024) · gatekeeping · unbothered · "___ has entered the chat" · group chat · animal print, verde lima, chocolate de Dubái, Brazilcore (camiseta de Brasil).
-
-**Pronunciación:** caipirinha → kai-pi-RI-nya · vai → VAI ("¡vamos!") · brigadeiro → bri-ga-DÉI-ru · tacacá → ta-ka-KÁ · jambu → zham-BÚ · berimbau → be-rim-BÁU · obrigada → o-bri-GA-da
 
 
 #### Historial: versión anterior (v3, en inglés)
