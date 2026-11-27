@@ -78,6 +78,12 @@ ei, ei, ei — the party never stops,
 ei, ei, ei — mais uma, mais uma,
 ei, ei, ei — ¡PRoPiNa!
 
+[La Cubeta]
+La cubeta se derrite con las frías (¡frías!),
+los hielos llorando, como mi rímel, mija (¡mija!),
+uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
+empapaos, gritando… y la noche todavía (¡todavía!).
+
 [Verse 3]
 El corillo se tira al agua con los cocodrilos,
 nadando en círculos, borrachos y tranquilos,
