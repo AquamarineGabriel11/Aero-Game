@@ -17,7 +17,7 @@ def section(path, levels=1):
 
 TRACKS = [
     ("01", "Seen", "seen-demo/seen-lyrics.md", "seen", "🇯🇵🇬🇧", "HND · LHR", "tristeza, desvelo (single)", "8.5"),
-    ("02", "pRoPiNa", "caipirinha-lyrics.md", "caipirinha", "🇧🇷🇵🇷", "GIG · MAO · SJU", "fiesta en un yate por el Amazonas que se vuelve antro (Explicit)", "—"),
+    ("02", "pRoPiNa", "caipirinha-lyrics.md", "caipirinha", "🇧🇷🇵🇷", "GIG · MAO · SJU", "fiesta en un yate por el Amazonas que se vuelve antro (Explicit)", "9.3"),
     ("03", "TEA", "tea-lyrics.md", None, "🇩🇪", "BER", "seducción", "8.9"),
     ("04", "Chef's Kiss", "chefs-kiss-lyrics.md", None, "🇫🇷🇨🇭🇳🇴🇮🇹", "CDG · ZRH", "amor, el pan (single)", "8.6"),
     ("05", "Nobody's Catching Me", "nobodys-catching-me-lyrics.md", None, "🇨🇳🇺🇸", "JFK", "adrenalina con amigos", "8.0"),
@@ -46,8 +46,8 @@ Se genera solo con `python3 tools/build_master.py`. Para editar algo, cambia el 
 14. [Historial del proceso](#historial-del-proceso)
 
 ## Tracklist
-| # | Canción | País | Ruta | Tema | Vibe | Calificación |
-|---|---|---|---|---|---|---|
+| # | Canción | País | Ruta | Tema | Vibe | Duración | Calificación |
+|---|---|---|---|---|---|---|---|
 """ + "".join(f"| {n} | **{t}** | {fl} | {code} | {theme} | {VIBES[n]} | {DUR[n]} | {r} |\n" for n,t,_,_,fl,code,theme,r in TRACKS) +
 """| Bonus | Seen (Extended Scene) | 🇯🇵🇬🇧 | HND · LHR | todas las escenas extra | Fogcore | — | — |
 
