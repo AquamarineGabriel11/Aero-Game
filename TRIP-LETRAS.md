@@ -191,7 +191,7 @@ ei, ei, ei — ¡PRoPiNa!
 
 [La Cubeta]
 La cubeta se derrite con las frías (¡frías!),
-los hielos llorando, como mi rímel, mija (¡mija!),
+los hielos sudando igual que mi camisa (¡camisa!),
 uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 empapaos, gritando… y la noche todavía (¡todavía!).
 ¡Checa si hay más alcohol en la neverita! (¡neverita!)

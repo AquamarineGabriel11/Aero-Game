@@ -252,6 +252,7 @@ Carpeta de imágenes: `moodboards/caipirinha/`
 
 **TRIP · Track 02 · 🇧🇷🇵🇷 · GIG · MAO · SJU · funk carioca x dembow · verano 2024 con el corillo · sin romance · Explicit**
 Estilo de **Bad Bunny** (solo inspiración: no se copia ninguna letra ni melodía).
+**Voz: hombre** (decisión de Gabriel).
 **Idiomas (decisión de Gabriel):** ~70% español de Puerto Rico · ~20% inglés · ~10% portugués de Brasil.
 **Las letras desordenadas** (mayúsculas y minúsculas mezcladas) son parte de la estética: el título y el gancho se escriben así.
 
@@ -330,7 +331,7 @@ ei, ei, ei — ¡PRoPiNa!
 
 [La Cubeta]
 La cubeta se derrite con las frías (¡frías!),
-los hielos llorando, como mi rímel, mija (¡mija!),
+los hielos sudando igual que mi camisa (¡camisa!),
 uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 empapaos, gritando… y la noche todavía (¡todavía!).
 ¡Checa si hay más alcohol en la neverita! (¡neverita!)
@@ -2423,6 +2424,11 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | 07 | Deshielo (Interlude) | 0:41 |
 | 08 | Mångata | 4:50 |
 | | **Total** | **25:34** |
+
+
+#### Voz de cada canción (decisión de Gabriel)
+- **Seen:** mujer.
+- **PRoPiNa:** hombre.
 ### TRIP — todas las letras · GABRIEL
 
 ```

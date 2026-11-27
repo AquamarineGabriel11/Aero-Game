@@ -178,3 +178,8 @@ Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante,
 | 07 | Deshielo (Interlude) | 0:41 |
 | 08 | Mångata | 4:50 |
 | | **Total** | **25:34** |
+
+
+## Voz de cada canción (decisión de Gabriel)
+- **Seen:** mujer.
+- **PRoPiNa:** hombre.

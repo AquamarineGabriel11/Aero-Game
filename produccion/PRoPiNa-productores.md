@@ -101,7 +101,7 @@ ei, ei, ei — ¡PRoPiNa!
 [La Cubeta]
 (ice clinking in a metal bucket, cans sweating, the corillo counting)
 La cubeta se derrite con las frías (¡frías!),
-los hielos llorando, como mi rímel, mija (¡mija!),
+los hielos sudando igual que mi camisa (¡camisa!),
 uno, dos, tres… ¡nos la echamos encima! (¡ahhh!)
 (SPLASH — ice and water everywhere, everyone screaming and laughing)
 empapaos, gritando… y la noche todavía (¡todavía!).
