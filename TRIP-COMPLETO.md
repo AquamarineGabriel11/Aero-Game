@@ -67,7 +67,7 @@ TRIP · Track 01 · HND · LHR
 
 [Intro]
 Seen, seen…
-kidoku, kidoku…
+aitai, aitai…
 
 [Verse 1]
 Winter in Tokyo, fog on the street,
@@ -116,11 +116,11 @@ even Fuji shows its face to the sky…
 but not you, not to me.
 
 [Post-Chorus]
-Kidoku, kidoku,
-ki-do-ku mu-shi,
+Aitai, aitai,
+dōshite, dōshite?
 read it, leave it,
 read it, leave it,
-kidoku, kidoku…
+aitai…
 
 [Verse 3]
 Every night in the shower I hide from my phone,
@@ -161,7 +161,7 @@ mata ne.
 
 ```text
 [Intro]
-Visto, visto… / kidoku, kidoku… (visto, en japonés)
+Visto, visto… / aitai, aitai… (te extraño, quiero verte)
 
 [Verso 1]
 Invierno en Tokio, niebla en la calle,
@@ -200,7 +200,7 @@ por favor, mantén viva nuestra racha esta noche:
 si el fuego se apaga… nos volvemos grises.
 
 [Post-Coro]
-Kidoku, kidoku, / kidoku mushi (dejar en visto), / léelo, déjalo…
+Aitai, aitai (quiero verte), / dōshite, dōshite? (¿por qué, por qué?), / léelo, déjalo…
 
 [Verso 3]
 Todas las noches me escondo del celular en la regadera,
@@ -234,7 +234,7 @@ la misma noche otra vez… otra vez…
 mata ne (nos vemos).
 ```
 
-**Pronunciación:** kidoku → ki-DÓ-ku · kidoku mushi → ki-DÓ-ku MÚ-shi · mata ne → MA-ta ne
+**Japonés:** aitai (会いたい) → ai-TAI, *te extraño / quiero verte* · dōshite (どうして) → DOO-shte, *¿por qué?* · mata ne → MA-ta ne, *nos vemos*
 
 
 #### Historial: versión anterior (v2, ella en Londres y él en Japón)

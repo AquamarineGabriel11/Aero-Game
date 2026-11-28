@@ -11,7 +11,7 @@ TRIP · Track 01 · HND · LHR
 
 [Intro]
 Seen, seen…
-kidoku, kidoku…
+aitai, aitai…
 
 [Verse 1]
 Winter in Tokyo, fog on the street,
@@ -60,11 +60,11 @@ even Fuji shows its face to the sky…
 but not you, not to me.
 
 [Post-Chorus]
-Kidoku, kidoku,
-ki-do-ku mu-shi,
+Aitai, aitai,
+dōshite, dōshite?
 read it, leave it,
 read it, leave it,
-kidoku, kidoku…
+aitai…
 
 [Verse 3]
 Every night in the shower I hide from my phone,
