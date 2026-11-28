@@ -25,7 +25,7 @@ and I learned that silence can say everything.
 
 [Pre-Chorus]
 I know, I know, I'm stupid,
-notifications on for you,
+my text still on "delivered,"
 and every time my phone lights up…
 it's never, never you.
 
@@ -96,8 +96,10 @@ not today.
 [Outro]
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
+I cry in the rain with an umbrella —
+the rain stays out… but you get through,
 I typed your name, deleted it,
-same night again… again…
+déjà vu… déjà vu…
 mata ne.
 ```
 

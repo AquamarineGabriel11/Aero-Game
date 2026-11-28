@@ -32,7 +32,7 @@ and I learned that silence can say everything.
 
 [Pre-Chorus]
 I know, I know, I'm stupid,
-notifications on for you,
+my text still on "delivered,"
 and every time my phone lights up…
 it's never, never you.
 
@@ -103,8 +103,10 @@ not today.
 [Outro]
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
+I cry in the rain with an umbrella —
+the rain stays out… but you get through,
 I typed your name, deleted it,
-same night again… again…
+déjà vu… déjà vu…
 mata ne.
 ```
 
@@ -125,7 +127,7 @@ la leíste, la dejaste, la dejaste sonar,
 y aprendí que el silencio lo dice todo.
 
 [Pre-Coro]
-Ya sé, ya sé, soy tonta, / notificaciones prendidas por ti,
+Ya sé, ya sé, soy tonta, / mi mensaje sigue en "entregado",
 y cada vez que mi celular se ilumina… / nunca, nunca eres tú.
 
 [Coro]
@@ -180,8 +182,10 @@ hoy no.
 [Outro]
 Sake, tequila, Bacardí,
 tres copas encima y sigues siendo tú,
+lloro bajo la lluvia con un paraguas:
+la lluvia no entra… pero tú sí,
 escribí tu nombre, lo borré,
-la misma noche otra vez… otra vez…
+déjà vu… déjà vu…
 mata ne (nos vemos).
 ```
 
