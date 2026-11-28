@@ -1104,6 +1104,10 @@ a wrinkled bill that still smells like the river,
 my lipstick on it…
 (the cup squeaks one last time)
 checkmate.
+(spoken, bored, walking out)
+Like… I hate the tea —
+the pressure on my tits…
+bye.
 ```
 
 #### Traducción al español (para entender, no para cantar)
@@ -1191,6 +1195,7 @@ no le soples: ven a mí.
 
 [Outro]
 "Voltéalo…" / "…ven conmigo." (viens avec moi) / sorbo… / jaque mate.
+(hablado, aburrida, yéndose) Tipo… odio el té, la presión en mis tetas… bye.
 ```
 
 **Juegos de palabras:** "spill the tea" = contar el chisme · "check" = la cuenta y "jaque" · "steep" = dejar reposar (suena a *deep*, profundo) · "in, out" = meter y sacar la bolsita de té… o no.

@@ -391,6 +391,10 @@ a wrinkled bill that still smells like the river,
 my lipstick on it…
 (the cup squeaks one last time)
 checkmate.
+(spoken, bored, walking out)
+Like… I hate the tea —
+the pressure on my tits…
+bye.
 ```
 
 ---
