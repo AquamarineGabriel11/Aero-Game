@@ -2,9 +2,14 @@
 
 Escrita por Gabriel meses antes. Guardada tal cual, sin cambios.
 
+**País: 🇬🇷 Grecia** (decisión de Gabriel) · islas del mar Egeo (Santorini / Mykonos) · código de aeropuerto: **JTR** (Santorini).
+- La "isla bonita" de la canción es una isla griega: casas blancas, cúpulas azules, mar turquesa.
+- El glamur del Verso 2 (diamantes, guantes largos, el cisne en el helado, cócteles a las 9 AM) encaja con una fiesta de alberca elegante frente al Egeo.
+- Doble sentido del título: el agua salada es el mar… y las lágrimas.
+
 ```text
 SALT WATER
-TRIP Deluxe
+TRIP Deluxe · JTR · 🇬🇷 Grecia
 
 [Verso 1]
 Cocktail in my hand, sun is on my skin
