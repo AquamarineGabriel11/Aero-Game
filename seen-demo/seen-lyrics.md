@@ -2,7 +2,7 @@
 
 ## La historia
 Vivían juntos en **Tokio**, una pareja sana y muy unida; desde su ventana se veía el **Monte Fuji** en las mañanas despejadas de invierno. Es invierno: hace mucho frío y la **niebla** domina las calles. Él dice que sigue en la ciudad, que solo tiene **trabajo extra**, pero ya planeaba irse. Ella le pide **una foto del Fuji** para comprobar que sigue ahí: él la ignora, rechaza sus llamadas y empieza a **ghostearla**. Una semana después **hace sus maletas y se va a Londres**. En su historia del avión hay **dos cafés juntos**: hay otra persona. **Nunca la bloquea**: solo deja de responder… pero sigue abriendo **primero** sus fotos (el brasier de encaje, las del espejo), aunque ya tiene novia nueva. *¿A qué se debe esto?*
-Mientras tanto, sus amigas le dicen *"ya supéralo, él tiene a otra, bloquéalo"* y ella jura que *mañana* lo hará. Cada noche se encierra en la regadera a fumar la cajetilla que él dejó abierta y a beber hasta olvidar; ojeras, sin dormir. Usa los dos hoodies que él dejó y los zip-ups que se compró. Muchos chavos la buscan, pero ella le sigue siendo fiel, con la esperanza de que regrese.
+Mientras tanto, sus amigas le dicen *"ya supéralo, él tiene a otra, bloquéalo"* y ella jura que *mañana* lo hará. Cada noche se encierra en la regadera a fumar la cajetilla que él dejó abierta y a beber hasta olvidar; ojeras, sin dormir. Usa los dos hoodies que él dejó y los zip-ups que se compró. Se pone sus audífonos con su música favorita, música tranquila o ruido blanco, y ve TikToks y reels sin parar. Muchos chavos la buscan, pero ella le sigue siendo fiel, con la esperanza de que regrese.
 Personajes **adultos** (hay fotos íntimas).
 
 
@@ -78,6 +78,8 @@ Every night in the shower I hide from my phone,
 I smoke the pack that you left, drinking alone,
 dark circles, no sleep, I look wasted and worn,
 your hoodie, your zip-up, the ones I have on,
+earbuds in, white noise, my song on repeat,
+scroll, scroll, scroll… and I still can't sleep,
 every boy wants my number — I give them my back,
 I'm still being faithful… in case you come back.
 
@@ -150,6 +152,8 @@ Todas las noches me escondo del celular en la regadera,
 fumo la cajetilla que dejaste, bebiendo sola,
 ojeras, sin dormir, me veo desvelada y gastada,
 tu hoodie, tu zip-up, las que traigo puestas,
+audífonos puestos, ruido blanco, mi canción en repetición,
+scroll, scroll, scroll… y sigo sin poder dormir,
 todos los chavos quieren mi número; yo les doy la espalda,
 sigo siéndote fiel… por si regresas.
 

@@ -71,6 +71,8 @@ Every night in the shower I hide from my phone,
 I smoke the pack that you left, drinking alone,
 dark circles, no sleep, I look wasted and worn,
 your hoodie, your zip-up, the ones I have on,
+earbuds in, white noise, my song on repeat,
+scroll, scroll, scroll… and I still can't sleep,
 every boy wants my number — I give them my back,
 I'm still being faithful… in case you come back.
 
