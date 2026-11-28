@@ -14,20 +14,20 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's the middle of the night in London and I'm still up,
-refresh, refresh, refresh again,
-you watched my story first tonight,
-but my text is still on "delivered."
-You're in Japan on the bullet train,
-Mount Fuji in your window frame,
-you told me you were going alone,
-so who's the second coffee for?
+Winter in Tokyo, fog on the street,
+your side of the bed still cold on the sheets,
+"Extra work, baby, I'm still in town" —
+then why does your phone keep turning me down?
+I asked for a picture of Fuji at dawn,
+one little photo to prove you're not gone,
+you read it, you left it, you let it ring,
+and I learned that silence can say everything.
 
 [Pre-Chorus]
 I know, I know, I'm stupid,
 notifications on for you,
-and every time my phone lights up,
-it's never, never you…
+and every time my phone lights up…
+it's never, never you.
 
 [Chorus]
 Seen, seen, you left me on seen,
@@ -37,19 +37,20 @@ even Fuji shows its face to the sky…
 but not you, not to me.
 
 [Verse 2]
-My friends all say "just block 'em, babe,"
-I tell them "tomorrow" every day,
-lace bra you sent me as a joke —
-wore it for nobody, sent it view-once,
-you opened it in a second — and that was it,
-I'm a story you skip,
-a picture you don't keep.
+A week went by and your suitcase was gone,
+your hoodie still here with your perfume on,
+you posted a plane, the clouds and the sea,
+two coffees together — and one wasn't for me.
+Now London's your city, your brand-new life,
+"just block 'em, babe," say my friends every night,
+I tell them "tomorrow"… tomorrow again,
+'cause you never blocked me — you just let it end.
 
 [Pre-Chorus]
 I know, I know, I'm stupid,
 notifications on for you,
-and every time my phone lights up,
-it's never, never you…
+and every time my phone lights up…
+it's never, never you.
 
 [Chorus]
 Seen, seen, you left me on seen,
@@ -65,44 +66,22 @@ read it, leave it,
 read it, leave it,
 kidoku, kidoku…
 
-[Verse 3]
-I shower just to leave my phone outside,
-"go freshen up" — like I could wash you off,
-the mirror fogs, your "u up?" comes back,
-the water on my hips, I pretend it's you,
-wine red as velvet used to run down to my abs,
-now it's only water, only water,
-déjà vu, déjà vu.
-
 [Bridge]
-"Mind the gap" — I'm living in it,
-the Thames is gray like the ticks before they turned blue,
-changing of the guard at Buckingham,
-that's how fast you replaced me…
-replaced me…
-
-[Pre-Final]
 I used to sleep with my tits pressed to your back,
-now it's your hoodie, nothing underneath,
-your perfume on the sleeves, your ashtray by the bed,
-I try to undo you like a Windsor knot,
-every pull, tighter, tighter…
+now it's your hoodie… and I'm losing track,
+lace bra in the mirror, view-once at night,
+you open it first — but you won't say goodnight,
+you've got her in London and me on your screen,
+so tell me, baby… what does that mean?
 
 [Final Chorus]
 (just voice and piano)
 Seen, seen, I'm still on seen,
 seen, seen, I'm still on seen,
 (everything comes back)
-you watch it all, you'll never reply,
+you'll watch it all, you'll never reply,
 and Fuji's hiding its face from the sky…
 not today.
-
-[Post-Chorus]
-Kidoku, kidoku,
-ki-do-ku mu-shi,
-read it, leave it,
-read it, leave it,
-kidoku, kidoku…
 
 [Outro]
 Sake, tequila, Bacardí,
