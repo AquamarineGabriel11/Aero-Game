@@ -46,11 +46,11 @@ just block him already, he's done with you" —
 "Yeah, tomorrow, I swear"… tomorrow again,
 'cause you never blocked me — you just let it end.
 
-[Pre-Chorus]
-I know, I know, I'm stupid,
-notifications on for you,
-and every time my phone lights up…
-it's never, never you.
+[Pre-Chorus 2]
+I do my lessons every day,
+learning your language just to fly your way,
+please, keep our streak alive tonight —
+if the fire goes out… we turn to gray.
 
 [Chorus]
 Seen, seen, you left me on seen,

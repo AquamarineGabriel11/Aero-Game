@@ -51,7 +51,7 @@ Carpeta de imágenes: `moodboards/seen/`
 
 #### La historia
 Vivían juntos en **Tokio**, una pareja sana y muy unida; desde su ventana se veía el **Monte Fuji** en las mañanas despejadas de invierno. Es invierno: hace mucho frío y la **niebla** domina las calles. Él dice que sigue en la ciudad, que solo tiene **trabajo extra**, pero ya planeaba irse. Ella le pide **una foto del Fuji** para comprobar que sigue ahí: él la ignora, rechaza sus llamadas y empieza a **ghostearla**. Una semana después **hace sus maletas y se va a Londres**. En su historia del avión hay **dos cafés juntos**: hay otra persona. **Nunca la bloquea**: solo deja de responder… pero sigue abriendo **primero** sus fotos (el brasier de encaje, las del espejo), aunque ya tiene novia nueva. *¿A qué se debe esto?*
-Mientras tanto, sus amigas le dicen *"ya supéralo, él tiene a otra, bloquéalo"* y ella jura que *mañana* lo hará. Cada noche se encierra en la regadera a fumar la cajetilla que él dejó abierta y a beber hasta olvidar; ojeras, sin dormir. Usa los dos hoodies que él dejó y los zip-ups que se compró. Se pone sus audífonos con su música favorita, música tranquila o ruido blanco, y ve TikToks y reels sin parar. Muchos chavos la buscan, pero ella le sigue siendo fiel, con la esperanza de que regrese.
+Mientras tanto, sus amigas le dicen *"ya supéralo, él tiene a otra, bloquéalo"* y ella jura que *mañana* lo hará. Cada noche se encierra en la regadera a fumar la cajetilla que él dejó abierta y a beber hasta olvidar; ojeras, sin dormir. Usa los dos hoodies que él dejó y los zip-ups que se compró. Se pone sus audífonos con su música favorita, música tranquila o ruido blanco, y ve TikToks y reels sin parar. Hace sus lecciones diarias para aprender el idioma y poder viajar a Londres, y le ruega que no deje morir **su racha**: si la racha se apaga, se vuelve gris, igual que su relación. Muchos chavos la buscan, pero ella le sigue siendo fiel, con la esperanza de que regrese.
 Personajes **adultos** (hay fotos íntimas).
 
 
@@ -102,11 +102,11 @@ just block him already, he's done with you" —
 "Yeah, tomorrow, I swear"… tomorrow again,
 'cause you never blocked me — you just let it end.
 
-[Pre-Chorus]
-I know, I know, I'm stupid,
-notifications on for you,
-and every time my phone lights up…
-it's never, never you.
+[Pre-Chorus 2]
+I do my lessons every day,
+learning your language just to fly your way,
+please, keep our streak alive tonight —
+if the fire goes out… we turn to gray.
 
 [Chorus]
 Seen, seen, you left me on seen,
@@ -192,6 +192,12 @@ dos cafés juntos… y uno no era para mí.
 ya bloquéalo, él ya terminó contigo",
 "Sí, mañana, se los juro"… y mañana otra vez,
 porque nunca me bloqueaste: solo dejaste que se acabara.
+
+[Pre-Coro 2]
+Hago mis lecciones todos los días,
+aprendo tu idioma solo para volar hacia ti,
+por favor, mantén viva nuestra racha esta noche:
+si el fuego se apaga… nos volvemos grises.
 
 [Post-Coro]
 Kidoku, kidoku, / kidoku mushi (dejar en visto), / léelo, déjalo…
