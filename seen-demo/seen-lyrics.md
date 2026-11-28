@@ -54,7 +54,7 @@ just block him already, he's done with you" —
 'cause you never blocked me — you just let it end.
 
 [Pre-Chorus 2]
-I do my lessons every day,
+The green owl knows I never skip a day,
 learning your language just to fly your way,
 please, keep our streak alive tonight —
 if the fire goes out… we turn to gray.
@@ -145,7 +145,7 @@ ya bloquéalo, él ya terminó contigo",
 porque nunca me bloqueaste: solo dejaste que se acabara.
 
 [Pre-Coro 2]
-Hago mis lecciones todos los días,
+El búho verde sabe que nunca me salto un día,
 aprendo tu idioma solo para volar hacia ti,
 por favor, mantén viva nuestra racha esta noche:
 si el fuego se apaga… nos volvemos grises.
