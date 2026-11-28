@@ -51,6 +51,7 @@ Carpeta de imágenes: `moodboards/seen/`
 
 #### La historia
 Vivían juntos en **Tokio**, una pareja sana y muy unida; desde su ventana se veía el **Monte Fuji** en las mañanas despejadas de invierno. Es invierno: hace mucho frío y la **niebla** domina las calles. Él dice que sigue en la ciudad, que solo tiene **trabajo extra**, pero ya planeaba irse. Ella le pide **una foto del Fuji** para comprobar que sigue ahí: él la ignora, rechaza sus llamadas y empieza a **ghostearla**. Una semana después **hace sus maletas y se va a Londres**. En su historia del avión hay **dos cafés juntos**: hay otra persona. **Nunca la bloquea**: solo deja de responder… pero sigue abriendo **primero** sus fotos (el brasier de encaje, las del espejo), aunque ya tiene novia nueva. *¿A qué se debe esto?*
+Mientras tanto, sus amigas le dicen *"ya supéralo, él tiene a otra, bloquéalo"* y ella jura que *mañana* lo hará. Cada noche se encierra en la regadera a fumar la cajetilla que él dejó abierta y a beber hasta olvidar; ojeras, sin dormir. Usa los dos hoodies que él dejó y los zip-ups que se compró. Muchos chavos la buscan, pero ella le sigue siendo fiel, con la esperanza de que regrese.
 Personajes **adultos** (hay fotos íntimas).
 
 
@@ -96,9 +97,9 @@ A week went by and your suitcase was gone,
 your hoodie still here with your perfume on,
 you posted a plane, the clouds and the sea,
 two coffees together — and one wasn't for me.
-Now London's your city, your brand-new life,
-"just block 'em, babe," say my friends every night,
-I tell them "tomorrow"… tomorrow again,
+"Girl, get over him, he's got someone new,
+just block him already, he's done with you" —
+"Yeah, tomorrow, I swear"… tomorrow again,
 'cause you never blocked me — you just let it end.
 
 [Pre-Chorus]
@@ -120,6 +121,14 @@ ki-do-ku mu-shi,
 read it, leave it,
 read it, leave it,
 kidoku, kidoku…
+
+[Verse 3]
+Every night in the shower I hide from my phone,
+I smoke the pack that you left, drinking alone,
+dark circles, no sleep, I look wasted and worn,
+your hoodie, your zip-up, the ones I have on,
+every boy wants my number — I give them my back,
+I'm still being faithful… in case you come back.
 
 [Bridge]
 I used to sleep with my tits pressed to your back,
@@ -177,13 +186,21 @@ Pasó una semana y tu maleta ya no estaba,
 tu hoodie sigue aquí, con tu perfume,
 subiste un avión, las nubes y el mar,
 dos cafés juntos… y uno no era para mí.
-Ahora Londres es tu ciudad, tu vida nueva,
-"ya bloquéalo, amiga", me dicen cada noche,
-yo les digo "mañana"… y mañana otra vez,
+"Amiga, ya supéralo, él tiene a otra,
+ya bloquéalo, él ya terminó contigo",
+"Sí, mañana, se los juro"… y mañana otra vez,
 porque nunca me bloqueaste: solo dejaste que se acabara.
 
 [Post-Coro]
 Kidoku, kidoku, / kidoku mushi (dejar en visto), / léelo, déjalo…
+
+[Verso 3]
+Todas las noches me escondo del celular en la regadera,
+fumo la cajetilla que dejaste, bebiendo sola,
+ojeras, sin dormir, me veo desvelada y gastada,
+tu hoodie, tu zip-up, las que traigo puestas,
+todos los chavos quieren mi número; yo les doy la espalda,
+sigo siéndote fiel… por si regresas.
 
 [Puente]
 Dormía con mis senos pegados a tu espalda,
@@ -2217,6 +2234,22 @@ mata ne…
 ```
 
 Clean: `my tits pressed to your back` → `my chest pressed to your back`
+
+
+#### Escenas extra de la historia v3 (para la versión Extended)
+```text
+[Extended Verse: los días]
+I fail every test, I can't focus at all,
+I sleep through my classes, I stare at the wall,
+I check if she's pretty, I count every like —
+she used to be your crush, now she's your life,
+I come home and I cry with the Fuji in view,
+Japan is so pretty… and none of it's you,
+Mom in one house and Dad in another,
+nobody gets it — not one or the other.
+```
+*(Repruebo cada examen, no me puedo concentrar, me duermo en las clases, me quedo viendo la pared, reviso si ella es bonita, cuento cada like: antes era tu crush, ahora es tu vida. Llego a casa y lloro con el Fuji en la ventana, Japón es tan bonito… y nada de eso eres tú. Mamá en una casa y papá en otra, nadie me entiende, ni uno ni el otro.)*
+Personajes adultos: las clases y los exámenes son de la universidad.
 
 ---
 

@@ -132,3 +132,19 @@ mata ne…
 ```
 
 Clean: `my tits pressed to your back` → `my chest pressed to your back`
+
+
+## Escenas extra de la historia v3 (para la versión Extended)
+```text
+[Extended Verse: los días]
+I fail every test, I can't focus at all,
+I sleep through my classes, I stare at the wall,
+I check if she's pretty, I count every like —
+she used to be your crush, now she's your life,
+I come home and I cry with the Fuji in view,
+Japan is so pretty… and none of it's you,
+Mom in one house and Dad in another,
+nobody gets it — not one or the other.
+```
+*(Repruebo cada examen, no me puedo concentrar, me duermo en las clases, me quedo viendo la pared, reviso si ella es bonita, cuento cada like: antes era tu crush, ahora es tu vida. Llego a casa y lloro con el Fuji en la ventana, Japón es tan bonito… y nada de eso eres tú. Mamá en una casa y papá en otra, nadie me entiende, ni uno ni el otro.)*
+Personajes adultos: las clases y los exámenes son de la universidad.

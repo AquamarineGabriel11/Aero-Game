@@ -41,9 +41,9 @@ A week went by and your suitcase was gone,
 your hoodie still here with your perfume on,
 you posted a plane, the clouds and the sea,
 two coffees together — and one wasn't for me.
-Now London's your city, your brand-new life,
-"just block 'em, babe," say my friends every night,
-I tell them "tomorrow"… tomorrow again,
+"Girl, get over him, he's got someone new,
+just block him already, he's done with you" —
+"Yeah, tomorrow, I swear"… tomorrow again,
 'cause you never blocked me — you just let it end.
 
 [Pre-Chorus]
@@ -65,6 +65,14 @@ ki-do-ku mu-shi,
 read it, leave it,
 read it, leave it,
 kidoku, kidoku…
+
+[Verse 3]
+Every night in the shower I hide from my phone,
+I smoke the pack that you left, drinking alone,
+dark circles, no sleep, I look wasted and worn,
+your hoodie, your zip-up, the ones I have on,
+every boy wants my number — I give them my back,
+I'm still being faithful… in case you come back.
 
 [Bridge]
 I used to sleep with my tits pressed to your back,
