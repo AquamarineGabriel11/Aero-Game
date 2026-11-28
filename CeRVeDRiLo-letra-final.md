@@ -154,3 +154,21 @@ Ya salió el sol, corillo… los cocodrilos se durmieron… el capitán también
 esto fue CERVEDRILO FM. Fría y Caimán, de Río a San Juan…
 no apaguen la radio.
 ```
+
+## Estilo musical
+**Género:** fiesta latina de verano en dos partes: **bossa tropical → perreo de club** (funk carioca de Brasil + reguetón de Puerto Rico), con **coros de dance pop** para que se siga aunque no te sepas la letra. ~6:23, estilo mix de DJ.
+
+| Parte | Tempo | Sonido |
+|---|---|---|
+| **Radio Intro** | — | Estática, dial de radio, lata que se abre, jingle de sinte barato de los 2000, locutor de voz grave de radio latina de los 2000. |
+| **Parte 1 · El yate** | ~88 BPM | Guitarra de bossa, cuíca, güiro, pájaros y río, swing de reguetón relajado. Voz medio cantada, tranquila. |
+| **Transición** | — | Lluvia y ranas → "Jaguar has en—" se corta → **7 segundos de breakdown electro de mediados de los 2000** (bajo zumbado y distorsionado, filtro que sube, tartamudeo, riser) → "…the chaaat" estirado → rugido. |
+| **Parte 2 · El antro** | ~100 BPM | **Funk carioca + dembow**, bajo 808 pesado, sintes de neón. Rap con energía, cantos en grupo. |
+| **Coros** | ~100 BPM | **Dance pop:** bombo en cada tiempo, riff de sinte que dobla la melodía de "CeR-Ve-DRi-Lo" (sube-sube-baja-baja), silbido pegajoso, "oh-oh" sin palabras. |
+| **Glitch Break** | — | El beat se congela como CD rayado, cortes y voces picadas, luces estroboscópicas. |
+| **Drop Final** | doble tiempo | Solo bombo y palmas → redoble y riser → **funk brasileño hipnótico y distorsionado**, bajo que se siente en el pecho. |
+| **Outro** | — | Tape stop, silencio, amanecer: pájaros, olas y el **cuatro puertorriqueño** solo. Cierra el locutor cansado. |
+
+**Voces:** hombre y mujer (canción de club), más el corillo y el locutor. Español de Puerto Rico ~70%, inglés ~20%, portugués ~10%.
+
+**Referencias de vibra (sin copiar):** EoO y los últimos álbumes de Bad Bunny · SaWaDiKa (LISA) · Tarde (Kenia Os) · Power Trip (JENNIE) · Club classics y Guess (Charli XCX) · Tití Me Preguntó, DtMF y Espresso como meta de gancho.
