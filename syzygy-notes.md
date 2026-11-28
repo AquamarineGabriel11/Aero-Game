@@ -50,7 +50,7 @@ Jupiter's got four little moons in a line,
 like they're waiting for a bus that's never coming,
 Mars is a red freckle, Venus shows off till sunrise,
 and the Southern Cross hangs upside down from how I learned it.
-2:47 came and went — I didn't even check,
+That hour came and went — I didn't even check,
 I was counting satellites instead.
 
 [Pre-Chorus]
@@ -140,7 +140,7 @@ Júpiter tiene cuatro lunitas en fila,
 como si esperaran un camión que nunca llega,
 Marte es una peca roja, Venus presume hasta el amanecer,
 y la Cruz del Sur cuelga al revés de como la aprendí.
-Las 2:47 llegaron y se fueron: ni siquiera revisé,
+Esa hora llegó y se fue: ni siquiera revisé,
 estaba contando satélites.
 
 [Puente]
@@ -169,7 +169,7 @@ Kia ora…
 
 ## Cómo se conecta con el álbum
 - **Empieza donde termina Nobody's Catching Me:** el motor se apaga, una puerta de carro, silencio… y el cielo. Del caos a la calma.
-- **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
+- **Seen → esta canción:** en Seen estaba despierta de madrugada esperando un mensaje; aquí esa hora llega y se va y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
 - **Las 42 estrellas de plástico → los planetas de verdad.**
 - **Termina con una estrella fugaz que cae sobre el hielo** → Deshielo empieza dentro del glaciar.
 - "Kia ora" (hola) y el "…good morning." de Deshielo: saludos al cielo y al nuevo día.

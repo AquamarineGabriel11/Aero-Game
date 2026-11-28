@@ -14,7 +14,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 in London and I'm still up,
+It's the middle of the night in London and I'm still up,
 refresh, refresh, refresh again,
 you watched my story first tonight,
 but my text is still on "delivered."
@@ -108,7 +108,7 @@ kidoku, kidoku…
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
 I typed your name, deleted it,
-2:47 again… again…
+same night again… again…
 mata ne.
 ```
 
@@ -667,7 +667,7 @@ Jupiter's got four little moons in a line,
 like they're waiting for a bus that's never coming,
 Mars is a red freckle, Venus shows off till sunrise,
 and the Southern Cross hangs upside down from how I learned it.
-2:47 came and went — I didn't even check,
+That hour came and went — I didn't even check,
 I was counting satellites instead.
 
 [Pre-Chorus]

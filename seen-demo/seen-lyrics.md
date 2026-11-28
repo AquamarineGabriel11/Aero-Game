@@ -2,7 +2,7 @@
 
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:45**
 Idioma principal: inglés (con japonés) · **Explicit**
-**Vibe: fogcore**: niebla, gris, lluvia, la cama deshecha, ciudades borrosas. Todo nublado, como la cabeza a las 2:47. Sonido: R&B suave con mucha reverberación, como escuchado a través de la niebla.
+**Vibe: fogcore**: niebla, gris, lluvia, la cama deshecha, ciudades borrosas. Todo nublado, como la cabeza en plena madrugada. Sonido: R&B suave con mucha reverberación, como escuchado a través de la niebla.
 
 **Versión clean:** `I used to sleep with my tits pressed to your back,` → `I used to sleep with my chest pressed to your back,`
 
@@ -15,7 +15,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 in London and I'm still up,
+It's the middle of the night in London and I'm still up,
 refresh, refresh, refresh again,
 you watched my story first tonight,
 but my text is still on "delivered."
@@ -109,7 +109,7 @@ kidoku, kidoku…
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
 I typed your name, deleted it,
-2:47 again… again…
+same night again… again…
 mata ne.
 ```
 
@@ -120,7 +120,7 @@ mata ne.
 Visto, visto… / kidoku, kidoku… (visto, en japonés)
 
 [Verso 1]
-Son las 2:47 en Londres y sigo despierta,
+Es plena madrugada en Londres y sigo despierta,
 actualizar, actualizar, actualizar otra vez,
 viste mi historia primero esta noche,
 pero mi mensaje sigue en "entregado".
@@ -185,7 +185,7 @@ hoy no.
 Sake, tequila, Bacardí,
 tres copas encima y sigues siendo tú,
 escribí tu nombre, lo borré,
-2:47 otra vez… otra vez…
+la misma noche otra vez… otra vez…
 mata ne (nos vemos).
 ```
 

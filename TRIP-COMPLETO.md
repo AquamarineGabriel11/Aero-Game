@@ -51,7 +51,7 @@ Carpeta de imágenes: `moodboards/seen/`
 
 **TRIP · Track 01 · HND · LHR · R&B soft · bedroom · 88 BPM · ~3:45**
 Idioma principal: inglés (con japonés) · **Explicit**
-**Vibe: fogcore**: niebla, gris, lluvia, la cama deshecha, ciudades borrosas. Todo nublado, como la cabeza a las 2:47. Sonido: R&B suave con mucha reverberación, como escuchado a través de la niebla.
+**Vibe: fogcore**: niebla, gris, lluvia, la cama deshecha, ciudades borrosas. Todo nublado, como la cabeza en plena madrugada. Sonido: R&B suave con mucha reverberación, como escuchado a través de la niebla.
 
 **Versión clean:** `I used to sleep with my tits pressed to your back,` → `I used to sleep with my chest pressed to your back,`
 
@@ -64,7 +64,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 in London and I'm still up,
+It's the middle of the night in London and I'm still up,
 refresh, refresh, refresh again,
 you watched my story first tonight,
 but my text is still on "delivered."
@@ -158,7 +158,7 @@ kidoku, kidoku…
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
 I typed your name, deleted it,
-2:47 again… again…
+same night again… again…
 mata ne.
 ```
 
@@ -169,7 +169,7 @@ mata ne.
 Visto, visto… / kidoku, kidoku… (visto, en japonés)
 
 [Verso 1]
-Son las 2:47 en Londres y sigo despierta,
+Es plena madrugada en Londres y sigo despierta,
 actualizar, actualizar, actualizar otra vez,
 viste mi historia primero esta noche,
 pero mi mensaje sigue en "entregado".
@@ -234,7 +234,7 @@ hoy no.
 Sake, tequila, Bacardí,
 tres copas encima y sigues siendo tú,
 escribí tu nombre, lo borré,
-2:47 otra vez… otra vez…
+la misma noche otra vez… otra vez…
 mata ne (nos vemos).
 ```
 
@@ -1533,7 +1533,7 @@ Jupiter's got four little moons in a line,
 like they're waiting for a bus that's never coming,
 Mars is a red freckle, Venus shows off till sunrise,
 and the Southern Cross hangs upside down from how I learned it.
-2:47 came and went — I didn't even check,
+That hour came and went — I didn't even check,
 I was counting satellites instead.
 
 [Pre-Chorus]
@@ -1623,7 +1623,7 @@ Júpiter tiene cuatro lunitas en fila,
 como si esperaran un camión que nunca llega,
 Marte es una peca roja, Venus presume hasta el amanecer,
 y la Cruz del Sur cuelga al revés de como la aprendí.
-Las 2:47 llegaron y se fueron: ni siquiera revisé,
+Esa hora llegó y se fue: ni siquiera revisé,
 estaba contando satélites.
 
 [Puente]
@@ -1652,7 +1652,7 @@ Kia ora…
 
 #### Cómo se conecta con el álbum
 - **Empieza donde termina Nobody's Catching Me:** el motor se apaga, una puerta de carro, silencio… y el cielo. Del caos a la calma.
-- **Seen → esta canción:** en Seen estaba despierta a las 2:47 esperando un mensaje; aquí las 2:47 llegan y se van y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
+- **Seen → esta canción:** en Seen estaba despierta de madrugada esperando un mensaje; aquí esa hora llega y se va y ni siquiera revisa el celular. Y en el bridge, el celular suena allá abajo: "let it ring".
 - **Las 42 estrellas de plástico → los planetas de verdad.**
 - **Termina con una estrella fugaz que cae sobre el hielo** → Deshielo empieza dentro del glaciar.
 - "Kia ora" (hola) y el "…good morning." de Deshielo: saludos al cielo y al nuevo día.
@@ -2019,7 +2019,7 @@ Seen, seen…
 kidoku, kidoku…
 
 [Verse 1]
-It's 2:47 in London and I'm still up,
+It's the middle of the night in London and I'm still up,
 four percent, and I still won't plug it in,
 I typed "you up?", erased it, typed it different,
 refresh, refresh, refresh again.
@@ -2133,7 +2133,7 @@ kidoku, kidoku…
 Sake, tequila, Bacardí,
 three copas deep and still it's you,
 drunk-typed your name, deleted it,
-2:47 again… again…
+same night again… again…
 mata ne…
 (battery 1% — the phone slips — a Tamagotchi beeps in the dark)
 ```
