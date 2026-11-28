@@ -141,7 +141,7 @@ só pra frente…
 ## La idea central (palabras de Gabriel)
 > "Cada viaje es una canción, cada país tiene su cultura."
 - Los cambios de género **son el concepto**, no un problema: cada país suena como su cultura. TRIP quiere ser diferente.
-- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, la hora 2:47). Las transiciones entre canciones son el "viaje" de un lugar a otro.
+- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, el flip phone). Las transiciones entre canciones son el "viaje" de un lugar a otro.
 
 ## Referencias de sonido (de Gabriel)
 Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante, voz cercana y respirada, sintes de ensueño y mucho espacio. Son referencias de vibra: **no se copia** ninguna melodía, letra ni sample.

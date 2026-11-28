@@ -1,7 +1,7 @@
 # SEEN — moodboard (referencias de Gabriel)
 
 **TRIP · Track 01 · HND · LHR**
-**Vibe: fogcore** (decisión de Gabriel). Niebla, gris, lluvia, blanco y negro, la cama deshecha, movimiento borroso: todo se ve y se siente nublado. La sensación de estar despierta a las 2:47, sin respuesta.
+**Vibe: fogcore** (decisión de Gabriel). Niebla, gris, lluvia, blanco y negro, la cama deshecha, movimiento borroso: todo se ve y se siente nublado. La sensación de estar despierta de madrugada, sin respuesta.
 
 ## Lo que dicen las imágenes
 - **Fotos borrosas en blanco y negro (01–03):** el cabello en movimiento, sin cara. Ya es la estética de la portada de Seen (la foto del cabello). Sirven para el video y los posts.

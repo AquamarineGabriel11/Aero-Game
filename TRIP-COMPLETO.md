@@ -1885,7 +1885,7 @@ tack — thank you, thank you.
 
 [Outro]
 (the moon goes down. gulls. a ferry horn far away.)
-Somewhere it's 2:47…
+Somewhere it's that hour again…
 and I'm not awake for it.
 (a phone buzzes once on the dock. she doesn't look.)
 Hej då.
@@ -1952,7 +1952,7 @@ y ya no lo necesito.
 Mån-ga-ta… adiós.
 
 [Outro]
-En algún lugar son las 2:47…
+En algún lugar es esa hora otra vez…
 y no estoy despierta para verlo.
 (un celular vibra una vez en el muelle. ella no lo mira.)
 Adiós.
@@ -1973,7 +1973,7 @@ Adiós.
 | el pedacito de hielo | Deshielo |
 
 - **"Gracias" en cada idioma del viaje** (post-coro): arigatō 🇯🇵 Seen · obrigada 🇧🇷 Caipirinha · danke 🇩🇪 TEA · merci 🇫🇷 Chef's Kiss · xièxie 🇨🇳 Nobody's Catching Me · kia ora 🇳🇿 Syzygy (en māori también se usa para dar las gracias) · gracias 🇦🇷 Deshielo (y tu idioma) · tack 🇸🇪 Mångata. Es el canto que el público va a corear al final de cada concierto.
-- **Responde a Seen:** el álbum empezó despierta a las 2:47 esperando un mensaje. Termina con *"Somewhere it's 2:47… and I'm not awake for it"*, y un celular que vibra y ella ni lo mira. Ese es el viaje completo.
+- **Responde a Seen:** el álbum empezó despierta de madrugada esperando un mensaje. Termina con *"Somewhere it's that hour again… and I'm not awake for it"*, y un celular que vibra y ella ni lo mira. Ese es el viaje completo.
 - **"Hej då"** (sueco: "adiós", se dice *jei-DÓ*): despedirte de cada etapa. **"Goodbye to who I was a year ago"** es cerrar el ciclo más grande: tu versión de antes.
 - **El último sonido:** el acorde de arranque de Deshielo, al revés, como una computadora que se apaga. El álbum "se apaga".
 - **Lo tuyo se queda:** la lechuza, la hora azul, la luna, y el ritual de cerrar ciclos de tus imágenes. Nada de regresar a casa.
@@ -2153,7 +2153,7 @@ Clean: `my tits pressed to your back` → `my chest pressed to your back`
 ### La idea central (palabras de Gabriel)
 > "Cada viaje es una canción, cada país tiene su cultura."
 - Los cambios de género **son el concepto**, no un problema: cada país suena como su cultura. TRIP quiere ser diferente.
-- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, la hora 2:47). Las transiciones entre canciones son el "viaje" de un lugar a otro.
+- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, el flip phone). Las transiciones entre canciones son el "viaje" de un lugar a otro.
 ### Referencias de sonido (de Gabriel)
 Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante, voz cercana y respirada, sintes de ensueño y mucho espacio. Son referencias de vibra: **no se copia** ninguna melodía, letra ni sample.
 
@@ -2395,7 +2395,7 @@ só pra frente…
 #### La idea central (palabras de Gabriel)
 > "Cada viaje es una canción, cada país tiene su cultura."
 - Los cambios de género **son el concepto**, no un problema: cada país suena como su cultura. TRIP quiere ser diferente.
-- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, la hora 2:47). Las transiciones entre canciones son el "viaje" de un lugar a otro.
+- Lo que une el álbum es **la viajera**: tu voz, tu forma de contar y tus personajes (el gato gris, la rana, el flip phone). Las transiciones entre canciones son el "viaje" de un lugar a otro.
 
 #### Referencias de sonido (de Gabriel)
 Brújula general: el álbum **Addison** de Addison Rae. Pop etéreo y brillante, voz cercana y respirada, sintes de ensueño y mucho espacio. Son referencias de vibra: **no se copia** ninguna melodía, letra ni sample.

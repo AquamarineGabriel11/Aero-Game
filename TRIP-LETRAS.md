@@ -846,7 +846,7 @@ tack — thank you, thank you.
 
 [Outro]
 (the moon goes down. gulls. a ferry horn far away.)
-Somewhere it's 2:47…
+Somewhere it's that hour again…
 and I'm not awake for it.
 (a phone buzzes once on the dock. she doesn't look.)
 Hej då.
